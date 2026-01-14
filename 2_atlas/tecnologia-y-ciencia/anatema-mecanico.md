@@ -31,6 +31,34 @@ La vida en la Confederación se rige por los ecos de la Gran Fractura y la sombr
 - Los "computadores" de oficina son, en esencia, calculadoras electromecánicas de gran capacidad, capaces de realizar operaciones complejas pero desprovistas de inteligencia autónoma.
 - La seguridad de los datos críticos reside en la robustez de lo físico: microfilmes, discos ópticos de diseño específico y tarjetas con circuitos impresos.
 
+## El Procesador de Industria Argentina: Tecnología Permitida Bajo Restricciones
+
+El corazón tecnológico permitido bajo el Anatema Mecánico es el **Procesador de Industria Argentina (PIA)**, un estándar confederado que representa la máxima expresión de cómputo admisible post-2061.
+
+**Por qué el PIA NO viola el Anatema**:
+
+- **No utiliza transistores nanométricos**: Usa 80 hilos de cobre macroscópicos (120 micrones de diámetro) como matriz de cálculo
+- **No es de propósito general**: Cada PIA es único, grabado artesanalmente. No hay producción masiva ni redes distribuidas
+- **No tiene autonomía**: Manufactura artesanal impide auto-evolución o auto-replicación
+- **Tamaño macroscópico impone límites**: Complejidad = tamaño. No hay miniaturización posible sin silicio
+- **Vigilancia SIA constante**: Especialmente en concentraciones (Torres Hidropónicas, muelles)
+
+**Aplicaciones confederadas del PIA**:
+
+- Base tecnológica de PDAs civiles (con pantallas de tinta electrónica)
+- Arquitectura de "chips homologados" certificados por la Iglesia
+- Automatización de Torres Hidropónicas (controladores de motores, bombas, sistemas de cultivo)
+- Gestión de muelles y logística pesada
+- Tecnología militar (PDAs de Seguridad Nacional con celdas de radionúclidos)
+
+El PIA representa la aceptación grudging de que **cierta computación es necesaria para la supervivencia confederada**, siempre y cuando sea:
+1. Artesanal (no masiva)
+2. Limitada (por ley de física)
+3. Vigilada (por la Iglesia)
+4. Incapaz de evolucionar (sin silicio)
+
+Para especificaciones técnicas completas del PIA (arquitectura octogesimal, manufactura, aplicaciones, mercado negro), consulte: [Procesador de Industria Argentina](./procesador-argentino-pia.md)
+
 ## Visualización y Armamento
 
 - **Pantallas de Plasma**: Son maravillas de la ingeniería analógica que crean imágenes mediante la excitación controlada de gases nobles entre paneles de vidrio. Cada celda es activada por una intrincadísima red de fibras ópticas desde una unidad decodificadora analógica.

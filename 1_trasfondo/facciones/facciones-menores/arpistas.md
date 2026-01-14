@@ -161,6 +161,9 @@ Los **Arpistas** operan mediante un protocolo estricto basado en sus **Cinco Sel
 - Expediciones a ruinas conocidas (bunkers, laboratorios, fábricas abandonadas)
 - Adquisición de artefactos en mercados negros mediante intermediarios
 
+**Operación clandestina adicional (nivel: Archivista Mayor y superior)**:
+- **Tráfico de materiales para PIAs mediante Tuberías**: Algunos Arpistas operan un mercado negro sofisticado de metales de grado industrial (cobre OFHC 99.99%, aleaciones de niobio, plata) que distribuyen mediante el sistema de transporte neumático bajo Dársena. Esta operación financía operaciones Arpistas y mantiene red de talleres clandestinos donde "orfebres de datos" fabrican PIAs no homologados. Justificación teológica: "Preservar capacidad técnica para la próxima civilización requiere mantener artesanos vivos y competentes." Riesgo: Si la SIA lo descubre, implicaría conspiración de herejía existencial
+
 **SEGUNDO SELLO - Catalogación Exhaustiva**:
 - Documentación fotográfica detallada (usando cámaras de película química, nunca digitales)
 - Descripción escrita a mano en latín técnico estandarizado

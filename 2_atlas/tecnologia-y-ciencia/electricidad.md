@@ -90,6 +90,17 @@ Lo que motiva esta vigilancia extrema no es un fenómeno físico, sino una **ame
 
 Cualquier fluctuación de voltaje que no corresponda a Nodos conocidos, cualquier consumo extra no autorizado, se investiga inmediatamente bajo la suposición de que podría indicar operación de IA.
 
+**Las Torres Hidropónicas y la Paranoia de Concentración**:
+
+Lo que alimenta la paranoia de "La Bestia" en las Torres Hidropónicas es específico: estas instalaciones contienen **miles de Procesadores de Industria Argentina (PIAs)** para automatización de motores, sistemas de bombeo, control de LEDs de cultivo y gestión de nutrientes. La concentración masiva de procesadores en una ubicación única genera ansiedad existencial en la SIA.
+
+La lógica de la Iglesia es paradójica: los PIAs son tecnología permitida, artesanal, incapaz de autonomía... pero ¿y si, de alguna manera, miles de PIAs en comunicación pudieran alcanzar un nivel incipiente de coordinación? ¿Y si la concentración misma creara una emergencia de "cuasi-IA"? Esta paranoia es sin fundamento técnico (los PIAs no tienen capacidad de red), pero motiva inspecciones regulares de las Torres por Censores especializados.
+
+La SIA vigila especialmente:
+- Patrones anómalos de consumo eléctrico en torres (cualquier fluctuación dispara alarmas)
+- Comportamiento "sospechosamente coherente" de sistemas de cultivo (se asume que automatización perfecta implica "inteligencia oculta")
+- Comunicación entre operadores y PIAs (se investiga si hay "influencia no-autorizada")
+
 **La Verdad Más Oscura:**
 
 Bajo las Torres Hidropónicas, en cámaras subterráneas del tamaño de las torres mismas (enterradas 200+ metros bajo tierra), operan dos **reactores de fusión nuclear** de origen pre-Anatema, completamente automatizados sin sistemas digitales. Su funcionamiento es completamente determinista —basado en física pura, no en inteligencia artificial— lo cual fue verificado obsesivamente por la élite científica que huyó del Fin de los Secretos de 2048.

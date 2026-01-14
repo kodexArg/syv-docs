@@ -26,6 +26,26 @@ Los Asistentes Digitales Personales (PDA) son dispositivos de uso muy restringid
 
 Su uso está mal visto por la Iglesia y se considera una tecnología en el borde de la herejía. Solo personal estatal o eclesiástico con permisos especiales puede portarlos, y nunca en público. La posesión no autorizada de un PDA es motivo de investigación por parte de la SIA.
 
+## Procesador de Industria Argentina (PIA)
+
+Los PDAs y computadores civiles funcionan sobre la base del **Procesador de Industria Argentina (PIA)**, el estándar de cómputo post-Anatema definido por la Confederación.
+
+**Características arquitectónicas del PIA**:
+
+-   **Blueprint Artesanal**: No es un circuito integrado miniaturizado, sino un esquema de diseño que establece patrones para manufactura artesanal
+-   **Base Octogesimal**: Utiliza 80 hilos de cobre como matriz de cálculo (límite máximo de impresoras 3D industriales)
+-   **Manufactura Única**: Cada PIA es único; no existen dos máquinas idénticas
+-   **Operación 48V @ 8A**: Compatible con estándar eléctrico confederado
+-   **Sin Autonomía**: Imposibilidad matemática de autoreplicación o auto-evolución
+
+Los **PDAs civiles utilizan variantes minimalistas del PIA** con circuitos reducidos y pantallas de tinta electrónica. Los **computadores civiles (chips homologados) son implementaciones certificadas del estándar PIA** con mayor complejidad pero manteniendo restricciones del Anatema Mecánico.
+
+**Limitación física crítica**: Cualquier aumento de complejidad implica aumento lineal del tamaño y consumo energético. Un PIA para cálculos complejos puede alcanzar el tamaño de un armario de oficina, haciéndolo impráctica para aplicaciones portátiles.
+
+**Vigilancia**: La **Sagrada Inquisición Argentina** monitorea especialmente las concentraciones de PIAs en infraestructura crítica (Torres Hidropónicas, muelles) mediante detección de anomalías de consumo eléctrico.
+
+Para especificaciones técnicas completas del estándar PIA, incluyendo arquitectura de conmutación por histéresis diferencial, detalles de manufactura y aplicaciones militares, consulte: [Procesador de Industria Argentina (PIA)](./procesador-argentino-pia.md)
+
 ## Computadores
 
 El uso de computadores se limita a oficinas gubernamentales, centros de investigación de la **Academia de Ciencias** y algunas corporaciones del Gremio de Comercio. No son ordenadores de propósito general, sino más bien calculadoras avanzadas y máquinas de procesamiento de datos en lote.
