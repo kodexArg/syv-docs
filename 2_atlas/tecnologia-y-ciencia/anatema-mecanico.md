@@ -1,7 +1,7 @@
 ---
-title: Ciencia y Tecnología bajo el Anatema Mecánico
+title: Anatema Mecanico
 folder: 2_atlas/tecnologia-y-ciencia
-description: Estado de la ciencia y la tecnología bajo el Anatema Mecánico, prohibición de IA y tecnología digital avanzada.
+description: Ciencia y Tecnología bajo el Anatema Mecánico
 tags:
 - anatema-mecanico
 - atlas

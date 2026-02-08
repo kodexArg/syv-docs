@@ -1,7 +1,7 @@
 ---
-title: Atlas
+title: Index
 folder: 2_atlas
-description: Geografía, mapas y aspectos físicos del universo.
+description: Atlas
 tags:
 - atlas
 - geografia

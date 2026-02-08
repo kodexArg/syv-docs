@@ -1,5 +1,6 @@
 ---
-title: Tecnologia Y Ciencia
+title: Index
+description: Tecnologia Y Ciencia
 sidebar:
   hidden: true
   order: 1

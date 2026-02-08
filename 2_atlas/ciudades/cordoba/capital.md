@@ -1,7 +1,7 @@
 ---
-title: República Autónoma de Córdoba
-folder: 2_atlas/ciudades
-description: Ciudad-estado industrial, rival histórica de Dársena y pilar de la Confederación Argentina.
+title: Capital
+folder: 2_atlas/ciudades/cordoba
+description: República Autónoma de Córdoba
 tags:
 - cordoba
 - ciudad-estado

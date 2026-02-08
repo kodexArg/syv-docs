@@ -1,7 +1,7 @@
 ---
-title: Procesador de Industria Argentina (PIA)
+title: Procesador Argentino Pia
 folder: 2_atlas/tecnologia-y-ciencia
-description: Especificaciones técnicas del estándar de cómputo confederado post-Anatema Mecánico. Blueprint artesanal de 80 hilos de cobre, operación 48V/8A, manufactura única y vigilancia estatal.
+description: Procesador de Industria Argentina (PIA)
 tags:
   - tecnologia
   - computacion

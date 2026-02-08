@@ -1,7 +1,7 @@
 ---
-title: Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica
+title: Celdas Radionuclidos
 folder: 2_atlas/tecnologia-y-ciencia
-description: Fundamentación técnica del límite de 48V en las fuentes de poder radiactivas militares de la Confederación, justificado mediante saturación cuántica y restricción de diseño impuesta por la SIA.
+description: Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica
 tags:
   - tecnologia
   - militar

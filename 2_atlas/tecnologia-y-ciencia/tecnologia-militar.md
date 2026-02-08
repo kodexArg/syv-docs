@@ -1,7 +1,7 @@
 ---
-title: Tecnología Militar
+title: Tecnologia Militar
 folder: 2_atlas/tecnologia-y-ciencia
-description: Armamento y tecnologías militares de la Confederación Argentina.
+description: Tecnología Militar
 tags:
 - tecnologia
 - atlas

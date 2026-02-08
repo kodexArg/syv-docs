@@ -1,5 +1,6 @@
 ---
-title: San Luis
+title: Index
+description: San Luis
 sidebar:
   hidden: true
   order: 1

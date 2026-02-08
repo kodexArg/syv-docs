@@ -1,5 +1,6 @@
 ---
-title: Mendoza
+title: Index
+description: Mendoza
 sidebar:
   hidden: true
   order: 1

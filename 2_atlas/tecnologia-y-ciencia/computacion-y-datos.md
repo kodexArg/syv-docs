@@ -1,7 +1,7 @@
 ---
-title: Computación y Datos
+title: Computacion Y Datos
 folder: 2_atlas/tecnologia-y-ciencia
-description: Estado de la computación y el manejo de datos en el mundo post-Anatema Mecánico, incluyendo las restricciones, alternativas permitidas y métodos de almacenamiento de información.
+description: Computación y Datos
 tags:
 - tecnologia
 - computacion

@@ -1,7 +1,7 @@
 ---
-title: Los Rezagos - El Vestigio y la Herejía Material
+title: Los Rezagos
 folder: 2_atlas/tecnologia-y-ciencia
-description: Definición canónica de Rezagos como toda materia que ha sobrevivido al Ocaso de Prometeo y desafía el Anatema Mecánico. Regulaciones SIA, economía de materiales estratégicos, y ejecuciones por posesión de silicio.
+description: Los Rezagos - El Vestigio y la Herejía Material
 tags:
   - tecnologia
   - prohibicion

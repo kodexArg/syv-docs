@@ -1,7 +1,7 @@
 ---
-title: La Humedad Post-Guerra - Consecuencias Climáticas de la Gran Devastación (2039-2178)
+title: Humedad Post Guerra
 folder: 2_atlas/climas
-description: Análisis del aumento crítico de humedad en toda la Confederación Argentina como resultado directo de la Gran Guerra Global y sus efectos prolongados.
+description: La Humedad Post-Guerra - Consecuencias Climáticas de la Gran Devastación (2039-2178)
 tags:
 - clima
 - post-guerra

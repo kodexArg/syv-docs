@@ -1,7 +1,7 @@
 ---
-title: Barrios del Muro
+title: Barrios Del Muro
 folder: 2_atlas/ciudades/darsena
-description: El distrito más grande de Ciudad Dársena, hogar de 3.5 millones de almas comprimidas contra el muro, frontera física con Tierras Baldías y Los Pantanos.
+description: Barrios del Muro
 tags:
 - darsena
 - barrios-del-muro

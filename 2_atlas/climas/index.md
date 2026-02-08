@@ -1,5 +1,6 @@
 ---
-title: Climas
+title: Index
+description: Climas
 sidebar:
   hidden: true
   order: 1

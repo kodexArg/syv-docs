@@ -1,7 +1,7 @@
 ---
-title: Zona Militar y Eclesiástica (Isla Oriental)
+title: Zona Militar Eclesiastica
 folder: 2_atlas/ciudades/darsena
-description: Distrito fortificado con instituciones militares y religiosas de la Confederación.
+description: Zona Militar y Eclesiástica (Isla Oriental)
 tags:
 - darsena
 - atlas

@@ -1,7 +1,7 @@
 ---
-title: Fuerte San Martín
+title: Fuerte San Martin
 folder: 2_atlas/ciudades/fuerte-san-martin
-description: La Nueva Pampa de la Confederación Argentina. Centro de manufactura y comercio aéreo. Transformada de región árida a productiva por humedad post-guerra. Clase terrateniente en ascenso convive con pobreza urbana emergente.
+description: Fuerte San Martín
 tags:
 - fuerte-san-martin
 - fsm

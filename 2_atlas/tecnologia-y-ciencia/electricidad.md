@@ -1,7 +1,7 @@
 ---
-title: Electricidad y Energía
+title: Electricidad
 folder: 2_atlas/tecnologia-y-ciencia
-description: Sistemas de generación, distribución y uso de energía eléctrica en el mundo post-Anatema Mecánico.
+description: Electricidad y Energía
 tags:
 - tecnologia
 - atlas

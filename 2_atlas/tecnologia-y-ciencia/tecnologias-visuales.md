@@ -1,7 +1,7 @@
 ---
-title: Tecnologías Visuales
+title: Tecnologias Visuales
 folder: 2_atlas/tecnologia-y-ciencia
-description: Tecnologías visuales permitidas bajo el Anatema Mecánico.
+description: Tecnologías Visuales
 tags:
 - tecnologia
 - atlas

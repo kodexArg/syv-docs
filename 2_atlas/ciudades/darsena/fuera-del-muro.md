@@ -1,7 +1,7 @@
 ---
-title: Fuera del Muro
+title: Fuera Del Muro
 folder: 2_atlas/ciudades/darsena
-description: Tierras y asentamientos más allá del muro de Ciudad Dársena, incluyendo DMZ, Los Pantanos y Tierras Baldías.
+description: Fuera del Muro
 tags:
 - darsena
 - atlas

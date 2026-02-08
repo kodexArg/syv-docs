@@ -1,7 +1,7 @@
 ---
-title: Ciudad Dársena
+title: Darsena
 folder: 2_atlas/ciudades/darsena
-description: Capital de facto de la Confederación Argentina, centro político, religioso y comercial.
+description: Ciudad Dársena
 tags:
 - darsena
 - atlas

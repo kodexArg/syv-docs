@@ -1,5 +1,6 @@
 ---
-title: Darsena
+title: Index
+description: Darsena
 sidebar:
   hidden: true
   order: 1

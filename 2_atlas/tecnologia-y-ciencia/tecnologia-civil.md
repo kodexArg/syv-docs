@@ -1,7 +1,7 @@
 ---
-title: Tecnología Civil
+title: Tecnologia Civil
 folder: 2_atlas/tecnologia-y-ciencia
-description: Tecnologías civiles permitidas y utilizadas en la Confederación Argentina bajo el Anatema Mecánico.
+description: Tecnología Civil
 tags:
 - tecnologia
 - atlas

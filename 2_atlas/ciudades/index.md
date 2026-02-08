@@ -1,5 +1,6 @@
 ---
-title: Ciudades
+title: Index
+description: Ciudades
 sidebar:
   hidden: true
   order: 1

@@ -1,7 +1,7 @@
 ---
-title: Ciudad Mendoza
+title: Mendoza
 folder: 2_atlas/ciudades/mendoza
-description: Bastión andino de la Confederación Argentina, autosustentable en agricultura, especializada en espionaje. Paradoja de prosperidad terrateniente conviviendo con pobreza rural preocupante.
+description: Ciudad Mendoza
 tags:
 - mendoza
 - atlas
