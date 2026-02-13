@@ -21,15 +21,15 @@ Autoridad Espiritual de la Sagrada Inquisición Argentina
 
 ## Aspecto
 
-Mujer de estatura media, hombros encorvados por décadas de oración y responsabilidad. Su rostro es un mapa de decisiones difíciles: líneas profundas alrededor de los ojos, boca firme en expresión perpetua de severidad templada. Viste el hábito blanco y gris de las Madres Superioras, adornado solo con una cruz de hierro forjado. Sus manos tiemblan levemente, no de enfermedad sino de contención emocional.
+Su apariencia es la de un fantasma que ha olvidado cómo desvanecerse. Viste un hábito completamente blanco, casi luminoso en la oscuridad del Faro. Su rasgo más distintivo es su largo pelo canoso, que lleva suelto y apelmazado por la estática perpetua de la torre, flotando a su alrededor como un halo desordenado. Su rostro es un muro insondeable, críptico; sus ojos no revelan nada más que la voluntad férrea de quien ha renunciado a toda calidez humana.
 
-Un féretro viviente que ha enterrado su propia humanidad para servir al mandato divino.
+Un espectro de autoridad que vive entre los vivos solo por obligación.
 
 ## Descripción
 
 ### Rol y Posición
 
-Madre Superiora María es la cabeza administrativa y espiritual de la Sagrada Inquisición Argentina. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional que unifica la Iglesia y las Fuerzas Armadas bajo un mandato divino. Desde su torre en el Faro de la SIA, supervisa:
+Madre Superiora María es la cabeza administrativa y espiritual de la Sagrada Inquisición Argentina. Vive en soledad absoluta en la cúspide de la Torre del Faro, y desde allí comanda a su rebaño—monjas, iniciadas y Hermanas de Batalla—como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
 
 - Operaciones de todas las Monjas y Hermanas de Batalla en Dársena
 - Administración del Sistema de Iniciados en El Faro (selección, entrenamiento, "derivación")
@@ -40,7 +40,7 @@ Su palabra es final. Sus decisiones son inmutables.
 
 ### Personalidad
 
-María irradia autoridad sin necesidad de voz alzada. Habla en sussurros que calan más profundo que gritos. Su inteligencia es quirúrgica: analiza cada iniciada, cada situación, cada variable con precisión letal. No muestra favorititismo, pero tampoco compasión. Los que la conocen la describen como una mujer que renunció a la misericordia el día en que asumió el cargo.
+María es un muro insondeable. Críptica en sus palabras y absoluta en sus silencios. No da explicaciones, solo órdenes disfrazadas de consejos espirituales. Su presencia es la de una fuerza de la naturaleza contenida: estática, cargada, peligrosa. No muestra favoritismo ni compasión. Los que la conocen la describen como una mujer que se convirtió en el faro mismo: una estructura fría que guía a otros pero no puede moverse de su roca.
 
 *"La fe requiere sacrificio. El sacrificio requiere silencio."*
 

@@ -55,13 +55,15 @@ En un verano que no daba tregua en el año 2178, en Ciudad Dársena, en la Isla 
 
 ## Notas de Coherencia
 
-1. **Sor Catalina (adulta vs. joven)**: El canon actual describe a Catalina como investigadora adulta en tuberías. "Cursiva" relata su juventud en El Faro (8-15 años). Progresión coherente: joven jovial → adulta investigadora oscura (trauma/desilusión probable).
+1. **Sor Catalina (Espíritu Avasallador)**: Su camino adulto, incluso inmersa en la oscuridad de las tuberías, es una proyección natural de su espíritu avasallador juvenil. Siempre dio todo de sí para intentar cambiar el mundo, una cualidad de liderazgo y sacrificio que define su esencia más allá del tiempo.
 
-2. **María y el Faro**: Su confinamiento a 100m de tecnología debe ser mencionado como trasfondo contextual (no necesariamente en escena, pero sí como reminiscencia de Sofía).
+2. **Sor Sofía (Evolución y Contraste)**: Debe marcarse la diferencia entre la niña y la adulta. De joven: tímida, física, admiradora silenciosa. De adulta: un muro de contención, reservada e inexpresiva. Este "vacío" emocional no es un defecto, sino una virtud suprema para una Inquisidora, permitiéndole ser la herramienta perfecta de la Madre María.
 
-3. **Las "consecuencias" del Faro**: La historia debe sugerir (sin revelar totalmente) que el sistema de iniciación tiene un costo oculto. Sofía lo sabe en silencio.
+3. **Madre Superiora María**: Un muro insondeable y críptico. Su apariencia es espectral: vestida de blanco, con largo pelo canoso suelto y apelmazado por la estática. Vive sola en el faro, y desde ese aislamiento comanda a su rebaño (incluyendo a Sofía), a 100m de toda tecnología (restricción divina).
 
-4. **Estructura iterativa**: Usuario controla pausa/continuación. Cada ciclo: párrafos de carta → pausa → Sofía responde emocionalmente (sin acción física necesaria, pueden ser gestos mínimos, pensamientos).
+4. **Las "consecuencias" del Faro**: La historia debe sugerir (sin revelar totalmente) que el sistema de iniciación tiene un costo oculto. Sofía lo sabe en silencio.
+
+5. **Estructura iterativa**: Usuario controla pausa/continuación. Cada ciclo: párrafos de carta → pausa → Sofía responde emocionalmente (sin acción física necesaria, pueden ser gestos mínimos, pensamientos).
 
 ## Restricciones de Escritura (FASE 2)
 

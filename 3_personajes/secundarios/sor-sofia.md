@@ -32,22 +32,24 @@ Sor Sofía pertenece a las Hermanas de Batalla de la Sagrada Inquisición Argent
 
 ### Personalidad
 
-Sofía es el vivo retrato de la calma under pressure. Donde otros hermanos flamean en pánico, ella respira. Su temperamento es tan estable que roza lo inhumano; algunos susurran que fue "trabajada" en las cámaras subterráneas del Faro. Habla poco, solo cuando es necesario, y sus movimientos carecen de urgencia incluso en combate.
+### Personalidad
+
+Desde niña, Sofía siempre fue tímida y extremadamente física. Donde otras buscaban palabras, ella buscaba acción. Su temperamento adulto es reservado e inexpresivo, una virtud muy valorada en una Inquisidora, permitiéndole ejecutar su deber con la frialdad necesaria. Su calma no es paz, es disciplina militarizada. Habla poco, solo cuando es necesario, y sus movimientos carecen de urgencia incluso en combate.
 
 *"Una pregunta requiere una respuesta. Un problema requiere una solución. La emoción es ruido."*
 
 ### Motivaciones
 
-Sofía descarga su fuego interno en rutinas físicas impecables: combate contra maniquíes, carrera a primer albo, meditación en posturas de dolor. No busca ascenso ni reconocimiento. Busca perfección en el movimiento, la obediencia absoluta a María, y una forma de honrar la memoria de quien fue su compañera de iniciación años atrás.
+Sofía descarga su fuego interno en rutinas físicas impecables: combate contra maniquíes, carrera a primer albo, meditación en posturas de dolor. No busca ascenso ni reconocimiento. Busca perfección en el movimiento, la obediencia absoluta a María.
 
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-Sofía fue iniciada en el sistema de El Faro alrededor de los 8 años, junto a otras jóvenes seleccionadas por Madre Superiora María. A diferencia de sus compañeras, nunca mostró inclinación hacia las escrituras o el ministerio caritativo. Su talento era físico: reacción, equilibrio, capacidad de absorber dolor sin respuesta emocional. María vio en ella el material de una Hermana de Batalla, y la orientó en esa dirección durante los años de pubertad. Ahora, años después, Sofía es una de las custodias más eficientes del Faro.
+Sofía fue iniciada en el sistema de El Faro alrededor de los 8 años. A diferencia de sus compañeras, nunca mostró inclinación hacia las escrituras o el ministerio caritativo. Su talento era físico: reacción, equilibrio, capacidad de absorber dolor sin respuesta emocional. Siempre admiró a su compañera mayor, Sor Catalina, cuya iniciativa y liderazgo contrastaban con su propio silencio. Mientras Catalina seguía otro camino, María vio en Sofía el material de una Hermana de Batalla. Ahora, años después, Sofía es una de las custodias más eficientes del Faro.
 /📖
 
 <!-- 🔐 (Sagrada Inquisición Argentina) -->
-Sofía guardó en silencio la muerte de su compañera de infancia, Sor Catalina, durante uno de los "ejercicios de fe" del sistema de Iniciados. No fue un accidente. María decidió que Catalina no reunía el perfil necesario, y el Faro tiene formas de solucionar estos "conflictos de vocación". Sofía lo supo desde entonces. Nunca preguntó. Nunca desobedecerá.
+Sofía recuerda con melancolía a Sor Catalina. Sus caminos se separaron cuando el sistema de Iniciados "filtró" sus destinos: Sofía hacia la espada, Catalina hacia la caridad y la investigación. Aunque no se han visto en años, la influencia de Catalina permanece en la memoria de Sofía como el contrapunto vital a su propia existencia estática.
 /🔐
 -->
 
@@ -55,7 +57,7 @@ Sofía guardó en silencio la muerte de su compañera de infancia, Sor Catalina,
 
 - **Madre Superiora María**: Mentora absoluta, guía de su vida desde la infancia
 - **Hermanas de Batalla del Faro**: Cuerpo de elite que comanda junto a otras tres veteranas
-- **Memoria de Sor Catalina**: Fantasma silencioso que Sofía nunca mencionará a nadie
+- **Sor Catalina**: Compañera de infancia y figura de admiración, cuyos caminos divergieron
 
 ## Referencias
 
