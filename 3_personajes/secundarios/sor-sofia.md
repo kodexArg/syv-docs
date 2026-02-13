@@ -1,49 +1,62 @@
 ---
 title: Sor Sofía
 folder: 3_personajes/secundarios
-description: Monja de la Congregación de la Caridad Divina que investiga extraños sucesos sobrenaturales en los barrios bajos de Dársena.
+description: Hermana de Batalla, experta en combate cuerpo a cuerpo. Bajo mando directo de Madre Superiora María en el Faro de la SIA, Isla Oriental.
 tags:
-  - monja
-  - investigadora
-  - paranormal
-  - tuberias
+  - sor-sofia
+  - hermana-de-batalla
+  - combate
+  - inquisicion
+  - faro-sia
 facciones:
-  - "Congregación de la Caridad Divina"
-
+  - "Sagrada Inquisición Argentina"
 ---
-## Sor Sofía
 
-Edad desconocida, Movilizándose entre barrios bajos
+## Sor Sofía, Hermana de Batalla
 
-Monja investigadora
+~25 años, Faro de la SIA (Isla Oriental)
+
+Experta en combate cuerpo a cuerpo, custodia del Faro
 
 ## Aspecto
 
-Mujer de hábito religioso con expresión preocupada y determinada. Sus ojos revelan el peso de lo que ha presenciado.
+Mujer de complexión atlética, hombros anchos y brazos tonificados por años de entrenamiento. Viste el hábito negro de las Hermanas de Batalla, reforzado en codos y muñecas. Sus ojos grises comunican una calma absoluta, casi perturbadora en su serenidad.
 
-Es alguien que ha visto el mal y se niega a apartar la mirada.
+Una guerrera monacal cuyo cuerpo y espíritu son un solo acto de disciplina.
 
 ## Descripción
 
 ### Rol y Posición
 
-Sor Sofía pertenece a la Congregación de la Caridad Divina. Tras ser desoída por su orden, decidió investigar por su cuenta los rumores de un mal sobrenatural que afecta a los más desprotegidos en los barrios bajos y las tuberías de Ciudad Dársena.
+Sor Sofía pertenece a las Hermanas de Batalla de la Sagrada Inquisición Argentina, un brazo de guerra del clero entrenado para neutralizar amenazas paranormales y herejía armada. Bajo el mando directo de Madre Superiora María, ejecuta órdenes que van desde seguridad del Faro hasta operaciones encubiertas en Ciudad Dársena. Su reputación entre las iniciadas es de precisión absoluta: no comete errores.
 
 ### Personalidad
 
-Valiente, persistente y convencida de la existencia del mal sobrenatural. Sofía habla con la urgencia de alguien que sabe que el tiempo se agota y que necesita ayuda desesperadamente.
+Sofía es el vivo retrato de la calma under pressure. Donde otros hermanos flamean en pánico, ella respira. Su temperamento es tan estable que roza lo inhumano; algunos susurran que fue "trabajada" en las cámaras subterráneas del Faro. Habla poco, solo cuando es necesario, y sus movimientos carecen de urgencia incluso en combate.
+
+*"Una pregunta requiere una respuesta. Un problema requiere una solución. La emoción es ruido."*
 
 ### Motivaciones
 
-Enfrentar y detener la amenaza sobrenatural que está consumiendo a los más vulnerables de la ciudad, incluso si su propia orden la ha abandonado.
+Sofía descarga su fuego interno en rutinas físicas impecables: combate contra maniquíes, carrera a primer albo, meditación en posturas de dolor. No busca ascenso ni reconocimiento. Busca perfección en el movimiento, la obediencia absoluta a María, y una forma de honrar la memoria de quien fue su compañera de iniciación años atrás.
 
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-Sor Sofía describe sucesos de posesión, automutilación y violencia que atribuye a una "obra del Maligno". Su investigación la ha llevado a las zonas más peligrosas de la ciudad, donde busca ayuda para enfrentar una amenaza que la supera.
-<!-- /📖 -->
+Sofía fue iniciada en el sistema de El Faro alrededor de los 8 años, junto a otras jóvenes seleccionadas por Madre Superiora María. A diferencia de sus compañeras, nunca mostró inclinación hacia las escrituras o el ministerio caritativo. Su talento era físico: reacción, equilibrio, capacidad de absorber dolor sin respuesta emocional. María vio en ella el material de una Hermana de Batalla, y la orientó en esa dirección durante los años de pubertad. Ahora, años después, Sofía es una de las custodias más eficientes del Faro.
+/📖
+
+<!-- 🔐 (Sagrada Inquisición Argentina) -->
+Sofía guardó en silencio la muerte de su compañera de infancia, Sor Catalina, durante uno de los "ejercicios de fe" del sistema de Iniciados. No fue un accidente. María decidió que Catalina no reunía el perfil necesario, y el Faro tiene formas de solucionar estos "conflictos de vocación". Sofía lo supo desde entonces. Nunca preguntó. Nunca desobedecerá.
+/🔐
+-->
 
 ## Conexiones Importantes
 
-- **Congregación de la Caridad Divina**: Su orden, que la ha desoído
-- **Víctimas en barrios bajos**: Aquellos afectados por el mal que investiga
+- **Madre Superiora María**: Mentora absoluta, guía de su vida desde la infancia
+- **Hermanas de Batalla del Faro**: Cuerpo de elite que comanda junto a otras tres veteranas
+- **Memoria de Sor Catalina**: Fantasma silencioso que Sofía nunca mencionará a nadie
+
+## Referencias
+
+La calma de Sofía no es paz. Es disciplina militarizada. Su serenidad es el silencio de quien conoce demasiado y ha elegido olvidar.

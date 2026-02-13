@@ -1,7 +1,7 @@
 ---
-title: Carta de Sor Sofía
+title: Carta de Sor Catalina a Sor Sofía
 folder: 4_diegesis/cartas
-description: Carta de una monja de la Congregación de la Caridad Divina que describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
+description: Carta confidencial de Sor Catalina, monja investigadora de la Congregación de la Caridad Divina, dirigida a Sor Sofía. Describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
 tags:
 - carta
 - darsena
