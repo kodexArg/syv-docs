@@ -24,8 +24,11 @@ h6 {
 }
 
 p {
+    display: block;
     margin-bottom: 22px !important;
     margin-top: 0 !important;
+    text-indent: 0;
+    /* Aseguramos 0 sangría para consistencia web */
 }
 
 li {

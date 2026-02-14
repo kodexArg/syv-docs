@@ -3,13 +3,20 @@
         "editor.fontFamily": "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif",
         "editor.fontSize": 12,
         "editor.lineHeight": 22,
+        "editor.wordWrap": "on",
         "editor.lineNumbers": "off",
         "editor.minimap.enabled": false,
-        "editor.fontLigatures": true
+        "editor.fontLigatures": true,
+        "editor.renderLineHighlight": "all",
+        "workbench.colorCustomizations": {
+            "editor.lineHighlightBackground": "#ffffff09",
+            "editor.lineHighlightBorder": "#00000000"
+        }
     },
     "markdown.preview.fontFamily": "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif",
     "markdown.preview.fontSize": 12,
     "markdown.preview.lineHeight": 1.6,
+    "markdown.preview.breaks": false,
     "markdown.styles": [
         "./preview.css"
     ]

@@ -64,7 +64,11 @@ Una instalación médica de vanguardia, pero de acceso exclusivo para el persona
 
 En el punto más oriental de toda Ciudad Dársena, sobre un peñasco artificial que sobresale al mar, emerge la figura del Faro de la Inquisición.
 
-El Faro se asienta sobre un inmenso bloque cuadrado de aristas rematadas, con una arquitectura brutalista y totalmente funcional. De esa base se eleva la torre cilíndrica, y en su cúspide la luz gira sin descanso: el ojo de la Sagrada Inquisición Argentina.
+El Faro se asienta sobre un inmenso bloque cuadrado de aristas rematadas, una plataforma de granito sintético y textura de piedra artificial que apenas sobresale un par de metros sobre el nivel de la superficie. Es un edificio monolítico, ciego y pesado.
+
+La verdadera magnitud de las instalaciones es subterránea. Una amplia rampa de hormigón desciende hacia las entrañas del complejo, con el ancho suficiente para permitir el paso de dos camiones militares lado a lado. Todas las dependencias de la Inquisición, desde los archivos hasta las celdas, se extienden bajo tierra.
+
+Sobre ese pedestal bajo y masivo se eleva la torre cilíndrica, blanca y perfecta, una aguja que busca el cielo ocluido por la niebla.
 
 ### El Edicto de Pureza del Faro
 

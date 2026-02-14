@@ -17,47 +17,22 @@ tags:
 ---
 # Cursiva
 
-La niebla se arrastra entre los tilos. El vapor blanco desdibuja las sendas que serpentean entre las lomas, fantasmas de tierra húmeda bajo la copa de árboles que no deberían estar allí.
-Un regusto a sal satura la inspiración: es el aliento del río invisible, oculto tras el muro blanco que lo devora todo. Solo la humedad es real. Una densidad física que se pega a la piel y oxida el pensamiento.
+Los rayos del amanecer tiñen la Isla Oriental. La niebla se arrastra entre las raíces de los tilos, lame el pasto, humedece la hojarasca. Oculta las sendas y muere en las aguas marrones del río.
 
-La silueta del Faro corta la bruma.
-Un monolito de hormigón ciego, anclado en la roca como una advertencia geológica.
+Un basamento cuadrado de granito sintético, apenas elevado sobre el terreno, sirve de pedestal. Sobre esa piedra gris y muda, la torre se alza blanca y perfecta, buscando un cielo ocluido por la niebla.
 
-Sofía emerge del subsuelo.
-Deja atrás la oscuridad de los niveles inferiores, donde la Inquisición nunca duerme, y sus paso sobre la piedra es el único sonido en el jardín. La luz difusa de la mañana la encuentra. Parpadea. El contraste es una violencia suave para unas pupilas habituadas a la penumbra de la celda.
+Una mujer asciende por la escalera lateral. Los peldaños parecen esculpidos en la misma piedra artificial del basamento. Las zapatillas de suela gastada los marcan con la cadencia de un metrónomo. Arriba, la luz naranja la encuentra de golpe y le recorta la silueta: hombros anchos, brazos tonificados bajo el hábito negro de combate, reforzado en codos y muñecas. Se acerca a un banco de hierro con la pintura descascarada y comienza a elongar. La calza negra, de un poliéster demasiado grueso para el verano, tira contra el músculo frío de unas piernas fibrosas. Los ojos grises miran sin ver, fijos en un punto donde la niebla borra el mar.
 
-Se acomoda las zapatillas sobre un banco de hierro.
-La calza negra, de un poliéster demasiado grueso para el verano, dibuja la tensión de unas piernas fibrosas, de atleta. Hay una gracia extraña en ese momento: una monja estirando bajo los tilos, un anacronismo de vida en el cementerio de la tecnología.
+A lo lejos, el chirrido metálico del tranvía celeste anuncia su paso por el anillo perimetral. Ventanas empañadas, rostros aplastados contra el vidrio buscando el horror sagrado del Faro. Espectadores de un zoológico teológico. Ella elonga y espera. Cuando el tranvía complete la curva y se pierda entre los tilos, tendrá el jardín para su carrera.
 
-Un chirrido metálico rompe la quietud.
-Arriba, suspendido como una aparición, el Maglev celeste se desliza por el anillo perimetral. Ventanas empañadas, rostros aplastados contra el vidrio buscando el horror sagrado del Faro. Espectadores de un zoológico teológico. Sofía los ignora. Su mundo termina en la reja.
+Entonces, la figura. Se condensa desde la niebla del camino principal. Alto. Demasiado alto. La sotana negra absorbe la luz del amanecer, un error de renderizado en la realidad del jardín. El ala ancha del sombrero oculta los ojos. La barba canosa delata al hombre antes que el crucifijo de plata oxidada. El Padre Rafa. El Exorcista. El que purga los demonios del silicio y camina entre los vivos como si fueran muebles molestos.
 
-Comienza a elongar.
-El tejido sintético tira contra el músculo frío.
-Duele.
-Pero es un dolor limpio, honesto. Una señal clara en un cuerpo diseñado para la obediencia.
+—Hermana. La voz es una oscilación de baja frecuencia que brota de la tierra. Se detiene a tres pasos. Sofía mide la distancia con los ojos. En su mano, un cilindro de metal opaco. Una vaina de transporte neumático, todavía tibia, escupida por las arterias de latón bajo la Basílica.
 
-Entonces, la figura.
-No emergió del tren. Simplemente se condensó desde la bruma del camino principal.
-Alto. Demasiado alto.
-La sotana negra absorbe la poca luz del día, un error de renderizado en la realidad del jardín. El ala ancha del sombrero oculta los ojos, pero la barba canosa delata al hombre antes que el crucifijo de plata oxidada.
-El Padre Rafa.
-El Exorcista.
-El que purga los demonios del silicio y camina entre los vivos como si fueran muebles molestos.
+—Canales no oficiales —el Padre sigue. Su mirada pesa—. Es para vos.
 
-—Hermana.
-La voz es una oscilación de baja frecuencia que brota de la tierra. Se detiene a tres pasos, una zona de seguridad que Sofía agradece. En su mano, un cilindro de metal opaco. Una vaina de transporte neumático, todavía tibia, escupida por las arterias de latón bajo la Basílica.
+Sofía extiende la mano. El metal vibra. Resonancia residual. Gira la tapa roscada y el chirrido es un insulto al silencio. Del interior desliza un rollo de papel grueso, fibra de lino oficial, violado por una caligrafía ajena.
 
-—Canales no oficiales —el Padre no espera respuesta. Su mirada pesa—. Es para vos.
+El corazón golpea contra las costillas. Reconoce los trazos antes de leer. Esa cursiva obsesiva, inclinada, que las monjas del orfanato grababan a fuego en las muñecas. Es la letra de Catalina. Inconfundible. Un virus de tinta fresca escapado de los archivos clasificados.
 
-Sofía extiende la mano.
-El metal vibra. Resonancia residual.
-Gira la tapa roscada y el chirrido es un insulto al silencio.
-Del interior desliza un rollo de papel grueso, fibra de lino oficial, violado por una caligrafía ajena.
-
-El corazón golpea contra las costillas.
-Reconoce los trazos antes de leer.
-Esa cursiva obsesiva, inclinada, que las monjas del orfanato grababan a fuego en las muñecas. Es la letra de Catalina. Inconfundible. Un virus de tinta fresca que no debería existir fuera de los archivos clasificados.
-
-El papel quema.
-Silencio.
+El papel quema. Silencio.

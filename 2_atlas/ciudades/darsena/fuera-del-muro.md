@@ -23,7 +23,7 @@ Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un
 Un desierto de ruinas que se extiende al otro lado del muro. Los "salvajes" que habitan estos escombros han aprendido a evitar la línea de tiro de los francotiradores del muro, que mantienen la zona despejada a base de plomo. Aquí se encuentra el [[El Bazar del Muro]], un precario punto de encuentro.
 
 ### **Los Pantanos (Sur)**
-Considerados inhabitables, son un laberinto de marismas, ruinas anegadas y vegetación mutada. Los guardias del muro reportan avistamientos de barcazas lejanas, pero no intervienen, ya que nadie se acerca. Se rumorea que son el hogar de criaturas anómalas, comunidades de supervivientes y extraños recursos.
+Donde el nivel del Río de la Plata superó las viejas calles. La subida sostenida del agua convirtió los barrios al sur de la muralla en una Venecia de la podredumbre: edificios sumergidos hasta el segundo piso, avenidas convertidas en canales de agua estancada y tóxica, vegetación mutada que trepa por las fachadas ahogadas, y una capa viva de hongos, líquenes y musgo que lo cubre todo con un verde enfermizo. La niebla aquí es peor que dentro de los muros — más densa, más baja, más naranja por la concentración de partículas de la Nube Roja que el agua del pantano retiene y re-suspende constantemente. Considerados inhabitables, son un laberinto de marismas y ruinas anegadas. Los guardias del muro reportan avistamientos de barcazas lejanas, pero no intervienen, ya que nadie se acerca. Se rumorea que son el hogar de criaturas anómalas, comunidades de supervivientes y extraños recursos.
 
 ## Lugares de Interés
 
@@ -56,8 +56,8 @@ Los **Refugiados del Exterior** (civiles que han escapado de las normas de Dárs
 El exterior de Dársena experimenta variabilidad climática mayor que el interior. Mientras la ciudad sufre niebla perpetua, Fuera del Muro presenta:
 
 - **DMZ**: Desierto árido de ruinas, sin vegetación significativa, ocasionales tormentas de polvo
-- **Los Pantanos**: Húmedo subtropical, temperaturas extremas, vegetación mutada de origen desconocido, agua estancada altamente tóxica
-- **Tierras Baldías (Oeste)**: Clima continental variable, precipitación escasa a moderada, noche más clara que en Dársena (fenómeno aún no explicado)
+- **Los Pantanos**: Frío húmedo extremo, temperaturas 2-3°C inferiores a Dársena por la evaporación constante del agua estancada. Visibilidad frecuentemente inferior a 20 metros. Vegetación mutada de origen desconocido, agua estancada altamente tóxica, capa permanente de hongos y líquenes sobre toda superficie expuesta
+- **Tierras Baldías (Oeste)**: Clima continental variable, precipitación escasa a moderada, noche más clara que en Dársena — la concentración de partículas de la Nube Roja desciende abruptamente al alejarse de las masas de agua del estuario, permitiendo que la luz de las estrellas atraviese un cielo más limpio
 - **Río de la Plata (Este)**: Contaminación química visible, niebla densa sobre las aguas, fauna anómala
 
 ## Recursos y Economía

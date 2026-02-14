@@ -19,7 +19,7 @@ sidebar:
 
 La llovizna perpetua cae sobre Dársena.
 
-Lleva cayendo desde hace generaciones, empapando cinco millones de almas apiñadas entre el muro de quince metros que las separa del Páramo y el Río de la Plata. La ciudad es una fortaleza. Último reducto de civilización en un continente que enterró el progreso bajo escombros y fe.
+Lleva cayendo desde hace generaciones, empapando cinco millones de almas apiñadas entre el muro de veinte metros que las separa del Páramo y el Río de la Plata. La ciudad es una fortaleza. Último reducto de civilización en un continente que enterró el progreso bajo escombros y fe.
 
 En las calles empedradas del Microcentro, los comerciantes pregonan bajo toldos raídos mientras las Torres Hidropónicas se elevan como costillas de un organismo vegetal gigante hacia el cielo gris. El olor a humedad y óxido es el incienso perpetuo de esta era. En la Zona Militar y Eclesiástica, sobre la Isla Oriental, la Nueva Santa Sede alza sus agujas neogóticas hacia las nubes bajas, recordando a todos quién gobierna. Dios primero. La espada después.
 
