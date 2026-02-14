@@ -15,7 +15,7 @@ tags:
 ---
 # El Clima en la Confederación Argentina (2178)
 
-El planeta Tierra en 2178 opera bajo un nuevo régimen climático. Una intervención a gran escala con la "Nube Roja" (partículas estratosféricas reflectantes) ha atenuado los picos de calentamiento extremo, pero ha provocado un oscurecimiento global parcial. Esta Nube otorga a los cielos un tinte rojizo o anaranjado, especialmente notable durante amaneceres y atardeceres, y genera una luz solar más difusa.
+El planeta Tierra en 2178 opera bajo un nuevo régimen climático. Una intervención a gran escala con la "Nube Roja" (partículas estratosféricas reflectantes) ha atenuado los picos de calentamiento extremo, pero ha provocado un oscurecimiento global parcial. Las partículas imprimen a toda la luz una sutil tendencia al naranja — apenas perceptible durante el día, más evidente al amanecer y al atardecer, cuyos tonos cálidos duran un poco más de lo natural. El celeste profundo del mediodía es más breve y más pálido de lo que era antes del despliegue. La luz solar, en general, es más difusa.
 
 ## Ciudad Dársena — "La Ciudad de las Nubes"
 
@@ -23,12 +23,12 @@ La Nube Roja no se distribuye uniformemente sobre la superficie terrestre. Exist
 
 El resultado es una ciudad fría y perpetuamente nublada. La temperatura media anual ronda los **13°C** — considerablemente inferior a la de Córdoba o Fuerte San Martín en latitudes similares. La muralla de 20 metros que rodea la ciudad y la densa vegetación de la Isla Oriental actúan como trampa atmosférica: la niebla que entra no sale, y se acumula en los barrios bajos como un líquido pesado. Los habitantes la llaman "La Ciudad de las Nubes" porque, la mayoría de los días, vivir en Dársena es vivir dentro de una nube.
 
-La subida sostenida del nivel del Río de la Plata ha obligado a la ciudad a elevarse progresivamente, pero la humedad del estuario sigue alimentando una niebla advectiva densa y persistente, de tonos blancos y grisáceos que la Nube Roja tiñe de naranja difuso.
+La subida sostenida del nivel del Río de la Plata ha obligado a la ciudad a elevarse progresivamente, pero la humedad del estuario sigue alimentando una niebla advectiva densa y persistente, de tonos blancos y grisáceos.
 
 - **Verano (Diciembre - Febrero)**:
     - **Temperatura**: Entre 14-22°C. Los días más cálidos apenas superan los 22°C, pero la humedad extrema (80-100%) genera una sensación de frío pegajoso que no permite secarse.
     - **Precipitación**: Tormentas eléctricas frecuentes y aguaceros que lavan temporalmente las partículas suspendidas, aclarando el cielo por horas antes de que la niebla regrese.
-    - **Visibilidad**: Habitualmente por debajo de los 200 metros. En días buenos, hasta 300 metros — suficiente para distinguir el tinte anaranjado del cielo.
+    - **Visibilidad**: Habitualmente por debajo de los 200 metros. En días de niebla suave, hasta 300-500 metros.
     - **Notas**: La constante humedad provoca corrosión acelerada en el metal e hinchazón en la madera. La ropa nunca termina de secarse.
 
 - **Invierno (Junio - Agosto)**:
@@ -37,39 +37,39 @@ La subida sostenida del nivel del Río de la Plata ha obligado a la ciudad a ele
     - **Visibilidad**: Frecuentemente por debajo de los 50 metros durante días enteros, creando un entorno desorientador y claustrofóbico donde se pierde toda referencia espacial.
     - **Notas**: La crueldad del invierno de Dársena no es el frío en sí — otras ciudades son más frías — sino la humedad que lo vuelve inescapable. No hay fuego que seque el aire. No hay abrigo que no se empape.
 
-### La Niebla: Formas y Variantes
+### La Niebla: Densidades y Lluvia
 
-La niebla de Dársena no es un fenómeno único sino un sistema de capas que varía según hora, estación y altitud:
+La niebla de Dársena es siempre blanca o grisácea — masa de agua pura del estuario, sin color propio. Lo que varía es su densidad, que fluctúa entre tres estados:
 
-- **Niebla advectiva (la base)**: La más común. Masa densa de tonos blancos y grisáceos que el estuario empuja hacia la ciudad. Se arrastra a nivel de calle, lame los muros, llena los callejones. Es la niebla "de siempre" — húmeda, fría, que empapa la ropa y se mete en los pulmones. Cuando es espesa, el sonido se amortigua y las voces parecen llegar de todas partes.
+- **Niebla densa**: La peor. Visibilidad inferior a 50 metros, a veces inferior a 20. Se arrastra a nivel de calle, lame los muros, llena los callejones. El sonido se amortigua y las voces parecen llegar de todas partes. Empapa la ropa en minutos y se mete en los pulmones como si se respirara agua. Común en invierno y en las madrugadas de cualquier estación.
 
-- **Bruma naranja (la Nube baja)**: Cuando la concentración de partículas de la Nube Roja es más densa, la niebla adquiere un tinte anaranjado-ámbar. Se distingue mejor en alturas — terrazas, pisos superiores, campanarios — donde la capa de niebla blanca se adelgaza lo suficiente para que la luz filtrada revele su color. Esta es la imagen icónica de Dársena: el naranja que tiñe los techos pero nunca toca el suelo.
+- **Niebla media**: El estado más frecuente. Visibilidad entre 50 y 200 metros. El mundo existe en un radio limitado — se distinguen los edificios cercanos, las siluetas de los transeúntes, los faroles. Más allá, todo se disuelve en gris blancuzco. La ciudad funciona con normalidad bajo esta niebla; es el paisaje cotidiano de Dársena.
+
+- **Niebla suave**: Los "días buenos". Visibilidad de varios cientos de metros, a veces más. La niebla se adelgaza lo suficiente para distinguir el cielo — gris claro, a veces blanquecino. Desde las alturas se intuye el horizonte. La tendencia cálida de la luz, siempre presente pero normalmente invisible bajo la niebla, se hace más notoria en estos días.
 
 - **La Sábana**: Niebla baja y pesada que se acumula dentro de la muralla, especialmente al amanecer. Se comporta como un líquido: llena primero las calles más bajas, luego sube. En las mañanas más densas, solo las cúpulas de la Basílica y las Torres Hidropónicas asoman por encima de la capa blanca. Los barrios del muro quedan sumergidos.
 
-- **Llovizna perpetua**: No es niebla propiamente, sino la precipitación por defecto de Dársena — una lluvia tan fina que no cae sino que flota, en suspensión entre el cielo y el suelo. Moja sin mojar. Empapa sin llover. Es el estado atmosférico "neutro" de la ciudad: si no llueve fuerte y no hay niebla densa, hay llovizna.
-
-- **El Lavado**: Después de una tormenta fuerte, la lluvia arrastra las partículas suspendidas al suelo. El cielo se aclara durante horas — a veces un día entero. Se distingue un sol anémico y anaranjado detrás de un cielo todavía turbio. Los habitantes salen a las terrazas. La visibilidad puede alcanzar kilómetros. Luego la humedad re-suspende las partículas, y la niebla regresa.
+- **Llovizna perpetua**: No es niebla propiamente, sino la precipitación por defecto de Dársena — una lluvia tan fina que no cae sino que flota, en suspensión entre el cielo y el suelo. Moja sin mojar. Empapa sin llover. Es el estado atmosférico "neutro" de la ciudad: si no llueve fuerte y no hay niebla densa, hay llovizna. A veces coexiste con cualquiera de los tres niveles de niebla.
 
 ### Cómo Luce el Día
 
-La luz diurna en Dársena es difusa, sin dirección, sin sombras. El sol nunca se ve como disco — solo como un resplandor pálido y anaranjado detrás de capas de niebla y partículas. No hay "amanecer" visible desde la calle; hay un lento aclararse del gris, como si alguien subiera gradualmente la intensidad de una lámpara detrás de una sábana sucia.
+La luz diurna en Dársena es difusa, sin dirección, sin sombras definidas. El sol nunca se ve como disco — solo como un resplandor blanquecino detrás de capas de niebla. No hay "amanecer" visible desde la calle; hay un lento aclararse del gris, como si alguien subiera gradualmente la intensidad de una lámpara detrás de una sábana húmeda.
 
-- **A nivel de calle** (primeros 3-4 pisos): Penumbra perpetua. La luz es gris con un subtono cálido apenas perceptible. No hay sombras porque la luz llega refractada desde todas las direcciones. En los barrios del muro, donde los edificios de cincuenta metros bloquean todo, hay zonas donde no se distingue el día de la noche sin reloj.
+- **A nivel de calle** (primeros 3-4 pisos): Penumbra perpetua. La luz es gris uniforme, sin dirección. No hay sombras porque la luz llega refractada desde todas las direcciones. En los barrios del muro, donde los edificios de cincuenta metros bloquean todo, hay zonas donde no se distingue el día de la noche sin reloj.
 
-- **A media altura** (pisos 5-10): La niebla se adelgaza. El gris adquiere textura — se distinguen capas, corrientes, remolinos lentos de vapor. El tinte naranja se insinúa. La luz es suficiente para leer sin vela.
+- **A media altura** (pisos 5-10): La niebla se adelgaza. El gris adquiere textura — se distinguen capas, corrientes, remolinos lentos de vapor. La luz es suficiente para leer sin vela. En días de niebla suave, se intuye la posición del sol como mancha blanca difusa.
 
-- **En las alturas** (terrazas, campanarios, cúpulas): El naranja. Aquí la Nube Roja domina el paisaje. El cielo es un domo anaranjado perpetuo, más intenso hacia el horizonte, más pálido en el cénit. Abajo, la ciudad desaparece en un mar de algodón gris-blanco del que emergen torres y cruces como mástiles de barcos hundidos. En días de Lavado, desde aquí se ve el Río de la Plata.
+- **En las alturas** (terrazas, campanarios, cúpulas): Más luz, más cielo. En días de niebla suave se distingue un cielo gris claro, a veces blanquecino. Abajo, la ciudad desaparece en un mar de algodón gris-blanco del que emergen torres y cruces como mástiles de barcos hundidos.
 
 ### Cómo Luce la Noche
 
-No hay estrellas en Dársena. La capa de partículas y niebla bloquea toda luz celeste. La luna, cuando está llena, se adivina como un halo difuso y anaranjado — nunca como disco.
+No hay estrellas en Dársena. La niebla y la nubosidad perpetua bloquean toda luz celeste. La luna, cuando está llena, se adivina como un halo difuso — nunca como disco.
 
 - **A nivel de calle**: Oscuridad densa. Las fuentes de luz artificial — lámparas de gas, velas, las escasas luminarias eléctricas — generan halos cortos en la niebla. Un farol de gas ilumina un radio de 3-4 metros; más allá, nada. Caminar de noche en Dársena es caminar de isla de luz en isla de luz, con tramos de ceguera total entre ellas.
 
-- **En las alturas**: Un resplandor tenue y anaranjado sube desde la ciudad — la luz reflejada por la niebla misma contra la capa de partículas. Las noches de Dársena no son negras; son de un naranja oscuro, como si la ciudad ardiera permanentemente bajo las nubes. Desde el mar, dicen los marineros, Dársena de noche parece un incendio distante que nunca se apaga.
+- **En las alturas**: Un resplandor tenue y cálido sube desde la ciudad — la luz de miles de faroles de gas, velas y fogones reflejada por la niebla misma. Las noches de Dársena no son negras; tienen un brillo apagado, como si la ciudad ardiera permanentemente bajo las nubes. Desde el mar, dicen los marineros, Dársena de noche parece un incendio distante que nunca se apaga.
 
-- **Fuera del muro**: La noche cambia radicalmente. Al alejarse del estuario, la concentración de partículas cae. En las Tierras Baldías, al oeste, los cielos nocturnos son dramáticamente más claros. Quienes nacieron en Dársena y ven estrellas por primera vez fuera del muro describen la experiencia como revelación religiosa o terror — un cielo que de pronto tiene profundidad, que no es techo sino abismo.
+- **Fuera del muro**: La noche cambia radicalmente. Al alejarse del estuario, la niebla se disipa y la nubosidad se adelgaza. En las Tierras Baldías, al oeste, los cielos nocturnos son dramáticamente más claros. Quienes nacieron en Dársena y ven estrellas por primera vez fuera del muro describen la experiencia como revelación religiosa o terror — un cielo que de pronto tiene profundidad, que no es techo sino abismo.
 
 > **Nota técnica (2178):** La tendencia global de enfriamiento, apenas perceptible en el registro de décadas, preocupa a los escasos científicos que monitorean el clima. Los modelos sugieren que, de mantenerse la concentración actual de la Nube Roja, las temperaturas medias podrían descender otros 3-5°C en el próximo siglo — un umbral que algunos denominan "el inicio de una era de hielo artificial". La preocupación no ha llegado al público ni a las instituciones.
 
