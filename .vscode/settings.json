@@ -1,87 +1,16 @@
 {
-    "workbench.colorTheme": "Default Dark Modern",
-    "editor.wordWrap": "on",
-    "editor.renderWhitespace": "selection",
-    "editor.minimap.enabled": true,
-    "editor.cursorSmoothCaretAnimation": "on",
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000,
-    
-    "workbench.colorCustomizations": {
-        "editor.background": "#000000", 
-        "editor.foreground": "#a0a0a0",
-        "editorCursor.foreground": "#B09E84", 
-        "editor.lineHighlightBackground": "#050505",
-        
-        "sideBar.background": "#050505",
-        "sideBar.foreground": "#888888",
-        "sideBar.border": "#111111",
-        "sideBarSectionHeader.background": "#080808",
-        
-        "activityBar.background": "#000000",
-        "activityBar.foreground": "#888888",
-        "activityBar.inactiveForeground": "#444444",
-        "activityBar.border": "#111111",
-        
-        "statusBar.background": "#000000",
-        "statusBar.foreground": "#666666",
-        "statusBar.border": "#111111",
-        
-        "titleBar.activeBackground": "#000000",
-        "titleBar.activeForeground": "#666666",
-        "titleBar.border": "#111111",
-        
-        "tab.activeBackground": "#000000",
-        "tab.activeForeground": "#a0a0a0",
-        "tab.inactiveBackground": "#050505",
-        "tab.inactiveForeground": "#444444",
-        "tab.border": "#111111",
-        
-        "editorGroupHeader.tabsBackground": "#050505"
-    },
-
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "punctuation.definition.heading.markdown",
-                "settings": {
-                    "foreground": "#000000" 
-                }
-            },
-            {
-                "scope": ["heading.markdown", "entity.name.section.markdown"],
-                "settings": {
-                    "foreground": "#B09E84",
-                    "fontStyle": "bold"
-                }
-            },
-            {
-                "scope": "markup.quote.markdown",
-                "settings": {
-                    "foreground": "#6a7d9b",
-                    "fontStyle": "italic"
-                }
-            },
-            {
-                "scope": ["text.html.markdown", "meta.paragraph.markdown"],
-                "settings": {
-                    "foreground": "#b0b0b0"
-                }
-            }
-        ]
-    },
-
     "[markdown]": {
+        "editor.fontFamily": "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "editor.fontSize": 12,
+        "editor.lineHeight": 22,
         "editor.lineNumbers": "off",
-        "editor.fontFamily": "'Merriweather', 'Source Serif 4', 'Crimson Pro', 'Georgia', serif",
-        "editor.fontSize": 17,
-        "editor.lineHeight": 2.1,
-        "editor.letterSpacing": 0.6,
-        "editor.fontWeight": "400",
-        "editor.fontLigatures": true,
-        "editor.cursorStyle": "line",
-        "editor.cursorBlinking": "smooth",
-        "markdown.preview.fontSize": 17,
-        "markdown.preview.lineHeight": 2.1
-    }
+        "editor.minimap.enabled": false,
+        "editor.fontLigatures": true
+    },
+    "markdown.preview.fontFamily": "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "markdown.preview.fontSize": 12,
+    "markdown.preview.lineHeight": 1.6,
+    "markdown.styles": [
+        "./preview.css"
+    ]
 }

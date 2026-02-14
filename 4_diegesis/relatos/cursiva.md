@@ -17,8 +17,7 @@ tags:
 ---
 # Cursiva
 
-La niebla se arrastra entre los tilos.
-El vapor blanco desdibuja las sendas que serpentean entre las lomas, fantasmas de tierra húmeda bajo la copa de árboles que no deberían estar allí.
+La niebla se arrastra entre los tilos. El vapor blanco desdibuja las sendas que serpentean entre las lomas, fantasmas de tierra húmeda bajo la copa de árboles que no deberían estar allí.
 Un regusto a sal satura la inspiración: es el aliento del río invisible, oculto tras el muro blanco que lo devora todo. Solo la humedad es real. Una densidad física que se pega a la piel y oxida el pensamiento.
 
 La silueta del Faro corta la bruma.
