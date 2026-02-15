@@ -64,7 +64,7 @@ Una instalación médica de vanguardia, pero de acceso exclusivo para el persona
 
 En el punto más oriental de toda Ciudad Dársena, sobre un peñasco artificial que sobresale al mar, emerge la figura del Faro de la Inquisición.
 
-El Faro se asienta sobre un inmenso bloque cuadrado de aristas rematadas, una plataforma de granito sintético y textura de piedra artificial que apenas sobresale un par de metros sobre el nivel de la superficie. Es un edificio monolítico, ciego y pesado.
+El Faro se asienta sobre un inmenso bloque cuadrado de aristas rematadas, una plataforma de cemento-plástico de grado militar —poroso, áspero, con la apariencia y el tacto de roca de cantera— que apenas sobresale un par de metros sobre el nivel de la superficie. Es un edificio monolítico, ciego y pesado.
 
 La verdadera magnitud de las instalaciones es subterránea. Una amplia rampa de hormigón desciende hacia las entrañas del complejo, con el ancho suficiente para permitir el paso de dos camiones militares lado a lado. Todas las dependencias de la Inquisición, desde los archivos hasta las celdas, se extienden bajo tierra.
 

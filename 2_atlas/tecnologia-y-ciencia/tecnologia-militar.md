@@ -34,3 +34,20 @@ El pináculo de la tecnología de armas de proyectil en la Confederación. Los r
 -   **Limitaciones**:
     -   **Consumo de Energía**: Requieren una enorme cantidad de energía para cada disparo, suministrada por una pesada batería o una fuente de poder externa.
     -   **Complejidad y Mantenimiento**: Son armas muy complejas y caras de fabricar y mantener. El desgaste de los componentes es significativo.
+
+## Cemento-Plástico de Grado Militar
+
+Material de construcción de uso exclusivo en instalaciones estratégicas de la Confederación. Es un compuesto de cemento portland y cadenas de polímero industrial —resinas derivadas de procesos termoquímicos— que, una vez curado, adquiere propiedades superiores al hormigón armado convencional.
+
+### Propiedades
+
+-   **Apariencia**: Indistinguible de roca natural de cantera. Poroso al ojo, áspero al tacto, gris ceniza uniforme. Su respuesta térmica (frío en sombra, tibio bajo sol directo) replica la de piedra sedimentaria.
+-   **Resistencia a la humedad**: Excepcional. Las cadenas de polímero sellan la microporosidad del cemento a nivel molecular, impidiendo la infiltración de agua. En condiciones de humedad extrema (85-95%, como las de Ciudad Dársena), el cemento-plástico resiste siglos donde el hormigón convencional se degrada en décadas.
+-   **Resistencia mecánica**: Compresión de 120-180 MPa (3-5 veces superior al hormigón estándar). Resistente a impactos balísticos de calibre medio y a ondas expansivas.
+-   **Fabricación**: Requiere mezcla precisa de componentes y curado controlado. La fórmula es conocida por un reducido número de ingenieros militares y eclesiásticos. No viola el Anatema Mecánico: el proceso es puramente químico, sin componentes electrónicos.
+
+### Uso
+
+El cemento-plástico se emplea en el basamento y las paredes exteriores del Faro de la SIA, en búnkeres subterráneos del Comando Nacional y en secciones críticas del Muro de Dársena. Su apariencia de piedra natural no es casual: la Confederación y la Iglesia priorizan una estética de solidez ancestral que refuerza la narrativa de permanencia y autoridad divina.
+
+En la práctica, el edificio más antiguo en apariencia de toda Ciudad Dársena —el Faro— está construido con la química de construcción más avanzada disponible. El hormigón convencional que rodea al resto de la ciudad se corroe bajo la humedad perpetua; el cemento-plástico del Faro apenas transpira.

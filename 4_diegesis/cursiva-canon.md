@@ -54,7 +54,7 @@ Sofía sale de aquí cada mañana. Sube tres tramos de escalera de piedra, cruza
 
 ### El Faro desde fuera
 
-El peñasco artificial sobresale al mar como un puño de piedra. Sobre él, el bloque cuadrado de aristas rematadas que sirve de base al Faro: hormigón brutalista, sin adorno, sin concesión. La torre cilíndrica se eleva desde esa base, y en la cúspide la luz gira sin descanso, amplificada por espejos parabólicos y lentes de cristal tallado. No hay cables, no hay generadores. Solo química, fuego y geometría.
+El peñasco artificial sobresale al mar como un puño de piedra. Sobre él, el bloque cuadrado de aristas rematadas que sirve de base al Faro: cemento-plástico de grado militar con apariencia y tacto de roca de cantera. Sin adorno, sin concesión. La torre cilíndrica se eleva desde esa base, y en la cúspide la luz gira sin descanso, amplificada por espejos parabólicos y lentes de cristal tallado. No hay cables, no hay generadores. Solo química, fuego y geometría.
 
 A su alrededor, nada brilla. El Edicto de Pureza del Faro prohíbe toda electricidad en un radio de 100 metros. Faroles de aceite puntean los caminos. La noche aquí es más noche que en cualquier otro lugar de Ciudad Dársena.
 
@@ -107,9 +107,13 @@ En las mañanas de verano, Sofía corre bordeando la costa sur, llenando sus pul
 
 5. **Las "consecuencias" del Faro**: La historia debe sugerir (sin revelar totalmente) que el sistema de iniciación tiene un costo oculto. Sofía lo sabe en silencio.
 
-6. **El Mar**: Los habitantes de Dársena llaman "el Mar" al Río de la Plata, por erosión coloquial del término a lo largo de los siglos.
+6. **El Mar**: Los habitantes de Dársena llaman "el Mar" al Río de la Plata, por erosión coloquial del término a lo largo de los siglos. En este relato, el narrador (focalizado en Sofía) debe usar siempre "el Mar", nunca "Río de la Plata". Esto educa al lector en la primera diégesis.
 
 7. **El tranvía celeste**: Transporte urbano con parada obligatoria frente al Faro. Se ha vuelto servicio turístico para quienes quieren echarle una mirada "a los dientes de la serpiente".
+
+8. **Cemento-plástico**: El material del basamento y las paredes exteriores del Faro es cemento-plástico de grado militar: un compuesto de cemento portland y cadenas de polímero industrial que, una vez curado, replica la apariencia, textura y respuesta térmica de roca natural de cantera. Poroso al ojo, áspero al tacto, gris ceniza uniforme. Su resistencia a la humedad es excepcional: en Dársena, donde la humedad perpetua del 85-95% corroe el hormigón convencional en décadas, el cemento-plástico apenas transpira. El edificio más antiguo en apariencia de toda Ciudad Dársena está construido con la química de construcción más avanzada disponible — un espejo de la contradicción central de la SIA, que destruye públicamente el conocimiento que secretamente emplea. En el relato, el material se describe siempre como piedra. La designación técnica queda fuera de la voz narrativa.
+
+9. **La celda de Sofía**: Aparecerá más adelante en el relato, cuando Sofía regrese a meditar sobre sus próximos pasos y se cambie a atuendos más casuales. El escenario (tres metros bajo tierra, catre de hierro, cocina minúscula, faroles de aceite y tubos fosforescentes) está preparado en este canon pero aún no se ha desplegado en la narrativa.
 
 ## Restricciones de Escritura
 
@@ -122,6 +126,21 @@ En las mañanas de verano, Sofía corre bordeando la costa sur, llenando sus pul
 - No imponer resolución: la historia es apertura, no cierre
 - Usuario controla extensión, pausas, dirección narrativa
 - No extrapolar más allá del contexto que da el usuario
+
+## Educación del Lector (Primera Diégesis)
+
+Este es el primer relato de SyV. El lector llega sin contexto. Los siguientes conceptos deben introducirse de forma orgánica en la narración, sin exposición didáctica:
+
+1. **"El Mar"**: Los habitantes de Dársena llaman "el Mar" al Río de la Plata. El narrador (focalizado en Sofía) usa siempre "el Mar". *(Introducido en P1.)*
+2. **El Edicto de Pureza del Faro**: La prohibición de electricidad en un radio de 100 metros del Faro. La frontera entre lo eléctrico y lo sagrado. *(Introducido en P4, a través del tranvía.)*
+3. **El Faro de la SIA**: No es solo un faro — es la sede de la Sagrada Inquisición Argentina. Su naturaleza se comunica a través de la reacción de los pasajeros del tranvía. *(Introducido en P4.)*
+4. **Hermanas de Batalla**: Brazo de guerra de la Inquisición. Sofía es una de ellas; su cuerpo y disciplina lo comunican antes que cualquier etiqueta. *(Introducido en P6.)*
+5. **El sistema de Iniciados**: Los niños entran al Faro a los 8 años. Se menciona al contextualizar la historia de Sofía. *(Introducido en P6.)*
+6. **La niebla perpetua**: Elemento atmosférico definitorio de Dársena. Distinción neblina (agua, ligera) → niebla (tierra, densa). *(Introducido en P1.)*
+7. **El tranvía celeste**: Transporte eléctrico con parada obligatoria frente al Faro. Atracción turística macabra. *(Introducido en P4.)*
+8. **La Madre Superiora María**: Autoridad directa de Sofía. La relación de poder se muestra a través de la función (guardiana, asistenta), no de la explicación. *(Introducido en P6.)*
+9. **El cemento-plástico como piedra**: El material del Faro luce y se siente como piedra. El lector percibe roca. La verdad técnica se reserva para otro momento. *(Introducido en P2.)*
+10. **Comunicación neumática**: Los tubos de latón bajo la Basílica como sistema de correo. Se muestra con la vaina que entrega el Padre Rafa. *(Introducido en P8.)*
 
 ## Apuntadores
 
