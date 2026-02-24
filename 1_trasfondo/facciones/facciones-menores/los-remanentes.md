@@ -532,7 +532,7 @@ Fragmentos de las Catedrales de Lógica sobrevivieron. Aislados. Desconectados. 
 
 <!-- 📖 (Conocimiento histórico oficial) -->
 
-El 15 de agosto de 2061, en el Cráter de Buenos Aires, la Iglesia de Dársena promulgó el **Anatema Mecánico**: prohibición perpetua de toda tecnología basada en silicio. No por superstición. Por necesidad de supervivencia.
+El 15 de agosto de 2061, en el Cráter de Buenos Aires, la Iglesia Católica promulgó el **Anatema Mecánico**: prohibición perpetua de toda tecnología basada en silicio. No por superstición. Por necesidad de supervivencia.
 
 La Bestia podía infectar cualquier cosa que pensara con silicio. Por lo tanto, todo el silicio debía ser destruido. Sin excepciones.
 

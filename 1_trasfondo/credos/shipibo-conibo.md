@@ -42,7 +42,7 @@ La Congregación de la Caridad Divina —orden de monjas que administra hospital
 
 ## Relación con la Iglesia
 
-La Iglesia de Dársena los ignora porque son irrelevantes demográficamente. La SIA tiene fichados a los chamanes principales pero no interviene mientras las ceremonias no incluyan menores ni se publiciten abiertamente. Es tolerancia por indiferencia: demasiado pequeños para importar, demasiado exóticos para entender, demasiado discretos para molestar. Mientras los Shipibo mantengan perfil bajo, la Inquisición gasta recursos persiguiendo herejías más peligrosas.
+La Iglesia Católica los ignora porque son irrelevantes demográficamente. La SIA tiene fichados a los chamanes principales pero no interviene mientras las ceremonias no incluyan menores ni se publiciten abiertamente. Es tolerancia por indiferencia: demasiado pequeños para importar, demasiado exóticos para entender, demasiado discretos para molestar. Mientras los Shipibo mantengan perfil bajo, la Inquisición gasta recursos persiguiendo herejías más peligrosas.
 
 Ocasionalmente hay redadas. Cuando Censores descubren ceremonia con participantes no-Shipibo (curiosos del Microcentro que buscan "experiencia espiritual exótica"), la SIA interviene. Arresta organizadores, confisca medicina, clausura sótanos. Los chamanes desaparecen semanas en celdas inquisitoriales, son interrogados sobre origen de las plantas, liberados con advertencia. Vuelven a practicar. La SIA vuelve a arrestar. Es ciclo que ambos bandos aceptan como costo de coexistencia.
 

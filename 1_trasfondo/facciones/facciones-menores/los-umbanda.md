@@ -23,6 +23,6 @@ Información secreta (no exponer a jugadores): La red Umbanda es más que una si
 
 ### Referencias
 
-[^iglesia]: La Iglesia de Dársena
+[^iglesia]: La Iglesia Católica
 [^sia]: La Santa Inquisición Argentina (SIA)
 [^parias]: Refugiados y Parias

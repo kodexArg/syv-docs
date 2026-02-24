@@ -1,7 +1,7 @@
 ---
-title: Iglesia Dársena
+title: Iglesia Católica (Sede Dársena)
 folder: 1_trasfondo/facciones/iglesia-de-darsena
-description: Santa Sede, corazón ideológico, poder fáctico autoridad espiritual y política.
+description: Santa Sede, corazón ideológico, poder fáctico autoridad espiritual y política de la Iglesia Católica post-Anatema Mecánico.
 tags:
 - faccion
 - iglesia
@@ -10,7 +10,7 @@ tags:
 - oficial
 
 ---
-Tras el colapso global, la Iglesia Católica ha consolidado un poder sin precedentes al establecer una nueva Santa Sede en Ciudad Dársena, que ha reemplazado de facto al Vaticano. Desde la imponente Basílica-Fortaleza, el Sumo Pontífice y su Curia Romana gobiernan bajo el lema "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad", ejerciendo una autoridad casi omnímoda sobre la vida espiritual, moral y social de la Confederación. No es meramente una guía espiritual; es el poder fáctico que legitima y dirige el régimen clérico-militar.
+Tras el colapso global, la Iglesia Católica ha consolidado un poder sin precedentes al establecer una nueva Santa Sede en Ciudad Dársena, que ha reemplazado de facto al Vaticano. Desde la imponente Basílica-Fortaleza, el Sumo Pontífice y su Curia Romana —instituida en Dársena pero cuya autoridad se extiende a toda la Confederación Argentina— gobiernan bajo el lema "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad", ejerciendo una autoridad casi omnímoda sobre la vida espiritual, moral y social. No es meramente una guía espiritual local; es el poder fáctico que legitima y dirige el régimen clérico-militar a nivel universal.
 
 El objetivo principal de la Iglesia es mantener la pureza doctrinal y la supremacía de la fe, lo que implica la erradicación total del "Anatema Mecánico" y cualquier saber secular no subordinado a la teología. Para lograrlo, ejerce su poder a través de diversas facciones especializadas, cada una con un propósito definido, que actúan como sus ojos, manos y espada en el mundo. Su influencia se extiende a la diplomacia y la política internacional, contando con una vasta red de templos, hospitales, escuelas y archivos como recursos fundamentales.
 

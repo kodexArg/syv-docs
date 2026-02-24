@@ -24,4 +24,4 @@ Información secreta (no exponer a jugadores): La Resistencia no es un frente un
 
 ### Referencias
 
-[^iglesia]: La Iglesia de Dársena
+[^iglesia]: La Iglesia Católica

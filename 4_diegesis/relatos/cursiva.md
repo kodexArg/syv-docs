@@ -19,7 +19,7 @@ tags:
 
 Amanece en la Isla. Nace en el horizonte una llama viva, revolviéndose en la neblina, y sus rayos se vuelven dorados y místicos. Amanece en Ciudad Dársena, la Ciudad de las Nubes. El velo de la noche cae hacia el oeste mientras el cielo se pinta de naranja y la neblina gana cuerpo entre los árboles, se espesa sobre las sendas de tierra aplanada, esquivando las raíces de los tilos entre remolinos brumosos.
 
-Un basamento cuadrado de piedra gris, apenas elevado sobre el terreno, sirve de pedestal. Áspera, porosa, con la textura y el frío de roca viva. Sobre esa piedra muda, la torre se alza blanca y perfecta, buscando un cielo ocluido por la niebla.
+Donde los senderos terminan, el terreno se endurece y se asoma al Mar. Sobre ese puño de piedra descansa el basamento del Faro: un bloque cuadrado de piedra gris, apenas elevado, con la textura y el frío de roca de cantera. La niebla lame sus aristas sin calar la superficie. Sobre esa piedra muda, la torre se alza blanca y cilíndrica, buscando un cielo ocluido por la niebla.
 
 Una mujer asciende por la escalera lateral. Los peldaños parecen tallados en la misma piedra del basamento. Las zapatillas los marcan con la cadencia de un metrónomo. Arriba, la luz naranja la encuentra de golpe y le recorta la silueta: hombros anchos, brazos tonificados bajo una remera negra sin mangas. Se acerca a un banco de hierro con la pintura descascarada y comienza a elongar. La calza tira contra el músculo frío de unas piernas fibrosas. Los ojos grises miran sin ver, fijos en un punto donde la niebla borra el Mar.
 

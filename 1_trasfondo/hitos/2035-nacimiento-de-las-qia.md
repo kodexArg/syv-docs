@@ -79,4 +79,4 @@ Que Dios nos perdone. Que nunca olvidemos.
 *In Memoriam Veteres Errores - Para que nunca olvidemos los errores del pasado.*
 
 *Hermano Archivista Pedro de los Santos*
-*Archivo de la Iglesia de Dársena, 2178*
+*Archivo de Dársena, 2178*

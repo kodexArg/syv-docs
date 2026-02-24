@@ -52,7 +52,7 @@ Información secreta (no exponer a jugadores): En las sombras, la cooperación e
 
 ### Referencias
 
-[^iglesia]: La Iglesia de Dársena
+[^iglesia]: La Iglesia Católica
 [^sia]: La Santa Inquisición Argentina (SIA)
 [^aduanas]: Dirección de Aduanas y Puertos Consagrados (DGAPC)
 [^arpistas]: Red internacional de preservadores de tecnología y conocimiento prohibido

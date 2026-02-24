@@ -33,6 +33,8 @@ Aunque los **motores de combustión interna no están prohibidos** por el Anatem
 -   **Alimentación por Rieles**: El sistema principal de energía proviene de los propios rieles. Los tranvías están equipados con patines de contacto que recogen la electricidad de forma continua. Este método es eficiente y reduce la necesidad de baterías pesadas a bordo.
 -   **Baterías de Arena y Sal**: Para tramos sin electrificación directa, los tranvías usan bancos de baterías de arena y sal. Aunque voluminosas (ocupan compartimentos bajo asientos), su costo es tan bajo que resulta más económico que cualquier alternativa de combustión.
 
+    **Para especificaciones técnicas completas**: Ver [Sistemas Energéticos → Baterías de Arena y Sal](./sistemas-energeticos.md#1-baterías-de-arena-y-sal-uso-civil) o [Electricidad → Baterías y Almacenamiento](./electricidad.md#baterías-y-almacenamiento).
+
 ## Sistema de Purificación de Agua
 
 El suministro de agua potable para los cinco millones de habitantes de Dársena es uno de los mayores desafíos de ingeniería de la ciudad. El agua se extrae de fuentes externas altamente contaminadas y se trata mediante un proceso innovador.

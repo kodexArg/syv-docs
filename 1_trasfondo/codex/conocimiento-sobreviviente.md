@@ -14,7 +14,7 @@ tags:
 # El Conocimiento Sobreviviente: Un Inventario de la Memoria Humana
 
 *Hermano Archivista Pedro de los Santos*
-*Archivo de la Iglesia de Dársena, año de nuestro Señor de 2178*
+*Archivo de Dársena, año de nuestro Señor de 2178*
 
 ---
 
@@ -262,7 +262,7 @@ Porque al final, somos custodios. No dueños del conocimiento, sino sus guardian
 ---
 
 Hermano Archivista Pedro de los Santos
-Archivo de la Iglesia de Dársena
+Archivo de Dársena
 Año de nuestro Señor de 2178
 
 *Con agradecimiento especial al hermano Tomás Ferreyra, criptógrafo del Scriptorium de Criptoanálisis, cuyo conocimiento técnico hizo posible este inventario.*

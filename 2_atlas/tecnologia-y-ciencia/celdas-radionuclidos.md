@@ -18,6 +18,15 @@ tags:
 
 # Celdas de Radionúclidos: Fundamentación de la Barrera de 48V
 
+**NOTA IMPORTANTE**: Las Celdas de Americio-241 descritas en este documento son tecnología de almacenamiento **MILITAR**, completamente distinta del sistema civil de baterías de arena y sal.
+
+- **Para uso civil**: Ver [Electricidad → Baterías de Arena y Sal](./electricidad.md#baterías-y-almacenamiento)
+- **Para comparación completa**: Ver [Sistemas Energéticos](./sistemas-energeticos.md)
+
+Este documento describe exclusivamente la tecnología militar monopolizada por el Estado.
+
+---
+
 Para dotar de una base técnica y verosímil al límite de los **48V** en las celdas de radionúclidos de la Confederación, se establece la siguiente fundamentación física y metalúrgica, coherente con las leyes del Anatema Mecánico y la escasez de materiales en la Argentina de 2178.
 
 ## Fundamentación Técnica: El Isótopo y la Barrera de Saturación

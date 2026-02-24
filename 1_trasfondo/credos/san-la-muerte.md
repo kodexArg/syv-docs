@@ -43,7 +43,7 @@ Las ofrendas son constantes. Cada éxito requiere agradecimiento: velas negras e
 
 ## Relación con la Iglesia
 
-La Iglesia de Dársena aborrece San La Muerte porque es competencia directa en los márgenes. Mientras el catolicismo promete salvación en el más allá, San La Muerte promete supervivencia en el ahora. Mientras la Iglesia requiere intermediación clerical, San La Muerte responde directamente. Mientras el catolicismo perdona pecados, San La Muerte los bendice si sirven al pacto. Es teología invertida: el bien es cumplir tu promesa, el mal es traicionarla. Matar no es pecado si lo prometiste.
+La Iglesia Católica aborrece San La Muerte porque es competencia directa en los márgenes. Mientras el catolicismo promete salvación en el más allá, San La Muerte promete supervivencia en el ahora. Mientras la Iglesia requiere intermediación clerical, San La Muerte responde directamente. Mientras el catolicismo perdona pecados, San La Muerte los bendice si sirven al pacto. Es teología invertida: el bien es cumplir tu promesa, el mal es traicionarla. Matar no es pecado si lo prometiste.
 
 La SIA los persigue como herejes. Allana casas, confisca estatuillas, arresta devotos encontrados con reliquias. Pero arrestar a un devoto de San La Muerte es firmar sentencia: sus compañeros de culto vengan traiciones con eficiencia quirúrgica. Inquisidores han aparecido muertos en callejones, apuñalados con navaja bendecida, estatuilla de San La Muerte dejada sobre el cuerpo como firma. El mensaje es claro: "El Santo protege a los suyos. No nos jodan".
 

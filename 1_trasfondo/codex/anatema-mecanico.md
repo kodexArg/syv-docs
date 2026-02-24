@@ -445,5 +445,5 @@ El Anatema fue escrito para durar eternamente. Pero, ¿puede una prohibición si
 ---
 
 **Última actualización**: 2178 (Perspectiva de Archivo)
-**Autoridad**: Hermano Archivista Pedro de los Santos, Archivo de la Iglesia de Dársena
+**Autoridad**: Hermano Archivista Pedro de los Santos, Archivo de Dársena
 **Clasificación**: CONOCIMIENTO PÚBLICO (Parte 1-2) | INFORMACIÓN SENSIBLE (Paradoja SIA) | SECRETO MORTAL (QIAs supervivientes, Oráculo de la Bestia)

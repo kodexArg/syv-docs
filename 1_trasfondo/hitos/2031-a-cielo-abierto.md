@@ -155,4 +155,4 @@ Y aprendimos que cuando le das a cualquiera el poder de matar a distancia, sin c
 *En memoria de todos los que perecieron bajo el cielo*
 
 Hermano Archivista Pedro de los Santos
-Archivo de la Iglesia de Dársena, 2178
+Archivo de Dársena, 2178

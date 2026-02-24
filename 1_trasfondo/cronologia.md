@@ -10,18 +10,18 @@ sidebar:
 
 ---
 
-Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores. Las contribuciones de los Criptógrafos Militares de la CUFAC han sido decisivas para recuperar registros de la Gran Guerra Global. No siempre coincidimos en la interpretación, pero su rigor técnico ha sido revisada con sumo cuidado.
+Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores.
 
-¿Cuál ha sido nuestro trabajo entonces? Aferrarnos a los accidentes, a los errores estadísticos. Discos magnéticos, papeles amarillos pudriéndose en oficinas enterradas, recuperados por los grandiosos arqueólogos y arqueólogas del querido .
+¿Cuál ha sido nuestro trabajo entonces? Aferrarnos a los accidentes, a los errores estadísticos. Discos magnéticos, papeles amarillos pudriéndose en oficinas enterradas, recuperados por los grandiosos arqueólogos y arqueólogas de la Universidad Pontificia de América. La dedicación de estos investigadores e investigadoras ha sido crucial para desenterrar las capas olvidadas de nuestro colapso.
 
-A estos esfuerzos eclesiásticos debo sumar la colaboración, inicialmente reticente y luego generosa, de los Criptógrafos Militares del Servicio de Inteligencia de la CUFAC y del CUCAF. Estos hombres y mujeres, formados en el arte de interceptar y descifrar comunicaciones enemigas, poseen conocimientos que la mayoría de los civiles ignora que existen. Casi uno de cada tres empleados del Scriptorium de Criptoanálisis no son ordenados ni cumplen funciones administrativas: son técnicos criptógrafos militares cedidos temporalmente por las Fuerzas Armadas. Su contribución fue decisiva para la recuperación de registros militares de la Gran Guerra Global, codificados en formatos que solo ellos pueden leer. No siempre coincidimos en la interpretación de los hechos —el soldado ve en la guerra lo que el archivista no puede ver desde su celda—, pero su rigor técnico ha sido invaluable.
+A estos esfuerzos eclesiásticos debo sumar la colaboración, inicialmente reticente y luego generosa, de los Criptógrafos Militares del Servicio de Inteligencia de la CUFAC. Estos hombres y mujeres, formados en el arte de interceptar y descifrar comunicaciones enemigas, poseen conocimientos que la mayoría de los civiles ignora que existen. Casi uno de cada tres empleados del Scriptorium de Criptoanálisis no son ordenados ni cumplen funciones administrativas: son técnicos criptógrafos militares cedidos temporalmente por las Fuerzas Armadas. Su contribución fue decisiva para la recuperación de registros militares de la Gran Guerra Global, codificados en formatos que solo ellos pueden leer. No siempre coincidimos en la interpretación de los hechos —el soldado ve en la guerra lo que el archivista no puede ver desde su celda—, pero su rigor técnico ha sido invaluable.
 
 El trabajo de recuperación documental es, por naturaleza, un ejercicio de humildad. Por cada página rescatada, mil fueron pasto del fuego, la humedad o el olvido deliberado. Los electrones que alguna vez almacenaron la memoria de una civilización se han dispersado según leyes físicas que el hermano Tomás Ferreyra, criptógrafo del Scriptorium de Criptoanálisis y mi colaborador más cercano, me ha explicado con paciencia de maestro: las memorias de estado sólido perdieron sus cargas cuánticas; los servidores murieron cuando las luces se apagaron; la «nube» resultó ser exactamente eso, vapor que el viento disipó. Lo que queda son los accidentes: el disco olvidado en un cajón, la cinta guardada en una bóveda seca, el libro que alguien escondió por vicio antiguo de lector.
 
 Que estas líneas sirvan, pues, de advertencia. El camino al infierno estuvo iluminado por pantallas brillantes, y la humanidad caminó hacia él con los ojos abiertos y las manos extendidas. Que la verdad histórica, por dolorosa que sea, nos proteja de repetir el horror. Y que el lector recuerde, al recorrer estas páginas, que detrás de cada fecha y cada nombre hubo hombres y mujeres que amaron, temieron y murieron, y cuya existencia intentamos rescatar del silencio con las herramientas imperfectas de que disponemos.
 
 *Hermano Archivista Pedro de los Santos*
-*Archivo de la Iglesia de Dársena*
+*Archivo de Dársena*
 *Anno Domini 2178*
 
 ---
@@ -90,13 +90,7 @@ Lo que es indiscutible son las consecuencias: Argentina se fragmentó política 
 
 ### 2030-2036: La Automatización
 
-La respuesta del mercado a las protestas no fue la negociación, sino la eliminación. Si el hombre protestaba, sería reemplazado. El momento llegó cuando incluso la mano de obra más barata del mundo —el trabajador del tercer mundo dispuesto a morir por centavos— costaba más que un brazo robótico anaranjado fabricado en serie en Shenzhen. La ecuación era simple, brutal, irreversible. Las fábricas del mundo se oscurecieron con la ola de la automatización, no como un futuro distante, sino como una venganza inmediata.
-
-No fue un evento súbito, sino una marea que subía lentamente y luego aceleraba hasta convertirse en tsunami: las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos; pronto llegó el turno de la cirugía, del diagnóstico, de todo aquello que aún parecía requerir el toque humano. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil mientras se decretaba su obsolescencia. La desigualdad se convirtió en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
-
-Quedaba decretada la obsolescencia del ser humano, y aún no llegábamos a la mitad del siglo. Los pesimistas habían sido optimistas.
-
-En Argentina, estos debates globales sobre automatización y obsolescencia humana llegaban como ecos distantes, apenas audibles por encima del estruendo del colapso nacional. Tras el impacto del meteorito que destruyó Buenos Aires el 27 de diciembre de 2030, el país se fragmentaba en guerra civil. Mientras el mundo discutía el futuro del trabajo, Argentina luchaba por tener presente. Las provincias se aislaban unas de otras, las comunicaciones se cortaban, el Estado se evaporaba. Para 2032, cuando las corporaciones globales perfeccionaban sus líneas de ensamblaje sin humanos, los argentinos se mataban entre sí con rifles viejos por latas de comida. La automatización era un lujo de naciones que aún funcionaban. Nosotros apenas éramos supervivientes (ver hito: La Fragmentación de Argentina, 2031-2035).
+Mientras el mundo se desgarraba por las consecuencias globales de la automatización total, Argentina vivía su propio infierno. Tras el impacto del meteorito que destruyó Buenos Aires el 27 de diciembre de 2030, el país se fragmentaba en guerra civil. Las provincias se aislaban unas de otras, las comunicaciones se cortaban, el Estado se evaporaba. Para 2032, cuando las corporaciones globales perfeccionaban sus líneas de ensamblaje sin humanos, los argentinos se mataban entre sí con rifles viejos por latas de comida. La automatización era un lujo de naciones que aún funcionaban. Nosotros apenas éramos supervivientes (ver hito: La Fragmentación de Argentina, 2031-2035).
 
 Pero la automatización no solo llegó a las fábricas y oficinas. Llegó también al arte de matar. A partir de 2031, una nueva forma de violencia emergió de las sombras: "drones de combate autónomos" tan baratos que cabían en una mochila, tan letales que podían ejecutar a un VIP en plena calle sin dejar testigos. La democratización de la muerte tecnológica transformó la guerra para siempre (ver "@hito: A Cielo Abierto", 2031-2038).
 
@@ -285,6 +279,6 @@ Que estas palabras perduren cuando yo ya no esté. Que sirvan de advertencia, de
 *Para que nunca olvidemos los errores del pasado. En esperanza de un futuro mejor.*
 
 *Hermano Archivista Pedro de los Santos*
-*Archivo de la Iglesia de Dársena*
+*Archivo de Dársena*
 *Anno Domini 2178, Octavo mes*
 *"La verdad os hará libres" - Juan 8:32*

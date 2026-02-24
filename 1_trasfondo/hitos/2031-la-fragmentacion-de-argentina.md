@@ -123,4 +123,4 @@ Que nunca olvidemos el precio de nuestra arrogancia.
 *In Memoriam Patriae Mortuae - En memoria de la patria muerta.*
 
 *Hermano Archivista Pedro de los Santos*
-*Archivo de la Iglesia de Dársena, 2178*
+*Archivo de Dársena, 2178*

@@ -1,7 +1,7 @@
 ---
-title: Su Santidad - Sumo Pontífice de Dársena
+title: Su Santidad - Sumo Pontífice de la Iglesia Católica
 folder: 3_personajes/principales
-description: Máxima autoridad espiritual de la Iglesia de Dársena y gobernante nominalmente de la Santa Sede trasladada. Su poder comparte espacio incómodo con el de Monseñor Miguel y la Sagrada Inquisición.
+description: Máxima autoridad espiritual de la Iglesia Católica y gobernante nominalmente de la Santa Sede trasladada. Su poder comparte espacio incómodo con el de Monseñor Miguel y la Sagrada Inquisición.
 tags:
   - sumo-pontifice
   - papa
@@ -9,7 +9,7 @@ tags:
   - autoridad-religiosa
   - liderazgo-compartido
 facciones:
-  - "Iglesia de Dársena"
+  - "Iglesia Católica"
   - "Curia Romana"
 alerta-spoilers: "Las tensiones reales entre el Papado y la SIA, el verdadero alcance del poder de Monseñor Miguel respecto al Sumo Pontífice."
 
@@ -47,7 +47,7 @@ En la práctica:
 - Su verdadera influencia está en diplomacia, legitimación ideológica y la "cara pública" de la Iglesia
 - Monseñor Miguel controla la represión, la violencia, la "mano oscura"
 
-Esta es la tensión fundamental de la Iglesia de Dársena: un Papa nominalmente supremo que comparte poder con un Inquisidor que es prácticamente irremovible.
+Esta es la tensión fundamental de la Iglesia Católica: un Papa nominalmente supremo que comparte poder con un Inquisidor que es prácticamente irremovible.
 
 ### Personalidad
 
@@ -158,7 +158,7 @@ En el archivo secreto, bajo triple sello, Estanislao mantiene un documento que e
 
 ## Significado Narrativo
 
-Estanislao es la tragedia de la autoridad nominal: un hombre que ostenta el título supremo pero no tiene verdadero poder para actuar. Su presencia en la Iglesia de Dársena es un recordatorio de que las instituciones formales a menudo enmascararan poder real que opera en la sombra.
+Estanislao es la tragedia de la autoridad nominal: un hombre que ostenta el título supremo pero no tiene verdadero poder para actuar. Su presencia en la Iglesia Católica es un recordatorio de que las instituciones formales a menudo enmascararan poder real que opera en la sombra.
 
 Para Damián, el Papado representa una posible ruta de escape si puede llegar al Sumo Pontífice directamente—aunque si lo hace, se arriesga a ser envuelto en la lucha de poder entre el Papado y la SIA, un conflicto donde ninguno de los bandos es verdaderamente "bueno".
 

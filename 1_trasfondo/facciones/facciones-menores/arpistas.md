@@ -22,11 +22,11 @@ tags:
 
 **Alias conocidos**: Los Cazadores de Reliquias, Los Neutralizadores, Los Custodios del Silencio, Los Cazadores de Demonios (apodo popular durante la Edad Oscura)
 
-**Naturaleza**: Secta católica especializada con estatus oficial dentro de la Iglesia de Dársena
+**Naturaleza**: Secta católica especializada con estatus oficial dentro de la Iglesia Católica
 
 **Estatus legal en la Confederación Argentina**:
 - **Reconocimiento oficial**: Secta autorizada por la Iglesia desde 2089
-- **Jurisdicción**: Departamento de Arqueología Sagrada de la Iglesia de Dársena
+- **Jurisdicción**: Departamento de Arqueología Sagrada de la Iglesia Católica
 - **Privilegios**: Autoridad para confiscar, estudiar y neutralizar tecnología prohibida bajo supervisión eclesiástica
 - **Restricción**: Antagonismo latente con la SIA, aunque ambos operan bajo el paraguas de la Iglesia
 
@@ -36,7 +36,7 @@ tags:
 
 ## Contexto y Propósito
 
-Los **Arpistas** constituyen una secta católica especializada, oficialmente reconocida por la **Iglesia de Dársena** desde 2089, dedicada a la localización, neutralización, catalogación y estudio controlado de tecnología pre-colapso. Su lema oficial —"*Silentium et Scientia*" (Silencio y Ciencia)— resume su doble naturaleza: preservar el conocimiento en absoluto secreto mientras se lo estudia meticulosamente.
+Los **Arpistas** constituyen una secta católica especializada, oficialmente reconocida por la **Iglesia Católica** desde 2089, dedicada a la localización, neutralización, catalogación y estudio controlado de tecnología pre-colapso. Su lema oficial —"*Silentium et Scientia*" (Silencio y Ciencia)— resume su doble naturaleza: preservar el conocimiento en absoluto secreto mientras se lo estudia meticulosamente.
 
 Fundados en 2067 durante la Edad Oscura por sacerdotes jesuitas sobrevivientes del colapso, los **Arpistas** se ganaron su reputación como "cazadores de demonios" al evitar innumerables catástrofes tecnológicas en las ruinas de Buenos Aires y Córdoba. Su comportamiento ejemplar durante las décadas más oscuras —cuando artefactos activados espontáneamente causaban explosiones, envenenamientos y "posesiones maquínicas"— les valió el reconocimiento oficial de la Iglesia naciente.
 
@@ -70,7 +70,7 @@ Los **Arpistas** adhieren al dogma del **Anatema Mecánico** públicamente, pero
 
 ## Organización y Estructura
 
-**Tipo de organización**: Secta católica jerárquica pequeña, oficialmente dependiente del Departamento de Arqueología Sagrada de la Iglesia de Dársena
+**Tipo de organización**: Secta católica jerárquica pequeña, oficialmente dependiente del Departamento de Arqueología Sagrada de la Iglesia Católica
 
 ### Estructura General
 
@@ -200,23 +200,9 @@ Las **Cámaras Arpistas** (oficialmente llamadas "Cámaras de Supresión Electro
 
 #### Principio Técnico: Blindaje de Campos Nulos
 
-Las Cámaras funcionan mediante un sistema de triple blindaje desarrollado empíricamente por los primeros Arpistas durante la Edad Oscura:
+Las Cámaras funcionan mediante un **sistema de triple blindaje** desarrollado empíricamente por los primeros Arpistas durante la Edad Oscura: una combinación de **jaula de Faraday**, **bobinas de supresión activa enfriadas** y **absorbentes dieléctricos** que juntos crean un espacio donde la electricidad no puede fluir.
 
-**Capa 1 - Jaula de Faraday Invertida**:
-- Malla de cobre entretejida en paredes, piso y techo
-- Bloquea campos electromagnéticos externos
-- Conexión a tierra profunda (picas de cobre enterradas 50+ metros)
-
-**Capa 2 - Bobinas de Supresión Activa**:
-- Anillos concéntricos de cobre enfriados con hielo (renovado diariamente)
-- Generan interferencia destructiva contra cualquier campo eléctrico residual
-- Diseño basado en textos recuperados de laboratorios pre-colapso sobre "blindaje de campos null"
-- Operación autónoma; funcionan por inducción pasiva del campo magnético terrestre
-
-**Capa 3 - Absorbentes Dieléctricos**:
-- Revestimiento interior de materiales no conductivos: goma vulcanizada, madera seca, parafina
-- Absorben cargas electrostáticas residuales
-- Piso de madera tratada con resinas aislantes
+Para especificaciones técnicas completas de este sistema (materiales, geometría, tolerancias, construcción): Ver [Cámaras de Supresión Electromagnética (Atlas)](../../2_atlas/tecnologia-y-ciencia/camaras-supresion-electromagnetica.md).
 
 #### Efecto Observable: El Silencio Eléctrico
 
@@ -419,9 +405,9 @@ Dentro de una Cámara Arpista:
 
 ## Relaciones Externas
 
-### Alianza Institucional: La Iglesia de Dársena
+### Alianza Institucional: La Iglesia Católica
 
-**Iglesia de Dársena (curia y jerarquía)**[^iglesia]:
+**Iglesia Católica (curia y jerarquía, sede en Dársena)**[^iglesia]:
 - **Tipo de relación**: Alianza oficial, dependencia institucional
 - **Naturaleza**: Los **Arpistas** son una secta católica reconocida, parte del Departamento de Arqueología Sagrada
 - **Autoridad**: Responden directamente a la jerarquía eclesiástica; sus operaciones requieren autorización episcopal
@@ -687,7 +673,7 @@ Dentro de una Cámara Arpista:
 
 #### Pacto de las Sombras
 
-Los **Arpistas** mantienen una relación dual y peligrosísima con un sector oculto de la **Iglesia de Dársena**: la **Hermandad de San Jerónimo el Traductor**, un círculo de sacerdotes eruditos, teólogos reformistas y archivistas eclesiásticos que cuestionan internamente el dogma absoluto del **Anatema Mecánico**.
+Los **Arpistas** mantienen una relación dual y peligrosísima con un sector oculto de la **Iglesia Católica** (sede Dársena): la **Hermandad de San Jerónimo el Traductor**, un círculo de sacerdotes eruditos, teólogos reformistas y archivistas eclesiásticos que cuestionan internamente el dogma absoluto del **Anatema Mecánico**.
 
 **Naturaleza del pacto**:
 - Los **Jerónimos** proporcionan a los **Arpistas**: protección indirecta (alertas sobre operaciones de SIA), acceso a archivos eclesiásticos prohibidos, cobertura institucional (los Arpistas pueden operar como "consultores históricos" de parroquias)

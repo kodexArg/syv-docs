@@ -36,7 +36,7 @@ Generalísimo de la República Autónoma de Córdoba y heredero de la **Dinastí
 - La economía productiva (factorías, refinerías, agroindustria)
 - El sistema judicial (nominalmente independiente, pero bajo su influencia)
 
-Su autoridad es prácticamente incontestable dentro de Córdoba. En la Confederación, comparte poder (tensamente) con la Iglesia de Dársena a través del equilibrio de fuerzas.
+Su autoridad es prácticamente incontestable dentro de Córdoba. En la Confederación, comparte poder (tensamente) con la Iglesia Católica a través del equilibrio de fuerzas.
 
 ### Personalidad
 

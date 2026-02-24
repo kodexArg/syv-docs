@@ -94,7 +94,7 @@ No todos los credos tienen facciones asociadas. Un credo es sistema de creencias
 
 **Credos con Facciones:**
 - Umbanda (CREDO) → Los Umbanda (FACCIÓN clandestina)
-- Catolicismo (CREDO) → Iglesia de Dársena (FACCIÓN hegemónica)
+- Catolicismo (CREDO) → Iglesia Católica (FACCIÓN hegemónica)
 - Shipibo-Conibo (CREDO) → Shipibo-Conibo (FACCIÓN étnica minoritaria)
 
 **Credos sin Facciones:**

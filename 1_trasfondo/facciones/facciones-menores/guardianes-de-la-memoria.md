@@ -20,7 +20,7 @@ Información secreta (no exponer a jugadores):
 
 El verdadero peligro de los Guardianes escapa a la vigilancia de la SIA. Un académico influyente y magnate de Ciudad Dársena, junto con personal clave de la biblioteca de la Nueva Basílica de San Pedro, no solo son miembros del club, sino que también pertenecen a los "Arpistas"[^arpistas]. Esta doble lealtad los convierte en un conducto perfecto para la red internacional.
 
-Gracias a esta infiltración, la mayor y más peligrosa colección de documentos prohibidos no se encuentra en Barrio Norte, sino bajo la propia Nueva Basílica de San Pedro. Oculta en archivos secretos de su biblioteca, cerca del corazón del poder de la "Iglesia de Dársena"[^iglesia], yace una bomba de conocimiento esperando a ser detonada.
+Gracias a esta infiltración, la mayor y más peligrosa colección de documentos prohibidos no se encuentra en Barrio Norte, sino bajo la propia Nueva Basílica de San Pedro. Oculta en archivos secretos de su biblioteca, cerca del corazón del poder de la Iglesia Católica[^iglesia], yace una bomba de conocimiento esperando a ser detonada.
 
 ---
 

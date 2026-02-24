@@ -62,7 +62,7 @@ Características personales:
 ### Motivaciones
 
 1. **Misión religiosa distorsionada**: Cree que está cumpliendo la voluntad divina creando una religión militarizada
-2. **Defensa contra Dársena**: Ve la Iglesia de Dársena como rival y corruptora. Su nuevo orden las reemplazaría
+2. **Defensa contra Dársena**: Ve la Iglesia Católica como rival y corruptora. Su nuevo orden las reemplazaría
 3. **Preservación del Orden**: Genuinamente cree que "anarquía espiritual" está destruyendo la Confederación
 4. **Renovación de la Fe**: Busca revitalizar una religión que, a su parecer, se ha vuelto demasiado tolerante
 

@@ -193,7 +193,7 @@ La Confederación "no prohibe toda tecnología", sino que "controla su propósit
 
 - "Microscopios ópticos": Permitidos para medicina y estudios eclesiásticos
 - "Telescopios": Permitidos; Iglesia opera observatorio en Torre de la Vigilancia (Isla Oriental)
-- "Motores de combustión interna": Permitidos pero costosos (combustible escaso post-guerra); se usan principalmente en vehículos de larga distancia, terrenos remotos y grupos electrógenos. En ciudades se prefieren motores eléctricos por economía
+- "Motores de combustión interna": Permitidos pero costosos (combustible escaso post-guerra); restricción económica, no teológica
 
 ### Medicina Analógica
 
@@ -255,7 +255,7 @@ Mientras otras regiones del mundo mantienen versiones "suavizadas" del Anatema:
 La Confederación, especialmente Dársena, es la más represiva porque:
 
 1. "Proximidad al Cráter": Vive en sombra del desastre que causó el Anatema; la amenaza se siente más real
-2. "Poder eclesiástico concentrado": La Iglesia de Dársena es más poderosa que gobiernos seculares; puede imponer ortodoxia total
+2. "Poder eclesiástico concentrado": La Iglesia Católica es más poderosa que gobiernos seculares; puede imponer ortodoxia total
 3. "Importancia geopolítica": Como puerto principal del Atlántico Sur, Dársena es modelo y símbolo del Anatema global
 4. "Presencia de Arpistas": La resistencia clandestina es más fuerte aquí, lo que aumenta represión defensiva
 
@@ -263,9 +263,14 @@ La Confederación, especialmente Dársena, es la más represiva porque:
 
 ## Referencias Cruzadas
 
-"Para contexto global del Anatema": [El Anatema Mecánico](anatema-mecanico.md)
-"Para la entidad perseguidora": [La Santa Inquisición Argentina](../../1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md)
-"Para resistencia clandestina": [Los Arpistas](../../1_trasfondo/facciones/facciones-menores/arpistas.md)
-"Para fundamentación legal": [Constitución de la Confederación Argentina](constitucion-argentina.md) - Leyes 0, IV, V
-"Para tecnología permitida": [Ciencia y Tecnología bajo el Anatema Mecánico](../../2_atlas/tecnologia-y-ciencia/anatema-mecanico.md)
+**Contexto Teológico y Legal**:
+- "Para contexto global del Anatema": [El Anatema Mecánico](anatema-mecanico.md)
+- "Para fundamentación legal": [Constitución de la Confederación Argentina](constitucion-argentina.md) - Leyes 0, IV, V
+
+**Entidades Represoras y Resistencia**:
+- "Para la entidad perseguidora": [La Santa Inquisición Argentina](../../1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md)
+- "Para resistencia clandestina": [Los Arpistas](../../1_trasfondo/facciones/facciones-menores/arpistas.md)
+
+**Especificaciones Técnicas**:
+- "Para detalles técnicos de tecnologías permitidas": Ver [Atlas de Tecnología y Ciencia](../../2_atlas/tecnologia-y-ciencia/) (especialmente Energías Alternativas, Tecnología Civil y Militar)
 

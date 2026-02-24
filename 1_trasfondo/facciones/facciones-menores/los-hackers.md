@@ -95,7 +95,7 @@ A pesar de la tolerancia limitada bajo Corpus Licitus, la arqueología digital s
 
 ## Referencias
 
-- La Iglesia de Dársena
+- La Iglesia Católica
 - Dirección Nacional de Seguridad (DNS)
 - Sagrada Inquisición Argentina (SIA)
 - Arpistas

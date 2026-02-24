@@ -23,7 +23,7 @@ fecha: 2036
 
 ## Prólogo del Hermano Archivista: Sobre las Fuentes
 
-Escribo sobre estos años desde mi celda en el Archivo de la Iglesia de Dársena, en este año de nuestro Señor de 2178, con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. Los documentos que sobrevivieron al Fuego Perpetuo son fragmentarios, contradictorios, a menudo imposibles de reconciliar. Pero son lo que tenemos.
+Escribo sobre estos años desde mi celda en el Archivo de Dársena, en este año de nuestro Señor de 2178, con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. Los documentos que sobrevivieron al Fuego Perpetuo son fragmentarios, contradictorios, a menudo imposibles de reconciliar. Pero son lo que tenemos.
 
 Gracias al trabajo de "los Hackers" —esos arqueólogos digitales que arriesgan sus vidas recuperando información de memorias antiguas— hemos podido acceder a fuentes que nuestros predecesores jamás imaginaron posibles. M-DISC militares recuperados de búnkeres sellados, transcriptos byte a byte mediante lectores mecánicos tolerados (apenas) bajo el Corpus Licitus. Algunos discos duros de datacenters que sobrevivieron al colapso, sus platters magnéticos preservados durante 142 años, esperando ser leídos mediante técnicas forenses de extrema dificultad.
 
@@ -381,7 +381,7 @@ Solo importaba sobrevivir a lo que vendría después.
 ---
 
 *Hermano Archivista Pedro de los Santos*
-*Archivo de la Iglesia de Dársena, 2178*
+*Archivo de Dársena, 2178*
 
 ---
 
