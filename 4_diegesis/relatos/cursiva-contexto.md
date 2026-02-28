@@ -1,5 +1,12 @@
 ---
-title: "Cursiva"
+title: "Cursiva Contexto"
+folder: 4_diegesis/relatos
+description: Contexto narrativo y guía de voces para el relato Cursiva.
+tags:
+  - relato
+  - sor-sofia
+  - sor-catalina
+  - contexto
 type: "Cuento Corto"
 status: "En Escritura"
 ---
@@ -114,6 +121,35 @@ En las mañanas de verano, Sofía corre bordeando la costa sur, llenando sus pul
 8. **Cemento-plástico**: El material del basamento y las paredes exteriores del Faro es cemento-plástico de grado militar: un compuesto de cemento portland y cadenas de polímero industrial que, una vez curado, replica la apariencia, textura y respuesta térmica de roca natural de cantera. Poroso al ojo, áspero al tacto, gris ceniza uniforme. Su resistencia a la humedad es excepcional: en Dársena, donde la humedad perpetua del 85-95% corroe el hormigón convencional en décadas, el cemento-plástico apenas transpira. El edificio más antiguo en apariencia de toda Ciudad Dársena está construido con la química de construcción más avanzada disponible — un espejo de la contradicción central de la SIA, que destruye públicamente el conocimiento que secretamente emplea. En el relato, el material se describe siempre como piedra. La designación técnica queda fuera de la voz narrativa.
 
 9. **La celda de Sofía**: Aparecerá más adelante en el relato, cuando Sofía regrese a meditar sobre sus próximos pasos y se cambie a atuendos más casuales. El escenario (tres metros bajo tierra, catre de hierro, cocina minúscula, faroles de aceite y tubos fosforescentes) está preparado en este canon pero aún no se ha desplegado en la narrativa.
+
+10. **Padre Rafa en el Faro — La paradoja del turista**: En la Inquisición, el Padre Rafa parece casi un turista. Apenas una camisa negra y un alzacuellos casi invisible. Sin sotana formal, sin ornamento, sin la gravedad vestimentaria que el Faro impone a sus habitantes. Y sin embargo, se mueve por el Faro con una libertad total. Entra solo, con confianza, por puertas que Sofía —que *vive* ahí— cruza con protocolo. Esta paradoja es el eje de su presencia en Cursiva: un hombre que no parece pertenecer a ningún lugar y pertenece a todos.
+
+11. **La relación Sofía-Rafa**: El Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía. Esto NO se cuenta en esta historia. Pero informa toda la dinámica entre ellos: una alumna y un maestro que se aprecian y respetan. Sofía, normalmente inmutable e impertérrita, con Rafa se muestra respetuosa como ante una eminencia, y a la vez con un cariño sincero que no exhibe con nadie más. Esta calidez se expresa como sentimiento y gesto físico, nunca como exposición. El lector debe sentir que hay historia entre ellos sin que nadie la nombre.
+
+12. **Rafa ante la Madre Superiora**: Más adelante, cuando ambos se presenten ante la Madre Superiora María, el Padre Rafa realmente lucirá a la altura de la Dama de la Torre. (Nota interna: *jamás* nadie la llama así. Es una referencia de canon, no de diálogo ni de narración.)
+
+13. **Sofía y el mundo exterior**: Sofía es una experta en artes marciales, un arma y un escudo, guardiana personal de grandes personalidades. Pero no conoce las "cloacas" de Dársena: ni las Tuberías, ni los Barrios del Muro. Su mundo es el Faro, la Isla Oriental, el claustro. Años de entrenamiento, de conocimientos bien formados, de convertirse en instrumento de la Inquisición — y ahora sale al mundo por primera vez.
+
+14. **Padre Rafa en los Barrios del Muro**: Rafa se maneja por los antros de Dársena como por su casa. Un sacerdote en los Barrios del Muro que no genera rechazo sino familiaridad — un Gandalf en la Comarca, si tiene sentido. Le hace ver a Sofía que allí ella no tiene ningún poder. La antorcha de la Inquisición no solo no ilumina: quema a quien la lleva.
+
+15. **El baldazo de agua fría**: Sofía descubre que incluso la rancia aristocracia del Barrio Norte está muchísimo más controlada que los Barrios del Muro, y peor aún, que aquí se forman las semillas de la verdadera corrupción. Su poder es efímero, peligroso, inútil. Su única oportunidad: mantener la boca cerrada o a la mínima expresión (hasta su acento delata su origen), evitar rostros escandalizados ante lo que verá, sin oportunidad de intervenir.
+
+## Arco Narrativo
+
+### Acto I: La Carta (completado)
+Amanecer en la Isla Oriental. Sofía elonga en los jardines del Faro. El tranvía pasa. Padre Rafa aparece desde la niebla. Entrega la vaina neumática. Sofía reconoce la letra de Catalina.
+
+### Acto II: La Lectura (en curso)
+Sofía se sienta en el banco de hierro, se cruza de piernas, carta entre las manos. Comienza a leer. Los fragmentos de la carta de Catalina se intercalan con las reacciones de Sofía y la presencia silenciosa de Padre Rafa. Sofía intuye la intención de Rafa: quiere que lo acompañe. Rafa entra solo y con confianza en el Faro. Sofía queda sola con la carta y la decisión.
+
+### Acto III: La Madre Superiora
+Sofía y Rafa se presentan ante la Madre Superiora María en la torre. Rafa luce a la altura de la Dama de la Torre. La Misión S.A.N.T.A. de Sofía se convierte en una Búsqueda y Rescate.
+
+### Acto IV: El Descenso
+Sofía sale al mundo por primera vez. Padre Rafa la guía por los Barrios del Muro y las Tuberías. Sofía descubre que su poder es efímero y peligroso aquí. La misión se vuelve secreta. Sofía debe callar, minimizar, no intervenir. Su acento la delata. Lo que ve la supera. Bienvenido al Infierno.
+
+### Principio narrativo
+Los giros de trama y las razones históricas/canónicas de los sentimientos de los personajes se expresan primero como emociones y gestos físicos. Solo se hacen manifiestas las causas cuando el usuario lo indique.
 
 ## Restricciones de Escritura
 
