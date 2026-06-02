@@ -1,2 +1,6 @@
 .claude
 index.mdx.bak
+
+# Obsidian volatile state
+.obsidian/workspace.json
+.obsidian/graph.json
