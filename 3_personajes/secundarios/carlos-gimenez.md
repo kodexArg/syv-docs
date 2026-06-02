@@ -1,14 +1,11 @@
 ---
 title: Carlos Giménez, Médico
 folder: 3_personajes/secundarios
-description: Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño.
+description: Médico de emergencias comprometido pero técnicamente mediocre, que ha
+  notado un patrón alarmante de pacientes con agotamiento del sueño.
 tags:
-  - carlos-gimenez
-  - medico
-  - sanidad
-  - emergencias
+- medico
 facciones: ["Sanidad"]
-
 ---
 ## Dr. Carlos Giménez
 

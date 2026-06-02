@@ -1,15 +1,13 @@
 ---
 title: Alberto Gómez, Ferretero del Centro
 folder: 3_personajes/secundarios
-description: Encargado de una ferretería en el centro, que mantiene el negocio funcionando tras la muerte del dueño.
+description: Encargado de una ferretería en el centro, que mantiene el negocio funcionando
+  tras la muerte del dueño.
 tags:
-  - alberto-gomez
-  - comerciante
-  - ferretero
-  - centro
+- comerciante
 facciones: []
-alerta-spoilers: "Oculta la muerte del dueño y ha notado ventas sospechosas de materiales para tecnología prohibida"
-
+alerta-spoilers: "Oculta la muerte del dueño y ha notado ventas sospechosas de materiales
+  para tecnología prohibida"
 ---
 ## Alberto Gómez, el Ferretero
 

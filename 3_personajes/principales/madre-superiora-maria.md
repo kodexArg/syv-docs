@@ -1,16 +1,18 @@
 ---
 title: Madre Superiora María
 folder: 3_personajes/principales
-description: Directora Espiritual de la Sagrada Inquisición Argentina. Reside en la Torre del Faro, confinada a 100 metros de toda tecnología por deber divino. Dirige la administración completa de la Inquisición.
+description: Directora Espiritual de la Sagrada Inquisición Argentina. Reside en la
+  Torre del Faro, confinada a 100 metros de toda tecnología por deber divino. Dirige
+  la administración completa de la Inquisición.
 tags:
-  - madre-superiora-maria
-  - inquisicion
-  - faro-sia
-  - isla-oriental
-  - autoridad-eclesiastica
+- madre-superiora-maria
+- inquisicion
+- faro-sia
+- isla-oriental
 facciones:
-  - "Sagrada Inquisición Argentina"
-alerta-spoilers: "Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'"
+- "Sagrada Inquisición Argentina"
+alerta-spoilers: "Contiene información sobre el sistema de Iniciados del Faro y sus
+  'consecuencias'"
 ---
 
 ## Madre Superiora María, Directora del Faro

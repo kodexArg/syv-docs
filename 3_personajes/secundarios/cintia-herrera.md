@@ -1,15 +1,14 @@
 ---
 title: Cintia Herrera, Criptógrafa
 folder: 3_personajes/secundarios
-description: Criptógrafa de Seguridad Nacional, experta en fenómenos paranormales detectados a través de señales.
+description: Criptógrafa de Seguridad Nacional, experta en fenómenos paranormales
+  detectados a través de señales.
 tags:
-  - cintia-herrera
-  - criptografa
-  - seguridad-nacional
-  - investigadora
+- seguridad-nacional
+- investigadora
 facciones: ["Seguridad Nacional"]
-alerta-spoilers: "Opera en secreto para evitar el escrutinio de la SIA, buscando aliados contra amenazas paranormales"
-
+alerta-spoilers: "Opera en secreto para evitar el escrutinio de la SIA, buscando aliados
+  contra amenazas paranormales"
 ---
 ## Cintia Herrera, la Criptógrafa
 

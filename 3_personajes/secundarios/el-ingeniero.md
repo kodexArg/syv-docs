@@ -1,15 +1,14 @@
 ---
 title: El Ingeniero
 folder: 3_personajes/secundarios
-description: Maestro autoproclamado de las máquinas en las Tuberías, cuya reputación supera sus capacidades reales.
+description: Maestro autoproclamado de las máquinas en las Tuberías, cuya reputación
+  supera sus capacidades reales.
 tags:
-  - el-ingeniero
-  - mecanico
-  - tuberias
-  - autodidacta
+- mecanico
+- tuberias
 facciones: []
-alerta-spoilers: "No es realmente un ingeniero, es un autodidacta susceptible al pensamiento mágico"
-
+alerta-spoilers: "No es realmente un ingeniero, es un autodidacta susceptible al pensamiento
+  mágico"
 ---
 ## El "Ingeniero"
 

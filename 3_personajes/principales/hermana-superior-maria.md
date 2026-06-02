@@ -1,15 +1,14 @@
 ---
 title: Hermana Superior María
 folder: 3_personajes/principales
-description: Líder de congregación y Campeona de la Iglesia, reconocida por su lucha incansable contra las posesiones demoníacas.
+description: Líder de congregación y Campeona de la Iglesia, reconocida por su lucha
+  incansable contra las posesiones demoníacas.
 tags:
-  - hermana-superior-maria
-  - lider-religiosa
-  - exorcista
-  - iglesia
+- exorcista
+- iglesia
 facciones: ["Iglesia"]
-alerta-spoilers: "Su celo contra las posesiones nace del terror de un encuentro pasado con un demonio"
-
+alerta-spoilers: "Su celo contra las posesiones nace del terror de un encuentro pasado
+  con un demonio"
 ---
 ## Hermana Superior María
 

@@ -1,15 +1,13 @@
 ---
 title: Sor Nikole, La Hermana de la Caridad
 folder: 3_personajes/secundarios
-description: Joven hermana de la caridad que trabaja en las Tuberías, mezclando modernidad y tradición en su labor.
+description: Joven hermana de la caridad que trabaja en las Tuberías, mezclando modernidad
+  y tradición en su labor.
 tags:
-  - iglesia
-  - tuberias
-  - curandera
-  - rebelde
+- iglesia
+- tuberias
 facciones:
-  - "Congregación de la Caridad"
-
+- "Congregación de la Caridad"
 ---
 ## Sor Nikole, La Hermana de la Caridad
 

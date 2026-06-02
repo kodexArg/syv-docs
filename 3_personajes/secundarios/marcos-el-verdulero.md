@@ -1,16 +1,14 @@
 ---
 title: Marcos, el Verdulero
 folder: 3_personajes/secundarios
-description: Verdulero y cervecero de Las Túberías. Fornido, homosexual, propietario de establecimiento que vive rodeado de verduras, cerveza y camaradería.
+description: Verdulero y cervecero de Las Túberías. Fornido, homosexual, propietario
+  de establecimiento que vive rodeado de verduras, cerveza y camaradería.
 tags:
-  - marcos-verdulero
-  - comerciante
-  - cervecero
-  - tuberias
-  - homosexual
+- comerciante
+- tuberias
 facciones: []
-alerta-spoilers: "Contiene información sobre el uso de tecnología prohibida del período pre-Catástrofe"
-
+alerta-spoilers: "Contiene información sobre el uso de tecnología prohibida del período
+  pre-Catástrofe"
 ---
 ## Marcos, el Verdulero
 

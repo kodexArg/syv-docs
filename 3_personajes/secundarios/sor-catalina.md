@@ -1,16 +1,15 @@
 ---
 title: Sor Catalina
 folder: 3_personajes/secundarios
-description: Monja de la Congregación de la Caridad Divina que investiga extraños sucesos sobrenaturales en los barrios bajos de Dársena y documenta sus hallazgos en correspondencia confidencial.
+description: Monja de la Congregación de la Caridad Divina que investiga extraños
+  sucesos sobrenaturales en los barrios bajos de Dársena y documenta sus hallazgos
+  en correspondencia confidencial.
 tags:
-  - monja
-  - investigadora
-  - paranormal
-  - tuberias
-  - cronista
+- investigadora
+- paranormal
+- tuberias
 facciones:
-  - "Congregación de la Caridad Divina"
-
+- "Congregación de la Caridad Divina"
 ---
 ## Sor Catalina
 

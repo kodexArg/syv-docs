@@ -1,15 +1,13 @@
 ---
 title: Iván Torres, Bicicletero
 folder: 3_personajes/secundarios
-description: Mecánico especializado en bicicletas y medios de movilidad urbana, conocedor de la red de mensajeros.
+description: Mecánico especializado en bicicletas y medios de movilidad urbana, conocedor
+  de la red de mensajeros.
 tags:
-  - ivan-torres
-  - bicicletero
-  - mecanico
-  - mensajeros
+- mecanico
 facciones: []
-alerta-spoilers: "Su conocimiento sobre las actividades de los mensajeros podría ser peligroso"
-
+alerta-spoilers: "Su conocimiento sobre las actividades de los mensajeros podría ser
+  peligroso"
 ---
 ## Iván Torres, el Bicicletero
 

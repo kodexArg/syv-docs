@@ -1,18 +1,17 @@
 ---
 title: Coronel Santiago Mendoza Reyes
 folder: 3_personajes/principales
-description: Teniente Coronel Gobernador Militar de Córdoba, conspirador que lidera la infiltración de una facción radical del Ejército en la estructura eclesiástica para imponer una religión militarizada.
+description: Teniente Coronel Gobernador Militar de Córdoba, conspirador que lidera
+  la infiltración de una facción radical del Ejército en la estructura eclesiástica
+  para imponer una religión militarizada.
 tags:
-  - teniente-coronel-gobernador
-  - cordoba
-  - conspirador
-  - militar
-  - faccion-radical-ejercito
+- cordoba
+- militar
 facciones:
-  - "Ejército Argentino (Alto Mando)"
-  - "Facción Radical del Ejército (secreta)"
-alerta-spoilers: "Su verdadera conspiración para crear una junta militar-religiosa que subordine a Videla IV. La razón de la persecución de Damián DiConte."
-
+- "Ejército Argentino (Alto Mando)"
+- "Facción Radical del Ejército (secreta)"
+alerta-spoilers: "Su verdadera conspiración para crear una junta militar-religiosa
+  que subordine a Videla IV. La razón de la persecución de Damián DiConte."
 ---
 ## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
 

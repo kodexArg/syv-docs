@@ -1,15 +1,14 @@
 ---
 title: Monseñor Miguel
 folder: 3_personajes/principales
-description: Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido cuyo poder rivaliza con el del Papa.
+description: Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático
+  y temido cuyo poder rivaliza con el del Papa.
 tags:
-  - monsenor-miguel
-  - santa-inquisicion
-  - autoridad-religiosa
-  - enigmatico
+- monsenor-miguel
+- autoridad-religiosa
 facciones: ["Santa Inquisición"]
-alerta-spoilers: "Su historia ha sido intencionadamente eliminada; su verdadero origen y naturaleza son un misterio"
-
+alerta-spoilers: "Su historia ha sido intencionadamente eliminada; su verdadero origen
+  y naturaleza son un misterio"
 ---
 ## Monseñor Miguel
 

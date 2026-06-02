@@ -3,14 +3,10 @@ title: Hermana Cecilia Torres, Archivista
 folder: 3_personajes/secundarios
 description: Archivista y profesora en la Universidad de la Luz Divina.
 tags:
-  - hermana-cecilia-torres
-  - archivista
-  - profesora
-  - universidad
-  - cientifico-teologico
+- archivista
 facciones: ["Archivistas y Científicos Teológicos"]
-alerta-spoilers: "Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro"
-
+alerta-spoilers: "Es una demonóloga secreta que trabaja para destruir la ciudad desde
+  dentro"
 ---
 ## Hermana Cecilia Torres, la Archivista
 

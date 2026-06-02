@@ -1,15 +1,13 @@
 ---
 title: Mariana, artista torturada
 folder: 3_personajes/secundarios
-description: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad en las Tuberías.
+description: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad
+  en las Tuberías.
 tags:
-  - artista
-  - poseida
-  - tuberias
-  - oraculo
+- artista
+- tuberias
 facciones: []
 alerta-spoilers: "Su conexión con el Ensoñador y su condición mental verdadera."
-
 ---
 ## Mariana, artista torturada
 

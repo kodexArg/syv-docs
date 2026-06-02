@@ -1,16 +1,14 @@
 ---
 title: Luisa, la Pescadora
 folder: 3_personajes/secundarios
-description: Trabajadora portuaria de los Barrios del Muro. Madre del pequeño Mateo, consumida por la búsqueda desesperada de su hijo desaparecido.
+description: Trabajadora portuaria de los Barrios del Muro. Madre del pequeño Mateo,
+  consumida por la búsqueda desesperada de su hijo desaparecido.
 tags:
-  - luisa-pescadora
-  - madre
-  - trabajadora-portuaria
-  - barrios-del-muro
-  - iglesia
+- barrios-del-muro
+- iglesia
 facciones: []
-alerta-spoilers: "Información sobre la desaparición y posesión del hijo de Luisa, presión religiosa y crisis de fe"
-
+alerta-spoilers: "Información sobre la desaparición y posesión del hijo de Luisa,
+  presión religiosa y crisis de fe"
 ---
 ## Luisa, la Pescadora
 

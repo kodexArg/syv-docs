@@ -1,17 +1,14 @@
 ---
 title: Valeria Santos, Dama de compañía y Archivista
 folder: 3_personajes/secundarios
-description: Dama de compañía que se codea con el poder, y en secreto usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad.
+description: Dama de compañía que se codea con el poder, y en secreto usa su acceso
+  a la biblioteca para descubrir la verdad sobre el origen de la ciudad.
 tags:
-  - arpista
-  - guardian-de-la-memoria
-  - archivista
-  - dama-compania
+- archivista
 facciones:
-  - "Arpistas"
-  - "Guardianes de la Memoria"
+- "Arpistas"
+- "Guardianes de la Memoria"
 alerta-spoilers: "Su doble vida y su investigación secreta."
-
 ---
 ## Valeria Santos, Dama de compañía y Archivista
 

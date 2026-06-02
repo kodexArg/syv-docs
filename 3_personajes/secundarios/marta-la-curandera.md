@@ -1,16 +1,13 @@
 ---
 title: Marta, la Curandera
 folder: 3_personajes/secundarios
-description: Sanadora espiritual de Las Túberías. Vive de donaciones y remedios imposibles, rodeada de hilos tejidos, sedas antiguas y un misterio que la precede.
+description: Sanadora espiritual de Las Túberías. Vive de donaciones y remedios imposibles,
+  rodeada de hilos tejidos, sedas antiguas y un misterio que la precede.
 tags:
-  - marta-curandera
-  - sanadora
-  - espiritual
-  - tuberias
-  - medicina-tradicional
+- tuberias
 facciones: []
-alerta-spoilers: "Información sobre métodos esotéricos, contacto con Guardianes de la Memoria, y alteración de memoria mediante rituales"
-
+alerta-spoilers: "Información sobre métodos esotéricos, contacto con Guardianes de
+  la Memoria, y alteración de memoria mediante rituales"
 ---
 ## Marta, la Curandera
 

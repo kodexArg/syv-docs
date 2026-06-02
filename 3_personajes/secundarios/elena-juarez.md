@@ -1,16 +1,13 @@
 ---
 title: Elena Juárez, Maestra Residencial
 folder: 3_personajes/secundarios
-description: Maestra que trabaja tanto en barrios ricos como con niños de los Barrios del Muro.
+description: Maestra que trabaja tanto en barrios ricos como con niños de los Barrios
+  del Muro.
 tags:
-  - elena-juarez
-  - maestra
-  - educadora
-  - zona-norte
-  - barrios-del-muro
+- barrios-del-muro
 facciones: ["Educadores laicos"]
-alerta-spoilers: "Su activismo antieclesiástico y colección de libros prohibidos son un secreto peligroso"
-
+alerta-spoilers: "Su activismo antieclesiástico y colección de libros prohibidos son
+  un secreto peligroso"
 ---
 ## Elena Juárez, la Maestra
 

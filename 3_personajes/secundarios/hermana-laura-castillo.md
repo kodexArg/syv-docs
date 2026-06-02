@@ -1,15 +1,12 @@
 ---
 title: Hermana Laura Castillo, Enfermera
 folder: 3_personajes/secundarios
-description: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias.
+description: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar
+  en las clínicas comunitarias.
 tags:
-  - hermana-laura-castillo
-  - enfermera
-  - curatores
-  - barrios-bajos
+- curatores
 facciones: ["Curatores", "Hermanas de la Caridad"]
 alerta-spoilers: "Colabora con una red clandestina de ayuda para los más necesitados"
-
 ---
 ## Hermana Laura Castillo
 

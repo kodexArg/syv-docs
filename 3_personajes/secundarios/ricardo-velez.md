@@ -1,13 +1,10 @@
 ---
 title: Ricardo Vélez, Historiador
 folder: 3_personajes/secundarios
-description: Historiador que imparte clases particulares sobre la verdadera historia de Dársena para preservar la memoria colectiva.
-tags:
-  - historiador
-  - profesor
-  - guardian-memoria
+description: Historiador que imparte clases particulares sobre la verdadera historia
+  de Dársena para preservar la memoria colectiva.
+tags: []
 facciones: []
-
 ---
 ## Ricardo Vélez, Historiador
 

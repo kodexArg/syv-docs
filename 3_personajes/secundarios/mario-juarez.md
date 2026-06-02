@@ -1,15 +1,12 @@
 ---
 title: Mario Juárez, Guardia de Seguridad
 folder: 3_personajes/secundarios
-description: Guardia de seguridad en una factoría de El Puerto, sospechoso de filtrar información a la resistencia.
-tags:
-  - guardia
-  - el-puerto
-  - informante
+description: Guardia de seguridad en una factoría de El Puerto, sospechoso de filtrar
+  información a la resistencia.
+tags: []
 facciones:
-  - "La Resistencia"
+- "La Resistencia"
 alerta-spoilers: "Su conexión con La Resistencia como informante."
-
 ---
 ## Mario Juárez, Guardia de Seguridad
 

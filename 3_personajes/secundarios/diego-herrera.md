@@ -1,16 +1,13 @@
 ---
 title: Diego Herrera, Comisario General
 folder: 3_personajes/secundarios
-description: Jefe del Departamento de Investigaciones Paranormales, hombre corrupto y peligroso.
+description: Jefe del Departamento de Investigaciones Paranormales, hombre corrupto
+  y peligroso.
 tags:
-  - diego-herrera
-  - comisario-general
-  - seguridad-nacional
-  - corrupto
-  - antagonista
+- seguridad-nacional
 facciones: ["Seguridad Nacional"]
-alerta-spoilers: "Es un psicópata corrupto obsesionado con la Inspectora Sofía Ríos y la caza de subversivos"
-
+alerta-spoilers: "Es un psicópata corrupto obsesionado con la Inspectora Sofía Ríos
+  y la caza de subversivos"
 ---
 ## Comisario General Diego Herrera
 

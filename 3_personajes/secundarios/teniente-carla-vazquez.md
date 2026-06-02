@@ -1,16 +1,14 @@
 ---
 title: Teniente Carla Vázquez
 folder: 3_personajes/secundarios
-description: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional.
+description: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad
+  Nacional.
 tags:
-  - seguridad-nacional
-  - contrainteligencia
-  - analista
-  - investigadora
+- seguridad-nacional
+- investigadora
 facciones:
-  - "Dirección de Seguridad Nacional"
+- "Dirección de Seguridad Nacional"
 alerta-spoilers: "Su investigación sobre una conspiración interna."
-
 ---
 ## Teniente Carla Vázquez
 

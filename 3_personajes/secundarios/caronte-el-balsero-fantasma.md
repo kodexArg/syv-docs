@@ -1,16 +1,13 @@
 ---
 title: Caronte el Balsero Fantasma
 folder: 3_personajes/secundarios
-description: Misterioso balsero ciego que navega los túneles inundados de Las Tuberías, transportando pasajeros y mercancía.
+description: Misterioso balsero ciego que navega los túneles inundados de Las Tuberías,
+  transportando pasajeros y mercancía.
 tags:
-  - caronte-balsero
-  - damian-vergara
-  - tuberias
-  - contrabandista
-  - ciego
+- tuberias
 facciones: []
-alerta-spoilers: "Su rol como contrabandista para todas las bandas de la Zona Roja es un secreto bien guardado"
-
+alerta-spoilers: "Su rol como contrabandista para todas las bandas de la Zona Roja
+  es un secreto bien guardado"
 ---
 ## Caronte, el Balsero Fantasma
 

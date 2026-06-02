@@ -1,13 +1,11 @@
 ---
 title: Natalia Campos, Reportera
 folder: 3_personajes/secundarios
-description: Reportera novata de un periódico local, que busca la verdad detrás de los rumores a pesar de su inexperiencia.
+description: Reportera novata de un periódico local, que busca la verdad detrás de
+  los rumores a pesar de su inexperiencia.
 tags:
-  - reportera
-  - periodista
-  - investigadora
+- investigadora
 facciones: []
-
 ---
 ## Natalia Campos, Reportera
 

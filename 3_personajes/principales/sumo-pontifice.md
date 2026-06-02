@@ -1,18 +1,16 @@
 ---
 title: Su Santidad - Sumo Pontífice de la Iglesia Católica
 folder: 3_personajes/principales
-description: Máxima autoridad espiritual de la Iglesia Católica y gobernante nominalmente de la Santa Sede trasladada. Su poder comparte espacio incómodo con el de Monseñor Miguel y la Sagrada Inquisición.
+description: Máxima autoridad espiritual de la Iglesia Católica y gobernante nominalmente
+  de la Santa Sede trasladada. Su poder comparte espacio incómodo con el de Monseñor
+  Miguel y la Sagrada Inquisición.
 tags:
-  - sumo-pontifice
-  - papa
-  - iglesia-darsena
-  - autoridad-religiosa
-  - liderazgo-compartido
+- autoridad-religiosa
 facciones:
-  - "Iglesia Católica"
-  - "Curia Romana"
-alerta-spoilers: "Las tensiones reales entre el Papado y la SIA, el verdadero alcance del poder de Monseñor Miguel respecto al Sumo Pontífice."
-
+- "Iglesia Católica"
+- "Curia Romana"
+alerta-spoilers: "Las tensiones reales entre el Papado y la SIA, el verdadero alcance
+  del poder de Monseñor Miguel respecto al Sumo Pontífice."
 ---
 ## Su Santidad, Sumo Pontífice de Dársena
 

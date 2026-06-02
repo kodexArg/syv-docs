@@ -1,16 +1,15 @@
 ---
 title: Sonia Rodríguez, Cocinera y Dueña
 folder: 3_personajes/secundarios
-description: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su generosidad con los necesitados.
+description: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su
+  generosidad con los necesitados.
 tags:
-  - comerciante
-  - cantina
-  - resistencia
-  - barrios-del-muro
+- comerciante
+- resistencia
+- barrios-del-muro
 facciones:
-  - "La Resistencia"
+- "La Resistencia"
 alerta-spoilers: "Sus vínculos con la Resistencia."
-
 ---
 ## Sonia Rodríguez, Cocinera y Dueña
 

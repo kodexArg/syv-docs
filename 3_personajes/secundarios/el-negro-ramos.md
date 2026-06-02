@@ -1,15 +1,13 @@
 ---
 title: El Negro Ramos
 folder: 3_personajes/secundarios
-description: Guardián autoproclamado de las Tuberías, ex-soldado fantasma que protege a los vulnerables.
+description: Guardián autoproclamado de las Tuberías, ex-soldado fantasma que protege
+  a los vulnerables.
 tags:
-  - el-negro-ramos
-  - guardian
-  - tuberias
-  - justiciero
+- tuberias
 facciones: []
-alerta-spoilers: "Su pasado heroico es inventado; perdió a su familia por las drogas y creó una narrativa de redención"
-
+alerta-spoilers: "Su pasado heroico es inventado; perdió a su familia por las drogas
+  y creó una narrativa de redención"
 ---
 ## El Negro Ramos
 

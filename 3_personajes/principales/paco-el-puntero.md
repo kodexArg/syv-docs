@@ -1,15 +1,13 @@
 ---
 title: Paco el Puntero
 folder: 3_personajes/principales
-description: Carismático líder y protector de una estación en las Tuberías, querido por su comunidad.
+description: Carismático líder y protector de una estación en las Tuberías, querido
+  por su comunidad.
 tags:
-  - paco-el-puntero
-  - lider-comunitario
-  - tuberias
-  - fallecido
+- tuberias
 facciones: []
-alerta-spoilers: "Fue asesinado hace un año antes de revelar información crucial sobre las posesiones"
-
+alerta-spoilers: "Fue asesinado hace un año antes de revelar información crucial sobre
+  las posesiones"
 ---
 ## Paco, el Puntero
 

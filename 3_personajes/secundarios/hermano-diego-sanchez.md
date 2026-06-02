@@ -1,15 +1,12 @@
 ---
 title: Hermano Diego Sánchez, Monaguillo
 folder: 3_personajes/secundarios
-description: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza ocultan una búsqueda personal de fe verdadera.
+description: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza
+  ocultan una búsqueda personal de fe verdadera.
 tags:
-  - hermano-diego-sanchez
-  - monaguillo
-  - alto-clero
-  - basilica
+- alto-clero
 facciones: ["Alto Clero", "Servicios Religiosos"]
 alerta-spoilers: "Busca en secreto una fe más allá de la doctrina oficial"
-
 ---
 ## Hermano Diego Sánchez
 

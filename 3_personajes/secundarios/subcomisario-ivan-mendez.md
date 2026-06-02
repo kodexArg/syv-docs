@@ -1,17 +1,13 @@
 ---
 title: Subcomisario Iván Méndez
 folder: 3_personajes/secundarios
-description: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo.
-tags:
-  - policia
-  - rtu
-  - lider-equipo
-  - tactico
+description: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado
+  en operaciones de alto riesgo.
+tags: []
 facciones:
-  - "Policía de la Ciudad"
-  - "Unidad de Respuesta Táctica Urbana (RTU)"
+- "Policía de la Ciudad"
+- "Unidad de Respuesta Táctica Urbana (RTU)"
 alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad."
-
 ---
 ## Subcomisario Iván Méndez
 
