@@ -3,14 +3,11 @@ title: Peronismo
 folder: 1_trasfondo/credos
 description: Secta ultra-nacionalista de elite, venera Perón, modelo corporativista.
 tags:
-  - credo
+  - trasfondo
+  - credos
   - peronismo
-  - ideologia-credo
-  - ultra-nacionalista
-  - elite
-tipo-credo: ideología-credo
-area-influencia: regional
-
+  - politica
+  - nacionalismo
 ---
 
 **Tipo:** Ideología-credo (secta política hermética)

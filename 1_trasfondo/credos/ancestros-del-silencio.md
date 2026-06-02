@@ -3,14 +3,11 @@ title: Ancestros del Silencio
 folder: 1_trasfondo/credos
 description: Culto a los 180,000 mártires del Gran Silencio de 2061, proscrito.
 tags:
-  - credo
-  - ancestros-del-silencio
-  - proscrito
-  - gran-silencio
-  - post-anatema
-tipo-credo: proscrito
-area-influencia: local
-
+  - trasfondo
+  - trasfondo/credos/ancestros-del-silencio
+  - trasfondo/hitos/2061-el-gran-silencio
+  - sociedad/religion
+  - facciones/inquisicion
 ---
 
 **Tipo:** Proscrito (surgido post-Anatema)

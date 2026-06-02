@@ -3,15 +3,13 @@ title: QIA
 folder: 1_trasfondo/codex
 description: Inteligencias Artificiales Cuánticas, Gran Bestia, Catedrales de Lógica, naturaleza post-2061.
 tags:
-  - qia
-  - inteligencias-artificiales
-  - catedrales-de-logica
-  - fin-de-los-secretos
-  - anatema-mecanico
-  - gran-bestia
-  - hermano-archivista
-  - rosario
-
+  - trasfondo
+  - trasfondo/codex/qia-inteligencias-artificiales-cuanticas
+  - trasfondo/codex/anatema-mecanico
+  - tecnologia/qia
+  - tecnologia/catedrales-de-logica
+  - facciones/inquisicion
+  - lugares/rosario
 ---
 
 ---

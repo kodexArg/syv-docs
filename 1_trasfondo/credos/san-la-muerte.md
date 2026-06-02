@@ -3,14 +3,11 @@ title: San La Muerte
 folder: 1_trasfondo/credos
 description: Culto litoral, muerte personificada, santo protector, proscrito, irradicable.
 tags:
-  - credo
+  - trasfondo
+  - credos
   - san-la-muerte
-  - proscrito
   - litoral
   - violencia
-tipo-credo: proscrito
-area-influencia: regional
-
 ---
 
 **Tipo:** Proscrito

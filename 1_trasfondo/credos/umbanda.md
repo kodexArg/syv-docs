@@ -3,15 +3,11 @@ title: Umbanda
 folder: 1_trasfondo/credos
 description: Sincretismo afro, catolicismo, espiritismo, yoruba, proscrita, dominante Barrios.
 tags:
-  - credo
+  - trasfondo
+  - credos
   - umbanda
-  - proscrito
   - sincretismo
   - barrios-del-muro
-tipo-credo: proscrito
-area-influencia: nacional
-faccion-asociada: Los Umbanda
-
 ---
 
 **Tipo:** Proscrito

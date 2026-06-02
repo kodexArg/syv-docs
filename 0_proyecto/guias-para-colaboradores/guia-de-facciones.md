@@ -4,10 +4,9 @@ folder: 0_proyecto/guias-para-colaboradores
 description: Escritura narrativa fluida de facciones, identidad, propósito, relaciones.
 
 tags:
-  - guia
-  - facciones
-  - colaboracion
-
+  - proyecto/guia
+  - proyecto/colaboracion
+  - facciones/guia
 ---
 Esta guía te orienta para crear y documentar facciones en el universo de Subordinación y Valor de forma clara, coherente y conectada con el resto del corpus. El objetivo es que cada facción se entienda como parte de un entramado mayor, con sus motivaciones, recursos y relaciones, pero sin rigidez ni exceso de subtítulos.
 

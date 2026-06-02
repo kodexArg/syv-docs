@@ -3,14 +3,11 @@ title: Hermandades Católicas
 folder: 1_trasfondo/credos
 description: Variantes locales, órdenes internas de la Iglesia Católica, toleradas.
 tags:
-  - credos
-  - catolicismo
-  - tolerado
-  - hermandades
-  - ordenes-religiosas
-tipo-credo: tolerado
-area-influencia: nacional
-
+  - trasfondo
+  - trasfondo/credos/hermandades-y-ordenes-catolicas
+  - sociedad/religion
+  - facciones/iglesia
+  - facciones/inquisicion
 ---
 
 ## Hermandades Menores

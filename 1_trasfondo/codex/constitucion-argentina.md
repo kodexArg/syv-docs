@@ -3,10 +3,13 @@ title: Constitución
 folder: 1_trasfondo/codex
 description: "Carta Magna: Teocracia Militar, Anatema, estructura de gobierno confederado."
 tags:
-  - constitucion
-  - lore
-  - leyes
-
+  - trasfondo
+  - trasfondo/codex/constitucion-argentina
+  - politica/gobierno
+  - politica/leyes
+  - facciones/inquisicion
+  - facciones/iglesia
+  - trasfondo/codex/anatema-mecanico
 ---
 ## Preámbulo
 

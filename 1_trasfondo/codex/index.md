@@ -1,10 +1,15 @@
 ---
 title: Codex
+folder: 1_trasfondo/codex
 description: Textos legales, teológicos, dogmas y constitución de la Teocracia Militar.
+tags:
+  - trasfondo
+  - trasfondo/codex/anatema-mecanico
+  - trasfondo/codex/constitucion-argentina
+  - trasfondo/codex/conocimiento-sobreviviente
 sidebar:
   hidden: true
   order: 1
-
 ---
 
 Los textos que sostienen el andamiaje legal y teológico de la Confederación. La Constitución Argentina que consagra la Teocracia Militar, el Anatema Mecánico que condena la computación digital como herejía, las tecnologías permitidas que definen el Corpus Licitus.

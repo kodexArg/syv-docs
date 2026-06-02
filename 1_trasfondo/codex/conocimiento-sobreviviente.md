@@ -3,13 +3,12 @@ title: Conocimiento Sobreviviente
 folder: 1_trasfondo/codex
 description: Inventario del Hermano Archivista de memoria humana, qué sobrevivió y qué se perdió.
 tags:
-- conocimiento
-- historia
-- archivistica
-- perdida-digital
-- recuperacion
-- anatema-mecanico
-
+- trasfondo
+- trasfondo/codex/conocimiento-sobreviviente
+- trasfondo/codex/anatema-mecanico
+- sociedad/historia
+- sociedad/archivistica
+- tecnologia/recuperacion
 ---
 # El Conocimiento Sobreviviente: Un Inventario de la Memoria Humana
 

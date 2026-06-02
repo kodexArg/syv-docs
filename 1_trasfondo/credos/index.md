@@ -3,6 +3,7 @@ title: Credos
 folder: 1_trasfondo/credos
 description: Sistemas de creencias, sincretismos religiosos, hegemónicos, tolerados, proscritos.
 tags:
+  - trasfondo
   - credos
   - religion
   - cultura
@@ -11,7 +12,6 @@ tags:
 sidebar:
   hidden: true
   order: 1
-
 ---
 
 ## Fe en Plural

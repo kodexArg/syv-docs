@@ -3,15 +3,11 @@ title: Guaraní
 folder: 1_trasfondo/credos
 description: Pueblo paraguayo, idioma común, millones en norte, minoría perseguida en Dársena.
 tags:
-  - credo
-  - guarani
-  - proscrito
-  - paraguay
-  - idioma
-  - norte
-tipo-credo: proscrito
-area-influencia: continental
-
+  - trasfondo
+  - trasfondo/credos/guarani
+  - sociedad/religion
+  - sociedad/identidad
+  - facciones/iglesia
 ---
 
 **Tipo:** Proscrito

@@ -3,15 +3,13 @@ title: Tecnologías Prohibidas
 folder: 1_trasfondo/codex
 description: Prohibiciones SIA, vigilancia, persecución, censores eclesiásticos, Cripta de la Razón.
 tags:
-- anatema-mecanico
-- sia
-- iglesia
-- herejia-tecnologica
-- darsena
-- confederacion
-- censores-eclesiasticos
-- cripta-de-la-razon
-
+- trasfondo
+- trasfondo/codex/otras-tecnologias-prohibidas
+- trasfondo/codex/anatema-mecanico
+- facciones/inquisicion
+- facciones/iglesia
+- tecnologia/herejia-tecnologica
+- lugares/cripta-de-la-razon
 ---
 # Herejía Tecnológica y Conocimiento Prohibido
 

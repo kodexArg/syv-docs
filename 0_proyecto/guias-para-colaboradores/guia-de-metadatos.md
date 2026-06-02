@@ -4,10 +4,9 @@ folder: 0_proyecto/guias-para-colaboradores
 description: Formato y reglas del frontmatter YAML para archivos markdown.
 
 tags:
-  - guia
-  - metadatos
-  - colaboracion
-
+  - manual-del-colaborador
+  - guia-de-facciones
+  - guia-de-personajes
 ---
 
 

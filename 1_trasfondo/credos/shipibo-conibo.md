@@ -3,15 +3,11 @@ title: Shipibo-Conibo
 folder: 1_trasfondo/credos
 description: Chamanismo amazónico, pueblos expatriados, lianas del pantano, sótanos Barrios.
 tags:
-  - credo
+  - trasfondo
+  - credos
   - shipibo-conibo
-  - proscrito
   - chamanismo
   - amazonia
-tipo-credo: proscrito
-area-influencia: local
-faccion-asociada: Shipibo-Conibo
-
 ---
 
 **Tipo:** Proscrito

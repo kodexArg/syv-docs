@@ -3,14 +3,12 @@ title: Iglesia Maradoniana
 folder: 1_trasfondo/credos
 description: Catolicismo sincrético futbolístico, venera Maradona, hegemónico Barrios del Muro.
 tags:
-  - credo
-  - iglesia-maradoniana
-  - ideologia-credo
-  - barrios-del-muro
-  - identidad-nacional
-tipo-credo: ideología-credo
-area-influencia: nacional
-
+  - trasfondo
+  - trasfondo/credos/iglesia-maradoniana
+  - sociedad/religion
+  - sociedad/identidad
+  - facciones/iglesia
+  - lugares/barrios-del-muro
 ---
 
 **Tipo:** Ideología-credo (católica sincrética)

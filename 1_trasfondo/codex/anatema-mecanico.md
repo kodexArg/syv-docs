@@ -3,14 +3,14 @@ title: Anatema Mecánico
 folder: 1_trasfondo/codex
 description: Prohibición universal de tecnología digital (2061-2178), teología, aplicación confederada.
 tags:
-  - anatema-mecanico
-  - qia
-  - herejia-tecnologica
-  - '2061'
-  - prohibicion-universal
-  - teologia-tecnologica
-  - historia-mundial
-
+  - trasfondo
+  - trasfondo/codex/anatema-mecanico
+  - tecnologia/qia
+  - sociedad/herejia-tecnologica
+  - trasfondo/hitos/2061-el-gran-silencio
+  - trasfondo/hitos/2048-el-fin-de-los-secretos
+  - facciones/inquisicion
+  - facciones/arpistas
 ---
 # El Anatema Mecánico
 ## Prohibición Universal de la Tecnología Digital Avanzada (2061-2178)

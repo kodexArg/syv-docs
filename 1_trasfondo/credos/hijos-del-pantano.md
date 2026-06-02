@@ -3,14 +3,12 @@ title: Hijos del Pantano
 folder: 1_trasfondo/credos
 description: Ultra-ecologismo radical terrorista, sabotaje industrial, humanidad como plaga.
 tags:
-  - credo
-  - hijos-del-pantano
-  - ideologia-credo
-  - terrorista
-  - radical
-tipo-credo: ideología-credo
-area-influencia: local
-
+  - trasfondo
+  - trasfondo/credos/hijos-del-pantano
+  - sociedad/religion
+  - sociedad/extremismo
+  - facciones/inquisicion
+  - lugares/riachuelo
 ---
 
 **Tipo:** Ideología-credo (extremista)

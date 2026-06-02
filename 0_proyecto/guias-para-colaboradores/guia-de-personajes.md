@@ -3,10 +3,9 @@ title: Personajes
 folder: 0_proyecto/guias-para-colaboradores
 description: Categorías, metadatos, estructura de contenido para personajes.
 tags:
-  - guia
-  - personajes
-  - colaboracion
-
+  - guia-de-metadatos
+  - manual-del-colaborador
+  - guia-de-facciones
 ---
 Esta guía establece el formato y las mejores prácticas para crear y documentar personajes dentro del universo de "Subordinación y Valor". Un personaje bien definido es clave para la coherencia narrativa y la inmersión en el mundo.
 

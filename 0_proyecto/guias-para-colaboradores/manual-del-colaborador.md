@@ -3,9 +3,9 @@ title: Manual
 folder: 0_proyecto/guias-para-colaboradores
 description: Pautas, estructura de directorios, cómo contribuir con pull requests.
 tags:
-  - guia
-  - colaboracion
-
+  - guia-de-metadatos
+  - guia-de-personajes
+  - guia-de-facciones
 ---
 # Cómo contribuir (pull requests)
 

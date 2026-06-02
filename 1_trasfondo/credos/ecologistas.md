@@ -3,14 +3,12 @@ title: Hermandad Verde
 folder: 1_trasfondo/credos
 description: Ecologismo moderado, reconciliación con naturaleza, mandato divino Anatema.
 tags:
-  - credo
-  - ecologistas
-  - ideologia-credo
-  - hermandad-verde
-  - pro-iglesia
-tipo-credo: ideología-credo
-area-influencia: nacional
-
+  - trasfondo
+  - trasfondo/credos/ecologistas
+  - sociedad/religion
+  - sociedad/ecologismo
+  - facciones/iglesia
+  - lugares/torres-hidroponicas
 ---
 
 **Tipo:** Ideología-credo (vanguardista moderada)

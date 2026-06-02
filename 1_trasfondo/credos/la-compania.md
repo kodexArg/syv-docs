@@ -3,15 +3,12 @@ title: La Compañía
 folder: 1_trasfondo/credos
 description: Culto del azar, Compañía invisible, suerte, sorteos secretos populares.
 tags:
-  - credo
+  - trasfondo
+  - credos
   - la-compania
-  - ideologia-credo
   - azar
   - juego
   - barrios-del-muro
-tipo-credo: ideología-credo
-area-influencia: nacional
-
 ---
 
 **Tipo:** Ideología-credo
