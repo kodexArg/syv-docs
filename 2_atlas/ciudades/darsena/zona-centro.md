@@ -3,9 +3,20 @@ title: Zona Centro
 folder: 2_atlas/ciudades/darsena
 description: Distrito central administrativo y gubernamental de Ciudad Dársena.
 tags:
-- darsena
-- atlas
-
+- darsena/zona-centro
+- atlas/ciudades/darsena
+- sociedad/educacion
+- sociedad/produccion-alimentos
+- tecnologia/PIAs
+- tecnologia/tecnologia-prohibida
+- facciones/iglesia
+- facciones/inquisicion
+- facciones/gremio-de-comercio
+- lugares/torres-hidroponicas
+- lugares/academia-ciencias
+- lugares/laberinto-de-neon
+- lugares/mercado-central
+- lugares/estacion-central
 ---
 La Zona Centro es el motor de Ciudad Dársena, un distrito dedicado a la producción de alimentos, la educación controlada y el transporte. Junto con el [[Microcentro]], forma una gran área de 5 km² donde 300.000 residentes permanentes se mezclan con más de un millón de trabajadores diarios. Aquí, la innovación está permitida, pero siempre bajo la estricta vigilancia de la Iglesia y el Estado. La arquitectura es funcional y monumental, dominada por las gigantescas torres que alimentan a la metrópolis.
 

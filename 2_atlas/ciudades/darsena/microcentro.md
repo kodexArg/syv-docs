@@ -3,17 +3,21 @@ title: Microcentro
 folder: 2_atlas/ciudades/darsena
 description: Corazón comercial, administrativo e informativo de Ciudad Dársena, punto de convergencia de facciones.
 tags:
-- darsena
-- microcentro
-- atlas
-- comercio
-- administracion
-- vigilancia
-- espionaje
-- mercado-negro
-- arpistas
-- criptografos
-
+- darsena/microcentro
+- atlas/ciudades/darsena
+- sociedad/comercio
+- politica/administracion
+- seguridad/vigilancia
+- seguridad/espionaje
+- economia/mercado-negro
+- facciones/arpistas
+- facciones/criptografos
+- facciones/masones
+- facciones/gremio-de-comercio
+- facciones/resistencia-subterranea
+- lugares/casa-rosada
+- lugares/paseo-san-martin
+- lugares/plaza-de-los-susurros
 ---
 El Microcentro es el corazón neurálgico de Ciudad Dársena. Junto con la [[Zona Centro]], forma una gran área de 5 km² donde 300.000 residentes permanentes se mezclan con más de un millón de trabajadores diarios. Es un distrito caótico y superpoblado donde la burocracia del estado, el comercio y las operaciones clandestinas chocan en un torbellino de actividad incesante. Los restos de la antigua opulencia arquitectónica de Buenos Aires se mezclan con estructuras improvisadas y una multitud constante que se abre paso por sus calles abarrotadas.
 
