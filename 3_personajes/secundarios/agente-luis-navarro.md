@@ -3,10 +3,18 @@ title: Agente Luis Navarro
 folder: 3_personajes/secundarios
 description: Operativo de campo de Seguridad Urbana, especializado en seguimiento
   y vigilancia.
-tags: []
-facciones: ["Seguridad Urbana"]
-alerta-spoilers: "Su infiltración en una facción proscrita es una misión personal
-  y secreta"
+nombre: Luis Navarro
+aliases:
+  - Luis Navarro
+  - Agente Navarro
+tags:
+  - entidad/personaje
+  - alcance/secreto
+facciones: []
+related:
+  - "[[sofia-rios]]"
+spoilers:
+  - "Su infiltración en una facción proscrita es una misión personal y secreta."
 ---
 ## Agente Luis Navarro
 
@@ -24,7 +32,7 @@ Un sabueso que vive en estado de alerta permanente.
 
 ### Rol y Posición
 
-Operativo de campo de la división de Seguridad Urbana, especializado en misiones de seguimiento y vigilancia. Su trabajo requiere paciencia, atención al detalle y capacidad para pasar desapercibido durante horas o días.
+Operativo de campo de la división de [[seguridad-urbana|Seguridad Urbana]], especializado en misiones de seguimiento y vigilancia. Su trabajo requiere paciencia, atención al detalle y capacidad para pasar desapercibido durante horas o días.
 
 ### Personalidad
 
@@ -37,7 +45,7 @@ Públicamente, cumple con su rol en Seguridad Urbana. Pero su verdadero impulso 
 ### Trasfondo
 
 <!-- 📖 (Conocimiento Público) -->
-Luis Navarro es un operativo competente de Seguridad Urbana, conocido por su habilidad en misiones de seguimiento. Trabaja bajo las órdenes del Inspector Sofía Ríos.
+Luis Navarro es un operativo competente de Seguridad Urbana, conocido por su habilidad en misiones de seguimiento. Trabaja bajo las órdenes del Inspector [[sofia-rios|Sofía Ríos]].
 <!-- /📖 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
 Luis está llevando a cabo una misión completamente secreta y no autorizada: infiltrarse en una facción proscrita. Su motivación no es ideológica ni profesional, es profundamente personal. Alguien a quien ama está involucrado con esa facción, y Luis está dispuesto a traicionar su juramento y arriesgar su carrera para protegerlos. Esta doble vida lo está consumiendo lentamente.

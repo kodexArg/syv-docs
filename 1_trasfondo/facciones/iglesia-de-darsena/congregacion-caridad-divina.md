@@ -2,20 +2,33 @@
 title: Caridad Divina
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Orden asistencia social, pobres marginales, combate posesiones zonas marginales.
+aliases:
+  - Caridad Divina
+  - Congregación de la Caridad Divina
+  - Hermanas de la Caridad
 tags:
-  - iglesia
-  - congregacion
-  - caridad
-  - pobres
-  - marginalidad
-  - posesiones
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
 facciones:
-  - "Iglesia de Dársena"
-
+  - "[[iglesia]]"
+related:
+  - "[[exorcistas]]"
+  - "[[inquisicion]]"
+  - "[[hermana-superior-maria]]"
+  - "[[padre-rafa]]"
+  - "[[paco-el-puntero]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+  - "[[barrios-del-muro]]"
+spoilers:
+  - "Algunos miembros estudian demonología profundamente y mantienen registros detallados de posesiones."
+  - "Hermana Superior María tiene un trauma del pasado: encuentro con un demonio poderoso del que sobrevivió marcada."
 ---
 Orden religiosa dedicada al servicio de pobres, marginales y víctimas de posesión en las zonas más desfavorecidas de la Confederación. Combinan "acción social" (hospitales, comedores, albergues) con "combate espiritual" (exorcismos).
 
-A diferencia de los Exorcistas (que combaten posesiones en contextos formales), la Congregación de la Caridad Divina opera en Las Túberías y Barrios del Muro—donde la mayoría de posesiones ocurren y donde la medicina oficial no llega.
+A diferencia de los [[exorcistas|Exorcistas]] (que combaten posesiones en contextos formales), la Congregación de la Caridad Divina opera en Las Túberías y Barrios del Muro—donde la mayoría de posesiones ocurren y donde la medicina oficial no llega.
 
 ## Descripción General
 
@@ -30,7 +43,7 @@ La Congregación opera bajo un modelo de "presencia encarnada": viven entre los 
 ### Liderazgo
 
 - "Madre Superiora / Superior General": Autoridad suprema (cargo de por vida o hasta jubilación)
-  - "Actual": Hermana Superior María (57 años, líder respetada y temida)
+  - "Actual": [[hermana-superior-maria|Hermana Superior María]] (57 años, líder respetada y temida)
 - "Consejo de Madres": 5-7 veteranas que asesoran a la Madre Superiora
 - "Maestras Regionales": Responsables de operaciones en cada ciudad/zona
 
@@ -139,8 +152,8 @@ La Congregación opera bajo un modelo de "presencia encarnada": viven entre los 
 Hermana Superior María está investigando:
 - Aumento de posesiones en Las Túberías (especialmente zonas profundas)
 - Patrón sugiere entidad de tipo superior o múltiples entidades coordinadas
-- Posible conexión con "Pueblo del Pantano" (ubicación misteriosa mencionada por Padre Rafa)
-- Intermediario Paco "El Puntero" (que conectaba a Padre Rafa con Pueblo) fue asesinado hace 1 año
+- Posible conexión con "Pueblo del Pantano" (ubicación misteriosa mencionada por [[padre-rafa|Padre Rafa]])
+- Intermediario [[paco-el-puntero|Paco "El Puntero"]] (que conectaba a Padre Rafa con Pueblo) fue asesinado hace 1 año
 
 ### Investigación de Drogas y Posesiones
 

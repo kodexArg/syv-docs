@@ -2,18 +2,16 @@
 title: Procesador Argentino Pia
 folder: 2_atlas/tecnologia-y-ciencia
 description: Procesador de Industria Argentina (PIA)
+aliases:
+  - Procesador de Industria Argentina
+  - PIA
 tags:
-  - tecnologia
-  - computacion
-  - pia
-  - procesador
-  - cobre
-  - artesanal
-  - confederacion
-  - anatema-mecanico
-  - industria
-  - automatizacion
-  - atlas
+  - entidad/concepto
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[inquisicion]]"
 
 ---
 
@@ -21,11 +19,11 @@ tags:
 
 ## Identificación y Contexto
 
-El **Procesador de Industria Argentina (PIA)** define el estándar de cómputo post-Anatema Mecánico en la Confederación Argentina. A diferencia de los procesadores pre-2061, el PIA no es un componente miniaturizado sino un *blueprint* arquitectónico que establece patrones fundamentales para la manufactura artesanal de circuitos de cálculo.
+El **Procesador de Industria Argentina (PIA)** define el estándar de cómputo post-[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] en la Confederación Argentina. A diferencia de los procesadores pre-2061, el PIA no es un componente miniaturizado sino un *blueprint* arquitectónico que establece patrones fundamentales para la manufactura artesanal de circuitos de cálculo.
 
 **Estatus**: Tecnología permitida bajo supervisión eclesiástica (Corpus Licitus, Post-2061)
 
-**Regulación**: Controlada por el Ministerio de Infraestructura y la Sagrada Inquisición Argentina (SIA)
+**Regulación**: Controlada por el Ministerio de Infraestructura y la [[inquisicion|Sagrada Inquisición Argentina (SIA)]]
 
 **Disponibilidad**: Limitada. La mayoría de PIAs operativos pertenecen a la administración pública confederada.
 
@@ -162,20 +160,20 @@ Sin embargo, solo un clérigo muy mal aconsejado se animaría a usar esta expres
 ## Referencias Cruzadas
 
 ### Contexto Técnico Relacionado
-- [Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica](./celdas-radionuclidos.md) - Fundamentación del limitador de 48V en equipos militares
-- [Los Rezagos - El Vestigio y la Herejía Material](./los-rezagos.md) - Prohibición de silicio y control estatal de materiales
-- [Computación y Datos: PDAs de Tinta Electrónica](./computacion-y-datos.md)
-- [Electricidad: Red Pública 48V DC](./electricidad.md)
-- [Anatema Mecánico: Restricciones Tecnológicas](../../1_trasfondo/codex/anatema-mecanico.md)
+- [[celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]] - Fundamentación del limitador de 48V en equipos militares
+- [[los-rezagos|Los Rezagos - El Vestigio y la Herejía Material]] - Prohibición de silicio y control estatal de materiales
+- [[computacion-y-datos|Computación y Datos: PDAs de Tinta Electrónica]]
+- [[electricidad|Electricidad: Red Pública 48V DC]]
+- [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico: Restricciones Tecnológicas]]
 
 ### Contexto Geográfico
-- [Torres Hidropónicas de Dársena](../ciudades/darsena/zona-centro.md)
-- [Las Tuberías: Sistema de Transporte Neumático](../ciudades/darsena/tuberias.md)
+- [[zona-centro|Torres Hidropónicas de Dársena]]
+- [[tuberias|Las Tuberías: Sistema de Transporte Neumático]]
 
 ### Contexto Político
-- [Sagrada Inquisición Argentina (SIA)](../../1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md)
-- [Los Arpistas: Preservadores de Tecnología](../../1_trasfondo/facciones/facciones-menores/arpistas.md)
-- [Ministerio de Infraestructura: Control de Recursos](../../1_trasfondo/facciones/iglesia-de-darsena/iglesia.md)
+- [[inquisicion|Sagrada Inquisición Argentina (SIA)]]
+- [[arpistas|Los Arpistas: Preservadores de Tecnología]]
+- [[iglesia|Ministerio de Infraestructura: Control de Recursos]]
 
 ---
 

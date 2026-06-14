@@ -2,25 +2,30 @@
 title: Fuera Del Muro
 folder: 2_atlas/ciudades/darsena
 description: Fuera del Muro
+aliases:
+- Fuera del Muro
 tags:
-- darsena
-- atlas
-- exterior
-- dmz
-- pantanos
-- peligro
-- comercio-clandestino
-
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[fuerzas-armadas]]"
+- "[[arpistas]]"
+- "[[los-criptografos]]"
+- "[[iglesia]]"
+- "[[resistencia-subterranea]]"
+ubicaciones:
+- "[[darsena]]"
 ---
 Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un mundo salvaje y sin ley. "Fuera del Muro" no es tanto una zona como un concepto: el vasto y peligroso exterior. Es una tierra de oportunidades y amenazas, donde las leyes de la Confederación tienen poco peso.
 
 ## Zonas y Lugares de Interés
 
 ### **El Puerto (Zona Norte Extramuros)**
-Área militarizada al norte de la ciudad que controla el único acceso terrestre: **El Paso del Cráter**. Es una zona mixta con los principales puertos, cuarteles, la prisión de la ciudad, extensos campos de entrenamiento y zonas de cultivo a cielo abierto operadas por prisioneros. Es la base principal de la **Armada Argentina**. Los **Puertos Exo-Muro** son el corazón comercial de esta zona, un nexo caótico donde el **Comando Nacional** compite por el control con el **Gremio de Transportistas** y los contrabandistas.
+Área militarizada al norte de la ciudad que controla el único acceso terrestre: **El Paso del Cráter**. Es una zona mixta con los principales puertos, cuarteles, la prisión de la ciudad, extensos campos de entrenamiento y zonas de cultivo a cielo abierto operadas por prisioneros. Es la base principal de la [[fuerzas-armadas|Armada Argentina]]. Los **Puertos Exo-Muro** son el corazón comercial de esta zona, un nexo caótico donde el **Comando Nacional** compite por el control con el **Gremio de Transportistas** y los contrabandistas.
 
 ### **DMZ (Oeste)**
-Un desierto de ruinas que se extiende al otro lado del muro. Los "salvajes" que habitan estos escombros han aprendido a evitar la línea de tiro de los francotiradores del muro, que mantienen la zona despejada a base de plomo. Aquí se encuentra el [[El Bazar del Muro]], un precario punto de encuentro.
+Un desierto de ruinas que se extiende al otro lado del muro. Los "salvajes" que habitan estos escombros han aprendido a evitar la línea de tiro de los francotiradores del muro, que mantienen la zona despejada a base de plomo. Aquí se encuentra el [[bazar-del-muro|Bazar del Muro]], un precario punto de encuentro.
 
 ### **Los Pantanos (Sur)**
 Donde el nivel del Río de la Plata superó las viejas calles. La subida sostenida del agua convirtió los barrios al sur de la muralla en una Venecia de la podredumbre: edificios sumergidos hasta el segundo piso, avenidas convertidas en canales de agua estancada y tóxica, vegetación mutada que trepa por las fachadas ahogadas, y una capa viva de hongos, líquenes y musgo que lo cubre todo con un verde enfermizo. La niebla aquí es peor que dentro de los muros — más densa, más baja, alimentada por la evaporación constante del agua estancada. Considerados inhabitables, son un laberinto de marismas y ruinas anegadas. Los guardias del muro reportan avistamientos de barcazas lejanas, pero no intervienen, ya que nadie se acerca. Se rumorea que son el hogar de criaturas anómalas, comunidades de supervivientes y extraños recursos.
@@ -36,7 +41,7 @@ En las afueras de la ciudad se ubican los centros penitenciarios de máxima segu
 ### **La Frontera de los Pantanos**
 El límite sur de Dársena donde comienzan Los Pantanos. Esta zona es físicamente accesible desde el muro, pero psicológicamente es el umbral del mundo desconocido. Los guardias fronterizos reportan avistamientos esporádicos de movimiento en las marismas, pero ninguno se atreve a entrar. Las entrañas de Los Pantanos están catalogadas como "Zona de Exploración Prohibida" por la SIA, posiblemente debido a presencia de artefactos anómalos o criaturas no catalogadas.
 
-Se cree que existen rutas comerciales clandestinas que conectan Los Pantanos con zonas internas de Dársena a través de sistemas de drenaje y canales abandonados, operadas por la **Resistencia Subterránea** y traficantes independientes. El control territorial es prácticamente inexistente, convirtiéndola en zona neutra de facto para encuentros entre facciones proscritas.
+Se cree que existen rutas comerciales clandestinas que conectan Los Pantanos con zonas internas de Dársena a través de sistemas de drenaje y canales abandonados, operadas por la [[resistencia-subterranea|Resistencia Subterránea]] y traficantes independientes. El control territorial es prácticamente inexistente, convirtiéndola en zona neutra de facto para encuentros entre facciones proscritas.
 
 ### **El Exterior Más Lejano (Este y Oeste)**
 Más allá de la DMZ, el Río de la Plata y Los Pantanos se extiende territorio salvaje y poco explorado. La información es escasa, pero se conocen fragmentos:
@@ -49,7 +54,7 @@ Más allá de la DMZ, el Río de la Plata y Los Pantanos se extiende territorio 
 
 **Fuera del Muro** es una zona de tensión constante entre múltiples actores. El **Comando Nacional** mantiene presencia militar visible en El Puerto y alrededor de los muros, pero su control se disuelve rápidamente en la DMZ y Los Pantanos. El **Gremio de Transportistas** controla de facto el comercio portuario, mientras que la **Resistencia Subterránea** y facciones proscritas operan en las sombras.
 
-Los **Refugiados del Exterior** (civiles que han escapado de las normas de Dársena) establecen asentamientos precarios en la DMZ y las Tierras Baldías cercanas, aunque muchos no sobreviven más de una temporada. La presencia de la **Iglesia** es mínima pero significativa a través de expediciones de investigación sobre fenómenos "paranormales" que reportan en Los Pantanos.
+Los **Refugiados del Exterior** (civiles que han escapado de las normas de Dársena) establecen asentamientos precarios en la DMZ y las Tierras Baldías cercanas, aunque muchos no sobreviven más de una temporada. La presencia de la [[iglesia|Iglesia]] es mínima pero significativa a través de expediciones de investigación sobre fenómenos "paranormales" que reportan en Los Pantanos.
 
 ## Clima y Condiciones Ambientales
 
@@ -65,7 +70,7 @@ El exterior de Dársena experimenta variabilidad climática mayor que el interio
 A pesar (o debido a) su naturaleza hostil, Fuera del Muro ofrece recursos valiosos:
 
 - **Metales y materiales**: Ruinas de la era pre-colapso contienen cobre, hierro y aleaciones raras
-- **Tecnología sumergida**: El río ha preservado artefactos bajo su lecho contaminado, buscados ávidamente por **Arpistas** y **Criptógrafos**
+- **Tecnología sumergida**: El río ha preservado artefactos bajo su lecho contaminado, buscados ávidamente por [[arpistas|Arpistas]] y [[los-criptografos|Criptógrafos]]
 - **Fauna salvaje**: Criaturas mutadas son fuente de proteína escasa, aunque peligrosa
 - **Agua y alimentos vegetales**: Las Tierras Baldías contienen acuíferos y plantas comestibles, aunque su consumo requiere purificación extrema
 

@@ -2,10 +2,16 @@
 title: Electricidad
 folder: 2_atlas/tecnologia-y-ciencia
 description: Electricidad y Energía
+aliases:
+- Electricidad
+- Electricidad y Energía
 tags:
-- tecnologia
-- atlas
-
+- entidad/concepto
+- alcance/publico
+- estado/canon
+related:
+- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+- "[[inquisicion]]"
 ---
 En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: estrictamente controlada, con grandes disparidades entre el suministro público y las necesidades de las megaestructuras que sostienen la ciudad.
 
@@ -19,7 +25,7 @@ La red pública alimenta la iluminación de la ciudad, basada en eficientes rede
 
 La generación de electricidad en Dársena depende de una compleja rejilla de Nodos subterráneos y reactores nucleares automatizados. Los detalles técnicos completos sobre sistemas de Nodos, generadores primarios, estructuras del Ministerio de Infraestructura, y sistemas de vigilancia se encuentran documentados en:
 
-**Ver: [Infraestructura Energética de Dársena](./infraestructura-energetica.md)**
+**Ver: [[infraestructura-energetica|Infraestructura Energética de Dársena]]**
 
 Esta sección cubre:
 - Arquitectura de Nodos Eléctricos (distribución pre-guerra)
@@ -35,9 +41,9 @@ Esta sección cubre:
 **NOTA IMPORTANTE**: La Confederación utiliza **DOS sistemas de almacenamiento completamente diferentes**:
 
 - **Baterías de arena y sal**: Uso civil generalizado (descripción detallada en esta sección)
-- **Celdas de Americio-241**: Uso militar exclusivo (ver [Celdas de Radionúclidos](./celdas-radionuclidos.md))
+- **Celdas de Americio-241**: Uso militar exclusivo (ver [[celdas-radionuclidos|Celdas de Radionúclidos]])
 
-Para comparación completa entre ambas tecnologías, ver [Sistemas Energéticos](./sistemas-energeticos.md).
+Para comparación completa entre ambas tecnologías, ver [[sistemas-energeticos|Sistemas Energéticos]].
 
 ---
 
@@ -67,9 +73,9 @@ A pesar de sus limitaciones, son **ampliamente usadas** porque la economía post
 
 ## Seguridad Energética y Vigilancia
 
-Para información completa sobre sistemas de vigilancia, detección de anomalías, TAPs eléctricos clandestinos, "La Bestia" y protocolos de respuesta de la SIA:
+Para información completa sobre sistemas de vigilancia, detección de anomalías, TAPs eléctricos clandestinos, "La Bestia" y protocolos de respuesta de la [[inquisicion|SIA]]:
 
-**Ver: [Infraestructura Energética → Seguridad Energética y Vigilancia](./infraestructura-energetica.md#seguridad-energética-y-vigilancia)**
+**Ver: [[infraestructura-energetica|Infraestructura Energética → Seguridad Energética y Vigilancia]]**
 
 Esta sección cubre:
 - Dispositivos TAP (extracción clandestina de energía)

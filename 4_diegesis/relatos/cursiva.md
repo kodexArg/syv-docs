@@ -2,18 +2,27 @@
 title: Cursiva
 folder: 4_diegesis/relatos
 description: Sor Sofía recibe una carta en cursiva de Sor Catalina, escrita con la inigualable letra del orfanato. La historia alterna fragmentos de la carta con las pausas y reacciones de Sofía, mientras el verano de 2178 no da tregua en Ciudad Dársena.
+aliases:
+  - Cursiva
 tags:
-- relato
-- sor-sofia
-- sor-catalina
-- madre-superiora-maria
-- darsena
-- isla-oriental
-- inquisicion
-- carta
-- faro
-- padre-rafa
-
+  - entidad/relato
+  - alcance/secreto
+  - estado/borrador
+related:
+  - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
+  - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
+  - "[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]"
+  - "[[3_personajes/principales/padre-rafa|Padre Rafa]]"
+  - "[[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]"
+facciones:
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+  - "[[zona-militar-eclesiastica]]"
+spoilers:
+  - "El sistema de Iniciados del Faro tiene un costo oculto que Sofía conoce en silencio."
+  - "Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía."
 ---
 # Cursiva
 
@@ -21,20 +30,20 @@ Amanece en la Isla Oriental. Una llama, un fantasma dorado nace sobre el río y 
 
 El Faro deja de ser un vacío oscuro, una ausencia. La niebla lame sus pies, lo rodea, y cae. Después la torre, lenta, vertical, sin adornos, y en la corona una cruz blanca que el cielo perpetuo de Dársena devora casi siempre. Los barcos que llegan del mar no la ven. Los ciudadanos que cruzan la Avenida San Martín, al otro lado del agua, tampoco. Pero hay mañanas en que las nubes se abren lo justo, y entonces la cruz aparece en el centro de un sol desdibujado, llameante, místico — y quien la recibe de frente, paralizado en medio de la calle, habrá recibido la Mirada del Inquisidor.
 
-Sor Sofía asciende por la escalera lateral. Los peldaños tallados en la misma piedra resuenan con la cadencia de un metrónomo. Arriba, la luz naranja la encuentra y le recorta la silueta: hombros anchos, una remera negra sin mangas y unas calzas negras demasiado gruesas para este verano. Se acerca a un banco de hierro y comienza a elongar. Los ojos grises miran sin ver, fijos en el horizonte, en la niebla y en algún mar.
+[[3_personajes/secundarios/sor-sofia|Sor Sofía]] asciende por la escalera lateral. Los peldaños tallados en la misma piedra resuenan con la cadencia de un metrónomo. Arriba, la luz naranja la encuentra y le recorta la silueta: hombros anchos, una remera negra sin mangas y unas calzas negras demasiado gruesas para este verano. Se acerca a un banco de hierro y comienza a elongar. Los ojos grises miran sin ver, fijos en el horizonte, en la niebla y en algún mar.
 
 A lo lejos, exactamente donde miraba, el chirrido metálico del puntual tranvía celeste anuncia su paso por el anillo perimetral. Circula tan cerca del Faro como el Edicto contra la electricidad lo permite: cien metros. Ventanas empañadas, rostros aplastados contra el vidrio buscando el Faro. Pasarán por el bosque, sin paradas permitidas, luego la Basílica, única parada permitida y se irán por fin hacia el poniente. Turistas de un zoológico teológico. Sofía elonga y espera. Cuando el tranvía complete la curva y se pierda entre los tilos, el jardín será suyo.
 
 ¿Y ese chirrido? Ha frenado.
 
-Entonces, la figura se condensa desde la niebla del camino principal. Alto. Demasiado alto. La sotana negra absorbe la luz del amanecer, una incisión vertical en el tejido del jardín. El ala ancha del sombrero oculta los ojos. La barba canosa delata al hombre antes que el crucifijo de plata oxidada. El Padre Rafa. El Exorcista. El que purga los demonios del silicio y camina entre los vivos como si fueran muebles molestos.
+Entonces, la figura se condensa desde la niebla del camino principal. Alto. Demasiado alto. La sotana negra absorbe la luz del amanecer, una incisión vertical en el tejido del jardín. El ala ancha del sombrero oculta los ojos. La barba canosa delata al hombre antes que el crucifijo de plata oxidada. El [[3_personajes/principales/padre-rafa|Padre Rafa]]. El Exorcista. El que purga los demonios del silicio y camina entre los vivos como si fueran muebles molestos.
 
 —Hermana. La voz es una oscilación de baja frecuencia que brota de la tierra. Se detiene a tres pasos. Sofía mide la distancia con los ojos. En su mano, un cilindro de metal opaco. Una vaina de transporte neumático, todavía tibia, escupida por las arterias de latón bajo la Basílicar
 —Canales no oficiales —el Padre sigue. Su mirada pesa—. Es para vos.
 
 Sofía extiende la mano. El metal vibra. Resonancia residual. Gira la tapa roscada y el chirrido es un insulto al silencio. Del interior desliza un rollo de papel grueso, fibra de lino oficial, violado por una caligrafía ajena.
 
-El corazón golpea contra las costillas. Reconoce los trazos antes de leer. Esa cursiva obsesiva, inclinada, que las monjas del orfanato grababan a fuego en las muñecas. Es la letra de Catalina. Inconfundible. Un virus de tinta fresca escapado de los archivos clasificados.
+El corazón golpea contra las costillas. Reconoce los trazos antes de leer. Esa cursiva obsesiva, inclinada, que las monjas del orfanato grababan a fuego en las muñecas. Es la letra de [[3_personajes/secundarios/sor-catalina|Catalina]]. Inconfundible. Un virus de tinta fresca escapado de los archivos clasificados.
 
 Los dedos le aprietan el borde del papel y la fibra de lino cruje, apenas, como un hueso pequeño. Sofía baja la carta. Mira la niebla entre los tilos, el sendero vacío, la curva donde el tranvía ya no está. Después mira al Padre Rafa. Él no se ha movido. Tres pasos, la misma distancia, las manos ahora vacías colgando a los costados de un cuerpo que no parece vestido para el Faro: una camisa negra sin cuello visible, un alzacuellos tan fino que podría ser una sombra, nada más. Ni sotana, ni cordón, ni la cruz de plata que llevaba hace un momento — y Sofía no recuerda cuándo se la guardó. En cualquier otro hombre, esa informalidad sería una falta. En Rafa es otra cosa. Algo que Sofía reconoce sin nombrar, algo que le afloja un músculo en la mandíbula y le permite, por un instante, no ser un muro.
 

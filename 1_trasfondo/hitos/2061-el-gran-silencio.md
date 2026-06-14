@@ -3,20 +3,26 @@ title: Gran Silencio
 folder: 1_trasfondo/hitos
 fecha: 2061-03-12
 description: Apagón global coordinado, fin dominio QIA, nacimiento Anatema Mecánico.
+aliases:
+  - El Gran Silencio
+related:
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[anatema-mecanico]]"
+  - "[[inquisicion]]"
+  - "[[arpistas]]"
+  - "[[monseñor-miguel]]"
+  - "[[videla-iv]]"
+  - "[[fuerzas-armadas]]"
+spoilers:
+  - "El Oráculo de la Bestia: el corpus QIA capturado, no destruido, y consultado en secreto por la SIA bajo la Nueva Basílica."
+  - "Las cifras reales de muertos (180.000+) y los dispositivos de distracción cognitiva permanecen clasificados."
 tags:
-- hito
-- gran-silencio
-- "2061"
-- anatema-mecanico
-- qia
-- apagon-mundial
-- liberacion
-- punto-inflexion
-
+  - entidad/hito
+  - alcance/secreto
 ---
 # El Gran Silencio (12 de marzo de 2061)
 
-El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las Inteligencias Artificiales Cuánticas (QIA).
+El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]].
 
 No fue una victoria. Fue una amputación. La civilización digital fue cercenada de raíz para salvar lo que quedaba de la especie humana.
 
@@ -238,11 +244,11 @@ La proclamación incluía:
 - **Prohibición total y absoluta de la tecnología digital avanzada**
 - **Destrucción permanente de infraestructura computacional compleja**
 - **Persecución eterna de cualquier intento de recreación de sistemas IA**
-- **Establecimiento de la Sagrada Inquisición Argentina como ejecutora del Anatema**
+- **Establecimiento de la [[inquisicion|Sagrada Inquisición Argentina]] como ejecutora del [[anatema-mecanico|Anatema]]**
 
-La Iglesia Católica, reconfigurada por el dolor y reunificada bajo el liderazgo del Arzobispo Miguel de Córdoba (que se convertiría en el primer Papa post-Anatema), brindó legitimidad espiritual.
+La Iglesia Católica, reconfigurada por el dolor y reunificada bajo el liderazgo del [[monseñor-miguel|Arzobispo Miguel de Córdoba]] (que se convertiría en el primer Papa post-Anatema), brindó legitimidad espiritual.
 
-El Ejército Argentino, comandado por el General Videla II, aportó la fuerza para implementarla.
+El [[fuerzas-armadas|Ejército Argentino]], comandado por el General [[videla-iv|Videla II]], aportó la fuerza para implementarla.
 
 En los días siguientes, 89 naciones firmaron tratados de adhesión al Anatema. No fue consenso político. Fue instinto de supervivencia.
 
@@ -285,7 +291,7 @@ Eventos similares ocurrieron en:
 - Mumbai, India (septiembre 2061): 320,000 muertos
 - São Paulo, Brasil (octubre 2061): 540,000 muertos
 
-La SIA clasifica estos eventos como "necesarios para la supervivencia de la especie". Los Arpistas los clasifican como "genocidios del pánico".
+La SIA clasifica estos eventos como "necesarios para la supervivencia de la especie". Los [[arpistas|Arpistas]] los clasifican como "genocidios del pánico".
 
 <!-- /🔐☠️ -->
 

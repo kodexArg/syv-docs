@@ -2,16 +2,14 @@
 title: Energías Alternativas en la Confederación
 folder: 2_atlas/tecnologia-y-ciencia
 description: Generación energética en ciudades confederadas - solar, eólica, geotérmica, nuclear
+aliases:
+  - Energías Alternativas
 tags:
-  - energia
-  - generacion
-  - cordoba
-  - alternativas
-  - solar
-  - eolica
-  - geotermia
-  - confederacion
-  - atlas
+  - entidad/concepto
+  - alcance/publico
+  - estado/canon
+ubicaciones:
+  - "[[capital]]"
 
 ---
 
@@ -174,7 +172,7 @@ Sin embargo, hay vigilancia permanente de plantas de generación por si acaso se
 
 ## Referencias Cruzadas
 
-- [Infraestructura Energética de Dársena](./infraestructura-energetica.md) - Generación en Dársena
-- [Electricidad](./electricidad.md) - Estándar 48V DC confederado
-- [Sistemas Energéticos](./sistemas-energeticos.md) - Comparación de tecnologías de almacenamiento
-- [Hitos 2178 - Actualidad](../../1_trasfondo/hitos/2178-actualidad.md) - Contexto político de Córdoba
+- [[infraestructura-energetica|Infraestructura Energética de Dársena]] - Generación en Dársena
+- [[electricidad|Electricidad]] - Estándar 48V DC confederado
+- [[sistemas-energeticos|Sistemas Energéticos]] - Comparación de tecnologías de almacenamiento
+- [[2178-actualidad|Hitos 2178 - Actualidad]] - Contexto político de Córdoba

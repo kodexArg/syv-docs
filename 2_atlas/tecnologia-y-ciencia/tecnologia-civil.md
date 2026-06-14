@@ -2,10 +2,14 @@
 title: Tecnologia Civil
 folder: 2_atlas/tecnologia-y-ciencia
 description: Tecnología Civil
+aliases:
+- Tecnología Civil
 tags:
-- tecnologia
-- atlas
-
+- entidad/concepto
+- alcance/publico
+- estado/canon
+related:
+- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
 ---
 La tecnología de uso diario en Ciudad Dársena está diseñada para ser robusta, funcional y fácil de mantener, evitando la complejidad electrónica que la Iglesia desaprueba.
 
@@ -15,7 +19,7 @@ La movilidad en la superpoblada Dársena depende de una red de tranvías eléctr
 
 ### Economía del Transporte: Eléctrico vs. Combustión
 
-Aunque los **motores de combustión interna no están prohibidos** por el Anatema Mecánico, su uso en entornos urbanos es prácticamente inexistente por razones puramente económicas:
+Aunque los **motores de combustión interna no están prohibidos** por el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]], su uso en entornos urbanos es prácticamente inexistente por razones puramente económicas:
 
 **Motores de combustión:**
 - **Combustible escaso y carísimo:** La producción de combustibles fósiles colapsó post-guerra; lo poco que existe se destina a usos críticos
@@ -25,7 +29,7 @@ Aunque los **motores de combustión interna no están prohibidos** por el Anatem
 **Motores eléctricos:**
 - **Electricidad abundante y barata:** Generación centralizada a bajo costo (nuclear, hidráulica, térmica)
 - **Mantenimiento simple:** Menos piezas móviles, reparaciones locales
-- **Baterías económicas:** Tecnología de arena y sal (ver [Electricidad y Energía](electricidad.md)) - materiales abundantes aunque voluminosas
+- **Baterías económicas:** Tecnología de arena y sal (ver [[electricidad|Electricidad y Energía]]) - materiales abundantes aunque voluminosas
 - **Preferencia universal:** Incluso las Fuerzas Armadas prefieren vehículos eléctricos en ciudades por economía operativa
 
 ### Transporte Público Eléctrico
@@ -33,7 +37,7 @@ Aunque los **motores de combustión interna no están prohibidos** por el Anatem
 -   **Alimentación por Rieles**: El sistema principal de energía proviene de los propios rieles. Los tranvías están equipados con patines de contacto que recogen la electricidad de forma continua. Este método es eficiente y reduce la necesidad de baterías pesadas a bordo.
 -   **Baterías de Arena y Sal**: Para tramos sin electrificación directa, los tranvías usan bancos de baterías de arena y sal. Aunque voluminosas (ocupan compartimentos bajo asientos), su costo es tan bajo que resulta más económico que cualquier alternativa de combustión.
 
-    **Para especificaciones técnicas completas**: Ver [Sistemas Energéticos → Baterías de Arena y Sal](./sistemas-energeticos.md#1-baterías-de-arena-y-sal-uso-civil) o [Electricidad → Baterías y Almacenamiento](./electricidad.md#baterías-y-almacenamiento).
+    **Para especificaciones técnicas completas**: Ver [[sistemas-energeticos|Sistemas Energéticos → Baterías de Arena y Sal]] o [[electricidad|Electricidad → Baterías y Almacenamiento]].
 
 ## Sistema de Purificación de Agua
 

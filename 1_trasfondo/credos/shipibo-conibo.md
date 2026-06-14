@@ -2,12 +2,25 @@
 title: Shipibo-Conibo
 folder: 1_trasfondo/credos
 description: Chamanismo amazónico, pueblos expatriados, lianas del pantano, sótanos Barrios.
+aliases:
+  - Shipibo-Conibo (credo)
+  - Los Cazadores de Pesadillas
 tags:
-  - trasfondo
-  - credos
-  - shipibo-conibo
-  - chamanismo
-  - amazonia
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]"
+  - "[[umbanda]]"
+  - "[[guarani]]"
+  - "[[congregacion-caridad-divina]]"
+  - "[[inquisicion]]"
+  - "[[kuna-mbarete]]"
+  - "[[hijos-del-pantano]]"
+  - "[[anatema-mecanico]]"
+ubicaciones:
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
 ---
 
 **Tipo:** Proscrito
@@ -34,7 +47,7 @@ La Iglesia clasifica estas ceremonias como herejía botánica. Las lianas del pa
 
 Los Shipibo son reconocidos en Barrios del Muro como sanadores. Sus chamanes diagnostican enfermedades mediante visiones inducidas: beben la medicina, "ven" dentro del cuerpo del paciente, identifican desequilibrios espirituales que manifiestan como síntomas físicos. Tratan con hierbas, cantos curativos, soplos de tabaco mezclado con agua florida. Algunos tratamientos funcionan (conocimiento botánico ancestral que sobrevivió el colapso). Otros son placebo. Los pacientes no distinguen y no les importa: si sanan, el método es irrelevante.
 
-La Congregación de la Caridad Divina —orden de monjas que administra hospitales— tiene relación ambigua con sanadores Shipibo. Oficialmente, condenan "medicina pagana". Extraoficialmente, algunos hospitales derivan casos imposibles a chamanes cuando la medicina occidental falla. Cánceres terminales, enfermedades psicosomáticas, dolores crónicos sin causa identificable. Los chamanes no cobran dinero; aceptan trueque (comida, ropa, favores). Es medicina de subsistencia que llena vacío que el sistema oficial no puede.
+La [[congregacion-caridad-divina|Congregación de la Caridad Divina]] —orden de monjas que administra hospitales— tiene relación ambigua con sanadores Shipibo. Oficialmente, condenan "medicina pagana". Extraoficialmente, algunos hospitales derivan casos imposibles a chamanes cuando la medicina occidental falla. Cánceres terminales, enfermedades psicosomáticas, dolores crónicos sin causa identificable. Los chamanes no cobran dinero; aceptan trueque (comida, ropa, favores). Es medicina de subsistencia que llena vacío que el sistema oficial no puede.
 
 ## Relación con la Iglesia
 

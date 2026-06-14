@@ -1,8 +1,12 @@
 ---
 title: Estilo Literario
 name: estilo-literario
-description: Canon de estilo narrativo para SyV - 13 reglas de construcción de prosa basadas en proporción áurea, elipsis emocional y sincretismo técnico-litúrgico
+description: Canon de estilo narrativo para SyV - 13 reglas de construcción de
+  prosa basadas en proporción áurea, elipsis emocional y sincretismo
+  técnico-litúrgico
 version: 1.0.0
+tags:
+  - estado/sospechoso
 ---
 
 # SYSTEM PROMPT: Canon de Estilo Literario SyV

@@ -3,12 +3,20 @@ title: Teniente Carla Vázquez
 folder: 3_personajes/secundarios
 description: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad
   Nacional.
+nombre: Carla Vázquez
+aliases:
+  - Teniente Carla Vázquez
+  - Carla Vázquez
 tags:
-- seguridad-nacional
-- investigadora
-facciones:
-- "Dirección de Seguridad Nacional"
-alerta-spoilers: "Su investigación sobre una conspiración interna."
+  - entidad/personaje
+  - alcance/secreto
+facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+related:
+  - "[[subcomisario-ivan-mendez]]"
+spoilers:
+  - "Su investigación sobre una conspiración interna."
 ---
 ## Teniente Carla Vázquez
 
@@ -48,5 +56,5 @@ Su principal motivación es desentrañar una conspiración que opera desde dentr
 
 ## Conexiones Importantes
 
-- **Subcomisario Iván Méndez**: Posible aliado o contacto
+- **[[subcomisario-ivan-mendez|Subcomisario Iván Méndez]]**: Posible aliado o contacto
 - **Dirección de Seguridad Nacional**: Su empleador y campo de investigación

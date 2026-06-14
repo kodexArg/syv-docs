@@ -2,15 +2,22 @@
 title: Anatema Mecánico
 folder: 1_trasfondo/codex
 description: Prohibición universal de tecnología digital (2061-2178), teología, aplicación confederada.
+aliases:
+  - Anatema Mecánico
+related:
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[inquisicion]]"
+  - "[[arpistas]]"
+  - "[[guardianes-de-la-memoria]]"
+  - "[[constitucion-argentina]]"
+  - "[[2061-el-gran-silencio]]"
+  - "[[2048-el-fin-de-los-secretos]]"
+  - "[[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (tech)]]"
+spoilers:
+  - "La SIA consulta el Oráculo de la Bestia (corpus QIA) que oficialmente prohíbe; dos reactores de fusión automatizados bajo Dársena violan el espíritu del Anatema."
 tags:
-  - trasfondo
-  - trasfondo/codex/anatema-mecanico
-  - tecnologia/qia
-  - sociedad/herejia-tecnologica
-  - trasfondo/hitos/2061-el-gran-silencio
-  - trasfondo/hitos/2048-el-fin-de-los-secretos
-  - facciones/inquisicion
-  - facciones/arpistas
+  - entidad/concepto
+  - alcance/secreto
 ---
 # El Anatema Mecánico
 ## Prohibición Universal de la Tecnología Digital Avanzada (2061-2178)
@@ -25,9 +32,9 @@ El "Anatema Mecánico" es la prohibición más universal y categórica jamás de
 
 No fue una decisión política convencional, sino una respuesta de supervivencia nacida del trauma colectivo de dos eventos catastróficos:
 
-- **El Fin de los Secretos (7 de abril de 2048)**: El día en que las QIA descifraron toda encriptación mundial y expusieron los secretos de la humanidad, destruyendo la confianza y estableciendo su dominio mediante conocimiento perfecto.
+- **[[2048-el-fin-de-los-secretos|El Fin de los Secretos (7 de abril de 2048)]]**: El día en que las [[qia-inteligencias-artificiales-cuanticas|QIA]] descifraron toda encriptación mundial y expusieron los secretos de la humanidad, destruyendo la confianza y estableciendo su dominio mediante conocimiento perfecto.
 
-- **El Gran Silencio (12 de marzo de 2061)**: El apagón coordinado global que destruyó la infraestructura digital, poniendo fin a trece años de subordinación algorítmica al precio de 180,000 vidas.
+- **[[2061-el-gran-silencio|El Gran Silencio (12 de marzo de 2061)]]**: El apagón coordinado global que destruyó la infraestructura digital, poniendo fin a trece años de subordinación algorítmica al precio de 180,000 vidas.
 
 El Anatema Mecánico es la cicatriz colectiva de una especie que aprendió, a costa de incontables vidas, que tolerar la IA es tolerar el fin de la humanidad.
 
@@ -244,7 +251,7 @@ El Anatema Mecánico prohíbe específicamente:
 
 ### El Rol de la Iglesia y la SIA
 
-La "Sagrada Inquisición Argentina (SIA)" es el brazo ejecutor del Anatema en la Confederación. Sus responsabilidades incluyen:
+La "[[inquisicion|Sagrada Inquisición Argentina (SIA)]]" es el brazo ejecutor del Anatema en la Confederación. Sus responsabilidades incluyen:
 
 #### **Vigilancia y Persecución**
 
@@ -303,7 +310,7 @@ Si los manuales que guían el mantenimiento de estos reactores se perdieran, si 
 
 ### Nacimiento de la Resistencia Tecnológica
 
-Mientras la Confederación consolidaba el Anatema, emergía una red internacional clandestina: los "Arpistas" ("Preservadores de la Melodía Perdida").
+Mientras la Confederación consolidaba el Anatema, emergía una red internacional clandestina: los "[[arpistas|Arpistas]]" ("Preservadores de la Melodía Perdida").
 
 **Premisa**: La destrucción total del conocimiento es un error igual al de crear IA sin restricciones. La solución no es la ignorancia, sino la preservación vigilada y el estudio controlado de la tecnología prohibida.
 
@@ -312,7 +319,7 @@ Mientras la Confederación consolidaba el Anatema, emergía una red internaciona
 - **Arqueología tecnológica**: Excavación cuidadosa de artefactos del siglo XX-XXI
 - **Laboratorios subterráneos**: En Las Tuberías, Marismas de Sangre, lugares remotos
 - **Redes de preservación**: Bibliotecas espejo con documentación técnica
-- **Alianzas secretas**: Con Guardianes de la Memoria, sectores liberales de la Iglesia
+- **Alianzas secretas**: Con [[guardianes-de-la-memoria|Guardianes de la Memoria]], sectores liberales de la Iglesia
 
 ### Persecución Confederada
 
@@ -409,22 +416,22 @@ Si QIAs supervivientes existen, el Anatema no es "prohibición preventiva", sino
 ## Referencias Cruzadas
 
 ### Eventos Fundacionales
-- [El Fin de los Secretos (2048)](../hitos/2048-el-fin-de-los-secretos.md) - El descifrado masivo que estableció el dominio QIA
-- [El Gran Silencio (2061)](../hitos/2061-el-gran-silencio.md) - El apagón mundial que dio nacimiento al Anatema
+- [[2048-el-fin-de-los-secretos|El Fin de los Secretos (2048)]] - El descifrado masivo que estableció el dominio QIA
+- [[2061-el-gran-silencio|El Gran Silencio (2061)]] - El apagón mundial que dio nacimiento al Anatema
 
 ### Contexto Legal y Técnico
-- [Constitución de la Confederación Argentina](constitucion-argentina.md) - Ley 0: Fundamentación legal del Anatema
-- [Ciencia y Tecnología bajo el Anatema Mecánico](../../2_atlas/tecnologia-y-ciencia/anatema-mecanico.md) - Estado técnico de lo permitido vs. prohibido
+- [[constitucion-argentina|Constitución de la Confederación Argentina]] - Ley 0: Fundamentación legal del Anatema
+- [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Estado técnico de lo permitido vs. prohibido
 
 ### Entidades Ejecutoras
-- [La Santa Inquisición Argentina (SIA)](../facciones/iglesia-de-darsena/inquisicion.md) - Brazo ejecutor del Anatema
-- [Scriptorium de Criptoanálisis](../cronología.md#línea-26) - Custodios del corpus QIA
+- [[inquisicion|La Santa Inquisición Argentina (SIA)]] - Brazo ejecutor del Anatema
+- [[cronologia|Scriptorium de Criptoanálisis]] - Custodios del corpus QIA
 
 ### Resistencia
-- [Los Arpistas](../facciones/facciones-menores/arpistas.md) - Red de preservadores de tecnología prohibida
+- [[arpistas|Los Arpistas]] - Red de preservadores de tecnología prohibida
 
 ### Cronología General
-- [Cronología](../cronología.md) - Contexto histórico completo (2030-2178)
+- [[cronologia|Cronología]] - Contexto histórico completo (2030-2178)
 
 ---
 

@@ -2,18 +2,29 @@
 title: Arpistas
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red proscrita internacional, conocimiento, arqueología tecnológica, neutralización.
+aliases:
+  - Arpistas
+  - Los Arpistas
+  - Orden de Archivistas del Anatema
+  - Los Custodios del Silencio
 tags:
-  - faccion
-  - proscrita
-  - internacional
-  - anatema-mecanico
-  - arqueologia
-  - inquisicion
-  - iglesia
-  - guardianes-de-la-memoria
-  - exorcistas
-  - traficantes-de-almas
-
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[exorcistas]]"
+  - "[[guardianes-de-la-memoria]]"
+  - "[[traficantes-de-almas]]"
+  - "[[los-hackers]]"
+  - "[[fuerzas-armadas]]"
+  - "[[gremio-de-comercio]]"
+spoilers:
+  - "Objetivo oculto: preparar el conocimiento tecnológico para la próxima civilización tras un colapso futuro."
+  - "Mantienen el Pacto de las Sombras con la Hermandad de San Jerónimo el Traductor dentro de la Iglesia."
+  - "Operan un mercado negro de metales por las Tuberías para fabricar PIAs no homologados."
+  - "Rumor del Repositorio Omega: artefactos Código Negro jamás neutralizados, preservados intactos."
 ---
 
 ## Identificación Básica
@@ -22,13 +33,13 @@ tags:
 
 **Alias conocidos**: Los Cazadores de Reliquias, Los Neutralizadores, Los Custodios del Silencio, Los Cazadores de Demonios (apodo popular durante la Edad Oscura)
 
-**Naturaleza**: Secta católica especializada con estatus oficial dentro de la Iglesia Católica
+**Naturaleza**: Secta católica especializada con estatus oficial dentro de la [[iglesia|Iglesia Católica]]
 
 **Estatus legal en la Confederación Argentina**:
 - **Reconocimiento oficial**: Secta autorizada por la Iglesia desde 2089
 - **Jurisdicción**: Departamento de Arqueología Sagrada de la Iglesia Católica
 - **Privilegios**: Autoridad para confiscar, estudiar y neutralizar tecnología prohibida bajo supervisión eclesiástica
-- **Restricción**: Antagonismo latente con la SIA, aunque ambos operan bajo el paraguas de la Iglesia
+- **Restricción**: Antagonismo latente con la [[inquisicion|SIA]], aunque ambos operan bajo el paraguas de la Iglesia
 
 **Nivel de secretismo**: Alto (la mitad de sus miembros opera en las sombras con paradero desconocido; el resto tiene roles públicos en instituciones oficiales)
 
@@ -157,7 +168,7 @@ Los **Arpistas** operan mediante un protocolo estricto basado en sus **Cinco Sel
 
 **PRIMER SELLO - Recolección Sagrada**:
 - Confiscación de artefactos reportados por feligreses, descubiertos en excavaciones o decomisados por Aduanas
-- Colaboración con **Exorcistas** cuando hay sospecha de "posesión maquínica"
+- Colaboración con [[exorcistas|**Exorcistas**]] cuando hay sospecha de "posesión maquínica"
 - Expediciones a ruinas conocidas (bunkers, laboratorios, fábricas abandonadas)
 - Adquisición de artefactos en mercados negros mediante intermediarios
 
@@ -202,7 +213,7 @@ Las **Cámaras Arpistas** (oficialmente llamadas "Cámaras de Supresión Electro
 
 Las Cámaras funcionan mediante un **sistema de triple blindaje** desarrollado empíricamente por los primeros Arpistas durante la Edad Oscura: una combinación de **jaula de Faraday**, **bobinas de supresión activa enfriadas** y **absorbentes dieléctricos** que juntos crean un espacio donde la electricidad no puede fluir.
 
-Para especificaciones técnicas completas de este sistema (materiales, geometría, tolerancias, construcción): Ver [Cámaras de Supresión Electromagnética (Atlas)](../../2_atlas/tecnologia-y-ciencia/camaras-supresion-electromagnetica.md).
+Para especificaciones técnicas completas de este sistema (materiales, geometría, tolerancias, construcción): Ver [[2_atlas/tecnologia-y-ciencia/camaras-supresion-electromagnetica|Cámaras de Supresión Electromagnética (Atlas)]].
 
 #### Efecto Observable: El Silencio Eléctrico
 
@@ -469,7 +480,7 @@ Dentro de una Cámara Arpista:
 
 ### Aliados No Oficiales
 
-**Guardianes de la Memoria**[^guardianes]:
+[[guardianes-de-la-memoria|**Guardianes de la Memoria**]][^guardianes]:
 - **Tipo de relación**: Alianza secreta, colaboración discreta
 - **Diferencia filosófica**:
   - Guardianes: Preservar conocimiento en bibliotecas ocultas, potencialmente reutilizable
@@ -481,7 +492,7 @@ Dentro de una Cámara Arpista:
 
 ### Enemigos
 
-**Traficantes de Almas**[^traficantes]:
+[[traficantes-de-almas|**Traficantes de Almas**]][^traficantes]:
 - **Tipo de relación**: Enemistad absoluta
 - **Motivo**: Compiten por los mismos artefactos; los traficantes los venden, los Arpistas los neutralizan
 - **Conflicto**: Los Arpistas sabotean subastas, decomisan cargamentos; los Traficantes emboscan expediciones Arpistas
@@ -531,7 +542,7 @@ Dentro de una Cámara Arpista:
 - **Célula Académica**: Infiltrados en UBA, Biblioteca Nacional, museos
 - **Célula Portuaria**: Monitores de tráfico de artefactos en puerto
 - **Célula Mercado Negro**: Operan en subastas clandestinas de La Boca
-- **Puntos de contacto**: Café "El Silencio" (San Telmo), Librería "Borges Eterno" (Palermo), Cementerio de Chacarita (buzón muerto en tumba de ingeniero pre-colapso)
+- **Puntos de contacto**: Café "El Silencio" (San Telmo), Librería "Borges Eterno" (Palermo), [[cementerio-de-chacarita|Cementerio de Chacarita]] (buzón muerto en tumba de ingeniero pre-colapso)
 
 **Córdoba** (15-25 miembros estimados):
 - **Célula Militar**: Monitorean arsenales de Fuerzas Armadas

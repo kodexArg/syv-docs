@@ -2,20 +2,27 @@
 title: Humedad Post Guerra
 folder: 2_atlas/climas
 description: La Humedad Post-Guerra - Consecuencias Climáticas de la Gran Devastación (2039-2178)
+aliases:
+- Humedad Post-Guerra
 tags:
-- clima
-- post-guerra
-- humedad
-- confederacion
-- cambio-climatico
-- consecuencias-ambientales
-
+- entidad/concepto
+- alcance/publico
+- estado/canon
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+  - "[[2_atlas/ciudades/cordoba/capital|Córdoba]]"
+  - "[[fuerte-san-martin|Fuerte San Martín]]"
+  - "[[mendoza|Mendoza]]"
+  - "[[san-luis|San Luis]]"
+related:
+  - "[[2039-la-larga-noche]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
 ---
 # La Humedad Post-Guerra: El Legado Climático del Colapso
 
 ## Introducción: Un Mundo Diferente al Que Fue
 
-En los años previos a 2039, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en Dársena. Pero la Gran Guerra Global (2039-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
+En los años previos a 2039, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en [[2_atlas/ciudades/darsena/darsena|Dársena]]. Pero la [[2039-la-larga-noche|Gran Guerra Global]] (2039-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
 
 Lo que resultó fue una **saturación de humedad anómala y persistente** que permeó toda la franja confederal durante más de un siglo. No es el calentamiento global de antaño, sino algo más inmediato y cruel: un mundo más húmedo, más pegajoso, más opresivo. En las regiones cálidas del interior, la humedad asfixia; en las costas, penetra como un frío que no se puede secar.
 
@@ -66,7 +73,7 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 **Humedad relativa promedio:** 65-75%
 **Cambio desde 2030:** +25%
 
-Córdoba era seca antes. Ahora es calurosa Y húmeda—la peor combinación:
+[[2_atlas/ciudades/cordoba/capital|Córdoba]] era seca antes. Ahora es calurosa Y húmeda—la peor combinación:
 - Verano: 28-40°C + 70% humedad = sensación térmica >45°C
 - El aire pegajoso hace que el trabajo sea extenuante
 - La evaporación del sudor se ralentiza (cuerpo no se enfría eficientemente)
@@ -82,7 +89,7 @@ Córdoba era seca antes. Ahora es calurosa Y húmeda—la peor combinación:
 **Humedad relativa promedio:** 60-70%
 **Cambio desde 2030:** +30% (aumento más dramático en región cuyana)
 
-FSM experimentó la transformación más radical:
+[[fuerte-san-martin|Fuerte San Martín]] (FSM) experimentó la transformación más radical:
 - **Antes 2039:** Región seca, desértica, con pocas lluvias
 - **Después 2047:** Humedad persistente transformó el ecosistema
 - Tierras que fueron áridas ahora tienen vegetación (no originaria, pero vegetación)
@@ -100,7 +107,7 @@ FSM experimentó la transformación más radical:
 **Humedad relativa promedio:** 45-60%
 **Cambio desde 2030:** +20% (más seco que otras regiones, pero más húmedo que antes)
 
-Mendoza es paradoja: aunque está en región árida, la humedad post-guerra afectó sus patrones de lluvia:
+[[mendoza|Mendoza]] es paradoja: aunque está en región árida, la humedad post-guerra afectó sus patrones de lluvia:
 - **Viento Zonda:** Ahora carga más humedad antes de cruzar Andes
 - **Lluvias más frecuentes:** Aunque sigue siendo seca, llueve más que antes
 - **Agua disponible:** Los ríos cordilleranos tienen más flujo (menos nieve = más escurrimiento líquido)
@@ -115,7 +122,7 @@ Mendoza es paradoja: aunque está en región árida, la humedad post-guerra afec
 **Humedad relativa promedio:** 50-65%
 **Cambio desde 2030:** +25%
 
-San Luis es meseta árida que se volvió árida-húmeda:
+[[san-luis|San Luis]] es meseta árida que se volvió árida-húmeda:
 - Temperaturas moderadas (no tan cálidas como Córdoba, no tan frías como Mendoza)
 - Humedad insuficiente para agricultura real, suficiente para que hongos prosperen
 - El "peaje viviente" de San Luis existe porque la región es inhabitable naturalmente
@@ -171,6 +178,6 @@ Por 2178, la humedad post-guerra es simplemente **"el clima"** para generaciones
 
 La humedad post-guerra no es castigo divino ni fenómeno natural pasajero. Es firma permanente de la devastación humana. Cada respiración pegajosa en Córdoba, cada mañana sin niebla que nunca llega a Dársena, cada infección de hongos que paraliza a un peón en FSM—son recordatorios de que el mundo cambió, y no volverá.
 
-El Anatema Mecánico protege a la Confederación de máquinas futuras. Pero nada protege del clima. Y el clima, ahora, es enemigo tan real como cualquier QIA.
+El [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] protege a la Confederación de máquinas futuras. Pero nada protege del clima. Y el clima, ahora, es enemigo tan real como cualquier QIA.
 
 *- Hermano Archivista Pedro de los Santos, 2178*

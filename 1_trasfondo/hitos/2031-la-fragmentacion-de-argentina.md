@@ -4,16 +4,15 @@ folder: 1_trasfondo/hitos
 description: Desintegración estatal post-meteorito, ciudades-estado, guerra civil décadas.
 fecha: 2031
 region: Argentina
+aliases:
+  - Fragmentación de Argentina
+  - Día de las Veintitrés Banderas
+related:
+  - "[[videla-iv]]"
+  - "[[fuerzas-armadas]]"
 tags:
-  - argentina
-  - fragmentacion
-  - anos-del-caos
-  - cordoba
-  - meteorito
-  - guerra-civil
-  - cronologia
-  - hito
-
+  - entidad/hito
+  - alcance/publico
 ---
 *Hito histórico de Los Años del Caos*
 
@@ -47,7 +46,7 @@ Para febrero de 2031, lo que quedaba de la estructura administrativa federal hab
 
 ## Las Primeras Secesiones (Febrero - Junio 2031)
 
-Córdoba fue la primera en declararse independiente. El 12 de febrero de 2031, el gobernador provincial —un militar de carrera apellidado Videla, ancestro del que hoy gobierna la República— proclamó la República Autónoma de Córdoba en la plaza central. Su discurso, preservado en panfletos amarillentos, es una mezcla de pragmatismo brutal y orgullo herido: "Buenos Aires nos gobernó durante siglos. Ahora Buenos Aires es un cráter. No nos someteremos a fantasmas ni a cenizas."
+Córdoba fue la primera en declararse independiente. El 12 de febrero de 2031, el gobernador provincial —un militar de carrera apellidado Videla, ancestro del [[videla-iv|que hoy gobierna la República]]— proclamó la República Autónoma de Córdoba en la plaza central. Su discurso, preservado en panfletos amarillentos, es una mezcla de pragmatismo brutal y orgullo herido: "Buenos Aires nos gobernó durante siglos. Ahora Buenos Aires es un cráter. No nos someteremos a fantasmas ni a cenizas."
 
 La declaración fue menos ruptura revolucionaria que reconocimiento de una realidad inevitable. Córdoba tenía universidad, industria pesada, capacidad agrícola en las sierras. Podía sobrevivir sola. Y lo hizo, cerrando fronteras, militarizando pasos, estableciendo control marcial absoluto.
 

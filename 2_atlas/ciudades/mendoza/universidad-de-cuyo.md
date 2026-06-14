@@ -2,19 +2,23 @@
 title: Uncuyo (Universidad de Cuyo)
 folder: 2_atlas/ciudades/mendoza
 description: Institución académica que preserva la tradición humanística de América Latina. Ubicada a las afueras de Mendoza en campus reubicado, débilmente financiada pero fieramente independiente. Centro de literatura, filosofía, y pensamiento crítico clandestino. Antiguamente conocida como Universidad Nacional de Cuyo.
+aliases:
+- Universidad de Cuyo
+- Uncuyo
+- UC
+- Universidad Nacional de Cuyo
+region: Mendoza
 tags:
-- mendoza
-- atlas
-- instituciones
-- educacion
-- humanidades
-- literatura
-- filosofia
-- resistencia-intelectual
-- masones
-- uncuyo
-- uc
-
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[arpistas]]"
+- "[[masones]]"
+- "[[universidad-pontificia-america]]"
+- "[[universidad-nacional-cordoba]]"
+ubicaciones:
+- "[[mendoza]]"
 ---
 
 # Uncuyo: Universidad de Cuyo
@@ -234,7 +238,7 @@ Es milagro de dedicación intelectual.
 
 ## La Realidad Interna: Facciones y Secretos
 
-### Los Verdaderos Masones
+### Los Verdaderos [[masones|Masones]]
 
 Existe red clandestina dentro de Cuyo que **sospechadamente es masónica**, aunque nadie lo admite. Reuniones en sótano de biblioteca, acceso por pasajes antiguos, rituales de iniciación que son más **intelectuales que mystical**.
 
@@ -261,7 +265,7 @@ Es equilibrio frágil.
 
 ### Los Arpistas de Cuyo
 
-Cuyo es **bastión principal de Arpistas**—preservadores de conocimiento. La biblioteca misma funciona como archivo clandestino donde libros prohibidos son duplificados manualmente (copias hechas a mano por estudiantes, en papel)
+Cuyo es **bastión principal de [[arpistas|Arpistas]]**—preservadores de conocimiento. La biblioteca misma funciona como archivo clandestino donde libros prohibidos son duplificados manualmente (copias hechas a mano por estudiantes, en papel)
 
 Estas copias circulan hacia otras ciudades, hacia universidades, hacia manos de personas que el poder preferiría que no supieran de ciertos textos.
 

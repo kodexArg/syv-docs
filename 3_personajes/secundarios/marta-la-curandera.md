@@ -3,11 +3,20 @@ title: Marta, la Curandera
 folder: 3_personajes/secundarios
 description: Sanadora espiritual de Las Túberías. Vive de donaciones y remedios imposibles,
   rodeada de hilos tejidos, sedas antiguas y un misterio que la precede.
+nombre: Marta
+aliases:
+  - Marta
+  - La Curandera
 tags:
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Información sobre métodos esotéricos, contacto con Guardianes de
-  la Memoria, y alteración de memoria mediante rituales"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+related:
+  - "[[guardianes-de-la-memoria]]"
+spoilers:
+  - "Sus métodos esotéricos, su contacto con los Guardianes de la Memoria y la alteración de memoria mediante rituales."
 ---
 ## Marta, la Curandera
 
@@ -25,7 +34,7 @@ Alguien que ha visto demasiado sufrimiento para temer nada más.
 
 ### Rol y Posición
 
-Sanadora de las Túberías, aunque "sanadora" es palabra insuficiente para lo que es Marta. Las personas acuden a ella destrozadas—físicamente, espiritualmente, psicológicamente—y regresan transformadas. Su reputación prospera en whispers y testimonios: la cicatrización imposible, la razón restaurada, la visión devuelta. Vive de donaciones y gratitud, nunca de dinero—aunque a veces sus pacientes le ofrecen objetos antiguos, hilos raros, sedas que ella acepta como el universo acepta ofrendas.
+Sanadora de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]], aunque "sanadora" es palabra insuficiente para lo que es Marta. Las personas acuden a ella destrozadas—físicamente, espiritualmente, psicológicamente—y regresan transformadas. Su reputación prospera en whispers y testimonios: la cicatrización imposible, la razón restaurada, la visión devuelta. Vive de donaciones y gratitud, nunca de dinero—aunque a veces sus pacientes le ofrecen objetos antiguos, hilos raros, sedas que ella acepta como el universo acepta ofrendas.
 
 ### Personalidad
 
@@ -48,7 +57,7 @@ Las Túberías susurran leyendas sobre Marta que rozan lo divino y lo diabólico
 Marta posee textos médicos pre-Catástrofe que documentan cirugía, farmacopea y técnicas de sanación que han desaparecido del mundo moderno. Pero sus textos van más allá: incluyen rituales, encantamientos, procedimientos que mezclan medicina con algo que solo podría llamarse magia. Utiliza estos textos no como manual sino como diálogo—consultándolos, aprendiendo de ellos, evolucionando sus técnicas. Sus conocimientos genuinamente transcienden la medicina convencional.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Guardianes de la Memoria) -->
-Marta trabaja con los Guardianes de la Memoria, aunque "trabaja con" subestima la profundidad de su entanglement. Es filtro, reclutadora y sacerdotisa—utilizando sus sesiones de sanación para identificar candidatos cuyas mentes y espíritus podrían soportar iniciación en órdenes de preservación del conocimiento. Algunos de sus "milagros" son acondicionamiento psicológico disfrazado de cura. Otros incluyen implantación de memoria, alteración ritual de identidad, incluso borrado selectivo de recuerdos traumáticos. El precio de sus curas nunca es dinero. Siempre es lealtad, información, o acceso a secretos. Los hilos que teje no son solo decorativos: son mapas de sus alianzas invisibles.
+Marta trabaja con los [[guardianes-de-la-memoria|Guardianes de la Memoria]], aunque "trabaja con" subestima la profundidad de su entanglement. Es filtro, reclutadora y sacerdotisa—utilizando sus sesiones de sanación para identificar candidatos cuyas mentes y espíritus podrían soportar iniciación en órdenes de preservación del conocimiento. Algunos de sus "milagros" son acondicionamiento psicológico disfrazado de cura. Otros incluyen implantación de memoria, alteración ritual de identidad, incluso borrado selectivo de recuerdos traumáticos. El precio de sus curas nunca es dinero. Siempre es lealtad, información, o acceso a secretos. Los hilos que teje no son solo decorativos: son mapas de sus alianzas invisibles.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

@@ -3,11 +3,17 @@ title: Monseñor Luis Valverde
 folder: 3_personajes/secundarios
 description: Director de la Academia Teológica y figura prominente del Alto Clero,
   conocido por su erudición y vasta red de contactos científicos.
+nombre: Luis Valverde
+aliases:
+  - Monseñor Luis Valverde
+  - Luis Valverde
 tags:
-- alto-clero
+  - entidad/personaje
+  - alcance/secreto
 facciones:
-- "Alto Clero"
-alerta-spoilers: "Su objetivo de conservar el poder eclesiástico sobre el conocimiento."
+  - "[[iglesia]]"
+spoilers:
+  - "Su objetivo de conservar el poder eclesiástico sobre el conocimiento."
 ---
 ## Monseñor Luis Valverde, Director de la Academia
 
@@ -49,5 +55,5 @@ Su principal motivación es preservar y conservar el poder eclesiástico sobre e
 
 ## Conexiones Importantes
 
-- **Madre Inquisidora**: Relación profesional dentro del Alto Clero
+- **Madre Inquisidora**: Relación profesional dentro del [[alto-clero|Alto Clero]]
 - **Padre Felipe**: Colaborador en asuntos académicos

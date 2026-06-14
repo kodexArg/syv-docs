@@ -3,11 +3,15 @@ title: Marcos Duarte, Científico en Torres Hidropónicas
 folder: 3_personajes/secundarios
 description: Científico de las Torres Hidropónicas. Hombre silencioso que trabaja
   como operario manteniendo sistemas de subsistencia.
+nombre: Marcos Duarte
+aliases:
+  - Marcos Duarte
 tags:
-- operario
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Información sobre su participación en la Resistencia Subterránea
-  y planes de sabotaje"
+spoilers:
+  - "Participa en la Resistencia Subterránea y en planes de sabotaje."
 ---
 ## Marcos Duarte, Científico en Torres Hidropónicas
 
@@ -43,7 +47,7 @@ Su obsesión es la autonomía alimentaria. Rechaza que el gobierno use los culti
 Entre los operarios de las Torres se rumorea que Marcos es excesivamente cuidadoso con sus experimentos. Algunos dicen que cultiva plantas no autorizadas en secciones restrictas. Otros susurran que sus "accidentes" en los sistemas de filtración parecen demasiado convenientes. Los jefes lo toleran porque sus reportes técnicos son impecables.
 <!-- /📖 -->
 <!-- 🔐 (Resistencia Subterránea) -->
-Marcos es recluta activo de la Resistencia Subterránea, aunque su rol es especializado: sabotaje técnico invisible. Manipula sistemas hidropónicos para reducir rendimiento sin dejar evidencia forensable. Utiliza su conocimiento profundo para introducir patógenos que afectan cultivos de forma que aparenta ser negligencia ambiental, no sabotaje deliberado.
+Marcos es recluta activo de la [[resistencia-subterranea|Resistencia Subterránea]], aunque su rol es especializado: sabotaje técnico invisible. Manipula sistemas hidropónicos para reducir rendimiento sin dejar evidencia forensable. Utiliza su conocimiento profundo para introducir patógenos que afectan cultivos de forma que aparenta ser negligencia ambiental, no sabotaje deliberado.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Resistencia Subterránea) -->
 Marcos es el único miembro de la Resistencia con acceso irrestricto a los sistemas de control nutritivo central. Su plan final es introducir un colapso cascada en toda la red de Torres que no pueda revertirse sin meses de reconstrucción. Cuando llegue ese momento, el gobierno perderá su arma de control más efectiva. Su identidad como saboteador es tan valiosa que tres comandantes de la Resistencia se han vuelto obsesivos con su protección. Si es capturado, toda la operación colapsa.

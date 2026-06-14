@@ -2,14 +2,16 @@
 title: Constitución
 folder: 1_trasfondo/codex
 description: "Carta Magna: Teocracia Militar, Anatema, estructura de gobierno confederado."
+aliases:
+  - Constitución de la Confederación Argentina
+related:
+  - "[[anatema-mecanico]]"
+  - "[[inquisicion]]"
+  - "[[iglesia]]"
+  - "[[fuerzas-armadas]]"
 tags:
-  - trasfondo
-  - trasfondo/codex/constitucion-argentina
-  - politica/gobierno
-  - politica/leyes
-  - facciones/inquisicion
-  - facciones/iglesia
-  - trasfondo/codex/anatema-mecanico
+  - entidad/concepto
+  - alcance/publico
 ---
 ## Preámbulo
 
@@ -21,7 +23,7 @@ Sobre las ruinas de la soberbia humana, donde el caos y la máquina intentaron s
 
 Llamamos Verdad únicamente a lo que emana de las Escrituras Inmaculadas, preservadas de la corrupción del silicio y el modernismo. Esta Verdad no se debate, se acata. Debe imponerse primero por la Fuerza para que luego pueda entrar la Razón. La espada abre el surco donde la fe planta la semilla.
 
-Por ello, erigimos este Estado sobre el Matrimonio Indisoluble, la única unión capaz de sostener la civilización: la Iglesia, intérprete de esa Verdad antigua y pura, y las Fuerzas Armadas, brazo ejecutor que impone el Orden Terrenal. Dios ilumina a la Patria, y la Patria ordena al Hombre.
+Por ello, erigimos este Estado sobre el Matrimonio Indisoluble, la única unión capaz de sostener la civilización: la [[iglesia|Iglesia]], intérprete de esa Verdad antigua y pura, y las [[fuerzas-armadas|Fuerzas Armadas]], brazo ejecutor que impone el Orden Terrenal. Dios ilumina a la Patria, y la Patria ordena al Hombre.
 
 No buscamos la sumisión ciega del esclavo, sino la Subordinación consciente del hijo que, una vez disciplinado, comprende su lugar en la obra divina. Quien se subordina, se eleva; quien se rebela, cae en el vacío.
 
@@ -53,7 +55,7 @@ Todo conocimiento que no conduzca a Dios es vanidad o peligro. La educación y l
 
 ## Ley V: De la Santa Inquisición
 
-Existen oscuridades que el acero común no puede cortar. Para enfrentar al Mal preternatural y a los remanentes malditos de la Era Tecnológica, se instituye la Santa Inquisición. Sus agentes, hombres y mujeres de voluntad inquebrantable, operan fuera de la jerarquía ordinaria. Su mandato es absoluto: buscar, contener y destruir. Todo hallazgo arqueológico del pasado oscuro debe ser sometido a su curado antes de ver la luz. Ante la Inquisición, el ciudadano calla y obedece, pues ellos ven lo que nosotros no debemos mirar.
+Existen oscuridades que el acero común no puede cortar. Para enfrentar al Mal preternatural y a los remanentes malditos de la Era Tecnológica, se instituye la [[inquisicion|Santa Inquisición]]. Sus agentes, hombres y mujeres de voluntad inquebrantable, operan fuera de la jerarquía ordinaria. Su mandato es absoluto: buscar, contener y destruir. Todo hallazgo arqueológico del pasado oscuro debe ser sometido a su curado antes de ver la luz. Ante la Inquisición, el ciudadano calla y obedece, pues ellos ven lo que nosotros no debemos mirar.
 
 ## Ley VI: De la Voz y el Silencio
 

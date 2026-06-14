@@ -3,8 +3,16 @@ title: Ricardo Vélez, Historiador
 folder: 3_personajes/secundarios
 description: Historiador que imparte clases particulares sobre la verdadera historia
   de Dársena para preservar la memoria colectiva.
-tags: []
+nombre: Ricardo Vélez
+aliases:
+  - Ricardo Vélez
+tags:
+  - entidad/personaje
 facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+related:
+  - "[[valeria-santos]]"
 ---
 ## Ricardo Vélez, Historiador
 
@@ -22,7 +30,7 @@ Es un guardián de relatos olvidados, decidido a mantenerlos vivos.
 
 ### Rol y Posición
 
-Ricardo se dedica a dar clases particulares sobre la verdadera historia de Dársena, en un esfuerzo por preservar la memoria colectiva frente a la narrativa oficial que intenta borrarla o distorsionarla.
+Ricardo se dedica a dar clases particulares sobre la verdadera historia de [[2_atlas/ciudades/darsena/darsena|Dársena]], en un esfuerzo por preservar la memoria colectiva frente a la narrativa oficial que intenta borrarla o distorsionarla.
 
 ### Personalidad
 
@@ -42,4 +50,4 @@ Ricardo Vélez es conocido en ciertos círculos como un profesor particular que 
 
 ## Conexiones Importantes
 
-- **Valeria Santos**: Relación profesional o académica
+- **[[valeria-santos|Valeria Santos]]**: Relación profesional o académica

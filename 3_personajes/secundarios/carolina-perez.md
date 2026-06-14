@@ -2,10 +2,16 @@
 title: Carolina Pérez, Costurera
 folder: 3_personajes/secundarios
 description: Costurera con un pequeño taller en los Barrios del Muro.
+nombre: Carolina Pérez
+aliases:
+  - Carolina Pérez
+  - La Costurera
 tags:
-- comerciante
-- barrios-del-muro
-facciones: ["Comerciantes"]
+  - entidad/personaje
+facciones:
+  - "[[gremio-de-comercio]]"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
 ---
 ## Carolina Pérez, la Costurera
 
@@ -23,7 +29,7 @@ Una artesana que cose más que tela.
 
 ### Rol y Posición
 
-Diseña y repara ropa en su pequeño taller ubicado en los Barrios del Muro. Su trabajo es esencial en una comunidad donde comprar ropa nueva es un lujo que pocos pueden permitirse.
+Diseña y repara ropa en su pequeño taller ubicado en los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]. Su trabajo es esencial en una comunidad donde comprar ropa nueva es un lujo que pocos pueden permitirse.
 
 ### Personalidad
 

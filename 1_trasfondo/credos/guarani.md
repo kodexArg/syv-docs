@@ -2,12 +2,24 @@
 title: Guaraní
 folder: 1_trasfondo/credos
 description: Pueblo paraguayo, idioma común, millones en norte, minoría perseguida en Dársena.
+aliases:
+  - Guaraní
 tags:
-  - trasfondo
-  - trasfondo/credos/guarani
-  - sociedad/religion
-  - sociedad/identidad
-  - facciones/iglesia
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[congregacion-caridad-divina]]"
+  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]"
+  - "[[umbanda]]"
+  - "[[san-la-muerte]]"
+  - "[[peronismo]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
 ---
 
 **Tipo:** Proscrito
@@ -47,7 +59,7 @@ Las fiestas patronales son híbridas. Procesión católica por día (santo lleva
 
 ## Relación con la Iglesia
 
-La Iglesia de Dársena los clasifica como superstición folklórica más que herejía formal. Mientras no compitan por fieles urbanos, la SIA no gasta recursos persiguiéndolos. Es cálculo pragmático: enviar inquisidores al monte para arrestar chamanes que curan con yuyos no vale la logística. Las aldeas guaraníes están en zonas donde caminos son barro en verano y ríos en invierno, donde transporte es carreta tirada por bueyes, donde la Confederación es rumor más que realidad. Controlar esos territorios requeriría ejército. Y el ejército tiene frontera real que defender.
+La [[iglesia|Iglesia de Dársena]] los clasifica como superstición folklórica más que herejía formal. Mientras no compitan por fieles urbanos, la [[inquisicion|SIA]] no gasta recursos persiguiéndolos. Es cálculo pragmático: enviar inquisidores al monte para arrestar chamanes que curan con yuyos no vale la logística. Las aldeas guaraníes están en zonas donde caminos son barro en verano y ríos en invierno, donde transporte es carreta tirada por bueyes, donde la Confederación es rumor más que realidad. Controlar esos territorios requeriría ejército. Y el ejército tiene frontera real que defender.
 
 Entonces el guaraní místico prospera en márgenes geográficos: aldeas sin cura permanente (un sacerdote visita tres veces al año), campos sin capilla (cruces de madera en claros sirven), zonas donde el Estado es ausencia. Los opyguá administran bautismos cuando el cura no llega, bendicen matrimonios (que luego se legalizan cuando el cura visita), ofician funerales. Son clero informal que la Iglesia tolera porque llenar ese vacío requeriría recursos que no tiene.
 
@@ -62,7 +74,7 @@ Entonces el guaraní místico prospera en márgenes geográficos: aldeas sin cur
 
 Los opyguá son repositorios de conocimiento botánico que data milenios. Identifican plantas medicinales: lapacho (antibiótico natural), cedrón (digestivo), ruda (abortivo en dosis controladas que la Iglesia condena pero mujeres usan discretamente). Preparan infusiones, cataplasmas, pomadas con grasa animal. Algunos tratamientos tienen base científica; otros son placebo. Las comunidades no distinguen: si funciona, es medicina.
 
-Hay tensión con medicina oficial. La Congregación de la Caridad Divina administra hospitales rurales que compiten con opyguá. Algunos médicos desprecian "supersticiones indígenas", rechazan pacientes que visitaron chamán primero. Otros colaboran informalmente: derivan casos que no pueden resolver, intercambian conocimientos, aprenden de botánica guaraní. Es pragmatismo: en zona rural donde antibióticos escasean, una infusión de lapacho puede ser diferencia entre vida y muerte.
+Hay tensión con medicina oficial. La [[congregacion-caridad-divina|Congregación de la Caridad Divina]] administra hospitales rurales que compiten con opyguá. Algunos médicos desprecian "supersticiones indígenas", rechazan pacientes que visitaron chamán primero. Otros colaboran informalmente: derivan casos que no pueden resolver, intercambian conocimientos, aprenden de botánica guaraní. Es pragmatismo: en zona rural donde antibióticos escasean, una infusión de lapacho puede ser diferencia entre vida y muerte.
 
 ## Idioma y Erosión Cultural
 

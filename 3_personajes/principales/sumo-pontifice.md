@@ -4,13 +4,23 @@ folder: 3_personajes/principales
 description: Máxima autoridad espiritual de la Iglesia Católica y gobernante nominalmente
   de la Santa Sede trasladada. Su poder comparte espacio incómodo con el de Monseñor
   Miguel y la Sagrada Inquisición.
-tags:
-- autoridad-religiosa
+nombre: Estanislao Máquez de los Ángeles
+aliases:
+  - Sumo Pontífice
+  - Su Santidad
+  - Papa Estanislao III
+  - Estanislao Máquez de los Ángeles
 facciones:
-- "Iglesia Católica"
-- "Curia Romana"
-alerta-spoilers: "Las tensiones reales entre el Papado y la SIA, el verdadero alcance
-  del poder de Monseñor Miguel respecto al Sumo Pontífice."
+  - "[[iglesia]]"
+related:
+  - "[[monseñor-miguel]]"
+  - "[[damian-diconte]]"
+  - "[[arpistas]]"
+spoilers:
+  - "Las tensiones reales entre el Papado y la SIA, el verdadero alcance del poder de Monseñor Miguel respecto al Sumo Pontífice."
+tags:
+  - entidad/personaje
+  - alcance/secreto
 ---
 ## Su Santidad, Sumo Pontífice de Dársena
 
@@ -30,7 +40,7 @@ Viste siempre con indumentaria papal completa: sotana blanca, casquete blanco (p
 
 ### Rol y Posición
 
-Sumo Pontífice, cabeza visible de la Iglesia Católica Confederal y gobernante espiritual y nominalmente político de Dársena. Su autoridad oficial es absoluta en materia de fe y doctrina. En teoría:
+Sumo Pontífice, cabeza visible de la [[iglesia|Iglesia Católica]] Confederal y gobernante espiritual y nominalmente político de Dársena. Su autoridad oficial es absoluta en materia de fe y doctrina. En teoría:
 
 - Aprueba todas las decisiones eclesiásticas importantes
 - Es el árbitro final de cuestiones teológicas
@@ -40,7 +50,7 @@ Sumo Pontífice, cabeza visible de la Iglesia Católica Confederal y gobernante 
 
 En la práctica:
 
-- Su poder es compartido (e incluso subordinado) al de la **Sagrada Inquisición Argentina** bajo Monseñor Miguel
+- Su poder es compartido (e incluso subordinado) al de la **[[inquisicion|Sagrada Inquisición Argentina]]** bajo [[monseñor-miguel|Monseñor Miguel]]
 - La SIA opera con autonomía casi total, reportando nominalmente al Papado pero actuando independientemente
 - Su verdadera influencia está en diplomacia, legitimación ideológica y la "cara pública" de la Iglesia
 - Monseñor Miguel controla la represión, la violencia, la "mano oscura"
@@ -134,8 +144,8 @@ En el archivo secreto, bajo triple sello, Estanislao mantiene un documento que e
 - **Monseñor Miguel**: Su rival nominal, superior en poder de facto
 - **Curia Romana**: Consejo de cardenales que lo asesora (pero tiene autoridad nominal)
 - **Dársena (Gobierno)**: Comparte control civil con la Armada Argentina
-- **Damián DiConte**: El detective cuyas evidencias podrían significar conflicto entre Papado y Ejército
-- **Arpistas**: Elementos dentro de su propia red intelectual que preservan conocimiento prohibido (ignora deliberadamente su existencia)
+- **[[damian-diconte|Damián DiConte]]**: El detective cuyas evidencias podrían significar conflicto entre Papado y Ejército
+- **[[arpistas|Arpistas]]**: Elementos dentro de su propia red intelectual que preservan conocimiento prohibido (ignora deliberadamente su existencia)
 
 ## Recursos y Poder
 

@@ -2,13 +2,21 @@
 title: Hermandad Verde
 folder: 1_trasfondo/credos
 description: Ecologismo moderado, reconciliación con naturaleza, mandato divino Anatema.
+aliases:
+  - Hermandad Verde
+  - Ecologistas
 tags:
-  - trasfondo
-  - trasfondo/credos/ecologistas
-  - sociedad/religion
-  - sociedad/ecologismo
-  - facciones/iglesia
-  - lugares/torres-hidroponicas
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[anatema-mecanico]]"
+  - "[[hijos-del-pantano]]"
+  - "[[peronismo]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[microcentro]]"
 ---
 
 **Tipo:** Ideología-credo (vanguardista moderada)
@@ -19,7 +27,7 @@ tags:
 
 ## Vanguardia Ecológica
 
-La Hermandad Verde nació en 2110 como movimiento intelectual de ingenieros agrónomos, biólogos, y técnicos de las Torres Hidropónicas que interpretaron el Anatema Mecánico como mandato ecológico divino. Son vanguardia: jóvenes educados, clase media técnica, devotos católicos que proponen que la fe debe incluir responsabilidad ambiental como sacramento. Su teología es elegante: Dios destruyó la era digital porque la humanidad contaminó la Creación con máquinas. El meteorito de 2030, los incendios globales, el Dominio Algorítmico —todos fueron castigos por arrogancia que envenenó aire, agua, tierra. El retorno forzado a tecnología simple es oportunidad divina para reconciliarse con la naturaleza. Entonces no son radicales protestando en calles; son reformistas trabajando dentro del sistema, proponiendo políticas ambientales, administrando Torres Hidropónicas eficientemente, enseñando ecología en escuelas.
+La Hermandad Verde nació en 2110 como movimiento intelectual de ingenieros agrónomos, biólogos, y técnicos de las Torres Hidropónicas que interpretaron el [[anatema-mecanico|Anatema Mecánico]] como mandato ecológico divino. Son vanguardia: jóvenes educados, clase media técnica, devotos católicos que proponen que la fe debe incluir responsabilidad ambiental como sacramento. Su teología es elegante: Dios destruyó la era digital porque la humanidad contaminó la Creación con máquinas. El meteorito de 2030, los incendios globales, el Dominio Algorítmico —todos fueron castigos por arrogancia que envenenó aire, agua, tierra. El retorno forzado a tecnología simple es oportunidad divina para reconciliarse con la naturaleza. Entonces no son radicales protestando en calles; son reformistas trabajando dentro del sistema, proponiendo políticas ambientales, administrando Torres Hidropónicas eficientemente, enseñando ecología en escuelas.
 
 No están mal vistos. Por el contrario: son admirados. La Iglesia los celebra como ejemplo de juventud devota. El Estado los subsidia porque optimizan producción agrícola. Las familias acomodadas ven con orgullo que hijos se unan. Es ecologismo respetable: suficientemente ortodoxo para no amenazar, suficientemente efectivo para ser útil, suficientemente idealista para inspirar sin incomodar.
 
@@ -51,7 +59,7 @@ Cultivan vegetales en terrazas, patios, sótanos con luz artificial de 48V. Téc
 
 ## Relación con la Iglesia
 
-La Iglesia de Dársena adora a la Hermandad Verde porque son aliados ideológicos perfectos. El ecologismo moderado no cuestiona el Anatema, lo refuerza. No reclama poder político, solo permisos para proyectos ambientales. Sus líderes son devotos católicos que interpretan encíclicas papales sobre ecología (escritas en Viejo Mundo, preservadas en microfilm) con literalidad extrema. Obispos bendicen ceremonias de plantación. La SIA ignora reuniones. El Estado otorga subsidios para mantener Torres Hidropónicas. Es simbiosis institucional.
+La [[iglesia|Iglesia de Dársena]] adora a la Hermandad Verde porque son aliados ideológicos perfectos. El ecologismo moderado no cuestiona el Anatema, lo refuerza. No reclama poder político, solo permisos para proyectos ambientales. Sus líderes son devotos católicos que interpretan encíclicas papales sobre ecología (escritas en Viejo Mundo, preservadas en microfilm) con literalidad extrema. Obispos bendicen ceremonias de plantación. La SIA ignora reuniones. El Estado otorga subsidios para mantener Torres Hidropónicas. Es simbiosis institucional.
 
 Algunos curas de Hermandades Menores son miembros activos. Predican sobre "Cuidado de la Casa Común" (concepto teológico católico), vinculan pecado con contaminación, ofrecen penitencias ecológicas (plantar árbol, reciclar semana entera, ayunar para reducir consumo). Es catolicismo verde que la Curia oficial celebra: finalmente movimiento juvenil que no es herético.
 
@@ -97,7 +105,7 @@ Algunos padres objetan: "¿Para qué enseñarles sobre plantas si van a trabajar
 
 La Hermandad Verde sobrevive porque no amenaza. No ataca corporaciones. No cuestiona modelo económico. No demanda cambios estructurales. Plantan árboles, reciclan basura, predican consumo responsable. Y el Estado los tolera, los subsidia, los celebra como ejemplo de "ciudadanía responsable". Es ecologismo domesticado: suficientemente visible para calmar conciencias, suficientemente inofensivo para ser ignorado cuando molesta.
 
-Pero existe tensión interna. Los radicales (minoría, menos de mil miembros) argumentan que moderación es complicidad. Que mientras la Hermandad planta árboles, las fábricas emiten toneladas de contaminantes diarias. Que el ecologismo que no confronta poder es jardinería, no activismo. Algunos de estos radicales desertan, se unen a Hijos del Pantano (ultra-ecologistas terroristas). Otros se quedan, frustrados, esperando que la Hermandad radicalice algún día.
+Pero existe tensión interna. Los radicales (minoría, menos de mil miembros) argumentan que moderación es complicidad. Que mientras la Hermandad planta árboles, las fábricas emiten toneladas de contaminantes diarias. Que el ecologismo que no confronta poder es jardinería, no activismo. Algunos de estos radicales desertan, se unen a [[hijos-del-pantano|Hijos del Pantano]] (ultra-ecologistas terroristas). Otros se quedan, frustrados, esperando que la Hermandad radicalice algún día.
 
 Los líderes rechazan radicalización. Prefieren plantar mil árboles que mueran a sabotear una fábrica y ser arrestados. Es cálculo: mejor existir imperfectamente que no existir. Entonces la Hermandad Verde sigue plantando, reciclando, predicando. Y Dársena sigue contaminando, destruyendo, creciendo. Y nadie resuelve la contradicción.
 

@@ -2,13 +2,31 @@
 title: "Cursiva Contexto"
 folder: 4_diegesis/relatos
 description: Contexto narrativo y guía de voces para el relato Cursiva.
+aliases:
+  - Cursiva Contexto
 tags:
-  - relato
-  - sor-sofia
-  - sor-catalina
-  - contexto
+  - entidad/relato
+  - alcance/secreto
+  - estado/borrador
+related:
+  - "[[4_diegesis/relatos/cursiva|Cursiva]]"
+  - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
+  - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
+  - "[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]"
+  - "[[3_personajes/principales/padre-rafa|Padre Rafa]]"
+  - "[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]"
+  - "[[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]"
+facciones:
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[zona-militar-eclesiastica]]"
 type: "Cuento Corto"
 status: "En Escritura"
+spoilers:
+  - "El sistema de Iniciados del Faro tiene un costo oculto que Sofía conoce en silencio."
+  - "Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía."
+  - "Sor Catalina está sola en las Tuberías desde hace meses, desoída por su orden."
 ---
 
 ## Contexto de Usuario
@@ -181,20 +199,20 @@ Este es el primer relato de SyV. El lector llega sin contexto. Los siguientes co
 ## Apuntadores
 
 **Personajes**:
-- [Sor Sofía](3_personajes/secundarios/sor-sofia.md)
-- [Madre Superiora María](3_personajes/principales/madre-superiora-maria.md)
-- [Sor Catalina](3_personajes/secundarios/sor-catalina.md)
-- [Padre Rafa](3_personajes/principales/padre-rafa.md)
-- [Monseñor Miguel](3_personajes/principales/monseñor-miguel.md)
+- [[3_personajes/secundarios/sor-sofia|Sor Sofía]]
+- [[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]
+- [[3_personajes/secundarios/sor-catalina|Sor Catalina]]
+- [[3_personajes/principales/padre-rafa|Padre Rafa]]
+- [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]
 
 **Ubicaciones**:
-- [Isla Oriental (Zona Militar Eclesiástica)](2_atlas/ciudades/darsena/zona-militar-eclesiastica.md)
+- [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental (Zona Militar Eclesiástica)]]
 
 **Textos intercalados**:
-- [Carta a Sor Sofía](4_diegesis/cartas/carta-a-sor-sofia.md)
+- [[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]
 
 **Facciones**:
-- [Sagrada Inquisición Argentina](1_trasfondo/facciones/index.md)
+- [[inquisicion|Sagrada Inquisición Argentina]]
 
 ---
 

@@ -3,9 +3,16 @@ title: Verónica Suárez, Camarera
 folder: 3_personajes/secundarios
 description: Camarera que trabaja en una cocina improvisada en los Barrios del Muro
   y organiza charlas con intelectuales y artistas.
+nombre: Verónica Suárez
+aliases:
+  - Verónica Suárez
 tags:
-- barrios-del-muro
+  - entidad/personaje
 facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
+related:
+  - "[[sonia-rodriguez]]"
 ---
 ## Verónica Suárez, Camarera
 
@@ -23,7 +30,7 @@ Es alguien que ha convertido su lugar de trabajo en un centro de ideas.
 
 ### Rol y Posición
 
-Verónica trabaja junto a Sonia Rodríguez en una cocina improvisada en los Barrios del Muro. Además de su trabajo como camarera, organiza charlas y debates con intelectuales y artistas locales.
+Verónica trabaja junto a [[sonia-rodriguez|Sonia Rodríguez]] en una cocina improvisada en los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]. Además de su trabajo como camarera, organiza charlas y debates con intelectuales y artistas locales.
 
 ### Personalidad
 

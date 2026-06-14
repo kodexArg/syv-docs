@@ -2,14 +2,16 @@
 title: Damián DiConte
 folder: 3_personajes/principales
 description: Detective veterano de Córdoba conocido como "El Sabueso", exiliado en Dársena tras descubrir una conspiración en el Ejército.
+nombre: Damián DiConte
+aliases:
+  - Damián DiConte
+  - El Sabueso
+facciones: []
+spoilers:
+  - "Su investigación sobre la conspiración del Ejército en la Iglesia y los motivos de su huida a Dársena."
 tags:
-  - damian-diconte
-  - detective
-  - seguridad-nacional
-  - investigador
-facciones:
-  - "Dirección Nacional de Seguridad"
-alerta-spoilers: "Su investigación sobre la conspiración del Ejército en la Iglesia y los motivos de su huida a Dársena."
+  - entidad/personaje
+  - alcance/secreto
 sidebar:
   order: 10
 ---
@@ -54,13 +56,13 @@ Damián DiConte llegó a Dársena en un avión de carga, bajo la lluvia y con id
 
 <!-- 🔐 (DM) -->
 
-La vida de Damián se rompió en el año **2176**. Investigando los asesinatos rituales de un teólogo y un industrial en Córdoba, tropezó con **La Conspiración**: una facción radical del **Ejército Argentino**, liderada por el **Teniente Coronel Gobernador**, estaba infiltrando la Iglesia para crear una religión militarizada.
+La vida de Damián se rompió en el año **2176**. Investigando los asesinatos rituales de un teólogo y un industrial en Córdoba, tropezó con **La Conspiración**: una facción radical del **[[fuerzas-armadas|Ejército Argentino]]**, liderada por el **[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]**, estaba infiltrando la [[iglesia|Iglesia]] para crear una religión militarizada.
 
 Lo que descubrió no fue solo corrupción, sino un golpe de estado teológico. Las víctimas no eran aleatorias; eran obstáculos en un plan para purgar "herejes" tradicionales y reemplazarlos con dogmas de obediencia marcial. Damián acumuló pruebas en una caja de cartón en su oficina —**La Caja**—: un medallón, un diario codificado, fotos de altares clandestinos.
 
 La advertencia llegó un lunes de madrugada: **"Te buscan"**. Un contacto anónimo en la Iglesia le salvó la vida. Damián huyó con lo puesto —su impermeable, su PDA y el diario codificado— dejando atrás la caja de pruebas, su carrera y su vida.
 
-Ahora en Dársena, Damián sabe que no está a salvo. La Inquisición local, liderada por figuras como la Inquisidora Sofía, lo observa. Él sabe que la conspiración tiene tentáculos que cruzan las fronteras de las ciudades-estado, y que la purga que comenzó en Córdoba podría ser solo el preludio de algo mucho peor. Busca aliados, pero confía en pocos.
+Ahora en Dársena, Damián sabe que no está a salvo. La [[inquisicion|Inquisición]] local, liderada por figuras como la [[sor-sofia|Inquisidora Sofía]], lo observa. Él sabe que la conspiración tiene tentáculos que cruzan las fronteras de las ciudades-estado, y que la purga que comenzó en Córdoba podría ser solo el preludio de algo mucho peor. Busca aliados, pero confía en pocos.
 
 <!-- /🔐 -->
 
@@ -69,7 +71,7 @@ Ahora en Dársena, Damián sabe que no está a salvo. La Inquisición local, lid
 - **Inquisidora Sofía**: Su "comité de bienvenida" en Dársena; una relación tensa de respeto y sospecha mutua.
 - **Teniente Coronel Gobernador de Córdoba**: El arquitecto de su desgracia y su principal antagonista en la sombra.
 - **El Contacto Anónimo**: La voz que le salvó la vida en Córdoba; Damián aún intenta averiguar quién fue.
-- **Paco el Puntero (Fallecido)**: Damián llegó a tener roces con la red de Paco poco después de llegar, antes de la muerte del puntero.
+- **[[paco-el-puntero|Paco el Puntero]] (Fallecido)**: Damián llegó a tener roces con la red de Paco poco después de llegar, antes de la muerte del puntero.
 
 ## Referencias
 

@@ -3,12 +3,18 @@ title: Marcos, el Verdulero
 folder: 3_personajes/secundarios
 description: Verdulero y cervecero de Las Túberías. Fornido, homosexual, propietario
   de establecimiento que vive rodeado de verduras, cerveza y camaradería.
+nombre: Marcos
+aliases:
+  - Marcos
+  - El Verdulero
 tags:
-- comerciante
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Contiene información sobre el uso de tecnología prohibida del período
-  pre-Catástrofe"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+spoilers:
+  - "Usa tecnología prohibida del período pre-Catástrofe."
 ---
 ## Marcos, el Verdulero
 
@@ -26,7 +32,7 @@ La encarnación del placer sin culpa.
 
 ### Rol y Posición
 
-Amo indiscutible de un vagón de metro abandonado que transformó en imperio subterráneo: mitad taberna cervecera, mitad invernadero de subsistencia, mitad gimnasio improvisado. Cultiva verduras que la superficie cree extintas y fermenta cerveza que el mundo superior prohibió. Su establecimiento es el corazón social de su sector de las Túberías—donde se come bien, se bebe mejor, y nadie juzga quién duerme con quién.
+Amo indiscutible de un vagón de metro abandonado que transformó en imperio subterráneo: mitad taberna cervecera, mitad invernadero de subsistencia, mitad gimnasio improvisado. Cultiva verduras que la superficie cree extintas y fermenta cerveza que el mundo superior prohibió. Su establecimiento es el corazón social de su sector de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]—donde se come bien, se bebe mejor, y nadie juzga quién duerme con quién.
 
 ### Personalidad
 

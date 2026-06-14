@@ -2,12 +2,22 @@
 title: Eduardo, Vendedor de Libros
 folder: 3_personajes/secundarios
 description: Comerciante de libros prohibidos y guardián del conocimiento censurado.
+nombre: Eduardo
+aliases:
+  - Eduardo
+  - El Librero de las Sombras
 tags:
-- comerciante
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Su colección incluye textos que desafían la doctrina oficial, lo
-  que lo convierte en objetivo de la Iglesia"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+spoilers:
+  - "Su colección incluye textos que desafían la doctrina oficial, lo que lo convierte en objetivo de la Iglesia y la Inquisición."
 ---
 ## Eduardo, el Librero de las Sombras
 
@@ -25,7 +35,7 @@ Un guardián de verdades peligrosas refugiado entre páginas amarillentas.
 
 ### Rol y Posición
 
-Su tienda es un laberinto de sabiduría prohibida y olvidada, donde los libros censurados por la Iglesia encuentran un último refugio. En un mundo donde el conocimiento es controlado, Eduardo es un punto de resistencia silenciosa.
+Su tienda es un laberinto de sabiduría prohibida y olvidada, donde los libros censurados por la [[iglesia|Iglesia]] encuentran un último refugio. En un mundo donde el conocimiento es controlado, Eduardo es un punto de resistencia silenciosa.
 
 ### Personalidad
 
@@ -43,10 +53,10 @@ Preservar el conocimiento que otros intentan destruir. Cada libro salvado es un 
 Eduardo es un comerciante de libros conocido en las Tuberías. Su tienda es un lugar donde se pueden encontrar textos raros y antiguos, aunque caros.
 <!-- /📖 -->
 <!-- 🔐 (Conocimiento Especializado) -->
-La verdadera naturaleza de su colección es conocida solo por unos pocos: posee textos que desafían abiertamente la doctrina oficial de la Iglesia, tratados científicos prohibidos por el Anatema Mecánico, y documentos históricos que contradicen la narrativa oficial.
+La verdadera naturaleza de su colección es conocida solo por unos pocos: posee textos que desafían abiertamente la doctrina oficial de la Iglesia, tratados científicos prohibidos por el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]], y documentos históricos que contradicen la narrativa oficial.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Eduardo es un aliado valioso para los sedientos de verdad, pero también un objetivo constante para aquellos que desean mantener ciertas verdades ocultas. La Santa Inquisición lo tiene en su radar. Sabe que eventualmente vendrán por él, pero considera que cada día que logra mantener estos libros accesibles es una victoria. Tiene planes de contingencia para distribuir su colección más valiosa si es capturado, asegurando que el conocimiento sobreviva incluso si él no lo hace.
+Eduardo es un aliado valioso para los sedientos de verdad, pero también un objetivo constante para aquellos que desean mantener ciertas verdades ocultas. La [[inquisicion|Santa Inquisición]] lo tiene en su radar. Sabe que eventualmente vendrán por él, pero considera que cada día que logra mantener estos libros accesibles es una victoria. Tiene planes de contingencia para distribuir su colección más valiosa si es capturado, asegurando que el conocimiento sobreviva incluso si él no lo hace.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

@@ -4,19 +4,27 @@ folder: 3_personajes/principales
 description: Teniente Coronel Gobernador Militar de Córdoba, conspirador que lidera
   la infiltración de una facción radical del Ejército en la estructura eclesiástica
   para imponer una religión militarizada.
-tags:
-- cordoba
-- militar
+nombre: Santiago Mendoza Reyes
+aliases:
+  - Coronel Santiago Mendoza Reyes
+  - Teniente Coronel Gobernador
 facciones:
-- "Ejército Argentino (Alto Mando)"
-- "Facción Radical del Ejército (secreta)"
-alerta-spoilers: "Su verdadera conspiración para crear una junta militar-religiosa
-  que subordine a Videla IV. La razón de la persecución de Damián DiConte."
+  - "[[fuerzas-armadas]]"
+related:
+  - "[[videla-iv]]"
+  - "[[damian-diconte]]"
+  - "[[monseñor-miguel]]"
+spoilers:
+  - "Su verdadera conspiración para crear una junta militar-religiosa que subordine a Videla IV."
+  - "La razón de la persecución de Damián DiConte."
+tags:
+  - entidad/personaje
+  - alcance/secreto
 ---
 ## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
 
 **Edad**: 58 años (nacido ~2120)
-**Posición**: Teniente Coronel Gobernador de Córdoba, segundo al mando militar después de Videla IV
+**Posición**: Teniente Coronel Gobernador de Córdoba, segundo al mando militar después de [[videla-iv|Videla IV]]
 **Lugar**: Córdoba
 
 Comandante militar urbano de facto, oficial de seguridad interna y perseguidor de la herejía detectada por el detective DiConte
@@ -38,7 +46,7 @@ Teniente Coronel y Gobernador Militar de Córdoba (puesto creado en 2155 especí
 - Regulación de la Iglesia dentro de Córdoba
 - Investigación de disidencia y "herejía tecnológica"
 
-En realidad, es el epicentro de una conspiración que se extiende a través del Ejército, infiltrando células religiosas clandestinas en monasterios y conventos de Córdoba, y coordinando con contactos de la Iglesia local que comparten su visión de una "Religión Militarizada Pura".
+En realidad, es el epicentro de una conspiración que se extiende a través del [[fuerzas-armadas|Ejército]], infiltrando células religiosas clandestinas en monasterios y conventos de Córdoba, y coordinando con contactos de la Iglesia local que comparten su visión de una "Religión Militarizada Pura".
 
 ### Personalidad
 
@@ -95,7 +103,7 @@ Ambas muertes fueron marcadas con símbolos religiosos distorsionados—una cruz
 
 **Relación con la Iglesia de Córdoba**: Mendoza tiene **contacto selectivo** con elementos radicales del clero local, pero es cuidadoso de no alertar a los obispos principales. Opera fundamentalmente a través de **Sor Beatriz y su red de monjas ideólogas**. La Iglesia oficial de Córdoba NO sabe de su conspiración (aunque algunos sacerdotes individuales sí).
 
-**Relación con Monseñor Miguel y la SIA**: Aquí es donde se vuelve complejo. Mendoza **no tiene contacto directo** con Monseñor Miguel. Sin embargo, ambos comparten una motivación: el miedo de que el Ejército de Córdoba esté subyugando a la Iglesia. Mendoza ve esto como "herejía cívica" que debe corregirse. Si la conspiración fuera descubierta por la SIA, Monseñor Miguel podría verla inicialmente como "contaminación militar", pero eventualmente reconocería que sus objetivos (fortalecer poder eclesiástico) y los de Mendoza (crear junta militar-religiosa) podrían converger. Esto es un riesgo latente.
+**Relación con Monseñor Miguel y la SIA**: Aquí es donde se vuelve complejo. Mendoza **no tiene contacto directo** con [[monseñor-miguel|Monseñor Miguel]]. Sin embargo, ambos comparten una motivación: el miedo de que el Ejército de Córdoba esté subyugando a la Iglesia. Mendoza ve esto como "herejía cívica" que debe corregirse. Si la conspiración fuera descubierta por la SIA, Monseñor Miguel podría verla inicialmente como "contaminación militar", pero eventualmente reconocería que sus objetivos (fortalecer poder eclesiástico) y los de Mendoza (crear junta militar-religiosa) podrían converger. Esto es un riesgo latente.
 
 **El Plan Verdadero (2082-2200)**: Mendoza no busca revolución rápida. Su plan es generacional:
 1. Fase Actual (2176-2180): Purgar "contaminantes ideológicos" (académicos, sacerdotes liberales, industriales cuestionadores)
@@ -107,7 +115,7 @@ Ambas muertes fueron marcadas con símbolos religiosos distorsionados—una cruz
 
 <!-- 🔐☠️ (SPOILER CRÍTICO - DM SOLO) -->
 
-**EVIDENCIA DAMIÁN**: El detective Damián DiConte descubrió la conspiración accidentalmente mientras investigaba los dos asesinatos de 2176. Sus conexiones:
+**EVIDENCIA DAMIÁN**: El detective [[damian-diconte|Damián DiConte]] descubrió la conspiración accidentalmente mientras investigaba los dos asesinatos de 2176. Sus conexiones:
 
 1. **Los símbolos religiosos distorsionados** en los cuerpos fueron el primer clue
 2. **El patrón de infiltración militar** en instituciones religiosas (que Damián mapeo mediante documentos incautados)

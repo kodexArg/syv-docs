@@ -2,12 +2,24 @@
 title: Hermandades Católicas
 folder: 1_trasfondo/credos
 description: Variantes locales, órdenes internas de la Iglesia Católica, toleradas.
+aliases:
+  - Hermandades Católicas
+  - Hermandades y Órdenes Católicas
+  - Hermandades Menores
 tags:
-  - trasfondo
-  - trasfondo/credos/hermandades-y-ordenes-catolicas
-  - sociedad/religion
-  - facciones/iglesia
-  - facciones/inquisicion
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[congregacion-caridad-divina]]"
+  - "[[fuerzas-armadas]]"
+  - "[[anatema-mecanico]]"
+  - "[[2061-el-gran-silencio]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[barrios-del-muro]]"
 ---
 
 ## Hermandades Menores
@@ -37,7 +49,7 @@ La Iglesia oficial las tolera porque son extensión práctica de su poder donde 
 
 La SIA no es credo; es institución. Pero funciona como orden religiosa con votos, jerarquía, y teología propia. Sus miembros —los Cirujanos del Alma— juran celibato, obediencia absoluta al Gran Inquisidor, y dedicación total a la caza de herejía tecnológica. Visten sotanas negras con cruces rojas, portan rifles Gauss bendecidos, operan con autoridad que supera la de obispos. Tienen seminarios propios donde forman inquisidores desde los doce años: niños reclutados de familias devotas, educados en teología, derecho canónico, técnicas de interrogatorio, y reconocimiento de tecnología prohibida.
 
-La teología inquisitorial es severa: el Anatema Mecánico es sacramento de supervivencia, las QIA fueron demonios encarnados, cualquier desviación tecnológica es pecado mortal. Celebran el 12 de marzo (Gran Silencio) como festividad sagrada con vigilias que duran 24 horas, queman efigies de computadoras en plazas públicas, procesan herejes en juicios que combinan ritual litúrgico con terror ejemplar. No perdonan. No negocian. Son guardians del Anatema, convencidos de que una sola computadora reactivada podría despertar a las QIA dormidas.
+La teología inquisitorial es severa: el [[anatema-mecanico|Anatema Mecánico]] es sacramento de supervivencia, las QIA fueron demonios encarnados, cualquier desviación tecnológica es pecado mortal. Celebran el 12 de marzo ([[2061-el-gran-silencio|Gran Silencio]]) como festividad sagrada con vigilias que duran 24 horas, queman efigies de computadoras en plazas públicas, procesan herejes en juicios que combinan ritual litúrgico con terror ejemplar. No perdonan. No negocian. Son guardians del Anatema, convencidos de que una sola computadora reactivada podría despertar a las QIA dormidas.
 
 **Prácticas distintivas:**
 - Voto de celibato y pobreza personal (la orden acumula riqueza inmensa)
@@ -71,7 +83,7 @@ Pero la caridad tiene precio. Los huérfanos son evangelizados intensamente, bau
 **Área de influencia:** Nacional (dentro de CUFAC)
 **Miembros estimados:** 800 capellanes
 
-Sacerdotes que sirven en las Fuerzas Armadas. Bendicen rifles, confiesan soldados antes de combate, ofician misas en portaaviones y cuarteles, administran última unción en campos de batalla. Visten sotana militar (gris con cruz blanca), portan armas defensivas (pistolas de 48V), acompañan tropas en operaciones. No son combatientes pero mueren en combate. Su teología es marcial: Dios favorece al justo en guerra, el soldado que muere defendiendo la Confederación es mártir, el enemigo derrotado es castigado divinamente.
+Sacerdotes que sirven en las [[fuerzas-armadas|Fuerzas Armadas]]. Bendicen rifles, confiesan soldados antes de combate, ofician misas en portaaviones y cuarteles, administran última unción en campos de batalla. Visten sotana militar (gris con cruz blanca), portan armas defensivas (pistolas de 48V), acompañan tropas en operaciones. No son combatientes pero mueren en combate. Su teología es marcial: Dios favorece al justo en guerra, el soldado que muere defendiendo la Confederación es mártir, el enemigo derrotado es castigado divinamente.
 
 La Orden de San Miguel es puente entre Iglesia y CUFAC. Cuando generales conspiran contra obispos, capellanes median. Cuando la Iglesia necesita información militar, capellanes informan. Son espías bidireccionales: leales a Dios y a la cadena de mando, atrapados entre dos autoridades que no siempre coinciden. Algunos resuelven el dilema con fe ciega. Otros con cinismo funcional. Los más honestos sufren crisis que los llevan a alcoholismo discreto y confesiones que nadie escucha.
 

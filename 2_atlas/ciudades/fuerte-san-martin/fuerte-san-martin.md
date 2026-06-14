@@ -2,18 +2,22 @@
 title: Fuerte San Martin
 folder: 2_atlas/ciudades/fuerte-san-martin
 description: Fuerte San Martín
+aliases:
+  - Fuerte San Martín
+  - FSM
+region: Nueva Pampa
 tags:
-- fuerte-san-martin
-- fsm
-- atlas
-- nueva-pampa
-- comercio-aereo
-- manufactura
-- terrateniente
-- agricultura
-- pobreza-urbana
-- transformacion-climatica
-
+  - entidad/ubicacion
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[inquisicion|SIA]]"
+  - "[[humedad-post-guerra]]"
+ubicaciones:
+  - "[[capital|Córdoba]]"
+  - "[[darsena]]"
+  - "[[mendoza]]"
 ---
 Fuerte San Martín es la ciudad de la transformación. Ubicada en la región cuyana, históricamente árida y semidesértica, FSM fue **literalmente reimaginada por la humedad post-guerra**. De un páramo seco donde la agricultura era marginal, se convirtió en la **Nueva Pampa**: región fértil que produce alimento y manufacturas en volúmenes que rivalizan con Córdoba. Su inmenso **Aeropuerto Internacional** (heredado de la antigua Gobernador Francisco Gabrielli) la convierte en nudo de comercio aéreo de toda la Confederación. Sin embargo, este boom económico ha creado una paradoja devastadora: familias terratenientes enriquecidas conviven con una clase trabajadora urbana empobrecida y resentida, desplazada del campo y sin oportunidades en la ciudad.
 

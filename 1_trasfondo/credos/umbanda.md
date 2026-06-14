@@ -2,12 +2,25 @@
 title: Umbanda
 folder: 1_trasfondo/credos
 description: Sincretismo afro, catolicismo, espiritismo, yoruba, proscrita, dominante Barrios.
+aliases:
+  - Umbanda (credo)
 tags:
-  - trasfondo
-  - credos
-  - umbanda
-  - sincretismo
-  - barrios-del-muro
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[los-umbanda]]"
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[guarani]]"
+  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]"
+  - "[[san-la-muerte]]"
+  - "[[iglesia-maradoniana]]"
+  - "[[hijos-del-pantano]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
 ---
 
 **Tipo:** Proscrito
@@ -82,7 +95,7 @@ La más extrema y sincrética. Incorpora elementos tecnológicos prohibidos: ofr
 
 **IMPORTANTE:** Umbanda es el CREDO (sistema de creencias). Cualquiera puede practicar Umbanda: abuelas que rezan a Iemanjá, mecánicos que ofrendan a Ogún, prostitutas que consultan mães de santo.
 
-**Los Umbanda** es la FACCIÓN: red clandestina organizada con agenda política, estructura jerárquica de pais y mães de santo coordinados, recursos para contrabando y protección de terreiros. No todos los umbandistas pertenecen a la facción. Pero todos los miembros de la facción practican el credo.
+[[los-umbanda|**Los Umbanda**]] es la FACCIÓN: red clandestina organizada con agenda política, estructura jerárquica de pais y mães de santo coordinados, recursos para contrabando y protección de terreiros. No todos los umbandistas pertenecen a la facción. Pero todos los miembros de la facción practican el credo.
 
 ---
 

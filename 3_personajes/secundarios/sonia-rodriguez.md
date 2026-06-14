@@ -3,13 +3,17 @@ title: Sonia Rodríguez, Cocinera y Dueña
 folder: 3_personajes/secundarios
 description: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su
   generosidad con los necesitados.
+nombre: Sonia Rodríguez
+aliases:
+  - Sonia Rodríguez
 tags:
-- comerciante
-- resistencia
-- barrios-del-muro
-facciones:
-- "La Resistencia"
-alerta-spoilers: "Sus vínculos con la Resistencia."
+  - entidad/personaje
+  - alcance/secreto
+facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
+spoilers:
+  - "Sus vínculos con la Resistencia."
 ---
 ## Sonia Rodríguez, Cocinera y Dueña
 
@@ -27,7 +31,7 @@ Es alguien que ha convertido su humilde cantina en un refugio para los olvidados
 
 ### Rol y Posición
 
-Sonia dirige una pequeña cantina en los Barrios del Muro donde sirve platos a los locales. Su establecimiento es conocido tanto por su comida como por su ambiente acogedor.
+Sonia dirige una pequeña cantina en los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] donde sirve platos a los locales. Su establecimiento es conocido tanto por su comida como por su ambiente acogedor.
 
 ### Personalidad
 
@@ -44,7 +48,7 @@ Sonia Rodríguez es conocida en los Barrios del Muro como la dueña de una canti
 <!-- /📖 -->
 
 <!-- 🔐☠️ (DM) -->
-En secreto, Sonia mantiene vínculos activos con La Resistencia. Su cantina actúa como punto de encuentro y refugio para activistas, y ella facilita información y recursos a la red de resistencia. Si su afiliación fuera descubierta, tanto por la SIA como por las autoridades locales, enfrentaría persecución inmediata.
+En secreto, Sonia mantiene vínculos activos con [[resistencia-subterranea|La Resistencia]]. Su cantina actúa como punto de encuentro y refugio para activistas, y ella facilita información y recursos a la red de resistencia. Si su afiliación fuera descubierta, tanto por la SIA como por las autoridades locales, enfrentaría persecución inmediata.
 <!-- /🔐☠️ -->
 
 ## Conexiones Importantes

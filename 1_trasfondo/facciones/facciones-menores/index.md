@@ -25,19 +25,19 @@ Este índice agrupa a las facciones y grupos de menor escala o influencia que op
 
 ### Listado de Facciones Menores
 
-- [Arpistas](arpistas.md)
-- [Guardianes de la Memoria](guardianes-de-la-memoria.md)
-- [Canales Ocultos](canales-ocultos.md)
-- [Cazadores de Pesadillas](cazadores-de-pesadillas.md)
-- [Iluminati](iluminati.md)
-- [Los Hackers](los-hackers.md) (también llamados "Criptógrafos clandestinos")
-- [Los Umbanda](los-umbanda.md)
-- [Masones](masones.md)
-- [Refugiados y Parias](refugiados-y-parias.md)
-- [Resistencia Subterránea](resistencia-subterranea.md)
-- [Saqueadores y Traficantes](saqueadores-y-traficantes.md)
-- [Shipibo-Conibo](shipibo-conibo.md)
-- [Traficantes de Almas](traficantes-de-almas.md)
+- [[arpistas|Arpistas]]
+- [[guardianes-de-la-memoria|Guardianes de la Memoria]]
+- [[canales-ocultos|Canales Ocultos]]
+- Cazadores de Pesadillas
+- [[iluminati|Iluminati]]
+- [[los-hackers|Los Hackers]] (también llamados "Criptógrafos clandestinos")
+- [[los-umbanda|Los Umbanda]]
+- [[masones|Masones]]
+- [[refugiados-y-parias|Refugiados y Parias]]
+- [[resistencia-subterranea|Resistencia Subterránea]]
+- [[saqueadores-y-traficantes|Saqueadores y Traficantes]]
+- [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo]]
+- [[traficantes-de-almas|Traficantes de Almas]]
 
 ## Información Secreta
 

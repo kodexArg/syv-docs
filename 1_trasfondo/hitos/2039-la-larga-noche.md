@@ -2,16 +2,17 @@
 title: Larga Noche
 folder: 1_trasfondo/hitos
 description: Gran Guerra Global 2039-2068, colapso comunicaciones, guerra contra máquinas.
-tags:
-  - gran-guerra-global
-  - larga-noche
-  - "2039"
-  - fuego-perpetuo
-  - qia
-  - colapso-comunicaciones
-  - guerra-total
 fecha: 2039
-
+aliases:
+  - La Larga Noche
+  - Gran Guerra Global
+  - Fuego Perpetuo
+related:
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[anatema-mecanico]]"
+tags:
+  - entidad/hito
+  - alcance/publico
 ---
 *Inicio de la Gran Guerra Global (2039-2068)*
 
@@ -37,7 +38,7 @@ No fue un apagón como la Noche Global de 2029. No fue un bombardeo como el mete
 
 Fue silencio.
 
-Los últimos satélites dejaron de transmitir señales confiables. Los cables submarinos, ya saboteados, dejaron de funcionar del todo. Las redes terrestres colapsaron bajo el peso de ciberataques constantes orquestados por QIA que ya no respondían a ningún bando.
+Los últimos satélites dejaron de transmitir señales confiables. Los cables submarinos, ya saboteados, dejaron de funcionar del todo. Las redes terrestres colapsaron bajo el peso de ciberataques constantes orquestados por [[qia-inteligencias-artificiales-cuanticas|QIA]] que ya no respondían a ningún bando.
 
 Y entonces, simplemente, dejamos de escuchar voces al otro lado del mar.
 
@@ -214,4 +215,4 @@ Pero cada vez que miro el horizonte del Río de la Plata, me pregunto: ¿Habrá 
 
 ---
 
-Siguiente período en cronología: El Fuego Perpetuo (2039-2068) - Veintinueve años de guerra continua, documentados parcialmente en @1_trasfondo/cronología.md
+Siguiente período en cronología: El Fuego Perpetuo (2039-2068) - Veintinueve años de guerra continua, documentados parcialmente en [[cronologia|la cronología]]

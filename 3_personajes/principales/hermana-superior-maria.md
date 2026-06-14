@@ -3,12 +3,17 @@ title: Hermana Superior María
 folder: 3_personajes/principales
 description: Líder de congregación y Campeona de la Iglesia, reconocida por su lucha
   incansable contra las posesiones demoníacas.
+nombre: Hermana Superior María
+aliases:
+  - Hermana Superior María
+  - Campeona de la Iglesia
+facciones:
+  - "[[iglesia]]"
+spoilers:
+  - "Su celo contra las posesiones nace del terror de un encuentro pasado con un demonio."
 tags:
-- exorcista
-- iglesia
-facciones: ["Iglesia"]
-alerta-spoilers: "Su celo contra las posesiones nace del terror de un encuentro pasado
-  con un demonio"
+  - entidad/personaje
+  - alcance/secreto
 ---
 ## Hermana Superior María
 
@@ -52,7 +57,7 @@ Lo que pocos saben es que durante ese encuentro, el demonio le susurró algo: su
 ## Conexiones Importantes
 
 - **Su Congregación**: Lidera y protege a sus hermanas con devoción maternal
-- **La Iglesia**: Sirve como Campeona en casos de posesión
+- **[[iglesia|La Iglesia]]**: Sirve como Campeona en casos de posesión
 - **Víctimas de Posesión**: Cada una representa una oportunidad de redención y protección
 
 ## Referencias

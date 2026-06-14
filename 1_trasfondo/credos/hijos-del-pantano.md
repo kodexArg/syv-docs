@@ -2,13 +2,25 @@
 title: Hijos del Pantano
 folder: 1_trasfondo/credos
 description: Ultra-ecologismo radical terrorista, sabotaje industrial, humanidad como plaga.
+aliases:
+  - Hijos del Pantano
+  - Los Hijos del Pantano
 tags:
-  - trasfondo
-  - trasfondo/credos/hijos-del-pantano
-  - sociedad/religion
-  - sociedad/extremismo
-  - facciones/inquisicion
-  - lugares/riachuelo
+  - entidad/credo
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[inquisicion]]"
+  - "[[iglesia]]"
+  - "[[ecologistas]]"
+  - "[[peronismo]]"
+  - "[[anatema-mecanico]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+spoilers:
+  - "El liderazgo es un Consejo de Cinco de identidades secretas que se comunican por mensajeros."
+  - "Su objetivo real es el colapso demográfico de la humanidad mediante sabotaje de infraestructura alimentaria."
 ---
 
 **Tipo:** Ideología-credo (extremista)
@@ -19,7 +31,7 @@ tags:
 
 ## Profetas del Colapso
 
-Los Hijos del Pantano son lo que la Hermandad Verde niega ser: fanáticos. Quinientos militantes organizados en células de acción directa, operando desde los márgenes contaminados del Riachuelo y zonas muertas donde el Estado no patrulla. Su teología es apocalíptica: la humanidad es plaga que debe ser reducida drásticamente para que la Tierra sobreviva. El Anatema Mecánico fue insuficiente; eliminó tecnología digital pero permitió industria contaminante, agricultura intensiva, superpoblación urbana que sigue devorando recursos. Entonces ellos completan la obra que Dios o la naturaleza (no distinguen claramente) comenzó: forzar reducción demográfica mediante sabotaje.
+Los Hijos del Pantano son lo que la [[ecologistas|Hermandad Verde]] niega ser: fanáticos. Quinientos militantes organizados en células de acción directa, operando desde los márgenes contaminados del Riachuelo y zonas muertas donde el Estado no patrulla. Su teología es apocalíptica: la humanidad es plaga que debe ser reducida drásticamente para que la Tierra sobreviva. El Anatema Mecánico fue insuficiente; eliminó tecnología digital pero permitió industria contaminante, agricultura intensiva, superpoblación urbana que sigue devorando recursos. Entonces ellos completan la obra que Dios o la naturaleza (no distinguen claramente) comenzó: forzar reducción demográfica mediante sabotaje.
 
 Su nombre viene de hábitat: el Riachuelo y pantanos mutados que rodean Dársena. Aguas negras donde nada vivo del Viejo Mundo sobrevive, donde plantas mutadas crecen con anatomía imposible (tres tallos, flores que brillan en oscuridad, raíces que filtran metales pesados). Los Hijos consideran estos pantanos sagrados: tierra que la humanidad destruyó pero que se regenera sola, probando que naturaleza es más fuerte. Viven en chozas de chapa sobre pilotes, se alimentan de peces mutados (tóxicos para consumo humano pero que ellos comen igual, desarrollando resistencias o muriendo jóvenes), beben agua filtrada con técnicas primitivas que a veces fallan.
 
@@ -31,7 +43,7 @@ La doctrina es nihilista con barniz ecológico:
 No metafóricamente. Literalmente. Crecimiento poblacional es tumor que consume planeta hasta matarlo. Las ciudades son metástasis. La industria es toxina. La única cura es reducción radical: de 5 millones en Dársena a 500,000. De 8 mil millones globales pre-colapso a 800 millones. El 90% debe morir o dejar de nacer.
 
 **2. Tecnología es herejía, incluso la permitida.**
-El Anatema prohibió computadoras pero permitió electricidad, mecánica compleja, Torres Hidropónicas. Los Hijos argumentan que eso no basta. Toda tecnología post-neolítica es corrupción. Deben regresar a cazadores-recolectores. Agricultura es el pecado original: cultivar tierra destruye ecosistemas, crea excedentes que permiten crecimiento demográfico.
+El [[anatema-mecanico|Anatema]] prohibió computadoras pero permitió electricidad, mecánica compleja, Torres Hidropónicas. Los Hijos argumentan que eso no basta. Toda tecnología post-neolítica es corrupción. Deben regresar a cazadores-recolectores. Agricultura es el pecado original: cultivar tierra destruye ecosistemas, crea excedentes que permiten crecimiento demográfico.
 
 **3. Muerte es bendición.**
 No temen muerte. La celebran. Cada humano que muere libera recursos para otras especies. Entonces no matan directamente (aún), pero sabotean infraestructura que sostiene vida: envenenan cultivos hidropónicos con químicos que matan plantas, destruyen depósitos de alimentos, sabotean sistemas de purificación de agua. Las hambrunas resultantes son "correcciones naturales".
@@ -68,7 +80,7 @@ Los mensajes aterrorizan porque son genuinos. No demandan dinero. No negocian. N
 
 ## Persecución y Resiliencia
 
-La Iglesia los persigue con furia porque son herejía ecológica: mientras el catolicismo predica que Creación existe para servir humanidad (bajo administración responsable), los Hijos predican que humanidad es cáncer. Peor: reclutan en Barrios del Muro entre jóvenes desesperados, prometiendo propósito trascendente. La SIA los infiltra, los arresta, los tortura hasta obtener nombres de células. Seguridad Nacional los cataloga como terroristas nivel máximo.
+La [[iglesia|Iglesia]] los persigue con furia porque son herejía ecológica: mientras el catolicismo predica que Creación existe para servir humanidad (bajo administración responsable), los Hijos predican que humanidad es cáncer. Peor: reclutan en Barrios del Muro entre jóvenes desesperados, prometiendo propósito trascendente. La SIA los infiltra, los arresta, los tortura hasta obtener nombres de células. Seguridad Nacional los cataloga como terroristas nivel máximo.
 
 Pero siguen operando porque el Riachuelo —su base principal— es laberinto tóxico donde patrullas no entran sin trajes de protección. El aire es irrespirable (gases de desechos industriales, vapores químicos, metano de materia orgánica pudriéndose). El agua quema piel al contacto. Los pantanos son trampa mortal: fango que succiona, aguas profundas ocultas bajo vegetación, fauna mutada agresiva. Los Hijos conocen cada sendero seguro, cada refugio elevado, cada ruta de escape. Seguridad Nacional envía operativos. Regresan con bajas o no regresan.
 

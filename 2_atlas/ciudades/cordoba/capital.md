@@ -2,11 +2,18 @@
 title: Capital
 folder: 2_atlas/ciudades/cordoba
 description: República Autónoma de Córdoba
+aliases:
+- Capital
+- República Autónoma de Córdoba
+- Córdoba
+region: Córdoba
 tags:
-- cordoba
-- ciudad-estado
-- confederacion
-- atlas
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[iglesia]]"
+- "[[fuerzas-armadas]]"
 sidebar:
   order: 999
 
@@ -59,7 +66,7 @@ Esta división no es accidente. Es cálculo deliberado de Videla. La clase traba
 
 El poder está centralizado en la figura del Presidente, actualmente **Videla IV**, cuarto heredero de la dinastía fundacional. No hay elecciones. Hay sucesión. El mando se transmite de padre a hijo como sacramento genético.
 
-Córdoba es también sede de todo el **alto mando del Ejército y la Fuerza Aérea** de la Confederación. Esto le otorga control casi total sobre las fuerzas terrestres y aéreas de la alianza. Los generales cordobeses mueven ejércitos confederados como piezas de ajedrez. Dársena controla la Armada, pero no puede proyectar poder más allá de la costa. Córdoba puede aplastar ciudades tierra adentro.
+Córdoba es también sede de todo el [[fuerzas-armadas|alto mando del Ejército y la Fuerza Aérea]] de la Confederación. Esto le otorga control casi total sobre las fuerzas terrestres y aéreas de la alianza. Los generales cordobeses mueven ejércitos confederados como piezas de ajedrez. Dársena controla la Armada, pero no puede proyectar poder más allá de la costa. Córdoba puede aplastar ciudades tierra adentro.
 
 Esta concentración de poder militar es fuente constante de tensión con Dársena. Ambas potencias se miran con desconfianza diplomática. Cada reunión del Consejo Confederal es danza de cuchillos envueltos en terciopelo protocolar.
 
@@ -67,7 +74,7 @@ Esta concentración de poder militar es fuente constante de tensión con Dársen
 
 El sistema judicial cordobés es modelo acusatorio adversarial. Los juicios son llevados a cabo por abogados civiles —fiscal y defensor— asignados de forma pública y aleatoria. El derecho a la autodefensa raramente se concede. La eficiencia del sistema se prioriza sobre las libertades individuales.
 
-La **Iglesia** no dicta sentencias, pero su papel es crucial como **guía moral y árbitro de la verdad** en casos complejos. Cuando la evidencia es ambigua, el testimonio de un sacerdote puede inclinar la balanza. Su palabra tiene peso de dogma. Los jueces escuchan. Los acusados tiemblan.
+La [[iglesia|Iglesia]] no dicta sentencias, pero su papel es crucial como **guía moral y árbitro de la verdad** en casos complejos. Cuando la evidencia es ambigua, el testimonio de un sacerdote puede inclinar la balanza. Su palabra tiene peso de dogma. Los jueces escuchan. Los acusados tiemblan.
 
 Este modelo genera una sociedad donde la fe es robusta pero menos temerosa que en Dársena. La Iglesia en Córdoba aconseja. En Dársena, decreta. La diferencia es sutil pero profunda.
 

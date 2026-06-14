@@ -3,11 +3,20 @@ title: Subcomisario Iván Méndez
 folder: 3_personajes/secundarios
 description: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado
   en operaciones de alto riesgo.
-tags: []
-facciones:
-- "Policía de la Ciudad"
-- "Unidad de Respuesta Táctica Urbana (RTU)"
-alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad."
+nombre: Iván Méndez
+aliases:
+  - Subcomisario Iván Méndez
+  - Iván Méndez
+tags:
+  - entidad/personaje
+  - alcance/secreto
+facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+related:
+  - "[[agente-luis-navarro]]"
+spoilers:
+  - "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad."
 ---
 ## Subcomisario Iván Méndez
 
@@ -25,7 +34,7 @@ Es alguien que ha visto demasiado y se niega a convertirse en parte del problema
 
 ### Rol y Posición
 
-El Subcomisario Iván Méndez es el líder de un equipo en la Unidad de Respuesta Táctica Urbana (RTU), encargado de operaciones de alto riesgo en las zonas más peligrosas de la ciudad.
+El Subcomisario Iván Méndez es el líder de un equipo en la [[rtu|Unidad de Respuesta Táctica Urbana (RTU)]], encargado de operaciones de alto riesgo en las zonas más peligrosas de [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]].
 
 ### Personalidad
 
@@ -47,5 +56,5 @@ Su principal motivación es prevenir el abuso de poder que observa dentro de las
 
 ## Conexiones Importantes
 
-- **Agente Luis Navarro**: Subordinado o colega
+- **[[agente-luis-navarro|Agente Luis Navarro]]**: Subordinado o colega
 - **Unidad RTU**: Su equipo de operaciones tácticas

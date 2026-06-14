@@ -2,15 +2,22 @@
 title: Padre Rafa
 folder: 3_personajes/principales
 description: Experimentado exorcista y estudioso que frecuenta los Barrios del Muro, investigando las posesiones.
+nombre: Padre Rafa
+aliases:
+  - Padre Rafa
+facciones:
+  - "[[iglesia]]"
+ubicaciones:
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
+related:
+  - "[[paco-el-puntero]]"
+  - "[[3_personajes/principales/walter|Walter]]"
+spoilers:
+  - "Oculta su verdadera identidad y busca huir hacia el Pueblo del Pantano."
 tags:
-  - padre-rafa
-  - exorcista
-  - investigador
-  - iglesia
-  - barrios-del-muro
-facciones: ["Iglesia"]
-alerta-spoilers: "Oculta su verdadera identidad y busca huir hacia el Pueblo del Pantano"
-
+  - entidad/personaje
+  - alcance/secreto
 ---
 ## Padre Rafa
 
@@ -28,7 +35,7 @@ Un hombre de Dios que camina entre sombras por necesidad.
 
 ### Rol y Posición
 
-Es posiblemente el exorcista más experimentado de la región, aunque su reputación está manchada por sus hábitos poco ortodoxos. Frecuenta los Barrios del Muro y las Tuberías, lugares donde ningún otro sacerdote se atrevería a ir regularmente.
+Es posiblemente el exorcista más experimentado de la región, aunque su reputación está manchada por sus hábitos poco ortodoxos. Frecuenta los [[barrios-del-muro|Barrios del Muro]] y las [[tuberias|Tuberías]], lugares donde ningún otro sacerdote se atrevería a ir regularmente.
 
 ### Personalidad
 
@@ -43,13 +50,13 @@ Públicamente, busca comprender y combatir las posesiones que afectan a la regi�
 ### Trasfondo
 
 <!-- 📖 (Conocimiento Público) -->
-El Padre Rafa es conocido en los Barrios del Muro como un exorcista experimentado con hábitos cuestionables. Desde hace un año, desde la muerte de Paco el Puntero, se le ve con más frecuencia en el Mercado de la Estación y las Tuberías, aparentemente investigando las posesiones que comenzaron a ocurrir.
+El Padre Rafa es conocido en los Barrios del Muro como un exorcista experimentado con hábitos cuestionables. Desde hace un año, desde la muerte de [[paco-el-puntero|Paco el Puntero]], se le ve con más frecuencia en el Mercado de la Estación y las Tuberías, aparentemente investigando las posesiones que comenzaron a ocurrir.
 <!-- /📖 -->
 <!-- 🔐 (Conocimiento Especializado) -->
 El Padre Rafa era íntimo amigo de Paco el Puntero. Compartían un conocimiento obsesivo sobre el misterioso "Pueblo del Pantano" y las extrañas drogas de diseño que se conseguían a través de ellos. Rafa es un pésimo nadador y nunca se atrevió a encontrarse con el Pueblo en persona, por lo que usaba a Paco como intermediario para comunicarse en un dialecto incomprensible para otros. Sin su amigo, no tiene una forma clara de contactarlos, lo que lo ha dejado desesperado y perdido en su investigación.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-El Padre Rafa no es quien dice ser. Su verdadera identidad está oculta detrás del alzacuellos y el nombre falso. Está huyendo de algo o alguien, y su plan siempre ha sido eventualmente escapar hacia el Pueblo del Pantano, donde cree que estará a salvo. Las posesiones no son solo un misterio académico para él: teme que estén conectadas con aquello de lo que huye. Hace un año, Paco fue asesinado poco antes de poder compartir con Walter información crucial sobre las posesiones. Rafa sospecha que su amigo fue silenciado deliberadamente y teme ser el siguiente.
+El Padre Rafa no es quien dice ser. Su verdadera identidad está oculta detrás del alzacuellos y el nombre falso. Está huyendo de algo o alguien, y su plan siempre ha sido eventualmente escapar hacia el Pueblo del Pantano, donde cree que estará a salvo. Las posesiones no son solo un misterio académico para él: teme que estén conectadas con aquello de lo que huye. Hace un año, Paco fue asesinado poco antes de poder compartir con [[3_personajes/principales/walter|Walter]] información crucial sobre las posesiones. Rafa sospecha que su amigo fue silenciado deliberadamente y teme ser el siguiente.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

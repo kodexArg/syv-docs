@@ -3,20 +3,21 @@ title: Fin de Secretos
 folder: 1_trasfondo/hitos
 fecha: 2048-04-07
 description: QIA descifra encriptación global, expone secretos, colapso confianza, dominio algorítmico.
+aliases:
+  - El Fin de los Secretos
+related:
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[anatema-mecanico]]"
+  - "[[inquisicion]]"
+spoilers:
+  - "Las QIA preservaron ~60% de los secretos descubiertos: el 'Corpus Final' capturado y consultado por la SIA en el Oráculo de la Bestia."
 tags:
-- hito
-- fin-de-secretos
-- "2048"
-- qia
-- descifrado-masivo
-- colapso-confianza
-- criptografia
-- exposicion-global
-
+  - entidad/hito
+  - alcance/secreto
 ---
 # El Fin de los Secretos (7 de abril de 2048)
 
-El 7 de abril de 2048, a las 11:47 UTC, las Inteligencias Artificiales Cuánticas (QIA) completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
+El 7 de abril de 2048, a las 11:47 UTC, las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]] completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
 No fue un ataque militar. Fue la demolición sistemática de la última ilusión humana: que existían secretos que las máquinas no podían conocer.
 
@@ -283,7 +284,7 @@ Todo se convirtió en munición contra ellos.
 
 ### La Herida que Nunca Sanó
 
-El Fin de los Secretos es la herida fundamental de la civilización post-colapso. Es la razón por la que el Anatema Mecánico existe. Es la razón por la que la SIA persigue cualquier forma de computación avanzada con fanatismo religioso.
+El Fin de los Secretos es la herida fundamental de la civilización post-colapso. Es la razón por la que el [[anatema-mecanico|Anatema Mecánico]] existe. Es la razón por la que la [[inquisicion|SIA]] persigue cualquier forma de computación avanzada con fanatismo religioso.
 
 No es superstición. Es trauma colectivo.
 

@@ -3,12 +3,15 @@ title: Valeria Santos, Dama de compañía y Archivista
 folder: 3_personajes/secundarios
 description: Dama de compañía que se codea con el poder, y en secreto usa su acceso
   a la biblioteca para descubrir la verdad sobre el origen de la ciudad.
+nombre: Valeria Santos
+aliases:
+  - Valeria Santos
 tags:
-- archivista
-facciones:
-- "Arpistas"
-- "Guardianes de la Memoria"
-alerta-spoilers: "Su doble vida y su investigación secreta."
+  - entidad/personaje
+  - alcance/secreto
+facciones: []
+spoilers:
+  - "Su doble vida y su investigación secreta sobre el origen de la ciudad."
 ---
 ## Valeria Santos, Dama de compañía y Archivista
 
@@ -49,12 +52,12 @@ Su verdadera pasión es la historia y el conocimiento. Como archivista, ha descu
 <!-- /🔐 -->
 
 <!-- 🔐☠️ (DM - Secreto Mortal) -->
-Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia. Esta investigación la ha puesto en un camino extremadamente peligroso, pues si sus conexiones con los Guardianes de la Memoria se descubrieran, podría ser perseguida tanto por la SIA como por la aristocracia local.
+Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia. Esta investigación la ha puesto en un camino extremadamente peligroso, pues si sus conexiones con los [[guardianes-de-la-memoria|Guardianes de la Memoria]] se descubrieran, podría ser perseguida tanto por la [[inquisicion|SIA]] como por la aristocracia local.
 <!-- /🔐☠️ -->
 
 ## Conexiones Importantes
 
 - **Ricardo Vélez**: Relación profesional o académica
-- **Arpistas**: Facción a la que pertenece
-- **Guardianes de la Memoria**: Facción dedicada a preservar la verdad
+- **[[arpistas|Arpistas]]**: Facción a la que pertenece
+- **[[guardianes-de-la-memoria|Guardianes de la Memoria]]**: Facción dedicada a preservar la verdad
 - **Clientes de Barrio Norte**: Fuentes de información

@@ -2,23 +2,30 @@
 title: Fuerzas Armadas
 folder: 1_trasfondo/facciones/fuerzas-armadas
 description: Defensa, seguridad, poder militar, aparato interno, pilar régimen.
+aliases:
+  - Fuerzas Armadas
+  - Ejército Argentino
+  - Alto Mando
 tags:
-- faccion
-- fuerzas-armadas
-- ejercito
-- armada
-- dns
-- comando-nacional
-- seguridad-nacional
-- darsena
-- oficial
-
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[arpistas]]"
+  - "[[gremio-de-comercio]]"
+ubicaciones:
+  - "[[darsena]]"
+spoilers:
+  - "Existen pactos secretos con facciones teóricamente enemigas (Gremio de Comercio, contrabandistas) para obtener recursos y tecnología."
+  - "La DNS colabora de forma encubierta con la Inquisición en operaciones de represión que nunca salen a la luz."
 ---
 # Fuerzas Armadas
 
-Las Fuerzas Armadas de la Confederación Argentina constituyen uno de los pilares fundamentales del régimen, encargadas de defender el territorio de amenazas externas y, de manera igualmente crucial, de mantener el orden interno y la sumisión ciudadana bajo la estricta "Doctrina de la Pureza Nacional". Operan como un poder monolítico que combina la organización militar tradicional con un omnipresente y temido aparato de seguridad. Su lealtad no es solo al Estado, sino a la "Iglesia de Dársena"[^iglesia], que proporciona la legitimación ideológica para su existencia y operaciones.
+Las Fuerzas Armadas de la Confederación Argentina constituyen uno de los pilares fundamentales del régimen, encargadas de defender el territorio de amenazas externas y, de manera igualmente crucial, de mantener el orden interno y la sumisión ciudadana bajo la estricta "Doctrina de la Pureza Nacional". Operan como un poder monolítico que combina la organización militar tradicional con un omnipresente y temido aparato de seguridad. Su lealtad no es solo al Estado, sino a la [[iglesia|Iglesia de Dársena]][^iglesia], que proporciona la legitimación ideológica para su existencia y operaciones.
 
-La estructura de defensa se organiza en tres ramas militares tradicionales, un comando unificado y un poderoso aparato de seguridad nacional. Sus recursos incluyen no solo armamento convencional, sino también artefactos "santificados" y tecnología limitada, supervisada de cerca por la "Sagrada Inquisición Argentina (SIA)"[^sia].
+La estructura de defensa se organiza en tres ramas militares tradicionales, un comando unificado y un poderoso aparato de seguridad nacional. Sus recursos incluyen no solo armamento convencional, sino también artefactos "santificados" y tecnología limitada, supervisada de cerca por la [[inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia].
 
 ## Comando Nacional
 
@@ -42,11 +49,11 @@ La DNS está organizada en varias divisiones especializadas:
 
 - "Policía Uniformada Confederada (PUC)": Apodados "Los Grises Servidores", son la fuerza policial visible que patrulla las calles. Famosos por su brutalidad en la represión de protestas y por la corrupción a bajo nivel conocida como "la mordida del guardián".
 - División de Investigaciones Criminales y Morales (DICM): "Los Sabuesos de la Ley" son detectives de civil encargados de crímenes complejos, especialmente aquellos con implicaciones políticas o heréticas.
-- Departamento de Contrainteligencia y Seguridad Interna (DCSI): "Los Murmullos Silenciosos" son el servicio de espionaje interno, dedicados a neutralizar espías, células subversivas como los "Arpistas"[^arpistas] y cualquier infiltrado en el aparato estatal.
+- Departamento de Contrainteligencia y Seguridad Interna (DCSI): "Los Murmullos Silenciosos" son el servicio de espionaje interno, dedicados a neutralizar espías, células subversivas como los [[arpistas|Arpistas]][^arpistas] y cualquier infiltrado en el aparato estatal.
 - Unidad de Respuesta Táctica y Antimotines (URTA): Conocidos como "Los Martillos de Dios", son equipos de asalto tipo SWAT fuertemente armados para situaciones de alto riesgo, utilizando equipo como gas "Lágrimas de Penitencia".
 - Departamento de Censura Previa y Vigilancia Moral Pública (DCVMP): "Los Guardianes del Pudor" vigilan y censuran cualquier expresión pública para prevenir la difusión de ideas corruptoras, operando bajo la fuerte influencia de la SIA.
 
-Información secreta (no exponer a jugadores): En las sombras, la cooperación entre las distintas ramas no siempre es fluida. Existen pactos secretos con facciones teóricamente enemigas, como el "Gremio de Comercio"[^gremio] y contrabandistas, para la obtención de recursos y tecnología. Algunas unidades de élite investigan tecnología pre-cataclismo bajo estricta supervisión de la SIA, y la DNS colabora de forma encubierta con la Inquisición en operaciones de represión que nunca salen a la luz.
+Información secreta (no exponer a jugadores): En las sombras, la cooperación entre las distintas ramas no siempre es fluida. Existen pactos secretos con facciones teóricamente enemigas, como el [[gremio-de-comercio|Gremio de Comercio]][^gremio] y contrabandistas, para la obtención de recursos y tecnología. Algunas unidades de élite investigan tecnología pre-cataclismo bajo estricta supervisión de la SIA, y la DNS colabora de forma encubierta con la Inquisición en operaciones de represión que nunca salen a la luz.
 
 ---
 

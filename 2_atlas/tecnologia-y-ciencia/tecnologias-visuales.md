@@ -2,10 +2,14 @@
 title: Tecnologias Visuales
 folder: 2_atlas/tecnologia-y-ciencia
 description: Tecnologías Visuales
+aliases:
+- Tecnologías Visuales
 tags:
-- tecnologia
-- atlas
-
+- entidad/concepto
+- alcance/publico
+- estado/canon
+related:
+- "[[inquisicion]]"
 ---
 En un mundo sin computación avanzada, las tecnologías para mostrar imágenes dependen de soluciones analógicas y mecánicas, algunas de una complejidad sorprendente.
 
@@ -27,7 +31,7 @@ Los "hológrafos" son en realidad sistemas de retroproyección 3D. Se utilizan a
 
 ## Visión Nocturna
 
-La capacidad de ver en la oscuridad es crucial para las operaciones militares y de la SIA. La tecnología de visión nocturna evita el procesamiento digital, lo que la hace "segura" para su uso.
+La capacidad de ver en la oscuridad es crucial para las operaciones militares y de la [[inquisicion|SIA]]. La tecnología de visión nocturna evita el procesamiento digital, lo que la hace "segura" para su uso.
 
 -   **Funcionamiento**: Se basa en **tubos intensificadores de imagen**. Estos dispositivos analógicos capturan fotones de luz ambiental (incluida la luz del espectro infrarrojo cercano) a través de una lente.
 -   **Proceso**: Los fotones se convierten en electrones, que son multiplicados miles de veces mediante un campo eléctrico dentro del tubo. Finalmente, estos electrones impactan una pantalla de fósforo, que los convierte de nuevo en fotones visibles, creando la característica imagen verde y brillante.

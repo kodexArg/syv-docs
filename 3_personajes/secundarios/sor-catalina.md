@@ -4,12 +4,16 @@ folder: 3_personajes/secundarios
 description: Monja de la Congregación de la Caridad Divina que investiga extraños
   sucesos sobrenaturales en los barrios bajos de Dársena y documenta sus hallazgos
   en correspondencia confidencial.
+nombre: Catalina
+aliases:
+  - Sor Catalina
+  - Catalina
 tags:
-- investigadora
-- paranormal
-- tuberias
+  - entidad/personaje
 facciones:
-- "Congregación de la Caridad Divina"
+  - "[[congregacion-caridad-divina]]"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 ---
 ## Sor Catalina
 
@@ -27,7 +31,7 @@ Es alguien que ha visto el mal y se niega a apartar la mirada.
 
 ### Rol y Posición
  
- Sor Catalina pertenece a la Congregación de la Caridad Divina. Tras ser desoída por su orden, decidió investigar por su cuenta los rumores de un mal sobrenatural que afecta a los más desprotegidos en los barrios bajos y las tuberías de Ciudad Dársena.
+ Sor Catalina pertenece a la [[congregacion-caridad-divina|Congregación de la Caridad Divina]]. Tras ser desoída por su orden, decidió investigar por su cuenta los rumores de un mal sobrenatural que afecta a los más desprotegidos en los barrios bajos y [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] de Ciudad Dársena.
  
  ### Personalidad
  

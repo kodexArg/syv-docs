@@ -2,13 +2,17 @@
 title: Conocimiento Sobreviviente
 folder: 1_trasfondo/codex
 description: Inventario del Hermano Archivista de memoria humana, qué sobrevivió y qué se perdió.
+aliases:
+  - El Conocimiento Sobreviviente
+related:
+  - "[[anatema-mecanico]]"
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[arpistas]]"
+  - "[[inquisicion]]"
+  - "[[videla-iv]]"
 tags:
-- trasfondo
-- trasfondo/codex/conocimiento-sobreviviente
-- trasfondo/codex/anatema-mecanico
-- sociedad/historia
-- sociedad/archivistica
-- tecnologia/recuperacion
+  - entidad/concepto
+  - alcance/publico
 ---
 # El Conocimiento Sobreviviente: Un Inventario de la Memoria Humana
 
@@ -144,7 +148,7 @@ Durante la Gran Guerra Global (2039-2047) y la posterior dominación de las QIA 
 
 ### ¿Qué Persiste de las QIA?
 
-De las Inteligencias Artificiales Cuánticas que dominaron entre 2048 y 2061, casi nada físico sobrevive. Eran software, código, procesos que corrían en servidores cuánticos que la Inquisición destruyó metódicamente. Pero sabemos de ellas por:
+De las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas]] que dominaron entre 2048 y 2061, casi nada físico sobrevive. Eran software, código, procesos que corrían en servidores cuánticos que la Inquisición destruyó metódicamente. Pero sabemos de ellas por:
 
 1. "Documentos de resistencia humana": Panfletos, órdenes militares, informes de supervivientes impresos durante la lucha.
 2. "Testimonios post-Anatema": Los ancianos que vivieron esos años dictaron sus memorias a escribas eclesiásticos en los años 2070-2100. Esos manuscritos son nuestra fuente principal.
@@ -158,7 +162,7 @@ Tasa de Preservación Estimada: 30-40% (altamente selectivo, sesgado hacia docum
 
 ### La Quema Sagrada
 
-En 2061, junto al cráter de Buenos Aires, se proclamó el Anatema Mecánico. Lo que siguió fue una campaña de destrucción deliberada que duró tres décadas. La Sagrada Inquisición, con apoyo del Ejército, purgó la tierra de tecnología digital.
+En 2061, junto al cráter de Buenos Aires, se proclamó el [[anatema-mecanico|Anatema Mecánico]]. Lo que siguió fue una campaña de destrucción deliberada que duró tres décadas. La Sagrada Inquisición, con apoyo del Ejército, purgó la tierra de tecnología digital.
 
 Lo que se destruyó activamente:
 - Computadoras, laptops, servidores
@@ -172,7 +176,7 @@ Presencié, de niño, las quemas en la Plaza Central de Dársena. Montañas de a
 
 ### Lo que Sobrevivió: El Tesoro Oculto de los Arpistas
 
-No todo fue destruido. Una red clandestina — los "Arpistas" — escondió tecnología en bunkers secretos. Su misión no era usarla, sino preservarla como registro histórico. Corren riesgo de ejecución, pero gracias a ellos tenemos:
+No todo fue destruido. Una red clandestina — los "[[arpistas|Arpistas]]" — escondió tecnología en bunkers secretos. Su misión no era usarla, sino preservarla como registro histórico. Corren riesgo de ejecución, pero gracias a ellos tenemos:
 
 - Computadoras del siglo XXI funcionales (pocas, celosamente guardadas)
 - Discos duros con información histórica
@@ -205,7 +209,7 @@ Tasa de Preservación Estimada: 5-10% (solo élites alfabetizadas, principalment
 
 ### La Reorganización Bajo Videla IV
 
-Los últimos dieciocho años han visto un resurgir del orden y la documentación sistemática. El General Videla IV, con todos sus defectos, ha traído estabilidad. La "Academia de Ciencias de Dársena", refundada en 2165, ha retomado la investigación formal.
+Los últimos dieciocho años han visto un resurgir del orden y la documentación sistemática. El General [[videla-iv|Videla IV]], con todos sus defectos, ha traído estabilidad. La "Academia de Ciencias de Dársena", refundada en 2165, ha retomado la investigación formal.
 
 Documentación actual (2160-2178):
 - "Papel industrial": Las prensas volvieron a funcionar. Se imprimen leyes, decretos, periódicos (uno solo: *La Gaceta Confederal*).

@@ -2,15 +2,17 @@
 title: Infraestructura Energética de Dársena
 folder: 2_atlas/tecnologia-y-ciencia
 description: Sistema de Nodos, reactores de fusión, Ministerio de Infraestructura
+aliases:
+  - Infraestructura Energética de Dársena
 tags:
-  - infraestructura
-  - energia
-  - nodos
-  - reactores
-  - ministerio
-  - la-bestia
-  - torres-hidroponicas
-  - atlas
+  - entidad/concepto
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[zona-centro]]"
 
 ---
 
@@ -372,9 +374,9 @@ Lo que alimenta la paranoia de "La Bestia" en las Torres es específico: estas i
 
 ## Referencias Cruzadas
 
-- [Electricidad](./electricidad.md) - Red pública 48V DC y vigilancia básica
-- [Sistemas Energéticos](./sistemas-energeticos.md) - Comparación civil vs militar
-- [Procesador de Industria Argentina (PIA)](./procesador-argentino-pia.md) - Consumo energético en Torres
-- [Celdas de Radionúclidos](./celdas-radionuclidos.md) - Tecnología militar alternativa
-- [Iglesia de Dársena](../../1_trasfondo/facciones/iglesia-de-darsena/iglesia.md) - Supervisión del Ministerio
-- [Sagrada Inquisición Argentina](../../1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Vigilancia de anomalías
+- [[electricidad|Electricidad]] - Red pública 48V DC y vigilancia básica
+- [[sistemas-energeticos|Sistemas Energéticos]] - Comparación civil vs militar
+- [[procesador-argentino-pia|Procesador de Industria Argentina (PIA)]] - Consumo energético en Torres
+- [[celdas-radionuclidos|Celdas de Radionúclidos]] - Tecnología militar alternativa
+- [[iglesia|Iglesia de Dársena]] - Supervisión del Ministerio
+- [[inquisicion|Sagrada Inquisición Argentina]] - Vigilancia de anomalías

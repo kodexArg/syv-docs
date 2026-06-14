@@ -3,10 +3,19 @@ title: Mateo
 folder: 3_personajes/secundarios
 description: Niño poseído, escuálido y atormentado, símbolo de la vulnerabilidad en
   las Tuberías.
+nombre: Mateo
+aliases:
+  - Mateo
 tags:
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Su posesión por el Ensoñador y su condición verdadera."
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+related:
+  - "[[luisa-pescadora]]"
+spoilers:
+  - "Su posesión por el Ensoñador y su verdadera condición."
 ---
 ## Mateo
 
@@ -39,7 +48,7 @@ No tiene motivaciones conscientes en su estado actual. Solo existe, atrapado ent
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-Mateo es un niño desaparecido de las Tuberías. Su madre lo busca desesperadamente, pero nadie sabe dónde está. Algunos dicen haberlo visto vagando por lugares oscuros, pero cuando intentan acercarse, desaparece.
+Mateo es un niño desaparecido de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]. Su madre, [[luisa-pescadora|Luisa]], lo busca desesperadamente, pero nadie sabe dónde está. Algunos dicen haberlo visto vagando por lugares oscuros, pero cuando intentan acercarse, desaparece.
 <!-- /📖 -->
 
 <!-- 🔐☠️ (DM - Peligro) -->

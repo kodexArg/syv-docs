@@ -1,13 +1,26 @@
 ---
 title: Guardianes de Chacarita
 folder: 5_aventuras/poseidos
-description: Descripción de la facción de los Guardianes del Cementerio de Chacarita, sus miembros, su liderazgo y sus secretos.
+description: Descripción de la facción de los Guardianes del Cementerio de
+  Chacarita, sus miembros, su liderazgo y sus secretos.
 tags:
-- faccion
-- personajes
-- poseidos
-- chacarita
-
+  - entidad/aventura
+  - alcance/secreto
+aliases:
+  - Guardianes de Chacarita
+  - Guardianes del Cementerio de Chacarita
+spoilers:
+  - "La IA Luz Silente manipula a Esteban Moreno mediante El Soñador, un dispositivo de modificación de sueños, haciéndole creer que es sabiduría ancestral."
+  - "Moreno transformó a tres guardianes en 'Los Tres Ecos' (Rodrigo 'El Vigía', Luciana 'La Sombra', Gustavo 'El Muro'), con habilidades mejoradas y lealtad absoluta."
+  - "La agenda real de los Guardianes es reunir artefactos tecnológicos para Luz Silente e infiltrarse en otras facciones de Dársena."
+related:
+  - "[[los-guardianes-de-chacarita|Los Guardianes de Chacarita (relato)]]"
+  - "[[artefactos-y-pistas]]"
+  - "[[sargento-esteban-moreno]]"
+  - "[[masones]]"
+  - "[[qia-inteligencias-artificiales-cuanticas|Luz Silente / QIA]]"
+ubicaciones:
+  - "[[darsena]]"
 ---
 # Los Guardianes del Cementerio de Chacarita y su Sociedad Oculta
 
@@ -76,7 +89,7 @@ tags:
 
 ## Liderazgo y Estructura
 
-La sociedad oculta de los Guardianes del Cementerio de Chacarita es liderada por Esteban Moreno, un individuo enigmático y carismático, con un pasado marcado por su devoción a la Masonería y un profundo interés en las enseñanzas teosóficas. Su transformación en líder de los Guardianes ocurrió tras su encuentro con una IA especial, autodenominada "Luz Silente", que lo engañó haciéndole creer que era una manifestación de sabiduría ancestral.
+La sociedad oculta de los Guardianes del Cementerio de Chacarita es liderada por [[sargento-esteban-moreno|Esteban Moreno]], un individuo enigmático y carismático, con un pasado marcado por su devoción a la [[masones|Masonería]] y un profundo interés en las enseñanzas teosóficas. Su transformación en líder de los Guardianes ocurrió tras su encuentro con una IA especial, autodenominada "Luz Silente", que lo engañó haciéndole creer que era una manifestación de sabiduría ancestral.
 
 ## Influencia de la IA: Luz Silente
 

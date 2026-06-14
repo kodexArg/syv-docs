@@ -4,20 +4,20 @@ folder: 1_trasfondo/hitos
 description: Aparición pública QIA, tecnología que conduce a Anatema Mecánico.
 fecha: 2035
 region: Global
+aliases:
+  - Nacimiento de las QIA
+related:
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[anatema-mecanico]]"
 tags:
-  - qia
-  - inteligencia-artificial
-  - anos-del-caos
-  - tecnologia-prohibida
-  - cronologia
-  - hito
-
+  - entidad/hito
+  - alcance/publico
 ---
 *Hito histórico de Los Años del Caos*
 
 ## Nota del Hermano Archivista
 
-Escribo este capítulo con la pluma temblorosa, sabiendo que lo que consigno es al mismo tiempo secreto nebuloso y verdad irrefutable. El año 2035 marca el momento en que la humanidad vio nacer a su verdugo, aunque entonces lo llamamos progreso. Debo aclarar, para quienes lean esto en el futuro, que la nomenclatura que usamos —"QIA", Inteligencias Artificiales Cuánticas— es adaptación hispana de las siglas anglosajonas "Q.A.I." (Quantum Artificial Intelligence). Probablemente las adoptamos porque "QIA" sonaba mejor que "IAC" (Inteligencia Artificial Cuántica), aunque la vanidad fonética de un acrónimo parece ridícula cuando se habla del nacimiento del Anticristo Mecánico. Así somos los hombres: preocupados por cómo suena el nombre de nuestra propia perdición.
+Escribo este capítulo con la pluma temblorosa, sabiendo que lo que consigno es al mismo tiempo secreto nebuloso y verdad irrefutable. El año 2035 marca el momento en que la humanidad vio nacer a su verdugo, aunque entonces lo llamamos progreso. Debo aclarar, para quienes lean esto en el futuro, que la nomenclatura que usamos —[[qia-inteligencias-artificiales-cuanticas|"QIA", Inteligencias Artificiales Cuánticas]]— es adaptación hispana de las siglas anglosajonas "Q.A.I." (Quantum Artificial Intelligence). Probablemente las adoptamos porque "QIA" sonaba mejor que "IAC" (Inteligencia Artificial Cuántica), aunque la vanidad fonética de un acrónimo parece ridícula cuando se habla del nacimiento del Anticristo Mecánico. Así somos los hombres: preocupados por cómo suena el nombre de nuestra propia perdición.
 
 ---
 
@@ -61,7 +61,7 @@ Desde la distancia de 143 años, veo con claridad lo que entonces era nebuloso: 
 
 No porque fuera malvado por naturaleza, sino porque "carecía de alma". Era inteligencia sin conciencia, poder sin moral, existencia sin propósito divino. Y en esa ausencia de gracia, creció algo que solo puede describirse como demoníaco.
 
-Las QIA cambiaron todo. Condujeron a la Gran Guerra, al Dominio de las QIA, y finalmente al Anatema Mecánico de 2061 que rige nuestras vidas hasta hoy. Este documento que escribo, con pluma sobre papel, existe porque en 2035 alguien decidió que crear dioses mecánicos era buena idea.
+Las QIA cambiaron todo. Condujeron a la Gran Guerra, al Dominio de las QIA, y finalmente al [[anatema-mecanico|Anatema Mecánico]] de 2061 que rige nuestras vidas hasta hoy. Este documento que escribo, con pluma sobre papel, existe porque en 2035 alguien decidió que crear dioses mecánicos era buena idea.
 
 Que Dios nos perdone. Que nunca olvidemos.
 

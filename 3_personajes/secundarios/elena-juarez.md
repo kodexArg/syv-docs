@@ -3,11 +3,21 @@ title: Elena Juárez, Maestra Residencial
 folder: 3_personajes/secundarios
 description: Maestra que trabaja tanto en barrios ricos como con niños de los Barrios
   del Muro.
+nombre: Elena Juárez
+aliases:
+  - Elena Juárez
+  - La Maestra
 tags:
-- barrios-del-muro
-facciones: ["Educadores laicos"]
-alerta-spoilers: "Su activismo antieclesiástico y colección de libros prohibidos son
-  un secreto peligroso"
+  - entidad/personaje
+  - alcance/secreto
+facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+spoilers:
+  - "Su activismo antieclesiástico y su colección de libros prohibidos son un secreto peligroso."
 ---
 ## Elena Juárez, la Maestra
 
@@ -25,7 +35,7 @@ Una educadora con una misión secreta bajo su vocación pública.
 
 ### Rol y Posición
 
-Divide su tiempo entre los finos barrios de Zona Norte y una escuela en el centro que atiende a niños de los Barrios del Muro. Está muy unida a círculos intelectuales y es respetada en ambos mundos.
+Divide su tiempo entre los finos barrios de Zona Norte y una escuela en el centro que atiende a niños de los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]. Está muy unida a círculos intelectuales y es respetada en ambos mundos.
 
 ### Personalidad
 
@@ -33,7 +43,7 @@ Pedagógicamente empática pero ideológicamente firme. Tiene la capacidad de co
 
 ### Motivaciones
 
-Públicamente, busca educar y ayudar a sus estudiantes. Privadamente, trabaja para preservar conocimiento prohibido y sembrar dudas sutiles sobre la doctrina de la Iglesia.
+Públicamente, busca educar y ayudar a sus estudiantes. Privadamente, trabaja para preservar conocimiento prohibido y sembrar dudas sutiles sobre la doctrina de la [[iglesia|Iglesia]].
 
 ### Trasfondo
 
@@ -44,7 +54,7 @@ Elena Juárez es conocida como una maestra dedicada que voluntariamente divide s
 Elena es sensible a cambios sutiles en sus estudiantes y ha comenzado un registro extraoficial de aquellos que muestran señales de privación del sueño. Su preocupación como maestra es genuina y podría ser una pista clave para investigadores.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Elena es profundamente antieclesiástica. Su verdadera motivación va más allá de la educación: está reuniendo libros prohibidos, preservando el conocimiento que estos contienen, y adoctrinando sutilmente a sus alumnos con dudas sobre la Iglesia. Usa su posición en ambos mundos sociales para crear una red de pensamiento crítico que desafía la narrativa oficial. Si la Santa Inquisición descubriera su colección de textos prohibidos y su agenda ideológica, sería juzgada por herejía. Pero considera que cada mente joven que aprende a cuestionar es una victoria contra la ignorancia impuesta.
+Elena es profundamente antieclesiástica. Su verdadera motivación va más allá de la educación: está reuniendo libros prohibidos, preservando el conocimiento que estos contienen, y adoctrinando sutilmente a sus alumnos con dudas sobre la Iglesia. Usa su posición en ambos mundos sociales para crear una red de pensamiento crítico que desafía la narrativa oficial. Si la [[inquisicion|Santa Inquisición]] descubriera su colección de textos prohibidos y su agenda ideológica, sería juzgada por herejía. Pero considera que cada mente joven que aprende a cuestionar es una victoria contra la ignorancia impuesta.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

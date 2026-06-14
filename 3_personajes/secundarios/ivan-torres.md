@@ -3,11 +3,18 @@ title: Iván Torres, Bicicletero
 folder: 3_personajes/secundarios
 description: Mecánico especializado en bicicletas y medios de movilidad urbana, conocedor
   de la red de mensajeros.
+nombre: Iván Torres
+aliases:
+  - Iván Torres
+  - El Bicicletero
 tags:
-- mecanico
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Su conocimiento sobre las actividades de los mensajeros podría ser
-  peligroso"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+spoilers:
+  - "Su conocimiento sobre las actividades de los mensajeros podría ser peligroso."
 ---
 ## Iván Torres, el Bicicletero
 
@@ -25,7 +32,7 @@ Un observador silencioso que escucha más de lo que habla.
 
 ### Rol y Posición
 
-Se dedica a reparar y modificar bicicletas y otros medios de movilidad urbana en su taller. Es el punto de paso obligado para mensajeros y repartidores de toda la ciudad.
+Se dedica a reparar y modificar bicicletas y otros medios de movilidad urbana en su taller. Es el punto de paso obligado para mensajeros y repartidores de toda [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]].
 
 ### Personalidad
 

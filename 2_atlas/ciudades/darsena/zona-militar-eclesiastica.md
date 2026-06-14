@@ -2,13 +2,21 @@
 title: Isla Oriental
 folder: 2_atlas/ciudades/darsena
 description: Todo el territorio al este de la antigua dársena. Corazón del poder militar, religioso y espiritual de Ciudad Dársena. Hogar del Faro de la SIA, la Nueva Basílica de San Pedro y la Universidad de la Luz Divina.
+aliases:
+- Isla Oriental
+- Zona Militar-Eclesiástica
 tags:
-- darsena
-- atlas
-- isla-oriental
-- faro-sia
-- basílica
-
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[iglesia]]"
+- "[[inquisicion]]"
+- "[[fuerzas-armadas]]"
+- "[[monseñor-miguel]]"
+- "[[madre-superiora-maria]]"
+ubicaciones:
+- "[[darsena]]"
 ---
 La Isla Oriental es todo el territorio al este de la antigua dársena de Buenos Aires. Su morfología ha variado con los siglos: tierra ganada al mar ha ampliado su superficie más allá de lo que fue Puerto Madero en tiempos previos al Colapso. Separada del resto de la ciudad por la vieja dársena —un canal de aguas oscuras que ha ascendido hasta casi el nivel de la calle—, la isla alberga a 200.000 habitantes y constituye el corazón del poder en Ciudad Dársena. Aquí se materializa el mandato del **Preámbulo** de la Constitución: la unión de la Iglesia y las Fuerzas Armadas para afianzar la Justicia Divina y proveer a la defensa común.
 
@@ -24,7 +32,7 @@ Sobre la calle Los Patos se encuentra el **Hospital de la Ciudad**, una estructu
 
 ## Barrio Sur: La Marina y los Pescadores
 
-Al sur de la isla se concentran los edificios militares de la **Armada Argentina**, con vista al Río —al que la inmensa mayoría de los habitantes llama hoy en día "el Mar"—. Junto al barrio militar, pegado a él, se encuentra el barrio del **Gremio de Pescadores**, con sus puertos interiores que se adentran hacia el final de la dársena.
+Al sur de la isla se concentran los edificios militares de la [[fuerzas-armadas|Armada Argentina]], con vista al Río —al que la inmensa mayoría de los habitantes llama hoy en día "el Mar"—. Junto al barrio militar, pegado a él, se encuentra el barrio del **Gremio de Pescadores**, con sus puertos interiores que se adentran hacia el final de la dársena.
 
 ### Fortaleza de la Luz
 
@@ -82,12 +90,12 @@ La luz del Faro mismo —la que barre la niebla de Dársena cada noche— funcio
 
 El Faro alberga a miles de inquisidores e inquisidoras, pero también a miles de **Iniciados e Iniciadas**: jóvenes que eligen este paso como un voto, una prueba de su fe y convicciones, o por el prestigio que completar la iniciación les representará. Muchos no continuarán en la vía de la Sagrada Inquisición, pero el paso por el Faro los marca para siempre. Quienes prosperan son más que probos.
 
-Las leyes son distintas dentro del Faro. Una frontera invisible lo separa de la humanidad: un código propio, una jurisdicción que responde directamente a Monseñor Miguel.
+Las leyes son distintas dentro del Faro. Una frontera invisible lo separa de la humanidad: un código propio, una jurisdicción que responde directamente a [[monseñor-miguel|Monseñor Miguel]].
 
 ### Residentes principales
 
 - **Monseñor Miguel**: Máxima autoridad de la SIA. Reside en el Faro sin rastro de tecnología ni electricidad a su alrededor.
-- **Madre Superiora María**: Directora Espiritual del Faro. Vive en soledad en la cúspide de la torre, confinada voluntariamente a 100 metros de toda tecnología. Su pelo canoso flota con la estática perpetua de la torre.
+- **[[madre-superiora-maria|Madre Superiora María]]**: Directora Espiritual del Faro. Vive en soledad en la cúspide de la torre, confinada voluntariamente a 100 metros de toda tecnología. Su pelo canoso flota con la estática perpetua de la torre.
 
 ### Las celdas
 
@@ -95,7 +103,7 @@ Los inquisidores, las Hermanas de Batalla y los iniciados habitan celdas subterr
 
 ## Seguridad y Acceso
 
-La Isla Oriental está prácticamente cerrada al público general. El acceso se realiza por puente controlado, servicio de barcaza o el tranvía celeste, todos vigilados por la **Armada Argentina** y los **Censores de la SIA**. Los civiles pueden acceder únicamente para:
+La Isla Oriental está prácticamente cerrada al público general. El acceso se realiza por puente controlado, servicio de barcaza o el tranvía celeste, todos vigilados por la **Armada Argentina** y los [[inquisicion|Censores de la SIA]]. Los civiles pueden acceder únicamente para:
 - Peregrinaje religioso a la Nueva Basílica (jornadas específicas, altamente controladas)
 - Procedimientos médicos de emergencia en el Hospital de la Ciudad
 - Trabajos de mantenimiento y servicios (bajo supervisión directa)

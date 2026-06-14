@@ -2,11 +2,18 @@
 title: Criptógrafos
 folder: 1_trasfondo/facciones/facciones-menores
 description: "Aclaración terminología: oficiales estatales o hackers clandestinos."
+aliases:
+  - Criptógrafos
+  - Los Criptógrafos
+  - Criptógrafos clandestinos
 tags:
-- faccion
-- redirect
-- nota
-
+  - entidad/faccion
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[los-hackers]]"
+  - "[[fuerzas-armadas]]"
+  - "[[inquisicion]]"
 ---
 # Nota sobre "Los Criptógrafos"
 
@@ -31,7 +38,7 @@ Estos profesionales son funcionarios legítimos del Estado, con salarios, rangos
 
 "SÍ son una facción independiente", descrita en:
 
-👉 "[Los Hackers](los-hackers.md)" 👈
+👉 [[los-hackers|Los Hackers]] 👈
 
 Red clandestina que opera desde las sombras, desafiando el control informativo del régimen. A veces se les llama "Criptógrafos clandestinos" para distinguirlos de los oficiales.
 
@@ -51,5 +58,5 @@ Esto crea una paradoja: muchos Criptógrafos oficiales son ex-Hackers trabajando
 
 ## Referencias
 
-- "Facción clandestina": [Los Hackers](los-hackers.md)
+- "Facción clandestina": [[los-hackers|Los Hackers]]
 - "Empleadores estatales": Dirección Nacional de Seguridad (DNS), Fuerzas Armadas, SIA

@@ -2,17 +2,24 @@
 title: Crónica del arribo de Damián
 folder: "4_diegesis/cronicas"
 description: "Relato del arribo de Damián a Dársena y su primer encuentro con la Inquisición, incluyendo a Sofía y el gran inquisidor Miguel. Historia inconclusa y central en el universo SyV."
+aliases:
+  - Crónica del arribo de Damián
 tags:
-- cronica
-- darsena
-- damian-diconte
-- sofia
-- miguel
-
+  - entidad/relato
+  - alcance/publico
+  - estado/borrador
+related:
+  - "[[damian-diconte]]"
+  - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
+  - "[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]"
+facciones:
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[darsena]]"
 ---
 # Historia
 
-El avión llevaba un tiempo detenido. Damián sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
+El avión llevaba un tiempo detenido. [[damian-diconte|Damián]] sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
 
 —Detective DiConte —dijo la azafata—, es momento de bajar.
 
@@ -30,7 +37,7 @@ La luz se hizo a un mundo blanco y gris, y Damián pensó que se le había daña
 
 Avanzó hacia el vehículo [chatgpt describe cómo se va dibujando desde lo difuminado hasta mostrar un vehículo negro, claramente eléctrico, industria familiar]. Al principio, la figura junto al coche apenas le llamó la atención; la bruma jugaba con su percepción, difuminando roles y entidades. Sin embargo, cuando su mirada finalmente se ajustó, se encontró con unos ojos que lo observaban con intensidad, una joven que no llegaba a los treinta, su presencia marcada por una autoridad serena. Aunque Daniel, cruzando ya su quinta década, se consideraba difícil de sorprender, la firmeza y el escrutinio de esa mirada lo cautivaron. Vestida de negro, con las manos cruzadas delante de sí en un gesto de calma, lo que inicialmente había parecido una simple vincha se reveló como un hábito; no era una conductora, era una monja, una inquisidora.
 
-En ese momento, con la niebla como telón de fondo, ella le dio la bienvenida con una voz que, aunque intentaba ser cordial, no podía disimular su naturaleza inquisitiva. "Detective Daniel, espero que su viaje haya sido confortable. Soy Sofía y estoy aquí para acompañarlo. Ya hemos hablado previamente." Terminando su saludo, Sofía extendió su mano hacia la puerta trasera del coche, invitando a Daniel a entrar, mientras la neblina seguía danzando a su alrededor, tejiendo el escenario de un mundo aún por descubrir.
+En ese momento, con la niebla como telón de fondo, ella le dio la bienvenida con una voz que, aunque intentaba ser cordial, no podía disimular su naturaleza inquisitiva. "Detective Daniel, espero que su viaje haya sido confortable. Soy [[3_personajes/secundarios/sor-sofia|Sofía]] y estoy aquí para acompañarlo. Ya hemos hablado previamente." Terminando su saludo, Sofía extendió su mano hacia la puerta trasera del coche, invitando a Daniel a entrar, mientras la neblina seguía danzando a su alrededor, tejiendo el escenario de un mundo aún por descubrir.
 
 En la última curva antes de llegar al puente, Daniel observó cómo el bullicio del centro de la ciudad se desvanecía a medida que avanzaban hacia adelante, hacia el imponente puente que se alzaba sobre el canal.
 
@@ -54,5 +61,5 @@ Al llegar al último piso, las puertas se abrieron y Daniel se sorprendió al en
 
 Al final del pasillo, se encontraba una inmensa puerta que se destacaba por su espectacularidad. Estaba adornada con detalles dorados de oro y cedro, y tenía una apariencia imponente de doble hoja. Era totalmente diferente a lo que Daniel esperaba encontrar. A medida que se acercaban a la puerta, Sofía disminuyó la velocidad, y justo cuando estaban a unos metros de distancia, la puerta se abrió majestuosamente ante ellos.
 
-La habitación estaba iluminada por candelabros distribuidos alrededor, en lugar de en las esquinas, creando una atmósfera sombría y misteriosa. El espacio era perfectamente circular, con paredes del mismo material negro que parecía obsidiana, mal trabajada, pero que confería una sensación opresiva al lugar. Sentado detrás de una mesa de esa misma piedra, que parecía haber crecido tomando la forma de los muebles, se encontraba una figura envuelta en una túnica totalmente oscura. Sobre su cabeza, llevaba un pequeño gorro circular, de color rojo sangre, que confería un aire siniestro a su presencia. Era el famoso gran inquisidor Miguel, conocido como su santidad, y estaba sentado tras ese escritorio de piedra negra, en un trono también mal trabajado pero imponente.
+La habitación estaba iluminada por candelabros distribuidos alrededor, en lugar de en las esquinas, creando una atmósfera sombría y misteriosa. El espacio era perfectamente circular, con paredes del mismo material negro que parecía obsidiana, mal trabajada, pero que confería una sensación opresiva al lugar. Sentado detrás de una mesa de esa misma piedra, que parecía haber crecido tomando la forma de los muebles, se encontraba una figura envuelta en una túnica totalmente oscura. Sobre su cabeza, llevaba un pequeño gorro circular, de color rojo sangre, que confería un aire siniestro a su presencia. Era el famoso gran inquisidor [[3_personajes/principales/monseñor-miguel|Miguel]], conocido como su santidad, y estaba sentado tras ese escritorio de piedra negra, en un trono también mal trabajado pero imponente.
 

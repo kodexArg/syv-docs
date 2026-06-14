@@ -3,10 +3,15 @@ title: María, tejedora de sueños
 folder: 3_personajes/secundarios
 description: Tejedora y tarotista de las Tuberías, conocida por sus coloridas túnicas
   que prometen protección y destino.
+nombre: María
+aliases:
+  - María
+  - La Tejedora de Sueños
 tags:
-- tuberias
-- misticismo
+  - entidad/personaje
 facciones: []
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 ---
 ## María, tejedora de sueños
 
@@ -24,7 +29,7 @@ Es una mujer que habita entre el misterio y el comercio, tejiendo tanto prendas 
 
 ### Rol y Posición
 
-María se especializa en confeccionar vestimentas y en tirar el prohibido Tarot. Sus clientes no solo buscan belleza en sus prendas, sino protección y bendiciones. Es muy común ver sobre todo señoras vistiendo sus particularmente coloridas túnicas, lo que se está volviendo una moda de esta zona de Las Tuberías.
+María se especializa en confeccionar vestimentas y en tirar el prohibido Tarot. Sus clientes no solo buscan belleza en sus prendas, sino protección y bendiciones. Es muy común ver sobre todo señoras vistiendo sus particularmente coloridas túnicas, lo que se está volviendo una moda de esta zona de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]].
 
 ### Personalidad
 

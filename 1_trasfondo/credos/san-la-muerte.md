@@ -2,12 +2,24 @@
 title: San La Muerte
 folder: 1_trasfondo/credos
 description: Culto litoral, muerte personificada, santo protector, proscrito, irradicable.
+aliases:
+  - San La Muerte
 tags:
-  - trasfondo
-  - credos
-  - san-la-muerte
-  - litoral
-  - violencia
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[umbanda]]"
+  - "[[guarani]]"
+  - "[[hermandades-y-ordenes-catolicas]]"
+  - "[[la-compania]]"
+  - "[[peronismo]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
 ---
 
 **Tipo:** Proscrito

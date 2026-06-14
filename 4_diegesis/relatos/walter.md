@@ -1,13 +1,19 @@
 ---
 title: Walter
 folder: 4_diegesis/relatos
-description: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena.
+description: Fragmento de la juventud de Walter, nadador y explorador de las
+  Tuberías de Dársena.
 tags:
-- relato
-- walter
-- darsena
-- tuberias
-
+  - entidad/relato
+aliases:
+  - Walter (relato)
+related:
+  - "[[3_personajes/principales/walter|Walter]]"
+  - "[[paco-el-puntero|Paco]]"
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[tuberias]]"
+  - "[[darsena]]"
 ---
 ## Tres años antes
 

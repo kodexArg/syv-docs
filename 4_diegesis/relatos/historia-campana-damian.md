@@ -2,21 +2,28 @@
 title: La Cosecha de los Cinco
 folder: 4_diegesis/relatos
 description: Damián DiConte investiga cinco asesinatos rituales en las Torres Hidropónicas que revelan la presencia de fuerzas oscuras en Ciudad Dársena
+aliases:
+  - La Cosecha de los Cinco
 tags:
-- relato
-- damian-diconte
-- darsena
-- campana-rol
-- torres-hidroponicas
-- ritual-satanico
-
+  - entidad/relato
+  - alcance/secreto
+  - estado/borrador
+related:
+  - "[[damian-diconte]]"
+  - "[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]"
+facciones:
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[darsena]]"
+spoilers:
+  - "Los cinco asesinatos rituales en las Torres Hidropónicas ocultan algo más que un culto satánico; Damián sospecha una puesta en escena."
 ---
 
 ## I. La Convocatoria
 
-Damián llegó a las seis de la mañana.
+[[damian-diconte|Damián]] llegó a las seis de la mañana.
 
-La esquina de Avenida San Martín y Calle 14 olía a panadería. Damián se ajustó el impermeable de cuero negro y esperó. El mensaje cifrado en su PDA había sido claro: "Torre Este. Seis en punto. Vengan solo. Monseñor Miguel lo requiere."
+La esquina de Avenida San Martín y Calle 14 olía a panadería. Damián se ajustó el impermeable de cuero negro y esperó. El mensaje cifrado en su PDA había sido claro: "Torre Este. Seis en punto. Vengan solo. [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]] lo requiere."
 
 Un vehículo eléctrico negro emergió de la niebla sin sonido de motor, solo el siseo de neumáticos sobre asfalto húmedo. El conductor no bajó. La puerta trasera se abrió desde adentro.
 
@@ -44,7 +51,7 @@ Las Torres Hidropónicas se alzaban como catedrales gemelas de la supervivencia 
 
 Ciento cincuenta metros de altura. Cincuenta y ocho pisos. Fachadas de paneles de vidrio opaco alternados con láminas de acero corrugado pintado de blanco industrial, ahora gris por décadas de humedad y hollín. La Torre Este y la Torre Oeste se conectaban en los niveles 10, 25 y 40 mediante puentes aéreos de estructura tubular, creando una geometría que desde abajo se asemejaba a una cruz tumbada o una letra H mayúscula deforme.
 
-El vehículo se detuvo en el perímetro acordonado. Conos reflectantes marcaban un radio de cincuenta metros alrededor de la entrada este. Dos camionetas del DNS —Dirección Nacional de Seguridad— bloqueaban el acceso vehicular, luces rotatorias pintando la niebla de azul intermitente. Tres guardias con uniformes grises y chalecos antibalas vigilaban la puerta. Uno de ellos fumaba, el cigarrillo temblando entre sus dedos.
+El vehículo se detuvo en el perímetro acordonado. Conos reflectantes marcaban un radio de cincuenta metros alrededor de la entrada este. Dos camionetas del [[direccion-nacional-de-seguridad|DNS —Dirección Nacional de Seguridad—]] bloqueaban el acceso vehicular, luces rotatorias pintando la niebla de azul intermitente. Tres guardias con uniformes grises y chalecos antibalas vigilaban la puerta. Uno de ellos fumaba, el cigarrillo temblando entre sus dedos.
 
 Damián descendió. La humedad atacó inmediatamente: ochenta y ocho por ciento según su PDA. Cada respiración era un acto de tragar vapor tibio que se condensaba en los pulmones. El olor era específico de esta zona de Dársena: cloro de tratamiento de aguas, ozono de purificadores industriales, y algo orgánico y dulzón que emanaba de las torres mismas. Vida vegetal cultivada a escala masiva. Trescientas mil personas dependían de lo que crecía en estas dos estructuras.
 

@@ -2,17 +2,27 @@
 title: Shipibo-Conibo
 folder: 1_trasfondo/facciones/facciones-menores
 description: Chamanes amazónicos Tuberías, hongos psicoactivos, sanación ritual.
+aliases:
+  - Shipibo-Conibo (facción)
+  - Los Cazadores de Pesadillas
+  - Los Hongeros
 tags:
-  - faccion
-  - proscrita
-  - tuberias
-  - chamanes
-  - shipibo-conibo
-  - hongos
-  - psicoactivos
-  - cazadores-de-pesadillas
-  - facciones-menores
-
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo (credo)]]"
+  - "[[kuna-mbarete]]"
+  - "[[traficantes-de-almas]]"
+  - "[[refugiados-y-parias]]"
+  - "[[fuerzas-armadas]]"
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+spoilers:
+  - "Unos 20-30 chamanes son verdaderos simbiotes fúngicos con capacidades sobrehumanas (telepatía, regeneración, percepción extendida)."
+  - "La simbiosis es irreversible y reduce la esperanza de vida a 15-25 años; la iniciación tiene 40% de mortalidad."
 ---
 
 En las profundidades de las Tuberías de Ciudad Dársena, donde la humedad constante y la oscuridad perpetua crean el ambiente perfecto para el cultivo de hongos, habita una comunidad que muchos consideran una curiosidad antropológica del mundo post-Colapso: los Shipibo-Conibo.
@@ -84,7 +94,7 @@ Los Shipibo-Conibo son pacíficos por naturaleza. No se meten con nadie, y han d
 
 ### Relaciones Especiales
 
-- Kuña Mbareté (Las Yarará): Las guerreras de lengua bífida reconocen en los Shipibo-Conibo un teko similar, una conexión ancestral con lo sagrado. No son aliados estratégicos, pero existe un respeto profundo mutuo. Cuando las Yarará intervienen para defender a los chamanes de amenazas externas, lo hacen con violencia extrema que deja a los Shipibo-Conibo agradecidos pero aterrorizados. Los chamanes no conocen la historia verdadera de las Yarará, pero reconocen en ellas algo antiguo y letal.
+- [[kuna-mbarete|Kuña Mbareté (Las Yarará)]]: Las guerreras de lengua bífida reconocen en los Shipibo-Conibo un teko similar, una conexión ancestral con lo sagrado. No son aliados estratégicos, pero existe un respeto profundo mutuo. Cuando las Yarará intervienen para defender a los chamanes de amenazas externas, lo hacen con violencia extrema que deja a los Shipibo-Conibo agradecidos pero aterrorizados. Los chamanes no conocen la historia verdadera de las Yarará, pero reconocen en ellas algo antiguo y letal.
 
 - Otras comunidades de las Tuberías: Los Shipibo-Conibo mantienen relaciones de trueque con docenas de asentamientos subterráneos. Son proveedores esenciales de hongos alimenticios y medicina alternativa.
 

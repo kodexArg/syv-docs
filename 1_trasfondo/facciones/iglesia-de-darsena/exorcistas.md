@@ -2,17 +2,32 @@
 title: Exorcistas
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Rama especializada, combate posesiones demoníacas, rituales teológico-científicos.
+aliases:
+  - Exorcistas
 tags:
-  - iglesia
-  - exorcistas
-  - posesiones
-  - sobrenaturalidad
-  - combate-espiritual
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
 facciones:
-  - "Iglesia de Dársena"
-
+  - "[[iglesia]]"
+related:
+  - "[[inquisicion]]"
+  - "[[congregacion-caridad-divina]]"
+  - "[[resistencia-subterranea]]"
+  - "[[padre-rafa]]"
+  - "[[hermana-superior-maria]]"
+  - "[[monseñor-miguel]]"
+  - "[[paco-el-puntero]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+  - "[[barrios-del-muro]]"
+spoilers:
+  - "Algunos demonios pueden ser aliados en ciertas circunstancias (negociación)."
+  - "Existen tratados en el Archivo Secreto sobre cómo contactar entidades específicas."
+  - "Algunos casos de posesión no son causados por demonios cristianos sino por entidades pre-cristianas."
 ---
-Rama especializada de la Iglesia de Dársena dedicada al combate de posesiones demoníacas y fenómenos sobrenaturales. A diferencia de la "Sagrada Inquisición Argentina" (que persigue herejía tecnológica), los Exorcistas se dedican a conflictos contra entidades no-humanas.
+Rama especializada de la [[iglesia|Iglesia de Dársena]] dedicada al combate de posesiones demoníacas y fenómenos sobrenaturales. A diferencia de la [[inquisicion|Sagrada Inquisición Argentina]] (que persigue herejía tecnológica), los Exorcistas se dedican a conflictos contra entidades no-humanas.
 
 ## Descripción General
 
@@ -96,7 +111,7 @@ A diferencia de la SIA, los Exorcistas son ampliamente respetados y queridos por
 - "Heroísmo romántico": Historias de exorcistas que se sacrificaron combatiendo entidades poderosas
 - "Menos represión": No persiguen pensadores, solo combaten demonios
 
-Esto genera "resentimiento silencioso" en la SIA. Monseñor Miguel ve a los Exorcistas como rivales en popularidad y autoridad.
+Esto genera "resentimiento silencioso" en la SIA. [[monseñor-miguel|Monseñor Miguel]] ve a los Exorcistas como rivales en popularidad y autoridad.
 
 ## Presencia Geográfica
 
@@ -122,11 +137,11 @@ Los Exorcistas están investigando actualmente:
 1. Aumento de posesiones en Las Túberías (2176-2178)
    - Patrones anómalos sugieren entidades de tipo superior
    - Posible conexión con "Pueblo del Pantano" (ubicación misteriosa)
-   - Intermediario asesinado (Paco "El Puntero") hace 1 año dejó investigación en punto muerto
+   - Intermediario asesinado ([[paco-el-puntero|Paco "El Puntero"]]) hace 1 año dejó investigación en punto muerto
 
 2. "Drogas de diseño y posesiones" (hipótesis)
    - ¿Correlación entre uso de drogas y susceptibilidad a posesión?
-   - Investigación conducida por Padre Rafa (exorcista iconoclasta)
+   - Investigación conducida por [[padre-rafa|Padre Rafa]] (exorcista iconoclasta)
 
 3. "Interferencia de la SIA"
    - Monseñor Miguel ordena que se reporten todas las posesiones a la SIA
@@ -135,7 +150,7 @@ Los Exorcistas están investigando actualmente:
 ## Personajes Clave
 
 - "Padre Rafa": Exorcista veterano, investigador de posesiones en Túberías, contacto con Pueblo del Pantano
-- "Hermana Superior María": Líder de Congregación de la Caridad Divina (orden relacionada, enfocada en marginales)
+- [[hermana-superior-maria|Hermana Superior María]]: Líder de [[congregacion-caridad-divina|Congregación de la Caridad Divina]] (orden relacionada, enfocada en marginales)
 - "Exorcista Mayor [Nombre no especificado]": Liderazgo de la orden (personaje PNJ disponible)
 
 ## Doctrina
@@ -157,7 +172,7 @@ Los Exorcistas están investigando actualmente:
 ## Relaciones Diplomáticas
 
 - "Cazadores de Pesadillas": Contacto cordial (objetivos similares: combatir lo sobrenatural)
-- "Resistencia Subterránea": Contacto cautela-dos (algunos Exorcistas simpatizan con luchas contra represión)
+- [[resistencia-subterranea|Resistencia Subterránea]]: Contacto cautela-dos (algunos Exorcistas simpatizan con luchas contra represión)
 - "Pueblos indígenas": Respeto mutuo (reconocen que tradiciones indígenas tienen poder espiritual legítimo)
 - "SIA": Tensión permanente (ver sección anterior)
 

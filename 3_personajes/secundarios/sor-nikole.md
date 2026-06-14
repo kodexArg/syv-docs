@@ -3,11 +3,19 @@ title: Sor Nikole, La Hermana de la Caridad
 folder: 3_personajes/secundarios
 description: Joven hermana de la caridad que trabaja en las Tuberías, mezclando modernidad
   y tradición en su labor.
+nombre: Nikole
+aliases:
+  - Sor Nikole
+  - Nikole
+  - La Hermana de la Caridad
 tags:
-- iglesia
-- tuberias
+  - entidad/personaje
 facciones:
-- "Congregación de la Caridad"
+  - "[[congregacion-caridad-divina]]"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+related:
+  - "[[iglesia]]"
 ---
 ## Sor Nikole, La Hermana de la Caridad
 
@@ -25,7 +33,7 @@ Luce extremadamente cansada pero determinada.
 
 ### Rol y Posición
 
-Sor Nikole ha abandonado la estructura rígida de la Iglesia para encontrar su verdadera vocación en las Tuberías, ofreciendo cuidados médicos y consuelo espiritual a quienes lo necesitan. Su pequeño cuarto se ha convertido en un santuario para los vecinos más necesitados.
+Sor Nikole ha abandonado la estructura rígida de la [[iglesia|Iglesia]] para encontrar su verdadera vocación en [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]], ofreciendo cuidados médicos y consuelo espiritual a quienes lo necesitan. Su pequeño cuarto se ha convertido en un santuario para los vecinos más necesitados.
 
 ### Personalidad
 

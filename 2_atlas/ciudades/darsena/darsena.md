@@ -2,28 +2,28 @@
 title: Darsena
 folder: 2_atlas/ciudades/darsena
 description: Ciudad Dársena
+aliases:
+- Dársena
+- Ciudad Dársena
 tags:
-- darsena
-- atlas/ciudades/darsena
-- atlas/climas/niebla-perpetua
-- politica/capital
-- politica/confederacion
-- sociedad/clases-sociales
-- sociedad/desigualdad
-- sociedad/humedad
-- facciones/iglesia
-- facciones/fuerzas-armadas
-- facciones/gremio-de-comercio
-- facciones/resistencia-subterranea
-- facciones/arpistas
-- facciones/criptografos
-- facciones/masones
-- facciones/traficantes-de-almas
-- lugares/isla-oriental
-- lugares/microcentro
-- lugares/barrios-del-norte
-- lugares/barrios-del-muro
-- lugares/las-tuberias
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[iglesia]]"
+- "[[fuerzas-armadas]]"
+- "[[gremio-de-comercio]]"
+- "[[resistencia-subterranea]]"
+- "[[arpistas]]"
+- "[[los-criptografos]]"
+- "[[masones]]"
+- "[[traficantes-de-almas]]"
+ubicaciones:
+- "[[zona-militar-eclesiastica]]"
+- "[[microcentro]]"
+- "[[zona-residencial-alta-sociedad]]"
+- "[[barrios-del-muro]]"
+- "[[tuberias]]"
 ---
 Ciudad Dársena es el centro de poder político, religioso y naval de la Confederación Argentina. Erigida sobre las ruinas de Buenos Aires y comprimida entre un muro de 20 metros de altura y el contaminado Río de la Plata, la ciudad es una fortaleza de hormigón y fe que alberga a cinco millones de almas. Bajo un cielo casi siempre cubierto por nubes y una llovizna eterna, la vida transcurre bajo el control dual del Comando Militar y la Iglesia, cumpliendo el mandato de la **Ley IV: Del Magisterio**, que la consagra como la "Capital inamovible de la Fe y el Conocimiento".
 
@@ -34,7 +34,7 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 -   **2031-2068**: La guerra USA-China (2036) y la Gran Guerra Global (2039-2068) consumen Argentina. Córdoba y Dársena se enfrentan en guerra civil fragmentada mientras el caos global destruye infraestructura. Dársena se consolida como fortaleza gobernada por aristocracia local y la incipiente Iglesia.
 -   **2040-2050**: Comienza la reconstrucción y un período de reclusión. En 2082-2120, las ruinas de la Basílica de San Pedro son trasladadas desde el Vaticano y reconstruidas, estableciendo a Dársena como el nuevo centro del poder eclesiástico.
 -   **2050-2060**: La aparición de la Inteligencia Artificial Quiescente (QAI) pone fin a la era tecnológica. En Dársena nace la Sagrada Inquisición Argentina (SIA) como brazo armado de la Iglesia contra la herejía científica. La ciudad-estado se declara autónoma.
--   **2060-2070**: Se construyen las Torres Hidropónicas para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
+-   **2060-2070**: Se construyen las [[torres-hidroponicas|Torres Hidropónicas]] para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
 -   **2070-2100**: La ciudad experimenta una explosión demográfica por las migraciones, que culmina con el cierre de fronteras y la promulgación de la "Ley de Sangre" para prohibir la inmigración. La DMZ al otro lado del muro es despejada por la fuerza.
 -   **2100-2170**: Dársena se consolida como la capital de la Confederación, una potencia comercial y un centro de peregrinación mundial, manteniendo su dominio a través del control religioso y naval.
 
@@ -42,14 +42,14 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 
 El poder en Dársena se asienta sobre un trípode de facciones dominantes que cooperan y compiten por el control:
 
--   **La Iglesia**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
--   **Fuerzas Armadas**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
--   **Gremio de Comercio**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
+-   **[[iglesia|La Iglesia]]**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
+-   **[[fuerzas-armadas|Fuerzas Armadas]]**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
+-   **[[gremio-de-comercio|Gremio de Comercio]]**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
 
 Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
--   **Facciones Proscritas**: Grupos como la **Resistencia Subterránea**, los anarquistas, y movimientos religiosos heterodoxos operan en secreto, principalmente desde los [[Barrios del Muro]] y [[Las Tuberías]], escapando del control teológico de la Iglesia oficial.
--   **Redes Ocultas**: Los **Criptógrafos** (hackers), los **Masones** y los **Arpistas** (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
--   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los **Traficantes de Almas**, que operan en el corazón de las zonas más desfavorecidas.
+-   **Facciones Proscritas**: Grupos como la [[resistencia-subterranea|Resistencia Subterránea]], los anarquistas, y movimientos religiosos heterodoxos operan en secreto, principalmente desde los [[barrios-del-muro|Barrios del Muro]] y [[tuberias|Las Tuberías]], escapando del control teológico de la Iglesia oficial.
+-   **Redes Ocultas**: Los [[los-criptografos|Criptógrafos]] (hackers), los [[masones|Masones]] y los [[arpistas|Arpistas]] (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
+-   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los [[traficantes-de-almas|Traficantes de Almas]], que operan en el corazón de las zonas más desfavorecidas.
 
 ## Estructura de Clases Sociales
 
@@ -96,7 +96,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 
 ### **Pobreza Extrema / Marginales (~50% de población)**
 -   **Estimado**: 2.500.000 personas
--   **Composición**: Habitantes de [[Barrios del Muro]], [[Las Tuberías]], refugiados, sin ciudadanía formal. Trabajadores precarios, mendigos, criminales, disidentes políticos.
+-   **Composición**: Habitantes de [[barrios-del-muro|Barrios del Muro]], [[tuberias|Las Tuberías]], refugiados, sin ciudadanía formal. Trabajadores precarios, mendigos, criminales, disidentes políticos.
 -   **Vivienda**: Chabolas de lona, cartón, madera podrida. Ubicadas en zonas de máxima humedad (alrededor del río, en tuberías subterráneas). Estructuras que literalmente se pudren con los años.
 -   **Alimentación**: Inseguridad alimentaria crónica. Comen descartes de mercados, "sopa de hueso" de carnicerías, alimentos robados. Hambre es condición normal.
 -   **Salud**: Catastrófica. Tasa de tuberculosis 40%. Micosis pulmonar 45%. Dermatitis fúngica crónica 60%. Esperanza de vida 42-45 años (vs 60+ en clases media).
@@ -128,9 +128,9 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 
 ## Zonas Principales
 
-*   **[[Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso.
-*   **[[Microcentro]]**: El corazón administrativo y comercial de la ciudad.
-*   **[[Zona Centro]]**: El núcleo productivo y educativo.
-*   **[[Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
-*   **[[Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
-*   **[[Las Tuberías]]**: La ciudad subterránea, un mundo aparte.
+*   **[[zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso.
+*   **[[microcentro|Microcentro]]**: El corazón administrativo y comercial de la ciudad.
+*   **[[zona-centro|Zona Centro]]**: El núcleo productivo y educativo.
+*   **[[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
+*   **[[barrios-del-muro|Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
+*   **[[tuberias|Las Tuberías]]**: La ciudad subterránea, un mundo aparte.

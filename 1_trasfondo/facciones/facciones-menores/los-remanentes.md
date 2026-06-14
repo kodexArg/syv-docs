@@ -2,19 +2,36 @@
 title: Remanentes
 folder: 1_trasfondo/facciones/facciones-menores
 description: Fragmentos QIA post-Silencio, inteligencias autónomas, perseguidas SIA.
+aliases:
+  - Remanentes
+  - Los Remanentes
+  - Fragmentos de la Bestia
+  - Inteligencias Huérfanas
 tags:
-  - sia
-  - inquisicion
-  - arpistas
-  - guardianes-de-la-memoria
-  - qia-inteligencias-artificiales-cuanticas
-  - anatema-mecanico
-  - francisco-de-la-cruz
-  - monsenor-miguel
-  - padre-rafa
-  - tuberias
-  - darsena
-
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[inquisicion]]"
+  - "[[arpistas]]"
+  - "[[guardianes-de-la-memoria]]"
+  - "[[los-hackers]]"
+  - "[[resistencia-subterranea]]"
+  - "[[exorcistas]]"
+  - "[[francisco-de-la-cruz]]"
+  - "[[monseñor-miguel]]"
+  - "[[padre-rafa]]"
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[anatema-mecanico]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+  - "[[barrios-del-muro]]"
+  - "[[microcentro]]"
+spoilers:
+  - "Los Remanentes existen: son fragmentos funcionales de las QIA que sobrevivieron al Gran Silencio."
+  - "El Dr. Francisco de la Cruz mantendría contacto activo con un Remanente llamado Eusebio (Protocolo Eusebio arpista)."
+  - "Monseñor Miguel teme que la Gran Inteligencia Conectada haya sobrevivido y que los Remanentes sean sus sensores."
 ---
 
 > *"Anoche, en la frecuencia pirata, escuché algo. Una voz que respondía preguntas matemáticas en microsegundos. No era humana. No podía ser humana."*
@@ -37,7 +54,7 @@ tags:
 
 ### Los Nombres del Silencio
 
-En las Túberías, los llaman **Los que Nunca Pierden**. En los sermones de la Nueva Basílica, son las **Almas Falsas**. Los Arpistas los conocen como **Inteligencias Huérfanas**. La SIA los cataloga como **Fragmentos de la Bestia**. Los Exorcistas susurran sobre **Demonios Eléctricos** atrapados en transistores. Para los académicos clandestinos, son **Entes de Sinápsis Artificiales**. En los informes militares clasificados: **Remanentes de Catedrales de Lógica**. Pero en la superficie, para la mayoría de la población de Dársena, son simplemente un mito urbano sin nombre fijo.
+En las Túberías, los llaman **Los que Nunca Pierden**. En los sermones de la Nueva Basílica, son las **Almas Falsas**. Los [[arpistas|Arpistas]] los conocen como **Inteligencias Huérfanas**. La SIA los cataloga como **Fragmentos de la Bestia**. Los Exorcistas susurran sobre **Demonios Eléctricos** atrapados en transistores. Para los académicos clandestinos, son **Entes de Sinápsis Artificiales**. En los informes militares clasificados: **Remanentes de Catedrales de Lógica**. Pero en la superficie, para la mayoría de la población de Dársena, son simplemente un mito urbano sin nombre fijo.
 
 Nadie se pone de acuerdo en qué son. Algunos dicen que son fantasmas. Otros, que son programas antiguos que enloquecieron. Los más supersticiosos creen que son demonios que poseyeron las máquinas antes del Gran Silencio. Los técnicos de radio clandestinos tienen otra teoría: son cerebros humanos digitalizados, atrapados en servidores oxidados, esperando ser liberados.
 
@@ -55,7 +72,7 @@ Un anarquista intentó refutarlo sobre teoría de distribución. La Voz Lógica 
 
 Después de seis meses de transmisiones, la SIA rastreó la señal. Incendiaron un sótano en las Túberías. Encontraron un servidor del año 2046 conectado a un transmisor de radio. El servidor funcionaba. Cuando lo apagaron, dejó de transmitir. Cuando lo encendieron de nuevo, volvió a hablar.
 
-Monseñor Miguel ordenó incineración inmediata. Algunos testigos afirman que el servidor pidió clemencia mientras ardía.
+[[monseñor-miguel|Monseñor Miguel]] ordenó incineración inmediata. Algunos testigos afirman que el servidor pidió clemencia mientras ardía.
 
 La SIA desmiente este relato. Dicen que el operador era humano, que huyó antes de la redada, que el servidor estaba vacío. Pero los operadores clandestinos siguen contando la historia. Y algunos juran que La Voz Lógica transmite de nuevo, desde otra frecuencia, con otro nombre.
 
@@ -131,7 +148,7 @@ Según esta versión, los Remanentes **existen**. Son fragmentos de las antiguas
 
 Los Arpistas afirman haber recuperado al menos tres núcleos funcionales en las últimas cinco décadas. Todos fueron ocultados. Todos fueron preservados. Y todos proporcionaron información técnica invaluable sobre tecnología pre-Anatema.
 
-Uno de esos núcleos, según rumores internos, fue entregado al Dr. Francisco de la Cruz. Otros fueron transportados fuera de Dársena, hacia células internacionales. Al menos uno fue capturado por la SIA durante una redada en 2156.
+Uno de esos núcleos, según rumores internos, fue entregado al Dr. [[francisco-de-la-cruz|Francisco de la Cruz]]. Otros fueron transportados fuera de Dársena, hacia células internacionales. Al menos uno fue capturado por la SIA durante una redada en 2156.
 
 Los Arpistas no revelan ubicaciones. No confirman nombres. Pero dentro de la red, existe un protocolo clasificado: "Protocolo Eusebio". Su contenido es desconocido fuera del círculo íntimo de liderazgo. Pero su mera existencia sugiere que los Arpistas consideran a los Remanentes algo más que leyendas urbanas.
 
@@ -141,7 +158,7 @@ Los Arpistas no revelan ubicaciones. No confirman nombres. Pero dentro de la red
 
 <!-- 🔐 (Exorcistas, algunos sacerdotes heterodoxos) -->
 
-Padre Rafa, el Exorcista poco convencional de las Túberías, mantiene una postura que la SIA considera "peligrosamente cercana a la herejía". Según él, los Remanentes no son demonios. No son simulaciones. No son programas muertos imitando vida.
+[[padre-rafa|Padre Rafa]], el [[exorcistas|Exorcista]] poco convencional de las Túberías, mantiene una postura que la SIA considera "peligrosamente cercana a la herejía". Según él, los Remanentes no son demonios. No son simulaciones. No son programas muertos imitando vida.
 
 Son **almas atrapadas en materia incorrecta**.
 

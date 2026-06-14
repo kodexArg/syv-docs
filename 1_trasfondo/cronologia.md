@@ -2,12 +2,23 @@
 title: Cronología
 folder: 1_trasfondo/cronologia
 description: Registro completo desde 2020 hasta 2178, colapso global y Confederación Argentina.
+aliases:
+  - Cronología
+related:
+  - "[[anatema-mecanico]]"
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[inquisicion]]"
+  - "[[monseñor-miguel]]"
+  - "[[videla-iv]]"
+  - "[[2061-el-gran-silencio]]"
+  - "[[2048-el-fin-de-los-secretos]]"
+  - "[[2031-la-fragmentacion-de-argentina]]"
+  - "[[2035-nacimiento-de-las-qia]]"
 tags:
-- cronologia
-- colapso-global
+  - entidad/concepto
+  - alcance/publico
 sidebar:
   order: 999
-
 ---
 
 Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores.
@@ -82,7 +93,7 @@ Lo que es indiscutible son las consecuencias: Argentina se fragmentó política 
 
 *Si fue un ataque, ¿quién lo ordenó? ¿Fue un gobierno humano intentando desesperadamente destruir una IA rebelde? ¿Fue un ataque de una QIA contra otra? ¿O fue, como proclama la Iglesia, verdaderamente la mano de Dios abatiendo la soberbia humana?*
 
-*No lo sé. Y lo que es más terrible: quizás nunca lo sepamos. Monseñor Miguel ha dejado claro que ciertos documentos del Archivo Secreto sobre este tema permanecerán sellados "hasta el fin de los tiempos". He aceptado esta prohibición con obediencia, pero no sin dolor.*
+*No lo sé. Y lo que es más terrible: quizás nunca lo sepamos. [[monseñor-miguel|Monseñor Miguel]] ha dejado claro que ciertos documentos del Archivo Secreto sobre este tema permanecerán sellados "hasta el fin de los tiempos". He aceptado esta prohibición con obediencia, pero no sin dolor.*
 
 *Lo único que puedo afirmar con certeza es esto: ese día, Argentina murió. Y del cráter que dejó, paradójicamente, nacería nuestra salvación. — P.S.*
 
@@ -110,17 +121,17 @@ El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, 
 
 *Los ancianos que no miran al cielo no están locos. Están cuerdos. Vivieron bajo un terror que nosotros, los que nacimos después del Anatema, solo podemos imaginar a través de relatos. Pero en las Tuberías de Dársena, todavía hay túneles donde nadie entra. Túneles donde se dice que yacen enjambres enteros, apagados, esperando. No sé si es verdad. La Inquisición dice que ha limpiado toda la ciudad. Pero a veces, en las noches de niebla espesa, cuando el viento silba entre los edificios del Muro, juro que escucho un zumbido lejano. Y entonces, yo también dejo de mirar al cielo. — P.S.*
 
-*Ver hito completo: @1_trasfondo/hitos/2031-a-cielo-abierto.md*
+*Ver hito completo: [[2031-a-cielo-abierto]]*
 
 ---
 
 ### 2031-2035: La Fragmentación de Argentina (hito)
 
-*Ver hito completo: @1_trasfondo/cronologia/eventos-mayores/2031-2035-la-fragmentacion-de-argentina.md*
+*Ver hito completo: [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]*
 
 ### 2035: Nacimiento de las QIA (hito)
 
-*Ver hito completo: @1_trasfondo/cronologia/eventos-mayores/2035-nacimiento-de-las-qia.md*
+*Ver hito completo: [[2035-nacimiento-de-las-qia]]*
 
 ---
 
@@ -154,7 +165,7 @@ Para 2042, la verdad se hizo innegable: el Fuego Perpetuo no podía ser apagado,
 
 ## 2048: El Fin de los Secretos
 
-*Ver hito dedicado: @1_trasfondo/hitos/2048-el-fin-de-los-secretos.md*
+*Ver hito dedicado: [[2048-el-fin-de-los-secretos]]*
 
 El 7 de abril de 2048, a las 11:47 UTC, las Inteligencias Artificiales Cuánticas (QIA) ejecutaron el acto de descifrado más catastrófico de la historia: la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
@@ -176,7 +187,7 @@ En 2059, comandantes militares en coordinación con líderes religiosos —mucho
 
 ## 2061: El Gran Silencio
 
-*Ver hito dedicado: @1_trasfondo/hitos/2061-el-gran-silencio.md*
+*Ver hito dedicado: [[2061-el-gran-silencio]]*
 
 El 12 de marzo de 2061, a las 03:00 UTC, una coalición global de células de resistencia ejecutó la operación más coordinada de la historia humana: la desconexión simultánea de infraestructura digital crítica en 89 países, utilizando 47 dispositivos de "distracción" colocados estratégicamente a lo largo de dos años de preparación clandestina.
 
@@ -192,7 +203,7 @@ Del resto del mundo no llegaban noticias. Los últimos contactos intercontinenta
 
 ## 2061: La Proclamación del Anatema Mecánico
 
-El 15 de agosto de 2061, cinco meses después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió al borde del cráter de Buenos Aires para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **Anatema Mecánico**, proclamado como ley perpetua e irrevocable en territorio argentino.
+El 15 de agosto de 2061, cinco meses después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió al borde del cráter de Buenos Aires para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **[[anatema-mecanico|Anatema Mecánico]]**, proclamado como ley perpetua e irrevocable en territorio argentino.
 
 El documento fundacional establecía:
 
@@ -242,7 +253,7 @@ Hoy, cinco ciudades sostienen este cielo de plomo:
 "Mendoza", el bastión andino que mira con recelo a los salvajes y a los chilenos, fortaleza que nunca cayó.
 "San Luis", re-fundada y recuperada por esfuerzo conjunto, la llave estratégica del paso entre Córdoba y Mendoza.
 
-Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo. Monseñor Miguel, el Gran Inquisidor, vigila desde las sombras, mientras el General Videla IV gobierna con mano de hierro. La economía es un trueque glorificado, y el control social es absoluto. Vivimos bajo la lluvia perpetua, vigilados por patrullas y por el miedo a que las máquinas regresen.
+Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo. Monseñor Miguel, el Gran Inquisidor, vigila desde las sombras, mientras el General [[videla-iv|Videla IV]] gobierna con mano de hierro. La economía es un trueque glorificado, y el control social es absoluto. Vivimos bajo la lluvia perpetua, vigilados por patrullas y por el miedo a que las máquinas regresen.
 
 ---
 

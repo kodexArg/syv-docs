@@ -2,15 +2,17 @@
 title: Anatema Mecanico
 folder: 2_atlas/tecnologia-y-ciencia
 description: Ciencia y Tecnología bajo el Anatema Mecánico
+aliases:
+- Anatema Mecánico (tech)
+- Ciencia y Tecnología bajo el Anatema Mecánico
 tags:
-- anatema-mecanico
-- atlas
-- prohibicion-tecnologica
-- sia
-- '2061'
-- qia
-- tecnologia-analogica
-- herejia-tecnologica
+- entidad/concepto
+- alcance/publico
+- estado/canon
+related:
+- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+- "[[inquisicion]]"
+- "[[qia-inteligencias-artificiales-cuanticas]]"
 
 ---
 # Ciencia y Tecnología en 2178
@@ -57,7 +59,7 @@ El PIA representa la aceptación grudging de que **cierta computación es necesa
 3. Vigilada (por la Iglesia)
 4. Incapaz de evolucionar (sin silicio)
 
-Para especificaciones técnicas completas del PIA (arquitectura octogesimal, manufactura, aplicaciones, mercado negro), consulte: [Procesador de Industria Argentina](./procesador-argentino-pia.md)
+Para especificaciones técnicas completas del PIA (arquitectura octogesimal, manufactura, aplicaciones, mercado negro), consulte: [[procesador-argentino-pia|Procesador de Industria Argentina]]
 
 ## Visualización y Armamento
 

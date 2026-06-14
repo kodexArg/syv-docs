@@ -3,15 +3,22 @@ title: Mariana, artista torturada
 folder: 3_personajes/secundarios
 description: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad
   en las Tuberías.
+nombre: Mariana
+aliases:
+  - Mariana
 tags:
-- artista
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Su conexión con el Ensoñador y su condición mental verdadera."
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+spoilers:
+  - "Su conexión con el Ensoñador y su verdadera condición mental."
 ---
 ## Mariana, artista torturada
 
-20 años, Barrios del Muro (vive en planta baja con acceso a Tuberías)
+20 años, [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] (vive en planta baja con acceso a [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]])
 
 Artista y pintora
 

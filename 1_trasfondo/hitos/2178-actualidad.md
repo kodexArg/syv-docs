@@ -2,11 +2,14 @@
 title: Actualidad
 folder: 1_trasfondo/hitos
 description: Situación geopolítica y social 2178, perspectiva Confederación Argentina.
+fecha: 2178
+aliases:
+  - Actualidad 2178
+related:
+  - "[[anatema-mecanico]]"
 tags:
-  - hito
-  - actualidad-2178
-  - presente
-
+  - entidad/hito
+  - alcance/publico
 ---
 Este documento es un adelanto de hasta dónde se llegará con la cronología, donde en el futuro escribiremos los eventos que transforman el mundo año a año.
 
@@ -20,7 +23,7 @@ Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide
 
 *Los capitanes de la Armada que navegan hacia aguas distantes regresan con historias. Los refugiados que llegan desde el norte traen relatos. Los agentes de inteligencia compilan reportes. Pero todo es de segunda o tercera mano. No sabemos con certeza qué es verdad y qué es leyenda. He incluido esta información tal como me fue reportada, pero el lector debe entender: **esto NO es historia verificada. Es especulación informada en el mejor de los casos, rumor infundado en el peor.***
 
-*Quizás el mundo es tal como se describe aquí. Quizás es completamente diferente. Quizás no queda nada más allá del horizonte. No lo sabemos. Y esta incertidumbre define nuestra época tanto como el Anatema mismo. — P.S.*
+*Quizás el mundo es tal como se describe aquí. Quizás es completamente diferente. Quizás no queda nada más allá del horizonte. No lo sabemos. Y esta incertidumbre define nuestra época tanto como el [[anatema-mecanico|Anatema]] mismo. — P.S.*
 
 ## Europa (o Eurasia Occidental)
 

@@ -2,26 +2,23 @@
 title: Celdas Radionuclidos
 folder: 2_atlas/tecnologia-y-ciencia
 description: Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica
+aliases:
+  - Celdas de Radionúclidos
+  - Americio-241
 tags:
-  - tecnologia
-  - militar
-  - radionuclido
-  - americio
-  - bateria
-  - 48v
-  - restriccion
-  - limitador
-  - sia
-  - seguridad-nacional
-  - atlas
+  - entidad/concepto
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[inquisicion]]"
 ---
 
 # Celdas de Radionúclidos: Fundamentación de la Barrera de 48V
 
 **NOTA IMPORTANTE**: Las Celdas de Americio-241 descritas en este documento son tecnología de almacenamiento **MILITAR**, completamente distinta del sistema civil de baterías de arena y sal.
 
-- **Para uso civil**: Ver [Electricidad → Baterías de Arena y Sal](./electricidad.md#baterías-y-almacenamiento)
-- **Para comparación completa**: Ver [Sistemas Energéticos](./sistemas-energeticos.md)
+- **Para uso civil**: Ver [[electricidad|Electricidad → Baterías de Arena y Sal]]
+- **Para comparación completa**: Ver [[sistemas-energeticos|Sistemas Energéticos]]
 
 Este documento describe exclusivamente la tecnología militar monopolizada por el Estado.
 
@@ -136,7 +133,7 @@ Paradójicamente, el sistema de baterías de arena y sal (tecnología civil much
 
 ## Referencias Cruzadas
 
-- [[Procesador de Industria Argentina]](./procesador-argentino-pia.md) - Dependencia de cobre OFHC
-- [[Electricidad y Energía]](./electricidad.md) - Estándar de 48V en la red confederada
-- [[Ciencia y Tecnología bajo el Anatema Mecánico]](./anatema-mecanico.md) - Contexto de restricción tecnológica
-- [[Los Rezagos]](./los-rezagos.md) - Prohibición de silicio nanométrico que estas celdas impiden reactivar
+- [[procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia de cobre OFHC
+- [[electricidad|Electricidad y Energía]] - Estándar de 48V en la red confederada
+- [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Contexto de restricción tecnológica
+- [[los-rezagos|Los Rezagos]] - Prohibición de silicio nanométrico que estas celdas impiden reactivar

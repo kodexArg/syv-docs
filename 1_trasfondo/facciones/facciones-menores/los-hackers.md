@@ -2,14 +2,29 @@
 title: Hackers
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red clandestina hackers, arqueología digital, comunicaciones cifradas, contra régimen.
+aliases:
+  - Hackers
+  - Los Hackers
+  - Criptógrafos clandestinos
+  - Los Descifradores
 tags:
-- faccion
-- clandestina
-- hackers
-- criptografia
-- arqueologia-digital
-- facciones-menores
-
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[arpistas]]"
+  - "[[guardianes-de-la-memoria]]"
+  - "[[inquisicion]]"
+  - "[[fuerzas-armadas]]"
+  - "[[iglesia]]"
+  - "[[los-criptografos]]"
+  - "[[resistencia-subterranea]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+  - "[[barrios-del-muro]]"
+spoilers:
+  - "Los hackers más hábiles no siempre son ejecutados al ser capturados: la DNS y la SIA los reclutan a la fuerza como Criptógrafos oficiales."
 ---
 "Alias": Criptógrafos clandestinos, Los Descifradores
 
@@ -17,7 +32,7 @@ tags:
 
 ## Introducción
 
-En un mundo donde la información es controlada con puño de hierro, "Los Hackers" representan una peligrosa anomalía. Son una red clandestina y descentralizada de especialistas en comunicaciones cifradas, ingenieros de radio y arqueólogos digitales que operan desde las sombras de Dársena, principalmente en las Túberías y los barrios marginales. Su objetivo es desafiar el monopolio informativo del Estado y la "Iglesia", interceptando y decodificando comunicaciones, y recuperando conocimiento del mundo pre-Anatema.
+En un mundo donde la información es controlada con puño de hierro, "Los Hackers" representan una peligrosa anomalía. Son una red clandestina y descentralizada de especialistas en comunicaciones cifradas, ingenieros de radio y arqueólogos digitales que operan desde las sombras de Dársena, principalmente en las Túberías y los barrios marginales. Su objetivo es desafiar el monopolio informativo del Estado y la [[iglesia|Iglesia]], interceptando y decodificando comunicaciones, y recuperando conocimiento del mundo pre-Anatema.
 
 "Nota sobre terminología": En la Confederación Argentina, el término "Criptógrafo" tiene dos significados distintos:
 
@@ -56,8 +71,8 @@ Los Hackers emplean tecnología de lectura tolerada bajo el Corpus Licitus cuand
 
 Sus hallazgos son fuentes históricas valiosas para:
 
-- "Arpistas": Red internacional que contrata Hackers para recuperar archivos tecnológicos antiguos, documentación de QIA, y blueprints pre-Anatema.
-- "Guardianes de la Memoria": Pagan por textos históricos, bases de datos académicas, y conocimiento prohibido almacenado digitalmente.
+- [[arpistas|Arpistas]]: Red internacional que contrata Hackers para recuperar archivos tecnológicos antiguos, documentación de QIA, y blueprints pre-Anatema.
+- [[guardianes-de-la-memoria|Guardianes de la Memoria]]: Pagan por textos históricos, bases de datos académicas, y conocimiento prohibido almacenado digitalmente.
 - "Iglesia/SIA" (ocasionalmente, bajo supervisión): Contratan (forzosamente, tras captura) para recuperar información estratégica de archivos enemigos o para descifrar datos de épocas pasadas que puedan contener amenazas.
 - "Archivistas del Estado": Como el Hermano Archivista Pedro de los Santos, que usan estos hallazgos como fuentes primarias para reconstruir la historia del colapso.
 
@@ -80,7 +95,7 @@ A pesar de la tolerancia limitada bajo Corpus Licitus, la arqueología digital s
 | "SIA" | ENEMIGOS | Caza implacable, pero también reclutamiento forzoso |
 | "DNS" | ENEMIGOS | Persecución constante, reclutamiento a la fuerza |
 | "La Unión" | NEUTRAL | Algunos contactos comerciales clandestinos |
-| "Resistencia Subterránea" | ALIADOS | Comparten refugio en las Túberías |
+| [[resistencia-subterranea\|Resistencia Subterránea]] | ALIADOS | Comparten refugio en las Túberías |
 
 ---
 

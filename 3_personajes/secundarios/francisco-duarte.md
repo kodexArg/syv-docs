@@ -3,12 +3,18 @@ title: Francisco Duarte, Operario en Torres Hidropónicas
 folder: 3_personajes/secundarios
 description: Joven operario de las Torres Hidropónicas que secretamente redistribuye
   alimentos a las Tuberías.
+nombre: Francisco Duarte
+aliases:
+  - Francisco Duarte
 tags:
-- operario
-- torres-hidroponicas
-- resistencia
-facciones: ["Resistencia Subterránea"]
-alerta-spoilers: "Roba alimentos sistemáticamente para distribuir en las Tuberías"
+  - entidad/personaje
+  - alcance/secreto
+facciones:
+  - "[[resistencia-subterranea]]"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+spoilers:
+  - "Roba alimentos sistemáticamente para distribuirlos en Las Tuberías."
 ---
 ## Francisco Duarte, el Operario
 
@@ -34,7 +40,7 @@ Joven, enérgico y un tanto pendenciero. Es fácilmente influenciable y crédulo
 
 ### Motivaciones
 
-Siente una rabia visceral ante la injusticia de ver alimentos en abundancia mientras la gente de las Tuberías pasa hambre. Aunque no es sofisticado en su pensamiento, su convicción es genuina.
+Siente una rabia visceral ante la injusticia de ver alimentos en abundancia mientras la gente de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] pasa hambre. Aunque no es sofisticado en su pensamiento, su convicción es genuina.
 
 ### Trasfondo
 
@@ -42,7 +48,7 @@ Siente una rabia visceral ante la injusticia de ver alimentos en abundancia mien
 Francisco Duarte es un operario joven y trabajador en las Torres Hidropónicas, conocido por su energía pero también por meterse ocasionalmente en peleas.
 <!-- /📖 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Francisco utiliza su posición para robar alimentos sistemáticamente y distribuirlos entre los habitantes de las Tuberías. Es parte de la Resistencia Subterránea, aunque no comprende completamente las implicaciones de sus acciones. Su falta de astucia lo hace vulnerable: si alguien lo presionara correctamente, podría delatar a toda su red sin siquiera darse cuenta. Lo que lo mantiene a salvo hasta ahora es que nadie imaginaría que alguien tan poco sofisticado podría estar involucrado en algo tan organizado. Es un activo valioso pero peligroso para la resistencia.
+Francisco utiliza su posición para robar alimentos sistemáticamente y distribuirlos entre los habitantes de las Tuberías. Es parte de la [[resistencia-subterranea|Resistencia Subterránea]], aunque no comprende completamente las implicaciones de sus acciones. Su falta de astucia lo hace vulnerable: si alguien lo presionara correctamente, podría delatar a toda su red sin siquiera darse cuenta. Lo que lo mantiene a salvo hasta ahora es que nadie imaginaría que alguien tan poco sofisticado podría estar involucrado en algo tan organizado. Es un activo valioso pero peligroso para la resistencia.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

@@ -2,26 +2,29 @@
 title: Universidad Nacional de Córdoba
 folder: 2_atlas/ciudades/cordoba
 description: La institución académica más grande de la Confederación Argentina. Centro mundial de ingeniería mecánica, matemáticas aplicadas e investigación militar. Ubicada en Córdoba, bajo control del Ejército Argentino y el poder civil coordinado.
+aliases:
+- Universidad Nacional de Córdoba
+- UNC
+region: Córdoba
 tags:
-- cordoba
-- atlas
-- instituciones
-- educacion
-- ingenieria
-- matematica
-- industria-militar
-- poder-militar
-- capital-continental
-
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[fuerzas-armadas]]"
+- "[[universidad-pontificia-america]]"
+- "[[universidad-de-cuyo]]"
+ubicaciones:
+- "[[capital]]"
 ---
 
 # Universidad Nacional de Córdoba
 
 En una ciudad donde el acero ruge constantemente en talleres y fundiciones, donde matemáticos refuerzan cálculos para sistemas de armas que ningún civil debe conocer, la Universidad Nacional de Córdoba (UNC) no es institución de contemplación sino de **producción**. Treinta millones de metros cuadrados de campus disperso por toda la ciudad—laboratorios, talleres, dormitorios, plantas de investigación aplicada—alberga aproximadamente 47,000 estudiantes activos, haciendo de la UNC la institución académica más grande no solo de la Confederación sino probablemente del continente post-colapso.
 
-Donde la Universidad Pontificia de América custodia verdad permitida bajo vigilancia eclesiástica, Córdoba produce herramientas: ingenieros que diseñan armas que funcionan sin electricidad, matemáticos cuyas ecuaciones predicen trayectorias balísticas, administrativos que coordinan logística militar con precisión de relojería. La UNC es máquina de transformar mente joven en capacidad técnica.
+Donde la [[universidad-pontificia-america|Universidad Pontificia de América]] custodia verdad permitida bajo vigilancia eclesiástica, Córdoba produce herramientas: ingenieros que diseñan armas que funcionan sin electricidad, matemáticos cuyas ecuaciones predicen trayectorias balísticas, administrativos que coordinan logística militar con precisión de relojería. La UNC es máquina de transformar mente joven en capacidad técnica.
 
-Fundada en 1613 como **Universidad Nacional de Córdoba** (una de las más antiguas de América Latina), la institución sobrevivió el colapso porque el Ejército Argentino reconoció inmediatamente lo que otros pasaron por alto: la tecnología mecánica pura—palancas, engranajes, hidráulica—podía ser enseñada sin violar el Anatema Mecánico. Reinvencionese a sí misma como brazo técnico del poder militar, la UNC consolidó su rol en 2065 bajo control directo del Comando Estratégico del Ejército Argentino.
+Fundada en 1613 como **Universidad Nacional de Córdoba** (una de las más antiguas de América Latina), la institución sobrevivió el colapso porque el [[fuerzas-armadas|Ejército Argentino]] reconoció inmediatamente lo que otros pasaron por alto: la tecnología mecánica pura—palancas, engranajes, hidráulica—podía ser enseñada sin violar el Anatema Mecánico. Reinvencionese a sí misma como brazo técnico del poder militar, la UNC consolidó su rol en 2065 bajo control directo del Comando Estratégico del Ejército Argentino.
 
 ## Ubicación y Arquitectura: Ciudad-Universidad
 
@@ -319,7 +322,7 @@ El Ejército lo sabe. Pero represión es limitada—necesita intelectuales calif
 
 **Universidad Pontificia de América**: Rivalidad compleja. Ambas compiten por talento, presupuesto, influencia. Ocasionalmente colaboran en investigaciones "neutral" (historia, arqueología). UPA ve a UNC como institución militarizada sin alma. UNC ve a UPA como institución teológica sin pragmatismo.
 
-**Universidad de Cuyo (Mendoza)**: Relación de cooperación limitada. Intercambio de publicaciones, colaboración ocasional. Cuyo es menos intimidante que UPA, así que relación es más relajada.
+[[universidad-de-cuyo|Universidad de Cuyo (Mendoza)]]: Relación de cooperación limitada. Intercambio de publicaciones, colaboración ocasional. Cuyo es menos intimidante que UPA, así que relación es más relajada.
 
 **Instituciones Extranjeras**: La UNC mantiene relaciones académicas con universidades en Chile, Perú, Brasil. Estudiosos intercambian correspon dencia. Pero publicaciones de UNC son frecuentemente censuradas antes de ser compartidas internacionalmente.
 

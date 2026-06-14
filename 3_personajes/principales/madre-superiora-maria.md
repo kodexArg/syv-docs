@@ -4,15 +4,19 @@ folder: 3_personajes/principales
 description: Directora Espiritual de la Sagrada Inquisición Argentina. Reside en la
   Torre del Faro, confinada a 100 metros de toda tecnología por deber divino. Dirige
   la administración completa de la Inquisición.
-tags:
-- madre-superiora-maria
-- inquisicion
-- faro-sia
-- isla-oriental
+nombre: Madre Superiora María
+aliases:
+  - Madre Superiora María
+  - Directora del Faro
 facciones:
-- "Sagrada Inquisición Argentina"
-alerta-spoilers: "Contiene información sobre el sistema de Iniciados del Faro y sus
-  'consecuencias'"
+  - "[[inquisicion]]"
+related:
+  - "[[sor-sofia]]"
+spoilers:
+  - "Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'."
+tags:
+  - entidad/personaje
+  - alcance/secreto
 ---
 
 ## Madre Superiora María, Directora del Faro
@@ -31,7 +35,7 @@ Un espectro de autoridad que vive entre los vivos solo por obligación.
 
 ### Rol y Posición
 
-Madre Superiora María es la cabeza administrativa y espiritual de la Sagrada Inquisición Argentina. Vive en soledad absoluta en la cúspide de la Torre del Faro, y desde allí comanda a su rebaño—monjas, iniciadas y Hermanas de Batalla—como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
+Madre Superiora María es la cabeza administrativa y espiritual de la [[inquisicion|Sagrada Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro, y desde allí comanda a su rebaño—monjas, iniciadas y Hermanas de Batalla—como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
 
 - Operaciones de todas las Monjas y Hermanas de Batalla en Dársena
 - Administración del Sistema de Iniciados en El Faro (selección, entrenamiento, "derivación")
@@ -80,7 +84,7 @@ Nadie más lo sabe. Si lo saben, serían un problema que María resolvería del 
 
 - **Obispo Arzobispo de Dársena**: Superior jerárquico nominal (relación frágil, basada en mutua ignorancia deliberada)
 - **Comando Nacional de Dársena**: Colaborador en operaciones de seguridad y contención paranormal
-- **Hermanas de Batalla (Sor Sofía)**: Ejecutora de órdenes que otros no pueden cumplir
+- **Hermanas de Batalla ([[sor-sofia|Sor Sofía]])**: Ejecutora de órdenes que otros no pueden cumplir
 - **Iniciadas del Sistema del Faro**: Materia prima de su visión de perfección teológica
 - **El Archivo Secreto**: Custodio de secretos más antiguos que su propio reinado
 

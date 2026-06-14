@@ -3,14 +3,17 @@ title: Sargento Esteban Moreno
 folder: 3_personajes/secundarios
 description: Sargento a cargo de la guarnición del Cementerio de Chacarita y líder
   de la Orden de los Guardianes.
+nombre: Esteban Moreno
+aliases:
+  - Sargento Esteban Moreno
+  - Esteban Moreno
 tags:
-- militar
-- guardianes
-- chacarita
+  - entidad/personaje
+  - alcance/secreto
 facciones:
-- "Ejército Argentino"
-- "Masones"
-alerta-spoilers: "Su rol como Maese Masón y líder de la Orden de los Guardianes."
+  - "[[fuerzas-armadas]]"
+spoilers:
+  - "Su rol como Maese Masón y líder de la Orden de los Guardianes."
 ---
 ## Sargento Esteban Moreno
 
@@ -28,7 +31,7 @@ Es alguien cuyo verdadero poder reside en lugares ocultos del conocimiento.
 
 ### Rol y Posición
 
-Moreno está a cargo de la guarnición del Cementerio de Chacarita, una posición que parece modesta pero que esconde una influencia considerable.
+Moreno está a cargo de la guarnición del [[cementerio-de-chacarita|Cementerio de Chacarita]], una posición que parece modesta pero que esconde una influencia considerable.
 
 ### Personalidad
 

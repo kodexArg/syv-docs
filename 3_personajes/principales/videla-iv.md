@@ -3,22 +3,29 @@ title: General Videla IV
 folder: 3_personajes/principales
 description: Presidente y Generalísimo de Córdoba, cuarta generación de la dinastía
   Videla que ha gobernado la ciudad desde su fundación en 2031.
-tags:
-- cordoba
-- militar
-- confederacion
+nombre: Videla IV
+aliases:
+  - General Videla IV
+  - Videla IV
+  - Generalísimo de Córdoba
 facciones:
-- "Ejército Argentino (Alto Mando)"
-- "Dinasía Videla"
-alerta-spoilers: "La conspiración del Teniente Coronel Gobernador que opera potencialmente
-  sin su conocimiento completo en Córdoba."
+  - "[[fuerzas-armadas]]"
+related:
+  - "[[teniente-coronel-gobernador]]"
+  - "[[monseñor-miguel]]"
+  - "[[damian-diconte]]"
+spoilers:
+  - "La conspiración del Teniente Coronel Gobernador que opera potencialmente sin su conocimiento completo en Córdoba."
+tags:
+  - entidad/personaje
+  - alcance/secreto
 ---
 ## Videla IV, Generalísimo de Córdoba
 
 **Edad aproximada**: 62 años (nacido ~2116)
 **Lugar**: Córdoba
 
-Presidente de facto y comandante supremo del Ejército Argentino
+Presidente de facto y comandante supremo del [[fuerzas-armadas|Ejército Argentino]]
 
 ## Aspecto
 
@@ -76,11 +83,11 @@ General Videla IV es el presidente de Córdoba y comandante supremo del Ejércit
 
 Su respuesta: **represión pragmática**. No ideológica—no quema a herejes como hace Dársena. Simplemente asegura que quienes cuestionen el orden sean silenciados de manera eficiente. Desapariciones silenciosas, reasignación laboral forzada, destrucción de familias por sospecha de sedición.
 
-**Punto Ciego Crítico**: Videla IV cree que su inteligencia le permite saber "todo lo importante" que ocurre en Córdoba. La realidad es que está rodeado de generales y administradores que le dicen lo que quiere escuchar. El **Teniente Coronel Gobernador** (quien lidera la conspiración para purgar "herejes" dentro de la Iglesia) es uno de sus generales más cercanos. Videla IV conoce la conspiración en términos vagos—"limpieza de disidentes religiosos"—pero **no comprende su magnitud ni su verdadero objetivo: crear una religión militarizada que le quitaría poder a él mismo**.
+**Punto Ciego Crítico**: Videla IV cree que su inteligencia le permite saber "todo lo importante" que ocurre en Córdoba. La realidad es que está rodeado de generales y administradores que le dicen lo que quiere escuchar. El **[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]** (quien lidera la conspiración para purgar "herejes" dentro de la Iglesia) es uno de sus generales más cercanos. Videla IV conoce la conspiración en términos vagos—"limpieza de disidentes religiosos"—pero **no comprende su magnitud ni su verdadero objetivo: crear una religión militarizada que le quitaría poder a él mismo**.
 
 Este es el quid del conflicto narrativo: Videla IV se cree en control absoluto, pero en realidad está siendo manipulado por una facción de su propio ejército que planea revolucionarlo.
 
-**Relación con la Iglesia**: Pragmática pero tensa. La Iglesia de Córdoba es menos poderosa que la de Dársena, pero aún influye en educación, justicia y legitimación del régimen. Videla IV tolera a la Iglesia porque **la necesita**, pero no le confía verdadero poder político. Monseñor Miguel lo considera un rival y un potencial hereje tecnológico, pero ambos mantienen una fachada de cooperación porque destruirse mutuamente debilitaría la Confederación.
+**Relación con la Iglesia**: Pragmática pero tensa. La Iglesia de Córdoba es menos poderosa que la de Dársena, pero aún influye en educación, justicia y legitimación del régimen. Videla IV tolera a la Iglesia porque **la necesita**, pero no le confía verdadero poder político. [[monseñor-miguel|Monseñor Miguel]] lo considera un rival y un potencial hereje tecnológico, pero ambos mantienen una fachada de cooperación porque destruirse mutuamente debilitaría la Confederación.
 
 **Relación con el Teniente Coronel Gobernador**: Lo considera uno de sus generales más capaces—leal, efectivo, sin ambiciones políticas aparentes. Esta es su máxima debilidad. No ve que el Teniente Coronel está tejiendo una red de poder alternativa.
 
@@ -90,7 +97,7 @@ Este es el quid del conflicto narrativo: Videla IV se cree en control absoluto, 
 
 **LA CONSPIRACIÓN Y EL RIESGO**: El Teniente Coronel Gobernador no planea derrocar a Videla IV directamente. Su objetivo es más sutil: crear una **alianza permanente entre Ejército e Iglesia**, usando doctrina religiosa distorsionada para justificar un control absolutista que subordine el poder civil (Videla) al poder militar-eclesiástico. En otras palabras: Videla IV seguiría siendo "presidente", pero únicamente como figura ceremonial bajo control de una junta militar-religiosa.
 
-Damián descubre esto. Huyendo a Dársena, deja pruebas en Córdoba que, si son encontradas, podrían destruir tanto al Teniente Coronel como a Videla IV (porque revelarían su negligencia y complicidad inconsciente). Esto es por qué la persecución es tan feroz. No es que Videla IV sepa de la conspiración completa; es que sus generales subordinados lo saben y lo ocultan, y están desesperados por recuperar las pruebas antes de que lleguen a manos del Sumo Pontífice de Dársena o peor—antes de que la Inquisición descubra que el Ejército Argentino tiene infiltración herética.
+[[damian-diconte|Damián]] descubre esto. Huyendo a Dársena, deja pruebas en Córdoba que, si son encontradas, podrían destruir tanto al Teniente Coronel como a Videla IV (porque revelarían su negligencia y complicidad inconsciente). Esto es por qué la persecución es tan feroz. No es que Videla IV sepa de la conspiración completa; es que sus generales subordinados lo saben y lo ocultan, y están desesperados por recuperar las pruebas antes de que lleguen a manos del Sumo Pontífice de Dársena o peor—antes de que la Inquisición descubra que el Ejército Argentino tiene infiltración herética.
 
 <!-- /🔐☠️ -->
 

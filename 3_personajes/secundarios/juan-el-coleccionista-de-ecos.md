@@ -3,12 +3,19 @@ title: Juan, El Coleccionista de Ecos
 folder: 3_personajes/secundarios
 description: Enigmático mercader de las Tuberías conocido por desentrañar la historia
   oculta en objetos extraños.
+nombre: Francisco Praga
+aliases:
+  - Juan
+  - El Coleccionista de Ecos
+  - Francisco Praga
 tags:
-- comerciante
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Su verdadero nombre es Francisco Praga, ex-sacerdote fugitivo de
-  un crimen pasional"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+spoilers:
+  - "Su verdadero nombre es Francisco Praga, ex-sacerdote fugitivo de un crimen pasional."
 ---
 ## Juan, el Coleccionista de Ecos
 
@@ -26,7 +33,7 @@ Un narrador de memorias ajenas que esconde las propias.
 
 ### Rol y Posición
 
-No hay mercader en las Tuberías tan versado en la historia de los objetos extraños como Juan. Su tienda es un laberinto de recuerdos, un santuario para quienes buscan piezas del pasado.
+No hay mercader en [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] tan versado en la historia de los objetos extraños como Juan. Su tienda es un laberinto de recuerdos, un santuario para quienes buscan piezas del pasado.
 
 ### Personalidad
 

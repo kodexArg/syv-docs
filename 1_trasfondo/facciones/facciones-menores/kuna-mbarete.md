@@ -2,42 +2,42 @@
 title: Kuña Mbareté
 folder: 1_trasfondo/facciones/facciones-menores
 description: Hermandad mujeres chamanes guerreras, guerra contra Ména, profilaxis mística.
+aliases:
+  - Kuña Mbareté
+  - Las Yarará
+  - Mujer Fuerte
 tags:
-  - faccion
-  - mitica
-  - guarani
-  - misticismo
-  - anatema-mecanico
-  - arapy
-  - india-juliana
-  - resistencia-indigena
-  - mena
-  - ambue
-  - tovaja
-  - teko
-  - tajo-bifido
-  - mutilacion-sagrada
-  - cosmogonia-del-rigor
-facciones:
-  - inquisicion
-  - arpistas
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[inquisicion]]"
+  - "[[arpistas]]"
+  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[tuberias]]"
+  - "[[barrios-del-muro]]"
 personajes-historicos:
-  - arapy
-  - india-juliana
-  - marcos-pizarro
+  - Arapy
+  - India Juliana
+  - Marcos Pizarro
 fechas-clave:
   - 1542-04-16
   - 2029
   - 2042
   - 2178
-
+spoilers:
+  - "Su linaje se remonta a Arapy (la India Juliana, 1542); su conexión con la tierra y la hiperconsciencia psíquica (osmo) es real en este universo."
+  - "Su única alianza contemporánea es con los Shipibo-Conibo de las Tuberías, basada en afinidad cultural."
+  - "La SIA las clasifica secretamente como terroristas ecológicas de prioridad Alfa."
 ---
 
 Hasta 2029 nadie del público general conocía de esta hermandad en las sombras como una organización viva. Paradójicamente, su origen histórico —la historia de Arapy, la India Juliana— nunca fue censurada y forma parte del canon histórico oficial de la región, aunque relegada a una nota al pie sobre las rebeliones indígenas de la época colonial. Lo que se perdió fue la conexión entre aquella mujer del siglo XVI y las guerreras que reptaban por las selvas durante la Gran Guerra.
 
 Las crónicas escritas por Marcos Pizarro, un arqueólogo e historiador peruano que se hizo famoso después de muerto, fueron las primeras en establecer esa conexión. Durante años fueron consideradas un mito o, en el mejor de los casos, un producto de la IA en los años de la desinformación, pese a que los estudios del arqueólogo se remontaban al siglo pasado en el trabajo de una vida.
 
-Pero quienes realmente conocen a las Kuña Mbareté, quienes han rastreado sus pasos a través de los siglos, son dos instituciones que operan desde las sombras: los Arpistas, cuyo obsesivo archivo histórico sobre la Gran Guerra contiene más información sobre las Yarará que cualquier otra fuente; y la Sagrada Inquisición Argentina, cuyo interés en ellas es de naturaleza muy distinta, y mucho más peligrosa.
+Pero quienes realmente conocen a las Kuña Mbareté, quienes han rastreado sus pasos a través de los siglos, son dos instituciones que operan desde las sombras: los [[arpistas|Arpistas]], cuyo obsesivo archivo histórico sobre la Gran Guerra contiene más información sobre las Yarará que cualquier otra fuente; y la [[inquisicion|Sagrada Inquisición Argentina]], cuyo interés en ellas es de naturaleza muy distinta, y mucho más peligrosa.
 
 ## El Linaje de Arapy: La Primera Yarará
 
@@ -172,7 +172,7 @@ Las Kuña Mbareté no son simples asesinas; son guardianas de una cosmogonía de
 
 5.  **La Única Alianza - Afinidades Culturales en las Tuberías**: Las Kuña Mbareté contemporáneas (generación 2178) mantienen relaciones con solo un grupo en todo el territorio de la Confederación:
 
-    - Los Shipibo-Conibo: Comunidad de chamanes amazónicos refugiados en las profundidades de las Tuberías de Ciudad Dársena, conocidos también como "Los Cazadores de Pesadillas" por sus rituales de sanación psicológica. Son los reyes del reino fungi: controlan el 70% del cultivo de hongos en las Tuberías, desde variedades alimenticias hasta psicoactivos potentes. Las Yarará reconocen en ellos un teko similar al suyo, una conexión ancestral con lo sagrado que sobrevivió al Colapso. Sin embargo, no son sus protectores. Los Shipibo-Conibo no saben nada de la historia de las Kuña Mbareté, ni del linaje de Arapy, ni de la cosmogonía del Ména. La relación se basa puramente en afinidades culturales y un respeto profundo mutuo.
+    - Los [[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]: Comunidad de chamanes amazónicos refugiados en las profundidades de las Tuberías de Ciudad Dársena, conocidos también como "Los Cazadores de Pesadillas" por sus rituales de sanación psicológica. Son los reyes del reino fungi: controlan el 70% del cultivo de hongos en las Tuberías, desde variedades alimenticias hasta psicoactivos potentes. Las Yarará reconocen en ellos un teko similar al suyo, una conexión ancestral con lo sagrado que sobrevivió al Colapso. Sin embargo, no son sus protectores. Los Shipibo-Conibo no saben nada de la historia de las Kuña Mbareté, ni del linaje de Arapy, ni de la cosmogonía del Ména. La relación se basa puramente en afinidades culturales y un respeto profundo mutuo.
 
     Cuando las Yarará han saltado en defensa de los chamanes —generalmente contra incursiones de la DNS o ataques de narcotraficantes locales— siempre ha terminado en baños de sangre. Esa es la manera de actuar de las Yarará: no negocian, no disuaden, no capturan. Extirpan. Los Shipibo-Conibo agradecen la intervención, pero también la temen, porque saben que cuando las Yarará aparecen, la muerte llega con ellas.
 

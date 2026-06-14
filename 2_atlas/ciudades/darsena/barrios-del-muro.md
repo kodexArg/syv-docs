@@ -2,17 +2,20 @@
 title: Barrios Del Muro
 folder: 2_atlas/ciudades/darsena
 description: Barrios del Muro
+aliases:
+- Barrios del Muro
 tags:
-- darsena
-- barrios-del-muro
-- atlas
-- superpoblacion
-- marginal
-- tuberias
-- mercado-negro
-- trabajadores
-- tierras-baldias
-- pantanos
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[gremio-de-comercio]]"
+- "[[resistencia-subterranea]]"
+- "[[inquisicion]]"
+- "[[traficantes-de-almas]]"
+ubicaciones:
+- "[[darsena]]"
+- "[[tuberias]]"
 
 ---
 Los Barrios del Muro son el distrito más grande de Ciudad Dársena. Cinco kilómetros cuadrados de concreto apilado en vertical albergan tres millones y medio de almas—el setenta por ciento de la población total de la ciudad. Rodeados por el muro al oeste y al sur, estos barrios viven en el límite físico de la civilización conocida: al oeste se extienden las Tierras Baldías de la DMZ, áridas y letales bajo los francotiradores; al sur, el laberinto verde de Los Pantanos, marismas anegadas donde nadie se atreve a entrar.
@@ -33,7 +36,7 @@ La altura bloquea el cielo pero libera las terrazas.
 
 Cientos de metros arriba, donde los edificios más modernos terminan en plataformas descascaradas, florece otro mundo. Ahí sí llega la luz. El naranja de Dársena tiñe las reuniones clandestinas, las antenas piratas de radio AM, los jardines hidropónicos ilegales que los vecinos cultivan violando las ordenanzas agrícolas de la Curia.
 
-En esas terrazas, la fiesta heredada de otras culturas —cumbia del Viejo Mundo, candombe electrónico sin microchips, folklore amplificado con parlantes de 48V— late hasta el amanecer. La **Guardia de Dársena** no sube. **Seguridad Nacional** envía patrullas solo cuando hay denuncias de tráfico pesado, y las denuncias son raras porque el código del barrio castiga la delación con una eficiencia que la **Sagrada Inquisición Argentina** envidiaría.
+En esas terrazas, la fiesta heredada de otras culturas —cumbia del Viejo Mundo, candombe electrónico sin microchips, folklore amplificado con parlantes de 48V— late hasta el amanecer. La **Guardia de Dársena** no sube. **Seguridad Nacional** envía patrullas solo cuando hay denuncias de tráfico pesado, y las denuncias son raras porque el código del barrio castiga la delación con una eficiencia que la [[inquisicion|Sagrada Inquisición Argentina]] envidiaría.
 
 Entre el crepúsculo del suelo y la luz de las terrazas se despliega el verdadero organigrama de poder: los **Punteros** que cobran "impuesto de protección" en las plazas de mercado informal, los **clanes familiares** que administran edificios enteros como feudos de concreto, las **bandas de tuberías** que mueven contrabando desde Las Tuberías hacia la superficie y desde la superficie hacia el exterior.
 
@@ -57,7 +60,7 @@ Hoy muestran las cicatrices del tiempo: grietas reparadas con cemento más claro
 
 Son más altos y esbeltos que sus predecesores, aprovechando mejor el espacio vertical mientras conservan paredes de metro y medio de grosor.
 
-Aquí vive la mayor densidad poblacional. Aquí se concentran los mercados informales, las cocinas colectivas, los talleres clandestinos donde se reparan electrodomésticos de 48V sin pagar la licencia del **Gremio de Comercio**. Las escaleras internas son arterias de tránsito constante: gente subiendo con bidones de agua, gente bajando con bolsas de basura, gente que simplemente vive en el flujo perpetuo de un edificio que nunca duerme.
+Aquí vive la mayor densidad poblacional. Aquí se concentran los mercados informales, las cocinas colectivas, los talleres clandestinos donde se reparan electrodomésticos de 48V sin pagar la licencia del [[gremio-de-comercio|Gremio de Comercio]]. Las escaleras internas son arterias de tránsito constante: gente subiendo con bidones de agua, gente bajando con bolsas de basura, gente que simplemente vive en el flujo perpetuo de un edificio que nunca duerme.
 
 **Los más modernos** —los últimos construidos al sur, levantados en 2120 durante la última gran expansión antes del estancamiento— muestran una paradoja arquitectónica. Son los más altos (algunos superan los ochenta metros), con estructuras más refinadas que aprovechan técnicas de ingeniería desarrolladas bajo el Anatema.
 
@@ -155,7 +158,7 @@ Hay violencia: ajustes de cuentas entre bandas, palizas en callejones, desaparec
 
 La Sagrada Inquisición Argentina interviene cuando puede. Seguridad Nacional arresta cuando tiene recursos. Pero el sistema es demasiado grande, demasiado complejo, demasiado necesario para el funcionamiento de Dársena como para desmontarlo de raíz.
 
-Los Barrios del Muro no son ni el infierno que describe la propaganda de la Curia ni el paraíso libertario que romantiza la **Resistencia Subterránea**. Son un organismo. Una ciudad dentro de la ciudad. Tres millones y medio de personas viviendo en un equilibrio inestable que, por ahora, no colapsa.
+Los Barrios del Muro no son ni el infierno que describe la propaganda de la Curia ni el paraíso libertario que romantiza la [[resistencia-subterranea|Resistencia Subterránea]]. Son un organismo. Una ciudad dentro de la ciudad. Tres millones y medio de personas viviendo en un equilibrio inestable que, por ahora, no colapsa.
 
 El tufo a mierda y a libertad es real.
 
@@ -165,7 +168,7 @@ Ambos.
 
 ### Mercado Subterráneo de Antigua Estación
 
-Ubicado en una vasta y abandonada estación de metro, este mercado es el corazón comercial y social de los Barrios del Muro. También es un punto de acceso clave a [[Las Tuberías]].
+Ubicado en una vasta y abandonada estación de metro, este mercado es el corazón comercial y social de los Barrios del Muro. También es un punto de acceso clave a [[tuberias|Las Tuberías]].
 
 Las bóvedas de concreto del techo amplifican las voces de los vendedores en un eco perpetuo que suena a catedral profana. Los puestos se apilan en las vías muertas, entre rieles oxidados que ya no llevan a ninguna parte.
 
@@ -197,7 +200,7 @@ La Sagrada Inquisición Argentina manda infiltrados. Los infiltrados son identif
 
 Aunque se extienden por debajo de toda la ciudad, es en los Barrios del Muro donde Las Tuberías tienen su mayor densidad y población. Son una red de regiones subterráneas donde se mezclan distintos estratos sociales.
 
-Obreros del Gremio de Mantenimiento que trabajan en turnos de doce horas. Fugitivos de la justicia que viven en los túneles ciegos. Comunidades enteras de clasificados como "Salvajes" —menos de veinte mil almas repartidas en bandas dispersas, operando en connivencia con los **Traficantes de Almas** y otros grupos establecidos— que nunca subieron a la superficie.
+Obreros del Gremio de Mantenimiento que trabajan en turnos de doce horas. Fugitivos de la justicia que viven en los túneles ciegos. Comunidades enteras de clasificados como "Salvajes" —menos de veinte mil almas repartidas en bandas dispersas, operando en connivencia con los [[traficantes-de-almas|Traficantes de Almas]] y otros grupos establecidos— que nunca subieron a la superficie.
 
 Facciones como los **Ladrones y Contrabandistas** controlan vastos sectores de este mundo subterráneo.
 

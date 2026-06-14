@@ -2,15 +2,17 @@
 title: Índice de Energía y Electricidad
 folder: 2_atlas/tecnologia-y-ciencia
 description: Guía completa de la información energética del universo SyV - Atlas integrado
+aliases:
+  - Índice de Energía y Electricidad
 tags:
-  - indice
-  - energia
-  - electricidad
-  - navegacion
-  - atlas
-  - confederacion
-  - sistemas-energeticos
-
+  - entidad/guia
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[electricidad]]"
+  - "[[sistemas-energeticos]]"
+  - "[[infraestructura-energetica]]"
+  - "[[energias-alternativas]]"
 ---
 
 # Índice de Energía y Electricidad
@@ -23,8 +25,8 @@ Guía completa de navegación para toda la información sobre generación, distr
 
 Para comprender cómo funciona la energía en el universo SyV, comience aquí:
 
-- **[Sistemas Energéticos](./sistemas-energeticos.md)** - Comparación fundamental entre tecnologías civil (arena/sal) y militar (Americio-241)
-- **[Electricidad](./electricidad.md)** - Red pública de 48V DC, distribución y baterías civiles
+- **[[sistemas-energeticos|Sistemas Energéticos]]** - Comparación fundamental entre tecnologías civil (arena/sal) y militar (Americio-241)
+- **[[electricidad|Electricidad]]** - Red pública de 48V DC, distribución y baterías civiles
 
 ---
 
@@ -32,11 +34,11 @@ Para comprender cómo funciona la energía en el universo SyV, comience aquí:
 
 ### Dársena (Centralizada)
 
-- **[Infraestructura Energética](./infraestructura-energetica.md)** - Sistema de Nodos subterráneos, reactores de fusión nuclear, Ministerio de Infraestructura, vigilancia, "La Bestia"
+- **[[infraestructura-energetica|Infraestructura Energética]]** - Sistema de Nodos subterráneos, reactores de fusión nuclear, Ministerio de Infraestructura, vigilancia, "La Bestia"
 
 ### Confederación (Alternativa)
 
-- **[Energías Alternativas](./energias-alternativas.md)** - Generación hidroeléctrica, eólica, solar y geotérmica en Córdoba y otras ciudades confederadas
+- **[[energias-alternativas|Energías Alternativas]]** - Generación hidroeléctrica, eólica, solar y geotérmica en Córdoba y otras ciudades confederadas
 - Incluye comparación entre fusión nuclear (Dársena) vs fisión nuclear (Córdoba)
 
 ---
@@ -45,13 +47,13 @@ Para comprender cómo funciona la energía en el universo SyV, comience aquí:
 
 ### Tecnología Civil (Población General)
 
-- **[Sistemas Energéticos → Baterías de Arena y Sal](./sistemas-energeticos.md#1-baterías-de-arena-y-sal-uso-civil)** - Bajo costo, voluminosas, baja eficiencia (~40% pérdida)
-- **[Electricidad → Baterías y Almacenamiento](./electricidad.md#baterías-y-almacenamiento)** - Especificaciones técnicas completas de baterías civiles
+- **[[sistemas-energeticos|Sistemas Energéticos → Baterías de Arena y Sal]]** - Bajo costo, voluminosas, baja eficiencia (~40% pérdida)
+- **[[electricidad|Electricidad → Baterías y Almacenamiento]]** - Especificaciones técnicas completas de baterías civiles
 
 ### Tecnología Militar (Monopolio Estatal)
 
-- **[Celdas de Radionúclidos](./celdas-radionuclidos.md)** - Americio-241, 48V DC estables, 432 años de duración, monopolio SIA
-- **[Sistemas Energéticos → Celdas de Americio-241](./sistemas-energeticos.md#2-celdas-de-americio-241-uso-militar)** - Comparación con baterías civiles, implicaciones estratégicas
+- **[[celdas-radionuclidos|Celdas de Radionúclidos]]** - Americio-241, 48V DC estables, 432 años de duración, monopolio SIA
+- **[[sistemas-energeticos|Sistemas Energéticos → Celdas de Americio-241]]** - Comparación con baterías civiles, implicaciones estratégicas
 
 ---
 
@@ -59,11 +61,11 @@ Para comprender cómo funciona la energía en el universo SyV, comience aquí:
 
 ### Civil
 
-- **[Tecnología Civil](./tecnologia-civil.md)** - Transporte urbano (tranvías), purificación de agua, sistemas cotidianos con baterías de arena/sal
+- **[[tecnologia-civil|Tecnología Civil]]** - Transporte urbano (tranvías), purificación de agua, sistemas cotidianos con baterías de arena/sal
 
 ### Militar
 
-- **[Tecnología Militar](./tecnologia-militar.md)** - Rifles de Gauss, armas EMP, tásers capacitivos, todos alimentados por celdas de Americio-241
+- **[[tecnologia-militar|Tecnología Militar]]** - Rifles de Gauss, armas EMP, tásers capacitivos, todos alimentados por celdas de Americio-241
 - Sección específica: Alimentación Energética de Armas
 
 ---
@@ -72,17 +74,17 @@ Para comprender cómo funciona la energía en el universo SyV, comience aquí:
 
 ### Sistema de Nodos
 
-- **[Infraestructura Energética → Nodos Eléctricos](./infraestructura-energetica.md#sistema-de-nodos-eléctricos)** - Distribución pre-guerra, vigilancia del Ministerio, TAPs clandestinos
+- **[[infraestructura-energetica|Infraestructura Energética → Nodos Eléctricos]]** - Distribución pre-guerra, vigilancia del Ministerio, TAPs clandestinos
 
 ### Seguridad
 
-- **[Infraestructura Energética → Seguridad Energética y Vigilancia](./infraestructura-energetica.md#seguridad-energética-y-vigilancia)** - Detección de anomalías, "La Bestia", protocolos de respuesta
+- **[[infraestructura-energetica|Infraestructura Energética → Seguridad Energética y Vigilancia]]** - Detección de anomalías, "La Bestia", protocolos de respuesta
 
 ---
 
 ## Investigación sin Energía
 
-- **[Cámaras de Supresión Electromagnética (CSE)](./camaras-supresion-electromagnetica.md)** - Espacios de campo nulo para estudiar artefactos sin reactivación, protocolo de trabajo, ubicaciones
+- **[[camaras-supresion-electromagnetica|Cámaras de Supresión Electromagnética (CSE)]]** - Espacios de campo nulo para estudiar artefactos sin reactivación, protocolo de trabajo, ubicaciones
 
 ---
 
@@ -90,8 +92,8 @@ Para comprender cómo funciona la energía en el universo SyV, comience aquí:
 
 Para entender el marco regulatorio de la energía:
 
-- **[Codex → Anatema Mecánico](../../1_trasfondo/codex/anatema-mecanico.md)** - Prohibiciones teológicas sobre tecnología digital, pero permitido: electricidad analógica a 48V DC
-- **[Codex → Tecnologías Prohibidas](../../1_trasfondo/codex/otras-tecnologias-prohibidas.md)** - Regulaciones específicas sobre qué está permitido
+- **[[1_trasfondo/codex/anatema-mecanico|Codex → Anatema Mecánico]]** - Prohibiciones teológicas sobre tecnología digital, pero permitido: electricidad analógica a 48V DC
+- **[[otras-tecnologias-prohibidas|Codex → Tecnologías Prohibidas]]** - Regulaciones específicas sobre qué está permitido
 
 ---
 
@@ -99,7 +101,7 @@ Para entender el marco regulatorio de la energía:
 
 Para entender cómo encaja la energía en la historia de SyV:
 
-- **[Arpistas](../../1_trasfondo/facciones/facciones-menores/arpistas.md)** - Usuarios de CSE, estudio de artefactos tecnológicos antiguos
+- **[[arpistas|Arpistas]]** - Usuarios de CSE, estudio de artefactos tecnológicos antiguos
 - **[Infraestructura Energética de Dársena](../../1_trasfondo/hitos/)** - Contexto histórico de cómo la ciudad depende de reactores irreproducibles
 
 ---
@@ -109,36 +111,36 @@ Para entender cómo encaja la energía en la historia de SyV:
 ### Preguntas Comunes
 
 **"¿Cuál es el voltaje estándar?"**
-→ 48V DC continua. Ver [Electricidad](./electricidad.md#red-eléctrica-pública)
+→ 48V DC continua. Ver [[electricidad|Electricidad]]
 
 **"¿Cuál es la diferencia entre arena/sal y Americio?"**
-→ [Sistemas Energéticos](./sistemas-energeticos.md) - Tabla comparativa completa
+→ [[sistemas-energeticos|Sistemas Energéticos]] - Tabla comparativa completa
 
 **"¿Cómo se detectan los TAPs eléctricos?"**
-→ [Infraestructura Energética → Seguridad](./infraestructura-energetica.md#seguridad-energética-y-vigilancia)
+→ [[infraestructura-energetica|Infraestructura Energética → Seguridad]]
 
 **"¿Dónde está un CSE?"**
-→ [Cámaras de Supresión Electromagnética → Ubicaciones](./camaras-supresion-electromagnetica.md#ubicaciones-conocidas)
+→ [[camaras-supresion-electromagnetica|Cámaras de Supresión Electromagnética → Ubicaciones]]
 
 **"¿Cómo funcionan las armas?"**
-→ [Tecnología Militar → Alimentación Energética de Armas](./tecnologia-militar.md#alimentación-energética-de-armas)
+→ [[tecnologia-militar|Tecnología Militar → Alimentación Energética de Armas]]
 
 **"¿Qué pasa si los manuales de reactores se pierden?"**
-→ [Infraestructura Energética → La Verdad Más Oscura](./infraestructura-energetica.md#la-verdad-más-oscura)
+→ [[infraestructura-energetica|Infraestructura Energética → La Verdad Más Oscura]]
 
 ---
 
 ## Jerarquía de Información
 
-**Para Lectores Nuevos**: Comienza con [Sistemas Energéticos](./sistemas-energeticos.md) y [Electricidad](./electricidad.md)
+**Para Lectores Nuevos**: Comienza con [[sistemas-energeticos|Sistemas Energéticos]] y [[electricidad|Electricidad]]
 
-**Para Game Masters Preparando Campañas**: Lee [Infraestructura Energética](./infraestructura-energetica.md) completo (contexto de vigilancia y paranoia)
+**Para Game Masters Preparando Campañas**: Lee [[infraestructura-energetica|Infraestructura Energética]] completo (contexto de vigilancia y paranoia)
 
-**Para Jugadores Queriendo Usar Tecnología**: Lee [Celdas de Radionúclidos](./celdas-radionuclidos.md) y [Tecnología Militar](./tecnologia-militar.md)
+**Para Jugadores Queriendo Usar Tecnología**: Lee [[celdas-radionuclidos|Celdas de Radionúclidos]] y [[tecnologia-militar|Tecnología Militar]]
 
-**Para Investigadores Arpistas**: Lee [Cámaras de Supresión Electromagnética](./camaras-supresion-electromagnetica.md)
+**Para Investigadores Arpistas**: Lee [[camaras-supresion-electromagnetica|Cámaras de Supresión Electromagnética]]
 
-**Para Entender Restricciones Legales**: Lee [Codex → Anatema Mecánico](../../1_trasfondo/codex/anatema-mecanico.md) y [Tecnologías Prohibidas](../../1_trasfondo/codex/otras-tecnologias-prohibidas.md)
+**Para Entender Restricciones Legales**: Lee [[1_trasfondo/codex/anatema-mecanico|Codex → Anatema Mecánico]] y [[otras-tecnologias-prohibidas|Tecnologías Prohibidas]]
 
 ---
 
@@ -146,25 +148,25 @@ Para entender cómo encaja la energía en la historia de SyV:
 
 ### Archivos Atlas Relacionados
 
-- [Electricidad](./electricidad.md)
-- [Sistemas Energéticos](./sistemas-energeticos.md)
-- [Celdas de Radionúclidos](./celdas-radionuclidos.md)
-- [Infraestructura Energética](./infraestructura-energetica.md)
-- [Energías Alternativas](./energias-alternativas.md)
-- [Cámaras de Supresión Electromagnética](./camaras-supresion-electromagnetica.md)
-- [Tecnología Civil](./tecnologia-civil.md)
-- [Tecnología Militar](./tecnologia-militar.md)
-- [Procesador de Industria Argentina (PIA)](./procesador-argentino-pia.md) - Consumidor de energía
+- [[electricidad|Electricidad]]
+- [[sistemas-energeticos|Sistemas Energéticos]]
+- [[celdas-radionuclidos|Celdas de Radionúclidos]]
+- [[infraestructura-energetica|Infraestructura Energética]]
+- [[energias-alternativas|Energías Alternativas]]
+- [[camaras-supresion-electromagnetica|Cámaras de Supresión Electromagnética]]
+- [[tecnologia-civil|Tecnología Civil]]
+- [[tecnologia-militar|Tecnología Militar]]
+- [[procesador-argentino-pia|Procesador de Industria Argentina (PIA)]] - Consumidor de energía
 
 ### Codex (Leyes y Verdades)
 
-- [Anatema Mecánico](../../1_trasfondo/codex/anatema-mecanico.md) - Marco legal/teológico
-- [Tecnologías Prohibidas](../../1_trasfondo/codex/otras-tecnologias-prohibidas.md) - Regulaciones específicas
+- [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] - Marco legal/teológico
+- [[otras-tecnologias-prohibidas|Tecnologías Prohibidas]] - Regulaciones específicas
 
 ### Trasfondo (Historia y Narrativa)
 
-- [Arpistas](../../1_trasfondo/facciones/facciones-menores/arpistas.md) - Facciones que estudian tecnología
-- [Inquisición (SIA)](../../1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Reguladores y vigilantes
+- [[arpistas|Arpistas]] - Facciones que estudian tecnología
+- [[inquisicion|Inquisición (SIA)]] - Reguladores y vigilantes
 - [Cronología](../../1_trasfondo/hitos/) - Contexto histórico de sistemas energéticos
 
 ---

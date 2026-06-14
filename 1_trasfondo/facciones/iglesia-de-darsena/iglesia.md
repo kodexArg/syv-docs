@@ -2,15 +2,30 @@
 title: Iglesia Católica (Sede Dársena)
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Santa Sede, corazón ideológico, poder fáctico autoridad espiritual y política de la Iglesia Católica post-Anatema Mecánico.
+aliases:
+  - Iglesia Católica (Sede Dársena)
+  - Iglesia de Dársena
+  - Iglesia Católica
+  - Iglesia
 tags:
-- faccion
-- iglesia
-- politica
-- darsena
-- oficial
-
+  - entidad/faccion
+  - alcance/secreto
+  - estado/canon
+related:
+  - "[[inquisicion]]"
+  - "[[exorcistas]]"
+  - "[[congregacion-caridad-divina]]"
+  - "[[fuerzas-armadas]]"
+  - "[[gremio-de-comercio]]"
+  - "[[sumo-pontifice]]"
+ubicaciones:
+  - "[[darsena]]"
+spoilers:
+  - "La rivalidad entre Exorcistas y SIA llega a sabotajes y conflictos velados."
+  - "La Iglesia custodia y estudia en secreto artefactos y textos prohibidos de extremo poder."
+  - "Dársena depende de una rejilla tecnológica pre-guerra cuyo funcionamiento es un misterio incluso para la Iglesia."
 ---
-Tras el colapso global, la Iglesia Católica ha consolidado un poder sin precedentes al establecer una nueva Santa Sede en Ciudad Dársena, que ha reemplazado de facto al Vaticano. Desde la imponente Basílica-Fortaleza, el Sumo Pontífice y su Curia Romana —instituida en Dársena pero cuya autoridad se extiende a toda la Confederación Argentina— gobiernan bajo el lema "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad", ejerciendo una autoridad casi omnímoda sobre la vida espiritual, moral y social. No es meramente una guía espiritual local; es el poder fáctico que legitima y dirige el régimen clérico-militar a nivel universal.
+Tras el colapso global, la Iglesia Católica ha consolidado un poder sin precedentes al establecer una nueva Santa Sede en Ciudad Dársena, que ha reemplazado de facto al Vaticano. Desde la imponente Basílica-Fortaleza, el [[sumo-pontifice|Sumo Pontífice]] y su [[curia-romana|Curia Romana]] —instituida en Dársena pero cuya autoridad se extiende a toda la Confederación Argentina— gobiernan bajo el lema "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad", ejerciendo una autoridad casi omnímoda sobre la vida espiritual, moral y social. No es meramente una guía espiritual local; es el poder fáctico que legitima y dirige el régimen clérico-militar a nivel universal.
 
 El objetivo principal de la Iglesia es mantener la pureza doctrinal y la supremacía de la fe, lo que implica la erradicación total del "Anatema Mecánico" y cualquier saber secular no subordinado a la teología. Para lograrlo, ejerce su poder a través de diversas facciones especializadas, cada una con un propósito definido, que actúan como sus ojos, manos y espada en el mundo. Su influencia se extiende a la diplomacia y la política internacional, contando con una vasta red de templos, hospitales, escuelas y archivos como recursos fundamentales.
 
@@ -36,7 +51,7 @@ La Curia Romana en Dársena constituye el aparato administrativo y gubernamental
 
 *Encargados del bienestar físico inmediato y el adoctrinamiento temprano de la población.*
 
-- **Dicasterio para el Desarrollo Humano Integral**: Administra toda la red de hospitales, la salud pública y los comedores de caridad. Los "Curatores" mencionados en las ramas operativas de la Iglesia responden a este dicasterio, que coordina tanto la medicina ortodoxa como la supervisión de prácticas médicas desde una perspectiva teológica.
+- **Dicasterio para el Desarrollo Humano Integral**: Administra toda la red de hospitales, la salud pública y los comedores de caridad. Los "[[curatores|Curatores]]" mencionados en las ramas operativas de la Iglesia responden a este dicasterio, que coordina tanto la medicina ortodoxa como la supervisión de prácticas médicas desde una perspectiva teológica.
 
 - **Dicasterio de Educación Católica**: Supervisa las escuelas primarias, secundarias y la enseñanza obligatoria del dogma. Controla los planes de estudio, la formación de maestros y garantiza que ningún conocimiento herético alcance a los niños de la Confederación.
 
@@ -62,13 +77,13 @@ La Curia Romana en Dársena constituye el aparato administrativo y gubernamental
 
 La Iglesia opera a través de varias ramas que se encargan de distintas funciones, manteniendo el control sobre la población y la ortodoxia.
 
-- "La Sagrada Inquisición Argentina (SIA)"[^sia]: Considerada por muchos el verdadero poder detrás del trono, la SIA es el brazo autárquico de la Iglesia y la guardiana de la ortodoxia. Opera con métodos secretos y un poder inapelable para castigar herejías y amenazas sobrenaturales. Mantiene una abierta rivalidad con los Exorcistas, a quienes considera un brazo blando e ineficaz de la Santa Sede.
+- [[inquisicion|La Sagrada Inquisición Argentina (SIA)]][^sia]: Considerada por muchos el verdadero poder detrás del trono, la SIA es el brazo autárquico de la Iglesia y la guardiana de la ortodoxia. Opera con métodos secretos y un poder inapelable para castigar herejías y amenazas sobrenaturales. Mantiene una abierta rivalidad con los Exorcistas, a quienes considera un brazo blando e ineficaz de la Santa Sede.
 
-- "Exorcistas": Esta unidad especializada combate fuerzas oscuras combinando rituales, ciencia prohibida y un riguroso entrenamiento. Sus métodos, menos dramáticos y más efectivos que los de la Inquisición, les han ganado el favor popular y una reputación de héroes silenciosos.
+- [[exorcistas|Exorcistas]]: Esta unidad especializada combate fuerzas oscuras combinando rituales, ciencia prohibida y un riguroso entrenamiento. Sus métodos, menos dramáticos y más efectivos que los de la Inquisición, les han ganado el favor popular y una reputación de héroes silenciosos.
 
-- "Curatores": Administran los vastos recursos de salud pública de la Iglesia, incluyendo hospitales y clínicas, y velan por la ética en la práctica médica desde una perspectiva teológica. La mayoría de sus miembros son también médicos o especialistas, y los capellanes militares que prestan servicio en las "Fuerzas Armadas"[^ffaa] forman parte de este grupo.
+- "Curatores": Administran los vastos recursos de salud pública de la Iglesia, incluyendo hospitales y clínicas, y velan por la ética en la práctica médica desde una perspectiva teológica. La mayoría de sus miembros son también médicos o especialistas, y los capellanes militares que prestan servicio en las [[fuerzas-armadas|Fuerzas Armadas]][^ffaa] forman parte de este grupo.
 
-- "Educadores, Archivistas y Científicos Teológicos": Este conjunto de grupos eclesiásticos gestiona el sistema educativo, desde escuelas primarias hasta universidades. Se aseguran de que toda la enseñanza y el conocimiento se mantengan dentro de los estrictos límites del dogma, promoviendo una visión del mundo donde la fe es el único prisma válido para interpretar la realidad.
+- "Educadores, [[archivistas-y-cientificos-teologicos|Archivistas y Científicos Teológicos]]": Este conjunto de grupos eclesiásticos gestiona el sistema educativo, desde escuelas primarias hasta universidades. Se aseguran de que toda la enseñanza y el conocimiento se mantengan dentro de los estrictos límites del dogma, promoviendo una visión del mundo donde la fe es el único prisma válido para interpretar la realidad.
 
 - **Ministerio de Infraestructura y Sistemas Críticos** (Departamento de Red Eléctrica): Rama estatal responsable del mantenimiento, inspección y reparación de la compleja rejilla eléctrica pre-guerra que distribuye energía a toda Ciudad Dársena mediante los Nodos subterráneos. Aunque nominalmente bajo control secular, responde efectivamente a supervisión eclesiástica directa a través del Obispo de Infraestructura. Sus ingenieros y técnicos especializados —seleccionados deliberadamente sin capacidad de lectura/escritura (por diseño)— están juramentados mediante condicionamiento neuropsicológico que impide la revelación de secretos técnicos. El Director del Departamento de Red Eléctrica reporta directamente al Sumo Pontífice y al Comando Militar. La existencia de este ministerio es tabú: se sabe que existe, pero no se habla de ello públicamente. Su trabajo es silencioso, vital e invisible. Es conocido coloquialmente como simplemente "Ministerio de Infraestructura".
 

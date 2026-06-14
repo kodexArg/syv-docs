@@ -3,12 +3,17 @@ title: El Ingeniero
 folder: 3_personajes/secundarios
 description: Maestro autoproclamado de las máquinas en las Tuberías, cuya reputación
   supera sus capacidades reales.
+nombre: El Ingeniero
+aliases:
+  - El Ingeniero
 tags:
-- mecanico
-- tuberias
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "No es realmente un ingeniero, es un autodidacta susceptible al pensamiento
-  mágico"
+ubicaciones:
+  - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+spoilers:
+  - "No es realmente un ingeniero: es un autodidacta susceptible al pensamiento mágico."
 ---
 ## El "Ingeniero"
 
@@ -26,7 +31,7 @@ Un farsante que se cree su propia leyenda.
 
 ### Rol y Posición
 
-Maestro autoproclamado de las máquinas en las Tuberías. Su reputación como "ingeniero" es legendaria entre los habitantes del subsuelo, tanto por sus habilidades de reparación como por sus "creaciones innovadoras".
+Maestro autoproclamado de las máquinas en [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]. Su reputación como "ingeniero" es legendaria entre los habitantes del subsuelo, tanto por sus habilidades de reparación como por sus "creaciones innovadoras".
 
 ### Personalidad
 

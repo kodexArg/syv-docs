@@ -3,10 +3,17 @@ title: Hermana Laura Castillo, Enfermera
 folder: 3_personajes/secundarios
 description: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar
   en las clínicas comunitarias.
+nombre: Laura Castillo
+aliases:
+  - Hermana Laura Castillo
+  - Laura Castillo
 tags:
-- curatores
-facciones: ["Curatores", "Hermanas de la Caridad"]
-alerta-spoilers: "Colabora con una red clandestina de ayuda para los más necesitados"
+  - entidad/personaje
+  - alcance/secreto
+facciones:
+  - "[[congregacion-caridad-divina]]"
+spoilers:
+  - "Colabora con una red clandestina de ayuda para los más necesitados."
 ---
 ## Hermana Laura Castillo
 
@@ -24,7 +31,7 @@ Una sanadora que no solo cura cuerpos sino que alimenta esperanzas.
 
 ### Rol y Posición
 
-Enfermera muy experimentada y miembro de los Curatores. Trabaja en las clínicas comunitarias de los barrios bajos, ayudando a quien lo necesite sin dudarlo.
+Enfermera muy experimentada y miembro de los [[curatores|Curatores]]. Trabaja en las clínicas comunitarias de los barrios bajos, ayudando a quien lo necesite sin dudarlo.
 
 ### Personalidad
 
@@ -40,7 +47,7 @@ Servir a los más necesitados y aliviar el sufrimiento donde lo encuentre. Cada 
 La Hermana Laura Castillo es conocida en los barrios bajos como una enfermera dedicada que trabaja incansablemente en las clínicas comunitarias, a menudo en condiciones difíciles.
 <!-- /📖 -->
 <!-- 🔐 (Conocimiento Especializado) -->
-Laura colabora con una red clandestina de ayuda que va más allá de los canales oficiales. Mantiene lazos estrechos con las Hermanas de la Caridad y coordina recursos para llegar a quienes las instituciones oficiales ignoran. Esta red opera en secreto para evitar interferencias burocráticas que retrasarían la ayuda.
+Laura colabora con una red clandestina de ayuda que va más allá de los canales oficiales. Mantiene lazos estrechos con las [[congregacion-caridad-divina|Hermanas de la Caridad]] y coordina recursos para llegar a quienes las instituciones oficiales ignoran. Esta red opera en secreto para evitar interferencias burocráticas que retrasarían la ayuda.
 <!-- /🔐 -->
 ## Conexiones Importantes
 

@@ -28,22 +28,22 @@ En los Barrios del Muro, la Religión va en plural. Pero esa pluralidad es contr
 **Catolicismo Darseno** - La Iglesia oficial. No requiere archivo separado; es el Estado.
 
 ### Credos Tolerados
-- **[Religiones del Viejo Mundo](./religiones-del-viejo-mundo.md)** - Judaísmo, Protestantismo, credos pre-colapso que sobrevivieron
-- **[Hermandades y Órdenes Católicas](./hermandades-y-ordenes-catolicas.md)** - Variantes locales y órdenes internas de la Iglesia
+- **[[religiones-del-viejo-mundo|Religiones del Viejo Mundo]]** - Judaísmo, Protestantismo, credos pre-colapso que sobrevivieron
+- **[[hermandades-y-ordenes-catolicas|Hermandades y Órdenes Católicas]]** - Variantes locales y órdenes internas de la Iglesia
 
 ### Credos Proscritos
-- **[Umbanda](./umbanda.md)** - Fe sincrética afroamericana, dominante en Barrios del Muro
-- **[San La Muerte](./san-la-muerte.md)** - Culto del litoral, santo de los condenados
-- **[Shipibo-Conibo](./shipibo-conibo.md)** - Chamanismo amazónico expatriado
-- **[Guaraní](./guarani.md)** - Misticismo indígena del nordeste
-- **[Ancestros del Silencio](./ancestros-del-silencio.md)** - Culto a los mártires del Gran Silencio
+- **[[umbanda|Umbanda]]** - Fe sincrética afroamericana, dominante en Barrios del Muro
+- **[[san-la-muerte|San La Muerte]]** - Culto del litoral, santo de los condenados
+- **[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]** - Chamanismo amazónico expatriado
+- **[[guarani|Guaraní]]** - Misticismo indígena del nordeste
+- **[[ancestros-del-silencio|Ancestros del Silencio]]** - Culto a los mártires del Gran Silencio
 
 ### Ideologías-Credo
-- **[Iglesia Maradoniana](./iglesia-maradoniana.md)** - Catolicismo sincrético futbolístico, el más popular en Barrios del Muro
-- **[Peronismo](./peronismo.md)** - Secta ultra-nacionalista de elite
-- **[Ecologistas](./ecologistas.md)** - Hermandad Verde, aliada de la Iglesia
-- **[Hijos del Pantano](./hijos-del-pantano.md)** - Ultra-ecologismo radical terrorista
-- **[La Compañía](./la-compania.md)** - Culto del azar y el sorteo universal
+- **[[iglesia-maradoniana|Iglesia Maradoniana]]** - Catolicismo sincrético futbolístico, el más popular en Barrios del Muro
+- **[[peronismo|Peronismo]]** - Secta ultra-nacionalista de elite
+- **[[ecologistas|Ecologistas]]** - Hermandad Verde, aliada de la Iglesia
+- **[[hijos-del-pantano|Hijos del Pantano]]** - Ultra-ecologismo radical terrorista
+- **[[la-compania|La Compañía]]** - Culto del azar y el sorteo universal
 
 ## Geografía de Credos
 

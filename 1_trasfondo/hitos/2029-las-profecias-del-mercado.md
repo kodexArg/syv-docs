@@ -3,18 +3,20 @@ title: Profecías del Mercado
 folder: 1_trasfondo/hitos
 fecha: 2029-05
 description: Profecías del Dr. Cambronero, predice colapso 2029-2047, vigilancia SIA.
+aliases:
+  - Profecías del Mercado
+  - Profecías del Dr. Cambronero
+related:
+  - "[[inquisicion]]"
+  - "[[monseñor-miguel]]"
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
 tags:
-- hito
-- profecias
-- cambronero
-- "2029"
-- inteligencia-artificial
-- conocimiento-prohibido
-
+  - entidad/hito
+  - alcance/publico
 ---
 *Recuperado del Archivo Sellado. Atribuido al Dr. Arturo Cambronero, mayo de 2029.*
 
-Cuatro volúmenes técnicos, encuadernados en cuero, sin títulos poéticos. Solo números. Solo datos. La Sagrada Inquisición los mantiene bajo vigilancia porque su precisión roza lo diabólico.
+Cuatro volúmenes técnicos, encuadernados en cuero, sin títulos poéticos. Solo números. Solo datos. La [[inquisicion|Sagrada Inquisición]] los mantiene bajo vigilancia porque su precisión roza lo diabólico.
 
 "Volumen I" - *Insuficiencia de Recursos y Colapso Económico Estructural*. Proyecciones de hambre masiva, desempleo irreversible, mercados de subsistencia humana.
 
@@ -26,7 +28,7 @@ Cuatro volúmenes técnicos, encuadernados en cuero, sin títulos poéticos. Sol
 
 Los cuatro jinetes, documentados como si fueran reportes de contabilidad.
 
-Lo que perturba a los Inquisidores no es la exactitud de sus predicciones —todas se cumplieron—, sino las notas marginales que sugieren su origen: patrones matemáticos imposibles, análisis que desbordan la cognición humana. Se rumorea que existen seis volúmenes más, guardados en bóvedas que solo Monseñor Miguel conoce. Diez libros en total. Un modelo tan avanzado que anticipa ciento cincuenta años. La Inquisición los oculta no por herejía, sino porque en sus páginas está escrito lo que no debemos saber.
+Lo que perturba a los Inquisidores no es la exactitud de sus predicciones —todas se cumplieron—, sino las notas marginales que sugieren su origen: patrones matemáticos imposibles, análisis que desbordan la cognición humana. Se rumorea que existen seis volúmenes más, guardados en bóvedas que solo [[monseñor-miguel|Monseñor Miguel]] conoce. Diez libros en total. Un modelo tan avanzado que anticipa ciento cincuenta años. La Inquisición los oculta no por herejía, sino porque en sus páginas está escrito lo que no debemos saber.
 
 ---
 

@@ -2,16 +2,22 @@
 title: Tecnologia Militar
 folder: 2_atlas/tecnologia-y-ciencia
 description: Tecnología Militar
+aliases:
+- Tecnología Militar
 tags:
-- tecnologia
-- atlas
-
+- entidad/concepto
+- alcance/publico
+- estado/canon
+related:
+- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+- "[[inquisicion]]"
+- "[[fuerzas-armadas]]"
 ---
 El poder de la Confederación Argentina se sostiene sobre una base militar tecnológicamente superior a la de sus vecinos. Aunque la tecnología está doctrinalmente limitada por la Iglesia, en el campo de batalla se permiten y desarrollan armas avanzadas, siempre que no dependan de una IA o de computación compleja.
 
 ## Armas de Pulso Electromagnético (EMP)
 
-Las armas EMP de corto alcance son una herramienta clave para la SIA y las fuerzas especiales de la Armada. Su función es incapacitar la electrónica enemiga sin causar daño letal directo.
+Las armas EMP de corto alcance son una herramienta clave para la [[inquisicion|SIA]] y las fuerzas especiales de la [[fuerzas-armadas|Armada]]. Su función es incapacitar la electrónica enemiga sin causar daño letal directo.
 
 -   **Funcionamiento**: Se basan en circuitos analógicos simples. Un banco de condensadores acumula una gran cantidad de energía eléctrica, que luego se libera de forma instantánea a través de una serie de bobinas.
 -   **Efecto**: La descarga genera un pulso electromagnético muy potente pero breve, capaz de freír cualquier circuito electrónico no protegido en un radio de varias decenas de metros. No afecta a sistemas puramente mecánicos o eléctricos simples.
@@ -64,7 +70,7 @@ Las armas avanzadas de la Confederación requieren fuentes de energía especiali
 
 La dependencia de **celdas de Americio-241** para las armas de mayor potencia (Gauss, EMP) refuerza el monopolio estatal absoluto sobre la tecnología militar. Incluso una célula rebelde que lograra robarse un rifle de Gauss sería incapaz de operarlo sin acceso a celdas controladas por el Ministerio de Infraestructura. La escasez de Americio es, efectivamente, una restricción de poder absoluto.
 
-**Para detalles técnicos de Celdas de Americio-241**: Ver [Celdas de Radionúclidos](./celdas-radionuclidos.md).
+**Para detalles técnicos de Celdas de Americio-241**: Ver [[celdas-radionuclidos|Celdas de Radionúclidos]].
 
 ## Cemento-Plástico de Grado Militar
 
@@ -75,7 +81,7 @@ Material de construcción de uso exclusivo en instalaciones estratégicas de la 
 -   **Apariencia**: Indistinguible de roca natural de cantera. Poroso al ojo, áspero al tacto, gris ceniza uniforme. Su respuesta térmica (frío en sombra, tibio bajo sol directo) replica la de piedra sedimentaria.
 -   **Resistencia a la humedad**: Excepcional. Las cadenas de polímero sellan la microporosidad del cemento a nivel molecular, impidiendo la infiltración de agua. En condiciones de humedad extrema (85-95%, como las de Ciudad Dársena), el cemento-plástico resiste siglos donde el hormigón convencional se degrada en décadas.
 -   **Resistencia mecánica**: Compresión de 120-180 MPa (3-5 veces superior al hormigón estándar). Resistente a impactos balísticos de calibre medio y a ondas expansivas.
--   **Fabricación**: Requiere mezcla precisa de componentes y curado controlado. La fórmula es conocida por un reducido número de ingenieros militares y eclesiásticos. No viola el Anatema Mecánico: el proceso es puramente químico, sin componentes electrónicos.
+-   **Fabricación**: Requiere mezcla precisa de componentes y curado controlado. La fórmula es conocida por un reducido número de ingenieros militares y eclesiásticos. No viola el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]: el proceso es puramente químico, sin componentes electrónicos.
 
 ### Uso
 

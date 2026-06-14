@@ -2,13 +2,25 @@
 title: La Compañía
 folder: 1_trasfondo/credos
 description: Culto del azar, Compañía invisible, suerte, sorteos secretos populares.
+aliases:
+  - La Compañía
 tags:
-  - trasfondo
-  - credos
-  - la-compania
-  - azar
-  - juego
-  - barrios-del-muro
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[iglesia-maradoniana]]"
+  - "[[umbanda]]"
+  - "[[san-la-muerte]]"
+  - "[[inquisicion]]"
+  - "[[ecologistas]]"
+  - "[[peronismo]]"
+  - "[[hijos-del-pantano]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
+  - "[[microcentro]]"
 ---
 
 **Tipo:** Ideología-credo

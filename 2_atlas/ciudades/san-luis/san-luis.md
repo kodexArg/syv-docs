@@ -2,17 +2,18 @@
 title: San Luis
 folder: 2_atlas/ciudades/san-luis
 description: La Ciudad Tristeza de la Confederación. No autosustentable, existiendo únicamente como control militar del paso entre océano Atlántico y océano Pacífico. Centro de vigilancia y represión. Población condenada a vivir en región inhóspita. Esperanza de vida de 35 años. El símbolo de la crueldad del sistema confederal.
+aliases:
+- San Luis
+- Ciudad Tristeza
+region: Cuyo
 tags:
-- san-luis
-- atlas
-- inhospito
-- militar
-- control
-- pobreza-extrema
-- peaje-viviente
-- sindicato-san-luis
-- humedad
-- enfermedad-endemica
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[fuerzas-armadas]]"
+ubicaciones:
+- "[[capital]]"
 
 ---
 San Luis es la **Ciudad Tristeza** de la Confederación Argentina. Con 1 millón de habitantes, existe no por necesidad económica, sino por **necesidad militar estratégica**. Ubicada en el corazón de la meseta semiárida cuyana, San Luis controla el paso que conecta el océano Atlántico (Dársena, Córdoba, Mendoza, FSM) con el océano Pacífico (Chile salvaje, territorios ignoto). Su única función es **vigilancia y control**.
@@ -55,7 +56,7 @@ Consolidado como bastión de control perpetuo:
 
 ## Gobierno: Comandancia Militar Pura
 
-No hay grupos de influencia en San Luis. Hay solo **Comando Militar Unificado** que responde directamente a Córdoba. La estructura es:
+No hay grupos de influencia en San Luis. Hay solo [[fuerzas-armadas|Comando Militar Unificado]] que responde directamente a Córdoba. La estructura es:
 
 ### **Comandancia Militar Central (5% de población)**
 - ~50.000 soldados y oficiales

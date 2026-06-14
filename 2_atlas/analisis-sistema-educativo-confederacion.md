@@ -2,13 +2,18 @@
 title: Análisis del Sistema Educativo de la Confederación Argentina
 folder: 2_atlas
 description: Estudio comparativo de las tres instituciones académicas principales y cómo funcionan conjuntamente para mantener control intelectual y producción técnica en 2178.
+aliases:
+- Análisis del Sistema Educativo
 tags:
-- atlas
-- instituciones
-- educacion
-- poder
-- analisis
-- confederacion
+- entidad/concepto
+- alcance/publico
+- estado/canon
+related:
+- "[[universidad-pontificia-america]]"
+- "[[universidad-nacional-cordoba]]"
+- "[[universidad-de-cuyo]]"
+- "[[iglesia]]"
+- "[[fuerzas-armadas]]"
 
 ---
 
@@ -18,7 +23,7 @@ tags:
 
 La Confederación Argentina ha desarrollado un sistema educativo que, deliberada u orgánicamente, distribuye control intelectual entre tres polos. No es sistema centralizado como habría sido en estado moderno pre-colapso. Es distribución de poder que previene que cualquier institución logre monopolio sobre educación, mientras simultáneamente asegura que pensamiento divergente sea contenido dentro de límites tolerables.
 
-Las tres universidades principales—Universidad Pontificia de América (Dársena), Universidad Nacional de Córdoba, y Universidad de Cuyo (Mendoza)—no son competidoras neutrales. Son actores dentro de sistema más amplio donde:
+Las tres universidades principales—[[universidad-pontificia-america|Universidad Pontificia de América]] (Dársena), [[universidad-nacional-cordoba|Universidad Nacional de Córdoba]], y [[universidad-de-cuyo|Universidad de Cuyo]] (Mendoza)—no son competidoras neutrales. Son actores dentro de sistema más amplio donde:
 
 1. **UPA monopoliza saber eclesiástico y arqueológico** bajo vigilancia eclesiástica
 2. **UNC monopoliza STEM y capacidad militar** bajo vigilancia del Ejército

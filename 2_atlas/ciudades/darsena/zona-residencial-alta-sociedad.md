@@ -2,17 +2,17 @@
 title: Zona Residencial Alta Sociedad
 folder: 2_atlas/ciudades/darsena
 description: Zona Residencial de Alta Sociedad (Barrios del Norte)
+aliases:
+- Zona Residencial de Alta Sociedad
+- Barrios del Norte
 tags:
-- darsena
-- barrio-norte
-- atlas
-- elite
-- opulencia
-- seguridad-privada
-- jardines
-- lujo
-- mazones
-
+- entidad/ubicacion
+- alcance/publico
+- estado/canon
+related:
+- "[[masones]]"
+ubicaciones:
+- "[[darsena]]"
 ---
 Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena, hogar de 50.000 personas. Protegida por muros internos y patrullas de seguridad privadas, esta zona es el hogar de la élite de la Confederación. Se caracteriza por sus edificaciones bajas de dos plantas con jardines en las azoteas y servicios de alta calidad, un lujo impensable en el resto de la ciudad.
 
@@ -25,7 +25,7 @@ Lujosos y extensos parques privados, un remanso de paz para la élite. En esta z
 Un exclusivo club social donde se cierran los verdaderos tratos de poder de la Confederación. En sus salones privados, entre licores añejos y humo de puros, se toman decisiones políticas y económicas que afectan a millones, lejos de cualquier escrutinio público.
 
 ### **Ateneo Cultural**
-Un centro de arte y cultura patrocinado y mantenido por los **Mazones**. Aquí se reúnen los intelectuales y artistas de la alta sociedad, se celebran conciertos privados y se exhiben obras de arte rescatadas del viejo mundo. Es un centro de influencia cultural y un lugar de encuentro para la facción.
+Un centro de arte y cultura patrocinado y mantenido por los [[masones|Masones]]. Aquí se reúnen los intelectuales y artistas de la alta sociedad, se celebran conciertos privados y se exhiben obras de arte rescatadas del viejo mundo. Es un centro de influencia cultural y un lugar de encuentro para la facción.
 
 ### **Clínicas Privadas**
 Pequeñas y discretas clínicas dispersas por toda la zona, que ofrecen servicios médicos de la más alta calidad a un costo exorbitante. Son el único lugar en Dársena donde se puede acceder a tratamientos avanzados y medicina personalizada.

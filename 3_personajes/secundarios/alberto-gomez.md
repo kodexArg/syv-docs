@@ -3,11 +3,19 @@ title: Alberto Gómez, Ferretero del Centro
 folder: 3_personajes/secundarios
 description: Encargado de una ferretería en el centro, que mantiene el negocio funcionando
   tras la muerte del dueño.
+nombre: Alberto Gómez
+aliases:
+  - Alberto Gómez
+  - El Ferretero
 tags:
-- comerciante
+  - entidad/personaje
+  - alcance/secreto
 facciones: []
-alerta-spoilers: "Oculta la muerte del dueño y ha notado ventas sospechosas de materiales
-  para tecnología prohibida"
+related:
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+spoilers:
+  - "Oculta la muerte del dueño de la ferretería para sostener los empleos."
+  - "Ha notado ventas sospechosas de materiales para tecnología prohibida y calla por miedo."
 ---
 ## Alberto Gómez, el Ferretero
 
@@ -44,7 +52,7 @@ Alberto Gómez lleva años trabajando en la ferretería del centro. Es conocido 
 Hace semanas, el dueño de la ferretería murió. Alberto ha mantenido el negocio abierto ocultando deliberadamente el fallecimiento. Ha conseguido que sus compañeros colaboren con la mentira, conscientes todos de que revelar la verdad significaría perder sus empleos cuando el negocio se cierre o sea reclamado por herederos.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Recientemente, Alberto ha notado que ciertos productos se venden a un ritmo inusual: bobinas de cobre, componentes electrónicos específicos, materiales aislantes. Los clientes que compran estos artículos son siempre diferentes, pero hay un patrón. Alberto sospecha fuertemente que estos materiales están siendo utilizados para fabricar tecnologías prohibidas por el Anatema Mecánico. Sabe que debería reportarlo, pero tiene demasiado miedo de las consecuencias, tanto de la Iglesia como de quienes están detrás de estas compras. Así que sigue vendiendo, fingiendo ignorancia, mientras el peso de la complicidad crece cada día.
+Recientemente, Alberto ha notado que ciertos productos se venden a un ritmo inusual: bobinas de cobre, componentes electrónicos específicos, materiales aislantes. Los clientes que compran estos artículos son siempre diferentes, pero hay un patrón. Alberto sospecha fuertemente que estos materiales están siendo utilizados para fabricar tecnologías prohibidas por el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]. Sabe que debería reportarlo, pero tiene demasiado miedo de las consecuencias, tanto de la Iglesia como de quienes están detrás de estas compras. Así que sigue vendiendo, fingiendo ignorancia, mientras el peso de la complicidad crece cada día.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

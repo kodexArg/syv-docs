@@ -2,13 +2,25 @@
 title: Iglesia Maradoniana
 folder: 1_trasfondo/credos
 description: Catolicismo sincrético futbolístico, venera Maradona, hegemónico Barrios del Muro.
+aliases:
+  - Iglesia Maradoniana
 tags:
-  - trasfondo
-  - trasfondo/credos/iglesia-maradoniana
-  - sociedad/religion
-  - sociedad/identidad
-  - facciones/iglesia
-  - lugares/barrios-del-muro
+  - entidad/credo
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[umbanda]]"
+  - "[[hermandades-y-ordenes-catolicas]]"
+  - "[[san-la-muerte]]"
+  - "[[peronismo]]"
+  - "[[hijos-del-pantano]]"
+ubicaciones:
+  - "[[darsena]]"
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
+  - "[[microcentro]]"
 ---
 
 **Tipo:** Ideología-credo (católica sincrética)
@@ -49,7 +61,7 @@ Maradona es prueba de que Dios ama Argentina especialmente. El meteorito, las QI
 
 ## Relación con la Iglesia Católica
 
-La Iglesia de Dársena combate al maradonianismo oficialmente pero lo tolera extraoficialmente. La contradicción es institucional. Obispos predican contra "idolatría futbolística" en sermones dominicales. Esa misma noche, algunos de esos obispos rezan discretamente a Maradona pidiendo victoria de selección argentina (que no existe más como tal, pero equipos regionales siguen compitiendo y despertando pasiones). La SIA arresta maradonianos visibles —los que organizan procesiones, los que grafitean "D10S" en murales, los que reclutan abiertamente. Pero no puede arrestar a dos millones sin provocar rebelión.
+La [[iglesia|Iglesia de Dársena]] combate al maradonianismo oficialmente pero lo tolera extraoficialmente. La contradicción es institucional. Obispos predican contra "idolatría futbolística" en sermones dominicales. Esa misma noche, algunos de esos obispos rezan discretamente a Maradona pidiendo victoria de selección argentina (que no existe más como tal, pero equipos regionales siguen compitiendo y despertando pasiones). La SIA arresta maradonianos visibles —los que organizan procesiones, los que grafitean "D10S" en murales, los que reclutan abiertamente. Pero no puede arrestar a dos millones sin provocar rebelión.
 
 El problema es que el maradonianismo está enquistado en todas las capas sociales:
 

@@ -2,13 +2,15 @@
 title: Cámaras de Supresión Electromagnética (CSE)
 folder: 2_atlas/tecnologia-y-ciencia
 description: Especificaciones técnicas de blindaje de campos nulos para estudio de artefactos
+aliases:
+  - Cámaras de Supresión Electromagnética
+  - CSE
 tags:
-  - cse
-  - blindaje
-  - electromagnetico
-  - arpistas
-  - tecnologia
-  - atlas
+  - entidad/concepto
+  - alcance/publico
+  - estado/canon
+related:
+  - "[[arpistas]]"
 
 ---
 
@@ -18,7 +20,7 @@ tags:
 
 **Nombre técnico**: Cámara de Supresión Electromagnética (CSE)
 
-**Nombre coloquial**: Cámara Arpista (por quienes las usan principalmente)
+**Nombre coloquial**: Cámara [[arpistas|Arpista]] (por quienes las usan principalmente)
 
 **Clasificación**: Tecnología de laboratorio especializado
 
@@ -273,6 +275,6 @@ Existe debate científico no resuelto sobre el mecanismo exacto de funcionamient
 
 ## Referencias Cruzadas
 
-- [Arpistas](../../1_trasfondo/facciones/facciones-menores/arpistas.md) - Usuarios principales
-- [Sagrada Inquisición Argentina](../../1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Usuarios institucionales
-- [Anatema Mecánico](../../1_trasfondo/codex/anatema-mecanico.md) - Contexto legal de artefactos
+- [[arpistas|Arpistas]] - Usuarios principales
+- [[inquisicion|Sagrada Inquisición Argentina]] - Usuarios institucionales
+- [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] - Contexto legal de artefactos
