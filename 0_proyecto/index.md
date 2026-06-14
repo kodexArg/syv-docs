@@ -2,8 +2,8 @@
 title: Proyecto
 folder: 0_proyecto
 description: Organización, estructura y documentación general del proyecto SyV.
-tags:
-  - manual-del-colaborador
+related:
+  - "[[manual-del-colaborador]]"
 sidebar:
   hidden: true
 ---

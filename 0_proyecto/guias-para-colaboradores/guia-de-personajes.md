@@ -2,14 +2,18 @@
 title: Personajes
 folder: 0_proyecto/guias-para-colaboradores
 description: Categorías, metadatos, estructura de contenido para personajes.
+aliases:
+  - Guía de Personajes
 tags:
-  - guia-de-metadatos
-  - manual-del-colaborador
-  - guia-de-facciones
+  - entidad/guia
+related:
+  - "[[guia-de-metadatos]]"
+  - "[[manual-del-colaborador]]"
+  - "[[guia-de-facciones]]"
 ---
 Esta guía establece el formato y las mejores prácticas para crear y documentar personajes dentro del universo de "Subordinación y Valor". Un personaje bien definido es clave para la coherencia narrativa y la inmersión en el mundo.
 
-Antes de crear un personaje, asegúrate de estar familiarizado con las guías generales, especialmente la [Guía de Metadatos](./guia-de-metadatos.md) y el [Manual del Colaborador](./manual-del-colaborador.md).
+Antes de crear un personaje, asegúrate de estar familiarizado con las guías generales, especialmente la [[guia-de-metadatos|Guía de Metadatos]] y el [[manual-del-colaborador|Manual del Colaborador]].
 
 ## Categorías de Personajes
 
@@ -23,12 +27,13 @@ Los personajes se clasifican en tres categorías según su importancia en la nar
 
 La sección de metadatos (front matter YAML) es fundamental para la indexación y uso de los personajes por parte de herramientas automáticas y colaboradores.
 
-Además de los campos obligatorios (`titulo`, `carpeta`, `descripcion`) definidos en la [Guía de Metadatos](./guia-de-metadatos.md), los personajes siguen estas convenciones:
+Además de los campos universales (`title`, `folder`, `description`) definidos en la [[guia-de-metadatos|Guía de Metadatos]], los personajes siguen estas convenciones:
 
-- `slug`: Debe coincidir con el nombre del archivo. **Opcional**.
 - `nombre`: Nombre del personaje. **Obligatorio**.
-- `facciones`: Una lista de links a los archivos de las facciones a las que pertenece el personaje. **Este campo debe existir siempre**, incluso si la lista está vacía.
-- `spoilers`: Campo opcional para advertir sobre información sensible (anteriormente `alerta-spoiler`). Contiene una lista de frases que indican si el personaje debe ser presentado con discreción.
+- `aliases`: Nombres alternativos / nombre propio para display y resistencia a renombres. **Recomendado**.
+- `facciones`: Lista de **wikilinks** a los archivos de facción a los que pertenece. **Este campo debe existir siempre**, incluso si la lista está vacía. Ejemplo: `facciones: ["[[inquisicion]]"]`.
+- `related` / `ubicaciones` / `apariciones`: listas de **wikilinks** a otras entidades, lugares del atlas y relatos donde aparece.
+- `spoilers`: Lista de frases sensibles (reemplaza `alerta-spoiler`/`alerta-spoilers`). Acompañar con el tag `#alcance/secreto`.
   - Ejemplo: `spoilers: ["Este personaje no debe ser presentado directamente a un jugador."]`
 
 **IMPORTANTE**: Si este campo existe, no se deben mostrar los datos del personaje en el atlas, en las cartas, en los relatos, etc.
@@ -37,19 +42,22 @@ Además de los campos obligatorios (`titulo`, `carpeta`, `descripcion`) definido
 
 ```yaml
 ---
-titulo: "Inquisidora Sofía"
-slug: inquisidora-sofia
-carpeta: 3_personajes/principales
-descripcion: "Joven y serena inquisidora que sirve como primer contacto de la Iglesia con agentes externos en Dársena."
+title: Inquisidora Sofía
+folder: 3_personajes/principales
+description: Joven y serena inquisidora, primer contacto de la Iglesia con agentes externos en Dársena.
+aliases:
+  - Sofía
 nombre: Sofía
-tags:
-  - @[1_trasfondo/facciones/iglesia.md]
-  - @[2_atlas/darsena/sector-7.md]
 facciones:
-  - @[1_trasfondo/facciones/iglesia-de-darsena.md]
-  - @[1_trasfondo/facciones/santa-inquisicion.md]
+  - "[[iglesia-de-darsena]]"
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[sector-7]]"
 spoilers:
   - "Su lealtad final es un secreto que no debe revelarse prematuramente."
+tags:
+  - entidad/personaje
+  - alcance/secreto
 ---
 ```
 
@@ -83,4 +91,4 @@ El cuerpo del archivo de un personaje debe organizarse con los siguientes aparta
 
 ---
 
-Finalmente, recuerda usar los **Tags** en los metadatos (ver [Guía de Metadatos](./guia-de-metadatos.md)) para enlazar a otros personajes, lugares o documentos relevantes.
+Finalmente, recuerda enlazar a otros personajes, lugares o documentos con **wikilinks** (`[[slug]]`) en el cuerpo y en propiedades como `facciones`, `ubicaciones`, `apariciones` o `related`. Los `tags` son taxonomía (`#entidad/...`), no enlaces. Ver [[guia-de-metadatos|Guía de Metadatos]].

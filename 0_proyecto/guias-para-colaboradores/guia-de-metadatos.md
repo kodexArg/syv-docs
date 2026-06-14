@@ -1,106 +1,257 @@
 ---
 title: Metadatos
 folder: 0_proyecto/guias-para-colaboradores
-description: Formato y reglas del frontmatter YAML para archivos markdown.
-
+description: Formato autoritativo del frontmatter YAML, relaciones por wikilink, taxonomía de tags y aliases.
+aliases:
+  - Guía de Metadatos
 tags:
-  - manual-del-colaborador
-  - guia-de-facciones
-  - guia-de-personajes
+  - entidad/guia
+related:
+  - "[[manual-del-colaborador]]"
+  - "[[guia-de-personajes]]"
+  - "[[guia-de-facciones]]"
 ---
 
+# Guía de Metadatos
 
-# Guía de Metadatos para archivos `.md` en SyV
+Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinación y Valor". El corpus es un vault de Obsidian: el grafo de conocimiento se construye **solo con wikilinks**, los `tags` son **taxonomía** para descubrir y filtrar, y los `aliases` protegen contra renombres. Si algo acá contradice otra guía, manda esta.
 
-Esta guía explica el formato **único y correcto** de metadatos (front matter YAML) que deben tener todos los archivos Markdown del proyecto "Subordinación y Valor".
+> [!important]
+> El estándar YAML exige el **espacio después de los dos puntos** (`title: Valor`, no `title:Valor`). El bloque va al inicio del archivo, entre líneas `---`. Nombres de campo en **inglés y minúsculas**.
 
-**IMPORTANTE**: Mantener el estándar YAML en el frontmatter incluye respetar el espacio luego de dos puntos.
+---
 
-- El bloque de metadatos es obligatorio.
-- Debe ir al inicio del archivo, delimitado por líneas `---`.
-- Todos los campos deben estar en **inglés** y en **minúsculas**.
-- Los siguientes campos van al inicio:
-  - `title`: Título del documento. **Obligatorio**.
-  - `slug`: Identificador único. Debe coincidir exactamente con el nombre del archivo (sin extensión). **Opcional** (implícito en el nombre del archivo, pero si se incluye debe coincidir).
-  - `folder`: Ruta relativa de la carpeta donde se ubica el archivo. **Obligatorio**.
-  - `description`: Breve descripción del contenido. **Obligatorio**.
-  - `tags`: Lista de slugs de otros archivos relacionados. Se usan como referencias directas a otros documentos. **Opcional pero recomendado**.
-- Los siguientes son campos opcionales:
-  - `region`: Región geográfica separada por comas, por ejemplo "Sud América, Argentina, Ciudad Dársena". **Opcional**.
-  - `fecha`: Fecha de referencia, se usa en cronología y atlas. **Opcional**.
-- Los personajes tienen los siguientes campos específicos:
-  - `nombre`: Nombre del personaje. **Obligatorio**.
-  - `facciones`: Listado de facciones a las que pertenece (slugs de archivos de facción). **Obligatorio**.
-  - `spoilers`: Indica frases o información a presentar con discreción (reemplaza a `alerta-spoiler`). **Opcional**.
+## Las tres ideas centrales
 
+1. **Las relaciones son wikilinks.** Personaje ↔ facción ↔ ubicación ↔ concepto ↔ relato se conectan con `[[slug]]`, tanto en el cuerpo como dentro de propiedades de lista del frontmatter (`facciones`, `related`, `ubicaciones`, `apariciones`). El grafo **no** ve los `tags`.
+2. **Los tags son taxonomía, no relaciones.** Árboles jerárquicos cerrados (`#entidad/...`, `#alcance/...`, `#estado/...`) para filtrar y descubrir. Nunca un tag para apuntar a otro archivo. (Esto **reemplaza** la vieja "Regla de Oro" de tag-como-slug.)
+3. **Los aliases dan estabilidad y display.** Toda entidad debería declarar `aliases` con su nombre propio, para sobrevivir renombres y mostrar `[[slug|Texto Visible]]`.
 
-## Criterios de Etiquetado (Tags)
+---
 
-**Definición Estricta**: Un 'tag' en este proyecto es **exclusivamente una referencia a otro archivo existente**.
+## Campos del frontmatter
 
-- Cada archivo tiene un `slug` implícito, que es su **nombre de archivo**.
-- Las etiquetas (`tags`) son una lista de estos `slugs` (archivos) con los que el documento actual tiene una relación directa.
-- **No existen "temas", "categorías" o "palabras clave" sueltas.**
-- **Regla de Oro**: Si no existe un archivo (slug) para un concepto, personaje o lugar, **no se puede etiquetar**.
+### Universales (todo archivo)
 
-### Cómo etiquetar
-Usa simplemente el **slug** del archivo (nombre del archivo sin extensión) para referenciarlo.
+| Campo | Obligatorio | Qué es |
+|---|---|---|
+| `title` | sí | Título del documento. |
+| `folder` | sí | Ruta relativa de la carpeta contenedora. |
+| `description` | sí | Una o dos frases del contenido. |
+| `aliases` | recomendado | Lista de nombres alternativos (nombre propio, variantes). |
+| `tags` | recomendado | Taxonomía jerárquica (ver abajo). **No** son links. |
+| `related` | opcional | Lista de **wikilinks** a entidades relacionadas sin campo propio. |
 
-### Qué etiquetar (linkear)
-- **Personajes**: Slug del archivo del personaje (ej: `inquisidora-sofia`).
-- **Ubicaciones**: Slug del archivo del lugar en el Atlas (ej: `tuberias`).
-- **Facciones**: Slug del archivo de la organización (ej: `sia`).
-- **Conceptos**: Slug del archivo que explica el concepto (ej: `anatema-mecanico`).
+### Específicos por tipo de entidad
 
-### Qué NO etiquetar
-- Palabras sueltas como "misterio", "acción", "futuro".
-- Categorías que no tienen un archivo "índice" o explicativo específico.
-- El propio archivo o carpetas padres (redundante).
+| Campo | Aplica a | Qué es |
+|---|---|---|
+| `nombre` | personajes | Nombre propio del personaje. **Obligatorio** en personajes. |
+| `facciones` | personajes, otros | Lista de **wikilinks** a archivos de facción. Siempre presente en personajes (vacía si no aplica). |
+| `ubicaciones` | varios | Lista de **wikilinks** a archivos del atlas. |
+| `apariciones` | personajes, lugares | Lista de **wikilinks** a relatos/crónicas/cartas donde aparece. |
+| `region` | atlas, cronología | Región geográfica, p. ej. `Sud América, Argentina, Ciudad Dársena`. |
+| `fecha` | cronología, atlas | Fecha o año de referencia. |
+| `spoilers` | cualquiera con secreto | Lista de frases sensibles. Reemplaza `alerta-spoiler`/`alerta-spoilers`. |
 
+### Campos del sitio (Astro Starlight) — **no tocar**
 
-## Buenas prácticas
-- Mantén los campos alineados y sin tabulaciones.
-- Los `tags` deben ser links directos a archivos existentes, no palabras clave genéricas.
-- Usa el slug del archivo (nombre sin extensión) para los tags.
-- Verifica que los links en `tags` y `facciones` apunten a archivos válidos.
-- No repitas información entre campos.
-- La descripción debe ser breve y clara.
-- No uses caracteres especiales en los nombres de campos.
-- No dejes el bloque de metadatos vacío.
-- Si agregas nuevos campos, documenta su uso en esta guía.
-- **Usa siempre campos en inglés** (`title`, `folder`, `description`), nunca en español.
+`sidebar`, `order`, `hidden`, `slug` los consume el sitio web. **Preservalos siempre.** El `slug` explícito es redundante (se infiere del nombre de archivo) salvo que el sitio lo exija; si existe, debe coincidir con el nombre de archivo.
 
+---
 
-## Ejemplos correctos
+## Relaciones por wikilink
+
+Las propiedades que expresan relación contienen **wikilinks entre comillas** (YAML exige comillas porque `[[...]]` arranca con corchete):
+
+```yaml
+facciones:
+  - "[[inquisicion]]"
+  - "[[iglesia-de-darsena]]"
+related:
+  - "[[damian-diconte]]"
+ubicaciones:
+  - "[[tuberias]]"
+apariciones:
+  - "[[walter|Walter (relato)]]"
+```
+
+✓ `facciones: ["[[inquisicion]]"]`
+✗ `facciones: ["Sagrada Inquisición Argentina"]` (nombre-display: no enlaza)
+✗ `tags: [inquisicion]` (los tags no son relaciones)
+
+### Desambiguación de basenames
+
+El vault raíz `/home/kodex/Dev/SyV` contiene basenames duplicados (p. ej. existe `walter.md` como personaje **y** como relato; hay varios `index.md`). Cuando un slug es ambiguo:
+
+- Preferí un **nombre de archivo único** al crear (`walter` personaje, `walter-relato` el relato), o
+- Usá **wikilink con path** cuando haga falta: `[[4_diegesis/relatos/walter|Walter (relato)]]`.
+- Declará `aliases` para que el display sea el nombre propio sin importar el slug.
+
+---
+
+## Taxonomía de tags
+
+Los `tags` son árboles **cerrados y angostos**, máximo 3 niveles. No se inventan ramas nuevas sin actualizar esta guía. Sirven para filtrar/descubrir, jamás para relacionar.
+
+```
+#entidad/{personaje|faccion|ubicacion|concepto|credo|hito|relato|guia}
+#alcance/{secreto|publico}
+#estado/{canon|borrador|propuesta}
+```
+
+- Todo archivo de entidad lleva **un** tag `#entidad/...`.
+- `#alcance/secreto` marca contenido con secretos (correlaciona con `spoilers`).
+- Las ~70 palabras-tema sueltas de hoy (`detective`, `historia`, `politica`, `arte`...) **no son tags**: se resuelven como un `#entidad/...`, se convierten en wikilink/`related` si nombran una entidad real, o se eliminan.
+
+✓ `tags: ["entidad/personaje", "alcance/secreto"]`
+✗ `tags: ["walter", "tuberias"]` (eso son relaciones → wikilinks)
+✗ `tags: ["misterio", "futuro"]` (palabra suelta → eliminar)
+
+---
+
+## Aliases
+
+```yaml
+aliases:
+  - Sofía
+  - Inquisidora Sofía
+```
+
+Permite escribir `[[inquisidora-sofia|Sofía]]` y que Obsidian resuelva referencias por cualquiera de los nombres. Imprescindible cuando el `title`/nombre propio difiere del slug.
+
+---
+
+## Spoilers
+
+Campo `spoilers`: lista de frases sensibles. Unifica los legacy `alerta-spoiler` y `alerta-spoilers` (escalar string), que quedan **prohibidos**.
+
+```yaml
+spoilers:
+  - "Su lealtad final no debe revelarse prematuramente."
+tags:
+  - entidad/personaje
+  - alcance/secreto
+```
+
+> [!warning]
+> Si una entidad tiene `spoilers`, **no se la referencia** desde atlas, relatos ni cartas de forma que exponga el secreto. (Ver [[guia-de-personajes]].)
+
+---
+
+## Ejemplos canónicos
+
+### Personaje
 
 ```yaml
 ---
-title: Año 2031: El Año del Cráter
-slug: 2031-ano-del-crater
-folder: 1_trasfondo/cronologia/2030-2039
-description: El año en que Argentina se convirtió en un mosaico de territorios en guerra.
+title: Inquisidora Sofía
+folder: 3_personajes/principales
+description: Primer contacto de la Iglesia con agentes externos en Dársena.
+aliases:
+  - Sofía
+nombre: Sofía
+facciones:
+  - "[[iglesia-de-darsena]]"
+  - "[[inquisicion]]"
+ubicaciones:
+  - "[[sector-7]]"
+apariciones:
+  - "[[el-primer-contacto]]"
+spoilers:
+  - "Su lealtad final es un secreto."
 tags:
-- guerra-civil
-- mapa-politico
+  - entidad/personaje
+  - alcance/secreto
+---
+```
+
+### Facción
+
+```yaml
+---
+title: Arpistas
+folder: 1_trasfondo/facciones/facciones-menores
+description: Red proscrita de arqueólogos tecnológicos que neutralizan y preservan tecnología prohibida.
+aliases:
+  - Los Arpistas
+related:
+  - "[[inquisicion]]"
+  - "[[dgapc]]"
+  - "[[iglesia-de-darsena]]"
+tags:
+  - entidad/faccion
+  - alcance/publico
+---
+```
+
+### Ubicación (atlas)
+
+```yaml
+---
+title: Las Tuberías
+folder: 2_atlas/darsena
+description: Comunidad subacuática bajo Dársena.
+aliases:
+  - Tuberías
+region: Argentina, Ciudad Dársena
+related:
+  - "[[walter]]"
+tags:
+  - entidad/ubicacion
+---
+```
+
+### Relato (diegesis)
+
+```yaml
+---
+title: Walter
+folder: 4_diegesis/relatos
+slug: walter-relato
+description: Fragmento de la juventud de Walter en las Tuberías.
+aliases:
+  - Walter (relato)
+related:
+  - "[[walter]]"
+  - "[[tuberias]]"
+tags:
+  - entidad/relato
+---
+```
+
+### Hito / cronología
+
+```yaml
+---
+title: "2031: El Año del Cráter"
+folder: 1_trasfondo/cronologia/2030-2039
+description: Argentina se vuelve un mosaico de territorios en guerra.
 region: Argentina
 fecha: 2031
+related:
+  - "[[guerra-civil]]"
+tags:
+  - entidad/hito
+sidebar:
+  order: 2031
 ---
 ```
 
-```yaml
----
-title: Cardenal J.M.
-folder: 3_personajes/iglesia
-description: Líder de la facción eclesiástica en el sector 7.
-nombre: Juan Manuel
-facciones:
-- iglesia
-spoilers:
-- "Muere en el capítulo 4"
----
-```
-
-
 ---
 
-**Actualiza esta guía si se agregan o modifican campos de metadatos en el proyecto.**
+## Migración: qué cambia respecto al esquema viejo
+
+- `tags` deja de ser slug-de-archivo → pasa a taxonomía `#entidad/...`. Las relaciones que vivían en `tags` se mueven a `related`/`facciones`/`ubicaciones` como wikilinks.
+- `facciones` con nombre-display (`"Iglesia Católica"`) → wikilink al slug (`"[[iglesia-catolica]]"`).
+- `alerta-spoiler` / `alerta-spoilers` (string) → `spoilers` (lista) + tag `#alcance/secreto`.
+- Sintaxis `@[ruta.md]` de guías viejas → wikilink `[[slug]]`.
+- Campos Astro (`sidebar`, `order`, `hidden`, `slug`) → intactos.
+- No se renombran `nombre`/`region`/`fecha`: el cambio es tags→taxonomía, relaciones→wikilinks, aliases.
+
+> [!note]
+> Los scripts `check_tags.py` / `remove_tags.py` validan la regla vieja de tags y quedan **obsoletos**; deben reescribirse para la taxonomía nueva antes de volver a usarse.
+
+---
+
+Las reglas indelebles de este esquema viven en `.claude/rules/` (un contrato por archivo). **Actualizá esta guía si se agrega o modifica un campo o una rama de taxonomía.**

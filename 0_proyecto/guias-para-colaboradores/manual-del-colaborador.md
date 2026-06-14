@@ -2,10 +2,14 @@
 title: Manual
 folder: 0_proyecto/guias-para-colaboradores
 description: Pautas, estructura de directorios, cómo contribuir con pull requests.
+aliases:
+  - Manual del Colaborador
 tags:
-  - guia-de-metadatos
-  - guia-de-personajes
-  - guia-de-facciones
+  - entidad/guia
+related:
+  - "[[guia-de-metadatos]]"
+  - "[[guia-de-personajes]]"
+  - "[[guia-de-facciones]]"
 ---
 # Cómo contribuir (pull requests)
 
@@ -29,11 +33,11 @@ En cambio sí se requiere coherencia y cumplimiento de las pautas de esta guía,
 ## Pautas clave para contribuir
 
 - Asegúrate que tu aporte no destruya lo que ya ha sido incorporado al canon.
-- La historia válida es la que ocurre en la [Cronología](../1_trasfondo/cronologia/cronologia.md).
+- La historia válida es la que ocurre en la [[cronologia|Cronología]].
 - Mantén el español como idioma principal.
 - **IMPORTANTE**: Antes de contribuir, revisa:
-  - [Guía de Metadatos](guia-de-metadatos.md) para el formato correcto de los archivos y el uso de **Tags** para enlaces.
-  - [Guía de Personajes](guia-de-personajes.md) si vas a crear o mencionar personajes
+  - [[guia-de-metadatos|Guía de Metadatos]] para el formato correcto de los archivos y el uso de **Tags** para enlaces.
+  - [[guia-de-personajes|Guía de Personajes]] si vas a crear o mencionar personajes
 
 
 ### Incorporar sucesos al canon
@@ -42,7 +46,7 @@ En cambio sí se requiere coherencia y cumplimiento de las pautas de esta guía,
   - O deben tener sentido y estar comprometidos con la trama.
   - O ser completamente irrelevantes para la misma, generando un nuevo hilo narrativo.
 - En lo posible, incorporar elementos diegéticos como crónicas, recortes de la época, etc.
-- Cada personaje mencionado debe tener un archivo en la carpeta `3_personajes`. Consulta la [Guía de Personajes](guia-de-personajes.md) para los detalles de categorización y metadatos requeridos.
+- Cada personaje mencionado debe tener un archivo en la carpeta `3_personajes`. Consulta la [[guia-de-personajes|Guía de Personajes]] para los detalles de categorización y metadatos requeridos.
 - Se prefieren aportes que contribuyan a reforzar los elementos únicos de este universo:
     - La religión.
     - Ciudad Dársena como epicentro de la trama.

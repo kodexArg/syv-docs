@@ -2,11 +2,13 @@
 title: Facciones
 folder: 0_proyecto/guias-para-colaboradores
 description: Escritura narrativa fluida de facciones, identidad, propósito, relaciones.
-
+aliases:
+  - Guía de Facciones
 tags:
-  - proyecto/guia
-  - proyecto/colaboracion
-  - facciones/guia
+  - entidad/guia
+related:
+  - "[[guia-de-metadatos]]"
+  - "[[PLANTILLA_FACCION]]"
 ---
 Esta guía te orienta para crear y documentar facciones en el universo de Subordinación y Valor de forma clara, coherente y conectada con el resto del corpus. El objetivo es que cada facción se entienda como parte de un entramado mayor, con sus motivaciones, recursos y relaciones, pero sin rigidez ni exceso de subtítulos.
 
@@ -38,14 +40,19 @@ A continuación, un ejemplo de cómo estructurar el texto de una facción siguie
 
 ```markdown
 ---
-titulo: Arpistas
-descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla.
-carpeta: 1_trasfondo/facciones/facciones-menores
+title: Arpistas
+folder: 1_trasfondo/facciones/facciones-menores
+description: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla.
+aliases:
+- Los Arpistas
+related:
+- "[[tecnologia-prohibida]]"
+- "[[iglesia-de-darsena]]"
+- "[[inquisicion]]"
+- "[[dgapc]]"
 tags:
-- tecnologia-prohibida
-- iglesia-de-darsena
-- sia
-- dgapc
+- entidad/faccion
+- alcance/publico
 ---
 
 Los Arpistas constituyen una red clandestina y descentralizada, distribuida en todo el mundo, dedicada al desarme y la preservación de tecnología antigua.
@@ -66,7 +73,7 @@ Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocult
 1. **Narrativa fluida**: Evita listas y subtítulos innecesarios. Integra la información de forma natural en el texto.
 2. **Información secreta**: Marca claramente la información que no debe ser expuesta a jugadores.
 3. **Conexiones**: Menciona las relaciones con otras facciones de forma orgánica en el texto.
-4. **Metadatos y Tags**: Asegúrate de incluir todos los metadatos requeridos. Recuerda que los `tags` deben seguir las reglas de la @[0_proyecto/guias-para-colaboradores/guia-de-metadatos.md], utilizando únicamente el **slug** (nombre del archivo sin extensión) de los documentos relacionados.
+4. **Metadatos, relaciones y tags**: Incluí todos los metadatos requeridos según la [[guia-de-metadatos]]. Las relaciones con otras facciones van como **wikilinks** en `related` (`"[[slug]]"`), no como tags. Los `tags` son taxonomía (`#entidad/faccion`, `#alcance/...`).
 
 ---
 
