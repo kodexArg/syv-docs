@@ -1,10 +1,8 @@
 ---
 title: Personajes
 folder: 3_personajes
-description: Índice y guía de los personajes principales, secundarios y arquetipos
-  del universo SyV.
-tags:
-- personajes
+description: Índice y guía de los personajes principales, secundarios y arquetipos del universo SyV.
+tags: []
 sidebar:
   hidden: true
 ---

@@ -4,7 +4,7 @@ description: Momentos clave de la historia, desde democracias del siglo XXI hast
 sidebar:
   hidden: true
   order: 1
-
+folder: 1_trasfondo/hitos
 ---
 
 Los momentos que quebraron la historia. El Estallido de 2036 que marcó el inicio del colapso, el Fin de los Secretos en 2048 cuando las QIA descifraron todos los enigmas humanos, el Gran Silencio de 2061 que apagó las máquinas para siempre.

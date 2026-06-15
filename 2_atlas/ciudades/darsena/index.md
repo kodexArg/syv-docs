@@ -4,7 +4,7 @@ description: Darsena
 sidebar:
   hidden: true
   order: 1
-
+folder: 2_atlas/ciudades/darsena
 ---
 
 La capital de facto de la Confederación. Cinco millones de almas comprimidas entre el muro de 20 metros y el Río de la Plata contaminado, bajo una niebla que nunca se disipa del todo.

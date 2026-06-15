@@ -3,7 +3,7 @@ title: Principales
 sidebar:
   hidden: true
   order: 1
-
+folder: 3_personajes/principales
 ---
 
 Los arquitectos del poder y la resistencia. Monseñor Miguel que tortura herejes en nombre de la pureza doctrinal, el Dr. Francisco de la Cruz que preserva conocimiento prohibido bajo riesgo de hoguera, el Sumo Pontífice que gobierna desde la Nueva Basílica de San Pedro.

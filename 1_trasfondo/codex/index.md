@@ -2,11 +2,7 @@
 title: Codex
 folder: 1_trasfondo/codex
 description: Textos legales, teológicos, dogmas y constitución de la Teocracia Militar.
-tags:
-  - trasfondo
-  - trasfondo/codex/anatema-mecanico
-  - trasfondo/codex/constitucion-argentina
-  - trasfondo/codex/conocimiento-sobreviviente
+tags: []
 sidebar:
   hidden: true
   order: 1

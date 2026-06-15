@@ -4,7 +4,7 @@ description: San Luis
 sidebar:
   hidden: true
   order: 1
-
+folder: 2_atlas/ciudades/san-luis
 ---
 
 El nodo logístico entre la costa y los Andes. Ciudad de paso donde las caravanas terrestres intercambian mercancías prohibidas lejos de la vigilancia directa de Dársena.

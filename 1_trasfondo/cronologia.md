@@ -1,6 +1,6 @@
 ---
 title: Cronología
-folder: 1_trasfondo/cronologia
+folder: 1_trasfondo
 description: Registro completo desde 2020 hasta 2178, colapso global y Confederación Argentina.
 aliases:
   - Cronología

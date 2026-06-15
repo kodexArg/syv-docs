@@ -2,13 +2,9 @@
 title: Index
 folder: 2_atlas
 description: Atlas
-tags:
-- atlas
-- geografia
-- mapa
+tags: []
 sidebar:
   hidden: true
-
 ---
 
 El territorio que sobrevivió. Las ciudades-fortaleza elevadas contra la inundación perpetua, los muros de hormigón que separan a los fieles de los parias, las ruinas del Viejo Mundo sumergidas bajo el barro y la niebla.

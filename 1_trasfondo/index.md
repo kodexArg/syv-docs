@@ -2,14 +2,9 @@
 title: Trasfondo
 folder: 1_trasfondo
 description: Historia, leyes, cosmovisión y conceptos clave del universo SyV.
-tags:
-- trasfondo
-- historia
-- leyes
-- cosmovision
+tags: []
 sidebar:
   hidden: true
-
 ---
 
 La memoria colectiva de un mundo que ardió. Los textos fundacionales de la Teocracia Militar, las líneas temporales que trazan el descenso desde 2020 hasta la humedad perpetua de 2178, los dogmas que sostienen el Anatema Mecánico como ley divina.

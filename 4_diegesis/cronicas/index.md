@@ -3,7 +3,7 @@ title: Cronicas
 sidebar:
   hidden: true
   order: 1
-
+folder: 4_diegesis/cronicas
 ---
 
 Los registros del mundo desde adentro. Crónicas oficiales que la Iglesia autoriza para preservar la memoria controlada, bitácoras de marineros que navegan el Río de la Plata bajo la niebla, diarios de campaña militar contra facciones proscritas.

@@ -4,7 +4,7 @@ description: Fuerte San Martin
 sidebar:
   hidden: true
   order: 1
-
+folder: 2_atlas/ciudades/fuerte-san-martin
 ---
 
 La muralla norte de la Confederación. Fortaleza militar plantada contra las invasiones desde el territorio no controlado, donde el Ejército vigila fronteras que ya no aparecen en mapas oficiales.

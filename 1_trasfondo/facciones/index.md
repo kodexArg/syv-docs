@@ -4,7 +4,7 @@ description: Organizaciones políticas, militares, religiosas, clandestinas y su
 sidebar:
   hidden: true
   order: 1
-
+folder: 1_trasfondo/facciones
 ---
 
 Los poderes que tejen el tablero político de la Confederación. La Iglesia Católica y su control espiritual absoluto, las Fuerzas Armadas que gobiernan desde Córdoba, el Gremio de Comercio que mueve bienes prohibidos en las sombras.
