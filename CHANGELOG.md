@@ -3,7 +3,7 @@
 ## [Unreleased]
 - group: strip-framework-consolidate-cities
   priority: high
-  commit: pending
+  commit: cad02ec
   changes:
     - refactor(frontmatter): eliminar TODOS los campos Astro/Starlight (sidebar, order, hidden, slug) de 31 archivos — framework-agnóstico puro
     - refactor(structure): fusionar 4 index.md de ciudades (dársena, mendoza, san-luis, fuerte-san-martin) — prosa intro → epígrafe en <ciudad>.md
