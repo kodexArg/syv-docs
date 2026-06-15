@@ -54,10 +54,6 @@ Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinaci�
 | `fecha` | cronología, atlas | Fecha o año de referencia. |
 | `spoilers` | cualquiera con secreto | Lista de frases sensibles. Reemplaza `alerta-spoiler`/`alerta-spoilers`. |
 
-### Campos del sitio (Astro Starlight) — **no tocar**
-
-`sidebar`, `order`, `hidden`, `slug` los consume el sitio web. **Preservalos siempre.** El `slug` explícito es redundante (se infiere del nombre de archivo) salvo que el sitio lo exija; si existe, debe coincidir con el nombre de archivo.
-
 ---
 
 ## Relaciones por wikilink
@@ -208,7 +204,6 @@ tags:
 ---
 title: Walter
 folder: 4_diegesis/relatos
-slug: walter-relato
 description: Fragmento de la juventud de Walter en las Tuberías.
 aliases:
   - Walter (relato)
@@ -233,8 +228,6 @@ related:
   - "[[guerra-civil]]"
 tags:
   - entidad/hito
-sidebar:
-  order: 2031
 ---
 ```
 
@@ -246,7 +239,6 @@ sidebar:
 - `facciones` con nombre-display (`"Iglesia Católica"`) → wikilink al slug (`"[[iglesia-catolica]]"`).
 - `alerta-spoiler` / `alerta-spoilers` (string) → `spoilers` (lista) + tag `#alcance/secreto`.
 - Sintaxis `@[ruta.md]` de guías viejas → wikilink `[[slug]]`.
-- Campos Astro (`sidebar`, `order`, `hidden`, `slug`) → intactos.
 - No se renombran `nombre`/`region`/`fecha`: el cambio es tags→taxonomía, relaciones→wikilinks, aliases.
 
 > [!note]

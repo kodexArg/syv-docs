@@ -4,7 +4,7 @@ folder: 5_aventuras/poseidos
 description: Descripción de la facción de los Guardianes del Cementerio de
   Chacarita, sus miembros, su liderazgo y sus secretos.
 tags:
-  - entidad/aventura
+  - entidad/relato
   - alcance/secreto
 aliases:
   - Guardianes de Chacarita

@@ -4,7 +4,7 @@ folder: 5_aventuras/poseidos
 description: Colección de objetos misteriosos, pistas y ganchos de aventura en
   Dársena y alrededores.
 tags:
-  - entidad/aventura
+  - entidad/relato
   - alcance/secreto
 spoilers:
   - "La agenda fue robada a un cultista de la Luz Silente: contiene fechas de envío de tecnología y coordenadas de puntos de encuentro en Dársena."
