@@ -1,8 +1,5 @@
 ---
 title: Relatos
-sidebar:
-  hidden: true
-  order: 1
 folder: 4_diegesis/relatos
 ---
 

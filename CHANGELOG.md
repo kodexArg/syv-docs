@@ -1,6 +1,16 @@
 # Changelog
 
 ## [Unreleased]
+- group: strip-framework-consolidate-cities
+  priority: high
+  commit: pending
+  changes:
+    - refactor(frontmatter): eliminar TODOS los campos Astro/Starlight (sidebar, order, hidden, slug) de 31 archivos — framework-agnóstico puro
+    - refactor(structure): fusionar 4 index.md de ciudades (dársena, mendoza, san-luis, fuerte-san-martin) — prosa intro → epígrafe en <ciudad>.md
+    - refactor(structure): renombrar index.md raíz → inicio.md — evitar patrón index.md de framework
+    - chore(tooling): nuevo _tools/strip_framework.py (ruamel-based, reusa patrón migrate_metadata.py)
+    - test(validation): verificación post-migración — 0 campos framework, 0 huérfanos de contenido real, 0 title: Index
+
 - group: finalize-metadata-migration
   priority: high
   commit: pending

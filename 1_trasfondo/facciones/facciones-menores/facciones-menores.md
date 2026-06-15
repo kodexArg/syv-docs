@@ -13,8 +13,6 @@ faccion:
     - Barrios del Muro
     - Tuberías
     - Otros
-sidebar:
-  hidden: true
 ---
 ## Descripción
 

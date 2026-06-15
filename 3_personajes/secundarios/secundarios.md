@@ -1,8 +1,5 @@
 ---
 title: Secundarios
-sidebar:
-  hidden: true
-  order: 1
 folder: 3_personajes/secundarios
 ---
 

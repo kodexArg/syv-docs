@@ -1,9 +1,6 @@
 ---
 title: Hitos
 description: Momentos clave de la historia, desde democracias del siglo XXI hasta Teocracia Militar 2178.
-sidebar:
-  hidden: true
-  order: 1
 folder: 1_trasfondo/hitos
 ---
 

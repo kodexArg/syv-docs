@@ -17,8 +17,6 @@ related:
 tags:
   - entidad/concepto
   - alcance/publico
-sidebar:
-  order: 999
 ---
 
 Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores.

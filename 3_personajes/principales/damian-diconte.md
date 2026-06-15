@@ -12,8 +12,6 @@ spoilers:
 tags:
   - entidad/personaje
   - alcance/secreto
-sidebar:
-  order: 10
 ---
 ## Damián DiConte, El Sabueso
 

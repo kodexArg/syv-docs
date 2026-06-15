@@ -28,8 +28,6 @@ related:
 tags:
   - entidad/concepto
   - alcance/publico
-sidebar:
-  order: 999
 ---
 
 # Sinopsis: Subordinación y Valor

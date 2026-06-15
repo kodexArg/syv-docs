@@ -16,6 +16,11 @@ ubicaciones:
 - "[[capital]]"
 
 ---
+
+> El nodo logístico entre la costa y los Andes. Ciudad de paso donde las caravanas terrestres intercambian mercancías prohibidas lejos de la vigilancia directa de Dársena.
+>
+> Aquí prospera el comercio en las sombras: contrabandistas que mueven componentes electrónicos antiguos, Arpistas que trafican libros del Viejo Mundo, agentes del Gremio de Comercio que negocian con facciones proscritas. San Luis es el espacio intermedio donde el control de la Confederación se diluye en pragmatismo.
+
 San Luis es la **Ciudad Tristeza** de la Confederación Argentina. Con 1 millón de habitantes, existe no por necesidad económica, sino por **necesidad militar estratégica**. Ubicada en el corazón de la meseta semiárida cuyana, San Luis controla el paso que conecta el océano Atlántico (Dársena, Córdoba, Mendoza, FSM) con el océano Pacífico (Chile salvaje, territorios ignoto). Su única función es **vigilancia y control**.
 
 Pero vigilancia y control requieren población. Requieren soldados, requieren administrativos, requieren trabajadores que mantengan la infraestructura. Requieren cuerpos. San Luis es **población forzada a vivir en región de hecho inhóspita**, condenada a una vida de 35 años promedio, donde enfermedades respiratorias, infecciones dérmicas y desnutrición crónica son normalidad tan inevitable como el amanecer.

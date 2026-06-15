@@ -3,9 +3,6 @@ title: Credos
 folder: 1_trasfondo/credos
 description: Sistemas de creencias, sincretismos religiosos, hegemónicos, tolerados, proscritos.
 tags: []
-sidebar:
-  hidden: true
-  order: 1
 related:
   - "[[anatema-mecanico]]"
 ---

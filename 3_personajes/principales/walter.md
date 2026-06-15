@@ -1,8 +1,7 @@
 ---
 title: Walter
 folder: 3_personajes/principales
-description: Joven nadador y nuevo puntero de las Tuberías, sucesor reacio de Paco,
-  que busca mantener a flote a su comunidad.
+description: Joven nadador y nuevo puntero de las Tuberías, sucesor reacio de Paco, que busca mantener a flote a su comunidad.
 nombre: Walter
 aliases:
   - Walter
@@ -19,8 +18,6 @@ spoilers:
 tags:
   - entidad/personaje
   - alcance/secreto
-sidebar:
-  order: 10
 ---
 ## Walter, El Heredero de las Tuberías
 

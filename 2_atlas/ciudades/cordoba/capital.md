@@ -3,20 +3,17 @@ title: Capital
 folder: 2_atlas/ciudades/cordoba
 description: República Autónoma de Córdoba
 aliases:
-- Capital
-- República Autónoma de Córdoba
-- Córdoba
+  - Capital
+  - República Autónoma de Córdoba
+  - Córdoba
 region: Córdoba
 tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - entidad/ubicacion
+  - alcance/publico
+  - estado/canon
 related:
-- "[[iglesia]]"
-- "[[fuerzas-armadas]]"
-sidebar:
-  order: 999
-
+  - "[[iglesia]]"
+  - "[[fuerzas-armadas]]"
 ---
 Córdoba es gigante continental. Su influencia industrial rivaliza con el poder naval de Ciudad Dársena. La megalópolis funciona como corazón productivo de la Confederación Argentina, pulsando con ritmo de turbinas y mandato militar.
 

@@ -25,6 +25,11 @@ ubicaciones:
 - "[[barrios-del-muro]]"
 - "[[tuberias]]"
 ---
+
+> La capital de facto de la Confederación. Cinco millones de almas comprimidas entre el muro de 20 metros y el Río de la Plata contaminado, bajo una niebla que nunca se disipa del todo.
+>
+> Aquí gobierna la alianza entre la Iglesia y la Armada: la Nueva Basílica de San Pedro reconstruida piedra por piedra desde Roma, el puerto que controla todo el comercio internacional, los barrios del muro donde la pobreza extrema respira humedad al 95%. Dársena es el corazón del poder y también el escenario de todas las contradicciones del mundo post-anatema.
+
 Ciudad Dársena es el centro de poder político, religioso y naval de la Confederación Argentina. Erigida sobre las ruinas de Buenos Aires y comprimida entre un muro de 20 metros de altura y el contaminado Río de la Plata, la ciudad es una fortaleza de hormigón y fe que alberga a cinco millones de almas. Bajo un cielo casi siempre cubierto por nubes y una llovizna eterna, la vida transcurre bajo el control dual del Comando Militar y la Iglesia, cumpliendo el mandato de la **Ley IV: Del Magisterio**, que la consagra como la "Capital inamovible de la Fe y el Conocimiento".
 
 ## Historia
