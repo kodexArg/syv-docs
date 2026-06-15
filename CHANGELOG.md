@@ -3,7 +3,7 @@
 ## [Unreleased]
 - group: deterministic-metadata-migration
   priority: high
-  commit: pending
+  commit: b2d4c05
   changes:
     - refactor(frontmatter): migración determinística de metadatos — eliminar ~24 tags legacy (trasfondo, atlas, geografia, religion, trasfondo/codex/*), normalizar folder en 14 index files, preservar campos Astro
     - refactor(relations): convertir anatema-mecanico tag → wikilink en related
