@@ -1,6 +1,13 @@
 # Changelog
 
 ## [Unreleased]
+- group: finalize-metadata-migration
+  priority: high
+  commit: pending
+  changes:
+    - chore(tooling): eliminar check_tags.py / remove_tags.py (scripts pre-taxonomía, reemplazados por _tools/migrate_metadata.py)
+    - docs(guias): actualizar guía-de-metadatos.md — documentar eliminación de scripts obsoletos y referencia al migrador determinístico
+
 - group: deterministic-metadata-migration
   priority: high
   commit: b2d4c05

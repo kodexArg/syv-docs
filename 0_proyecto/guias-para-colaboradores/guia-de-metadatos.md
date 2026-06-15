@@ -250,7 +250,7 @@ sidebar:
 - No se renombran `nombre`/`region`/`fecha`: el cambio es tags→taxonomía, relaciones→wikilinks, aliases.
 
 > [!note]
-> Los scripts `check_tags.py` / `remove_tags.py` validan la regla vieja de tags y quedan **obsoletos**; deben reescribirse para la taxonomía nueva antes de volver a usarse.
+> Los scripts `check_tags.py` / `remove_tags.py` (regla de tags pre-taxonomía) fueron eliminados y reemplazados por `_tools/migrate_metadata.py` — un migrador determinista basado en ruamel, con dry-run por defecto e `--apply` para escribir cambios.
 
 ---
 
