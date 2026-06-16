@@ -240,6 +240,17 @@ Durante la "Desconexión Total (2062-2110)", cada comunidad argentina se reinven
 
 ---
 
+
+### 2082-2120: La Cruzada y el Traslado de la Basílica
+
+En plena Edad Oscura, mientras Argentina se replegaba sobre sí misma, la Iglesia emprendió la empresa más temeraria de aquellos años. La Santa Sede ya operaba en Dársena desde su traslado institucional de 2054; lo que faltaba era la piedra. Por eso la Iglesia ordenó el traslado físico de las ruinas de la [[2_atlas/ciudades/darsena/basilica-de-san-pedro|Basílica de San Pedro]] desde el Vaticano y su posterior reconstrucción en la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]] de [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]. La obra ocupó el período comprendido entre los años 2082 y 2120. No fue comercio ni intercambio: en plena Desconexión Total, fue la única empresa transoceánica que Argentina sostuvo, una cruzada sagrada por encima de toda regla de aislamiento, costeada como acto de fe y no de mercado.
+
+Pasaron más de tres años moviendo los bloques, en los que vivió un destacamento de héroes argentinos, conocidos como [[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Los Cruzados Argentinos]], que tomaron Roma junto con las tribus ultracatólicas que se les unieron al oeste de Roma, con cabeza de playa en Fiumicino y control sobre toda la vía del tren, por donde pasaron ida y vuelta los bloques de piedra, movidos por combustible que volvía en cargueros desde Argentina.
+
+Para cuando la Basílica fue finalmente reconstruida, en el 2120, ya nadie recordaba ni de dónde venía ni qué era la Argentina.
+
+Comenzaban los años anárquicos, y faltaría mucho más para que la [[#2161-2178: La Confederación Argentina|Confederación Argentina]] naciera.
+
 ## 2161-2178: La Confederación Argentina
 
 Y así llegamos a la formación de la Confederación. En 2161, tres ciudades-estado —Córdoba, Fuerte San Martín y Ciudad Dársena—, agotadas de odiarse, decidieron unirse bajo el miedo común a la tecnología y la presión de migrantes que llegaban desde las fronteras. No fue un matrimonio por amor, sino por espanto. Al poco tiempo, Mendoza se sumó al pacto. Entre las cuatro, re-fundaron y recuperaron San Luis, ciudad que había quedado despoblada durante la Edad Oscura, convirtiéndola en la quinta columna de la Confederación.
