@@ -87,7 +87,7 @@ Ahora esa mano escribe sobre entidades sombrías y cuerpos que se contorsionan, 
 
 ---
 
-> *Tras ser desoída por mi orden, la Congregación de la Caridad Divina, cuya misión es extender la mano a los necesitados pero no inmiscuirse en sus asuntos, decidí emprender mi propia investigación.*
+> *Tras ser desoída por aquellos que aún rezan a la luz del día, hallé refugio entre Las Manos Calladas, red sin hábito ni sede que extiende la mano en lo oscuro, donde la caridad no se proclama sino que se esconde, y decidí emprender mi propia investigación.*
 >
 > *Desde entonces no he vuelto a ver el sol, y camino en secreto por las arterias de nuestra ciudad, allí donde no somos bienvenidas, en una misión para enfrentar y comprender este mal superior.*
 

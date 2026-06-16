@@ -123,7 +123,7 @@ Los **Arpistas** poseen un asiento permanente en la **Mesa de los 12**, consejo 
 - 1 representante de la **SIA** (Sagrada Inquisición Argentina)
 - 1 representante de los **Exorcistas**
 - 1 representante de los **Arpistas** (el Archivista Primado)
-- 1 representante de la **Congregación de la Caridad Divina**
+- 1 representante del **Dicasterio para el Desarrollo Humano Integral** (salud pública y caridad)
 - 1 representante del **Ejército Argentino**
 - 1 representante de la **Armada**
 - 2 asesores laicos rotativos (usualmente de la nobleza o el Gremio de Comercio)

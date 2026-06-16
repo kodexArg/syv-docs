@@ -14,7 +14,7 @@ tags:
 related:
   - "[[inquisicion]]"
   - "[[exorcistas]]"
-  - "[[congregacion-caridad-divina]]"
+  - "[[las-manos-calladas]]"
   - "[[fuerzas-armadas]]"
   - "[[gremio-de-comercio]]"
   - "[[sumo-pontifice]]"

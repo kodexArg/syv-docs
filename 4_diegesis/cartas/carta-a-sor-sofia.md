@@ -1,7 +1,7 @@
 ---
 title: Carta de Sor Catalina a Sor Sofía
 folder: 4_diegesis/cartas
-description: Carta confidencial de Sor Catalina, monja investigadora de la Congregación de la Caridad Divina, dirigida a Sor Sofía. Describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
+description: Carta confidencial de Sor Catalina, monja investigadora de la red clandestina de Las Manos Calladas, dirigida a Sor Sofía. Describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
 aliases:
   - Carta de Sor Catalina a Sor Sofía
   - Carta a Sor Sofía
@@ -14,7 +14,7 @@ related:
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
   - "[[4_diegesis/relatos/cursiva|Cursiva]]"
 facciones:
-  - "[[congregacion-caridad-divina]]"
+  - "[[las-manos-calladas]]"
   - "[[inquisicion]]"
 ubicaciones:
   - "[[darsena]]"
@@ -28,7 +28,7 @@ Desde los rincones más olvidados y sombríos de nuestra amada Dársena, allí d
 
 Fue entonces, hace ya cosa de dos meses o tres, que entre los ecos de estos pasillos, entre penumbras y susurros, comencé a percibir que ciertos rumores se repetían y daban cuenta de entidades sombrías que, alimentándose de la desesperanza y el miedo, esclavizaban a las almas más desprotegidas. Los afectados, según relatos cada vez más frecuentes, mostraban una agitación inusitada, hablaban en susurros, en lenguas desconocidas, y sus cuerpos se contorsionaban de maneras antinaturales. Se decía que algunos veían sombras donde no las había, mientras otros se retraían en un silencio sepulcral, solo para romperlo con gritos desgarradores sin causa aparente.
 
-Tras ser desoída por mi orden, la [[congregacion-caridad-divina|Congregación de la Caridad Divina]], cuya misión es extender la mano a los necesitados pero no inmiscuirse en sus asuntos, decidí emprender mi propia investigación. Comencé a recopilar testimonios y evidencias, determinada a descubrir la verdad detrás de los rumores que agitan nuestras calles.
+Tras ser desoída por aquellos que aún rezan a la luz del día, hallé refugio entre [[las-manos-calladas|Las Manos Calladas]], red sin hábito ni sede que extiende la mano en lo oscuro, donde la caridad no se proclama sino que se esconde, y decidí emprender mi propia investigación. Comencé a recopilar testimonios y evidencias, determinada a descubrir la verdad detrás de los rumores que agitan nuestras calles.
 
 Desde entonces no he vuelto a ver el sol, y camino en secreto por las arterias de nuestra ciudad, allí donde no somos bienvenidas, en una misión para enfrentar y comprender este mal superior. Un mal que, intuyo, trasciende nuestro plano físico y que, lamentablemente, he encontrado manifestándose de las formas más atroces. Los susurros me han traído al sur, al lugar más olvidado y peligroso de Dársena, donde la luz del día no se conoce y el sufrimiento de nuestros hermanos y hermanas se hace más palpable.
 
@@ -54,7 +54,7 @@ Este panorama dantesco se desarrolla ahora mismo, bajo nuestros pies. La miseria
 
 Con cada alma que trato de consolar en las profundidades de las Tuberías y cada espíritu que intento aliviar en los barrios del muro, mi compromiso se fortalece, sabiendo que el verdadero campo de batalla se encuentra en el corazón y el espíritu de aquellos a quienes nos hemos comprometido a servir y proteger.
 
-Sin embargo y muy tristemente, mi patética búsqueda ha sido en vano hasta ahora. Me pregunto, ¿cómo puedo, una humilde servidora de la Caridad Divina, enfrentarme a un mal que parece burlarse de nuestros esfuerzos? ¿Será que mi devoción y mis actos de compasión son insuficientes ante la magnitud de esta oscuridad? Me veo rodeada de preguntas sin respuesta y cada día más consciente de mis limitaciones.
+Sin embargo y muy tristemente, mi patética búsqueda ha sido en vano hasta ahora. Me pregunto, ¿cómo puedo, una humilde sierva de Dios y una de las manos calladas, enfrentarme a un mal que parece burlarse de nuestros esfuerzos? ¿Será que mi devoción y mis actos de compasión son insuficientes ante la magnitud de esta oscuridad? Me veo rodeada de preguntas sin respuesta y cada día más consciente de mis limitaciones.
 
 Por lo tanto, sin pruebas contundentes que ofrecer y plagada de dudas, recurro a ti, esperando que puedas aportar tu luz y tu fuerza a esta lucha. ¿Cómo podemos, juntas, hacer frente a esta sombra que se extiende sobre Dársena, devorando la esperanza y la fe de nuestros más vulnerables? Te ruego, hermana, que no nos dejes solos en esta batalla. Recordemos siempre que nuestra misión trasciende las armas y las palabras: reside en el amor y la compasión por todos los hijos de Dios, más aún en aquellos nacidos en la oscuridad. 
 

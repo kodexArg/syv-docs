@@ -10,11 +10,11 @@ aliases:
 tags:
   - entidad/personaje
   - alcance/secreto
-facciones:
-  - "[[congregacion-caridad-divina]]"
+facciones: '["[[las-manos-calladas]]"]'
 spoilers:
   - Colabora con una red clandestina de ayuda para los más necesitados.
-related: '["[[madre-superiora-maria]]", "[[sor-nikole]]"]'
+related: '["[[madre-superiora-maria]]", "[[sor-nikole]]",
+  "[[padre-alejandro-soria]]", "[[las-manos-calladas]]"]'
 ---
 ## Hermana Laura Castillo
 
@@ -48,13 +48,12 @@ Servir a los más necesitados y aliviar el sufrimiento donde lo encuentre. Cada 
 La Hermana Laura Castillo es conocida en los barrios bajos como una enfermera dedicada que trabaja incansablemente en las clínicas comunitarias, a menudo en condiciones difíciles.
 <!-- /📖 -->
 <!-- 🔐 (Conocimiento Especializado) -->
-Laura colabora con una red clandestina de ayuda que va más allá de los canales oficiales. Mantiene lazos estrechos con las [[congregacion-caridad-divina|Hermanas de la Caridad]] y coordina recursos para llegar a quienes las instituciones oficiales ignoran. Esta red opera en secreto para evitar interferencias burocráticas que retrasarían la ayuda.
+Laura colabora con una red clandestina de ayuda que va mucho más allá de los canales oficiales: [[las-manos-calladas|Las Manos Calladas]]. Coordina recursos para llegar a quienes las instituciones ignoran y opera en secreto para evitar interferencias que retrasarían la ayuda. Lo que la mantiene dentro no es ideología sino las personas: [[sor-nikole|Nikole]], [[padre-alejandro-soria|Alejandro]], y sobre todo la deuda silenciosa que siente con [[madre-superiora-maria|María]], quien le abrió las puertas de la red hace años sin pedirle nada a cambio.
 <!-- /🔐 -->
 ## Conexiones Importantes
 
 - **Curatores**: Su orden profesional
-- **[[congregacion-caridad-divina|Hermanas de la Caridad]]**: Su red de apoyo espiritual y logístico
-- **[[madre-superiora-maria|Hermana Superior María]]**: Su superior jerárquica en la congregación
-- **[[sor-nikole|Sor Nikole]]**: Compañera en el trabajo en las Tuberías
-- **Red Clandestina de Ayuda**: La organización secreta que la conecta con recursos
-- **Barrios Bajos**: La comunidad que sirve
+- **[[las-manos-calladas|Las Manos Calladas]]**: La red clandestina a la que pertenece; coordina recursos para quienes las instituciones oficiales ignoran
+- **[[madre-superiora-maria|Madre Superiora María]]**: Referente de la red; Laura la respeta pero la teme — siente que María opera con una frialdad que va más allá de la doctrina
+- **[[sor-nikole|Sor Nikole]]**: Compañera de trabajo en las Tuberías; su vínculo cotidiano hace de ellas la cara más visible de la red en los barrios bajos
+- **[[padre-alejandro-soria|Padre Alejandro Soria]]**: Compañero en el hospital eclesiástico; trabajan codo a codo y Laura es de las pocas que sabe que su vocación real va mucho más allá del hábito

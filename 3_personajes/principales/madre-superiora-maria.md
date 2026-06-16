@@ -1,12 +1,10 @@
 ---
 title: Madre Superiora María
 folder: 3_personajes/principales
-description: >-
-  Directora Espiritual de la Sagrada Inquisición Argentina y Superior nominal
-  de la Congregación de la Caridad Divina. Ascendió desde los barrios más
-  pobres de Dársena hasta la cúspide del Faro, cargando un trauma demoníaco
-  que nadie más conoce y un sistema de Iniciados que nadie más comprende del
-  todo.
+description: Directora Espiritual de la Sagrada Inquisición Argentina y alma
+  fundadora de Las Manos Calladas. Ascendió desde los barrios más pobres de
+  Dársena hasta la cúspide del Faro, cargando un trauma demoníaco que nadie más
+  conoce y un sistema de Iniciados que nadie más comprende del todo.
 nombre: Madre Superiora María
 aliases:
   - Madre Superiora María
@@ -17,13 +15,13 @@ aliases:
 facciones:
   - "[[inquisicion]]"
   - "[[iglesia]]"
-related:
-  - "[[sor-sofia]]"
-  - "[[congregacion-caridad-divina]]"
-  - "[[exorcistas]]"
+related: '["[[sor-sofia]]", "[[las-manos-calladas]]", "[[exorcistas]]",
+  "[[sor-nikole]]", "[[sor-catalina]]"]'
 spoilers:
-  - "Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'."
-  - "Su celo contra las posesiones nace de un encuentro demoníaco que le reveló su nombre verdadero."
+  - Contiene información sobre el sistema de Iniciados del Faro y sus
+    'consecuencias'.
+  - Su celo contra las posesiones nace de un encuentro demoníaco que le reveló
+    su nombre verdadero.
 tags:
   - entidad/personaje
   - alcance/secreto
@@ -33,7 +31,7 @@ tags:
 
 57 años, Torre del Faro (Isla Oriental) / origen: Barrios del Muro y Tuberías
 
-Directora Espiritual de la [[inquisicion|Sagrada Inquisición Argentina]] y Superior nominal de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]]
+Directora Espiritual de la [[inquisicion|Sagrada Inquisición Argentina]] y alma fundadora de [[las-manos-calladas|Las Manos Calladas]]
 
 ## Aspecto
 
@@ -52,7 +50,7 @@ María es la cabeza administrativa y espiritual de la [[inquisicion|Sagrada Inqu
 - Coordinación con el Comando Nacional de Dársena en asuntos de herejía y paranormalidad
 - Custodia del Archivo Secreto bajo la Nueva Basílica (en colaboración con el Obispo Eclesiástico)
 
-Mantiene también el título de Superior General de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]] — cargo que ejerce en forma nominal desde su confinamiento en el Faro. El Consejo de Madres gestiona las operaciones cotidianas en los Barrios del Muro y Las Tuberías, pero ninguna decisión mayor se toma sin su bendición.
+Mantiene también la conducción tácita de [[las-manos-calladas|Las Manos Calladas]] — la red clandestina que ella misma contribuyó a gestar, antes de que la orden de caridad oficial fuera disuelta. Nadie desde el Faro conecta ambas identidades: la Directora Espiritual que autoriza exorcismos y la mujer que hace décadas convenció a un puñado de hermanas de que era más honesto operar ocultas.
 
 Su palabra es final. Sus decisiones son inmutables.
 
@@ -75,20 +73,24 @@ María cree sinceramente que el Faro es el baluarte final contra la herejía y l
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-María pasó sus primeras décadas como hermana activa de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]], trabajando en Las Tuberías y los Barrios del Muro. Era reconocida oficialmente como Campeona de la Iglesia por su capacidad de liderazgo y su participación directa en casos de posesión — incluidos exorcismos que sus colegas no se atrevían a encarar. Su ascenso fue gradual, constante y merecido. Hace treinta y cinco años, durante una época de crisis paranormal aguda en Dársena, el entonces Obispo Arzobispo la eligió para dirigir la Sagrada Inquisición Argentina. Su genio organizacional transformó el Faro de una institución religiosa lánguida en un motor de seguridad espiritual y militar. El sistema de Iniciados que diseñó es legendario: tasa de 87% de éxito en identificar futuros inquisidores, monjas y custodios. Bajo su dirección, las herejías paranormales en Isla Oriental cayeron a casi cero.
+María pasó sus primeras décadas como hermana activa de la orden de caridad que entonces operaba en Las Tuberías y los Barrios del Muro. Era reconocida oficialmente como Campeona de la Iglesia por su capacidad de liderazgo y su participación directa en casos de posesión — incluidos exorcismos que sus colegas no se atrevían a encarar. Su ascenso fue gradual, constante y merecido. Hace treinta y cinco años, durante una época de crisis paranormal aguda en Dársena, el entonces Obispo Arzobispo la eligió para dirigir la Sagrada Inquisición Argentina. Su genio organizacional transformó el Faro de una institución religiosa lánguida en un motor de seguridad espiritual y militar. El sistema de Iniciados que diseñó es legendario: tasa de 87% de éxito en identificar futuros inquisidores, monjas y custodios. Bajo su dirección, las herejías paranormales en Isla Oriental cayeron a casi cero.
 
 Su confinamiento voluntario a 100 metros de toda tecnología es tanto deber religioso como estrategia personal: así nada puede interferir con su comunión directa con la voluntad divina. O así lo predica.
 <!-- /📖 -->
 
-<!-- 🔐 (Iglesia de Dársena / Congregación de la Caridad Divina) -->
-Hace años, cuando todavía patrullaba los túneles inundados como hermana activa, María tuvo un encuentro directo con una entidad demoníaca durante un exorcismo que salió terriblemente mal. Aunque sobrevivió, la experiencia la marcó de un modo que ninguna formación espiritual podía anticipar. El recuerdo de esos ojos que la miraron desde el rostro de una niña inocente la persigue en sus noches de insomnio.
+<!-- 🔐 (Iglesia de Dársena / Las Manos Calladas) -->
+Antes de llegar al Faro, María ya sabía que la orden de caridad oficial tenía los días contados. No porque hubiera fracasado — sino porque una institución con edificios, presupuestos y asiento en los consejos del poder deja de servir a los pobres y empieza a reclutarlos. Fue [[sor-catalina|Sor Catalina]] quien lo articuló primero con claridad; pero fue María quien lo llevó hasta sus consecuencias: trabajó durante años desde adentro, filtrando lo necesario a la [[inquisicion|SIA]], dejando que la orden se enredara en sus propias contradicciones, hasta que la Curia la disolvió. Para el mundo, una orden caída en desgracia. Para ella, una liberación calculada.
 
-Lo que pocos saben es que durante ese encuentro el demonio le susurró algo que no debería poder saber: su nombre verdadero. María teme que ese conocimiento la haya marcado de alguna forma, que exista un vínculo invisible entre ella y aquella entidad. Es por eso que su celo — en la Congregación, en la Inquisición, en el sistema de Iniciados — nunca cesa: busca destruir a ese demonio antes de que él regrese por ella.
+Lo que quedó de esa purga —un puñado de personas que se deben todo entre sí— es hoy [[las-manos-calladas|Las Manos Calladas]]. María las conduce sin mandar: su autoridad sobre la red no es un cargo sino el peso de haber sido quien vio el final primero y les mostró el camino. [[sor-nikole|Nikole]], [[hermana-laura-castillo|Laura]], [[padre-alejandro-soria|Alejandro]]: los reclutó o los heredó, pero todos la llaman por su nombre cuando hablan entre sí, y eso en la red equivale a todo.
 
-Fue ese episodio, y la forma en que lo resolvió — sola, sin refuerzos, con una frialdad que desconcertó a todos los testigos — lo que llamó la atención de la jerarquía eclesiástica y aceleró su nombramiento como Directora del Faro.
+Fue ese episodio de frialdad calculada —la disolución de la orden sin levantar sospechas— más el exorcismo que salió mal, lo que llamó la atención de la jerarquía eclesiástica y aceleró su nombramiento como Directora del Faro.
 <!-- /🔐 -->
 
 <!-- 🔐 (Sagrada Inquisición Argentina) -->
+Hace años, cuando todavía patrullaba los túneles inundados como hermana activa, María tuvo un encuentro directo con una entidad demoníaca durante un exorcismo que salió terriblemente mal. Aunque sobrevivió, la experiencia la marcó de un modo que ninguna formación espiritual podía anticipar. El recuerdo de esos ojos que la miraron desde el rostro de una niña inocente la persigue en sus noches de insomnio.
+
+Lo que pocos saben es que durante ese encuentro el demonio le susurró algo que no debería poder saber: su nombre verdadero. María teme que ese conocimiento la haya marcado de alguna forma, que exista un vínculo invisible entre ella y aquella entidad. Es por eso que su celo — en la Inquisición, en el sistema de Iniciados — nunca cesa: busca destruir a ese demonio antes de que él regrese por ella.
+
 El sistema de Iniciados del Faro no es lo que parece. Sí, forma custodios e inquisidores. Pero María lo diseñó deliberadamente como filtro selectivo. Las iniciadas que muestran "problemas de aptitud" — duda teológica, empatía excesiva, rechazo a la obediencia — no se "derivan" a otras órdenes como se reporta oficialmente.
 
 Desaparecen.
@@ -109,7 +111,9 @@ Nadie más lo sabe. Si lo saben, serían un problema que María resolvería del 
 - **Obispo Arzobispo de Dársena**: Superior jerárquico nominal (relación frágil, basada en mutua ignorancia deliberada)
 - **Comando Nacional de Dársena**: Colaborador en operaciones de seguridad y contención paranormal
 - **Hermanas de Batalla ([[sor-sofia|Sor Sofía]])**: Ejecutora de órdenes que otros no pueden cumplir
-- **[[congregacion-caridad-divina|Congregación de la Caridad Divina]]**: Orden que dirige en forma nominal; el Consejo de Madres opera en su nombre en los Barrios del Muro y Las Tuberías
+- **[[las-manos-calladas|Las Manos Calladas]]**: La red clandestina que ella contribuyó a gestar; la conduce sin mandar, por peso moral y deuda acumulada
+- **[[sor-nikole|Sor Nikole]]**: La reclutó personalmente — vio en ella la rebeldía que ella tuvo a los veinte años; le tiene un afecto que no admite en voz alta
+- **[[sor-catalina|Sor Catalina]]**: Quien le dio la claridad intelectual para tomar la decisión de disolver la orden; una deuda que María no olvida
 - **[[exorcistas|Exorcistas]]**: Orden aliada con tensiones jurisdiccionales; reconocen su autoridad y su historial de campo
 - **Iniciadas del Sistema del Faro**: Materia prima de su visión de perfección teológica
 - **El Archivo Secreto**: Custodio de secretos más antiguos que su propio reinado

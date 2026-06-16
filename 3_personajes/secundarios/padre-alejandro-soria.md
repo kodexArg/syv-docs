@@ -15,7 +15,7 @@ facciones:
 spoilers:
   - Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la
     medicina.
-related: '["[[congregacion-caridad-divina]]", "[[hermana-laura-castillo]]"]'
+related: '["[[hermana-laura-castillo]]", "[[sor-catalina]]", "[[las-manos-calladas]]"]'
 ---
 ## Padre Alejandro Soria, el sanador
 
@@ -58,6 +58,7 @@ En realidad, Alejandro no cree en Dios. Su única y verdadera vocación es la me
 ## Conexiones Importantes
 
 - **Hospital Eclesiástico**: Su lugar de trabajo y propósito
-- **[[congregacion-caridad-divina|Congregación de la Caridad Divina]]**: La orden que gestiona el hospital donde ejerce; su paraguas institucional aunque su fe sea nula
-- **[[hermana-laura-castillo|Hermana Laura Castillo]]**: Compañera enfermera; trabajan codo a codo en las clínicas y ella es de las pocas que conoce su vocación real más allá del hábito
+- **[[las-manos-calladas|Las Manos Calladas]]**: La red a la que pertenece sin haber elegido una doctrina — entró por [[sor-catalina|Sor Catalina]], que le deriva pacientes que el circuito oficial rechazaría; quedó por la deuda y el afecto
+- **[[hermana-laura-castillo|Hermana Laura Castillo]]**: Compañera en las clínicas; trabajan codo a codo y ella es de las pocas que conoce su vocación real más allá del hábito
+- **[[sor-catalina|Sor Catalina]]**: Le abre la puerta a los casos imposibles; una relación de confianza construida caso por caso, sin palabras de más
 - **[[curatores|Curatores]]**: Facción a la que pertenece por su rol médico

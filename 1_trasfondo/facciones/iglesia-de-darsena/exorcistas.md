@@ -1,8 +1,7 @@
 ---
 title: Exorcistas
 folder: 1_trasfondo/facciones/iglesia-de-darsena
-description: Rama especializada, combate posesiones demoníacas, rituales
-  teológico-científicos.
+description: Rama especializada, combate posesiones demoníacas, rituales teológico-científicos.
 aliases:
   - Exorcistas
 tags:
@@ -11,19 +10,22 @@ tags:
   - estado/canon
 facciones:
   - "[[iglesia]]"
-related: '["[[inquisicion]]", "[[congregacion-caridad-divina]]",
-  "[[resistencia-subterranea]]", "[[padre-rafa]]", "[[madre-superiora-maria]]",
-  "[[monseñor-miguel]]", "[[paco-el-puntero]]"]'
+related:
+  - "[[inquisicion]]"
+  - "[[las-manos-calladas]]"
+  - "[[resistencia-subterranea]]"
+  - "[[padre-rafa]]"
+  - "[[madre-superiora-maria]]"
+  - "[[monseñor-miguel]]"
+  - "[[paco-el-puntero]]"
 ubicaciones:
   - "[[darsena]]"
   - "[[tuberias]]"
   - "[[barrios-del-muro]]"
 spoilers:
-  - Algunos demonios pueden ser aliados en ciertas circunstancias (negociación).
-  - Existen tratados en el Archivo Secreto sobre cómo contactar entidades
-    específicas.
-  - Algunos casos de posesión no son causados por demonios cristianos sino por
-    entidades pre-cristianas.
+  - "Algunos demonios pueden ser aliados en ciertas circunstancias (negociación)."
+  - "Existen tratados en el Archivo Secreto sobre cómo contactar entidades específicas."
+  - "Algunos casos de posesión no son causados por demonios cristianos sino por entidades pre-cristianas."
 ---
 Rama especializada de la [[iglesia|Iglesia de Dársena]] dedicada al combate de posesiones demoníacas y fenómenos sobrenaturales. A diferencia de la [[inquisicion|Sagrada Inquisición Argentina]] (que persigue herejía tecnológica), los Exorcistas se dedican a conflictos contra entidades no-humanas.
 
@@ -148,7 +150,7 @@ Los Exorcistas están investigando actualmente:
 ## Personajes Clave
 
 - "Padre Rafa": Exorcista veterano, investigador de posesiones en Túberías, contacto con Pueblo del Pantano
-- [[madre-superiora-maria|Madre Superiora María]]: Directora del Faro y Superior nominal de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]] (orden relacionada, enfocada en marginales); sus años de campo como Campeona de la Iglesia la hacen interlocutora respetada
+- [[madre-superiora-maria|Madre Superiora María]]: Antigua Superiora de la disuelta orden de caridad y hoy alma de [[las-manos-calladas|Las Manos Calladas]], la red clandestina que la sucedió en la sombra; sus años de campo como Campeona de la Iglesia la hacen interlocutora respetada
 - "Exorcista Mayor [Nombre no especificado]": Liderazgo de la orden (personaje PNJ disponible)
 
 ## Doctrina

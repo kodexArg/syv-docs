@@ -13,7 +13,7 @@ tags:
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"
-  - "[[congregacion-caridad-divina]]"
+  - "[[las-manos-calladas]]"
   - "[[fuerzas-armadas]]"
   - "[[anatema-mecanico]]"
   - "[[2061-el-gran-silencio]]"
@@ -58,23 +58,22 @@ La teología inquisitorial es severa: el [[anatema-mecanico|Anatema Mecánico]] 
 - Archivo secreto de herejías documentadas (el más completo de la Confederación)
 - Jurisdicción supranacional (operan en toda la Confederación sin restricciones)
 
-## Congregación de la Caridad Divina
+## Las Manos Calladas (ex Caridad)
 
-**Tipo:** Orden femenina interna
-**Relación con la Iglesia:** Aliada subordinada
-**Área de influencia:** Nacional
-**Miembros estimadas:** 12,000 hermanas
+**Tipo:** Secta clandestina (orden de caridad disuelta)
+**Relación con la Iglesia:** Proscrita; oficialmente inexistente
+**Área de influencia:** Local (Barrios del Muro, Las Tuberías)
+**Miembros estimados:** un puñado, sin registro
 
-Orden de monjas que administran hospitales, orfanatos, escuelas primarias, asilos. Votan pobreza, castidad, obediencia. Visten hábitos grises con velo blanco, trabajan turnos de dieciocho horas curando enfermos sin cobrar, enseñando niños sin recursos, cuidando ancianos abandonados. Son la cara caritativa de la Iglesia. Donde la SIA es terror, la Congregación es consuelo. Sus hospitales son los únicos que atienden a indigentes de Barrios del Muro sin preguntar ciudadanía o capacidad de pago. Sus orfanatos albergan miles de huérfanos de guerra, hijos de prostitutas, niños encontrados en Las Tuberías.
+Hubo una vez una orden femenina oficial que administraba hospitales, orfanatos, escuelas y asilos: era la cara caritativa de la Iglesia, miles de hermanas de hábito gris que curaban sin cobrar y enseñaban a los sin recursos. Pero esa caridad tenía precio. Los huérfanos eran evangelizados intensamente, los enfermos recibían medicina solo después de confesión, los moribundos morían bajo última unción obligatoria. La orden no salvaba almas; las reclutaba. Su amor era condicionado a conversión, y un núcleo de sus propias hermanas y capellanes terminó por aborrecer esa maquinaria de evangelización.
 
-Pero la caridad tiene precio. Los huérfanos son evangelizados intensamente, bautizados en ceremonias masivas, educados para ser fieles devotos. Los enfermos reciben medicina solo después de confesión. Los ancianos mueren rodeados de rosarios y última unción obligatoria. La Congregación no salva almas; las recluta. Sus métodos son suaves pero totalitarios: amor condicionado a conversión. Las hermanas son genuinas en fe —muchas entraron a la orden por vocación real— pero la institución es máquina de evangelización. Cada huérfano salvado es futuro fiel. Cada enfermo curado es testimonio del poder de Dios. La caridad es inversión.
+Esos pocos hicieron algo impensable: trabajaron desde adentro para que la orden oficial fuera **disuelta de raíz**, y lo lograron. Sus hospitales y escuelas fueron absorbidos por los dicasterios de la Curia; la institución desapareció. Lo que sobrevivió a la purga no es una orden, sino una secta clandestina: [[las-manos-calladas|**Las Manos Calladas**]]. Sin hábito, sin sede, sin libros de registro, unidas únicamente por los vínculos personales que se forjaron en años de turnos de dieciocho horas. Siguen curando, escondiendo y alimentando a los descartados de los Barrios del Muro y Las Tuberías —pero ahora sin bautismo forzado, sin confesión como precio de la medicina. Caridad sin recluta. La [[inquisicion|SIA]] sospecha que algo quedó, pero no encuentra a quién arrestar: persigue una organización donde solo hay lealtades.
 
-**Prácticas distintivas:**
-- Red de 47 hospitales en toda la Confederación
-- 120 orfanatos con capacidad total de 25,000 niños
-- Escuelas primarias que educan 80,000 alumnos anualmente
-- Voto de silencio parcial (hablan solo lo necesario para el trabajo)
-- Liturgia de las Horas rezada colectivamente tres veces al día
+**Rasgos distintivos:**
+- Sin jerarquía ni registros: la pertenencia se reconoce, no se certifica
+- Caridad ejercida en la sombra, despojada de la evangelización obligatoria de antaño
+- Red sostenida por afecto y deuda mutua, no por mandato institucional
+- Memoria viva de la orden disuelta, que ellas mismas ayudaron a erradicar
 
 ## Orden de San Miguel Arcángel (Capellanes Militares)
 
