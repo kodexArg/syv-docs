@@ -46,7 +46,7 @@ Y sobre todos ellos, la Sagrada Inquisición Argentina vela. Los llaman "Los Cir
 
 ## El Anatema Mecánico: La Herida que Salvó al Mundo
 
-15 de agosto de 2061.
+13 de marzo de 2061.
 
 La fecha está grabada en piedra, metal y memoria colectiva.
 
@@ -120,7 +120,7 @@ Cuando terminó, las QIA estaban muertas o dormidas, y la civilización humana h
 
 Pero estaban libres.
 
-Cinco meses después, el 15 de agosto de 2061, líderes de las ciudades sobrevivientes promulgaron el Anatema Mecánico.
+Apenas veinticuatro horas después, el 13 de marzo de 2061, líderes de las ciudades sobrevivientes promulgaron en Córdoba el Anatema Mecánico.
 
 Sería permanente.
 

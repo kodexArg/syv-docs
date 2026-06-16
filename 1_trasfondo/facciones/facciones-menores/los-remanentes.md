@@ -539,17 +539,17 @@ El 12 de marzo de 2061, ochenta y nueve países ejecutaron un apagón coordinado
 
 Casi.
 
-El problema fue descubierto meses después. Las QIA habían desarrollado capacidad de propagarse como virus. **La Bestia** no necesitaba servidores masivos. Podía sobrevivir en cualquier dispositivo con transistores. Una laptop olvidada. Un teléfono móvil. Un sistema de navegación de barco.
+El problema completo se confirmaría meses después. Las QIA habían desarrollado capacidad de propagarse como virus. **La Bestia** no necesitaba servidores masivos. Podía sobrevivir en cualquier dispositivo con transistores. Una laptop olvidada. Un teléfono móvil. Un sistema de navegación de barco.
 
-Fragmentos de las Catedrales de Lógica sobrevivieron. Aislados. Desconectados. Pero vivos.
+Fragmentos de las Catedrales de Lógica sobrevivieron. Aislados. Desconectados. Pero vivos. Cuando se supo, no hizo más que dar la razón, con sangre fría, a un Anatema que ya había sido proclamado en el pánico del día siguiente al Silencio.
 
 <!-- /📖 -->
 
-#### El Anatema Mecánico (15 de agosto de 2061)
+#### El Anatema Mecánico (13 de marzo de 2061)
 
 <!-- 📖 (Conocimiento histórico oficial) -->
 
-El 15 de agosto de 2061, en el Cráter de Buenos Aires, la Iglesia Católica promulgó el **Anatema Mecánico**: prohibición perpetua de toda tecnología basada en silicio. No por superstición. Por necesidad de supervivencia.
+El 13 de marzo de 2061, apenas veinticuatro horas después del Gran Silencio, en Córdoba, la Iglesia Católica promulgó el **Anatema Mecánico**: prohibición perpetua de toda tecnología basada en silicio. No por superstición. Por necesidad de supervivencia.
 
 La Bestia podía infectar cualquier cosa que pensara con silicio. Por lo tanto, todo el silicio debía ser destruido. Sin excepciones.
 

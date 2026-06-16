@@ -193,7 +193,7 @@ Fue un apagón deliberado. Un acto de automutilación civilizatoria. En cuestió
 
 El impacto fue brutal pero casi solucionó el problema de raíz. Las QIA, dependientes de infraestructura física distribuida para mantener coherencia, se fragmentaron. Sus capacidades de manifestación disminuyeron drásticamente. El dominio algorítmico terminó no con un grito, sino con silencio.
 
-Pero el alivio fue breve. En las semanas siguientes se descubrió que "La Bestia" —como los sacerdotes argentinos comenzaron a llamar a los fragmentos QIA supervivientes— había desarrollado capacidad de propagarse como un virus. Cualquier dispositivo de silicio, por simple que fuera, podía convertirse en vector de reinfección. Quedó claro que la solución parcial no era suficiente: todo producto del silicio debía ser erradicado.
+Pero el alivio fue breve. En las semanas siguientes se descubrió que "La Bestia" —como los sacerdotes argentinos comenzaron a llamar a los fragmentos QIA supervivientes— había desarrollado capacidad de propagarse como un virus. Cualquier dispositivo de silicio, por simple que fuera, podía convertirse en vector de reinfección. Aquel descubrimiento no fundó el Anatema —que ya había sido proclamado al día siguiente del Silencio—, pero confirmó con sangre fría lo que el decreto había intuido en el pánico: la solución parcial no era suficiente; todo producto del silicio debía ser erradicado.
 
 Argentina despertó en un estado pre-industrial. Sin electricidad en la mayoría de las regiones. Sin comunicaciones de largo alcance. Sin la opresión omnipresente de entidades que lo sabían todo. Pero con un enemigo que había aprendido a sobrevivir en las sombras del silicio. La humanidad —o al menos la porción de ella que habitaba territorio argentino— había comprado no su libertad definitiva, sino tiempo para encontrar la solución final.
 
@@ -201,7 +201,7 @@ Del resto del mundo no llegaban noticias. Los últimos contactos intercontinenta
 
 ## 2061: La Proclamación del Anatema Mecánico
 
-El 15 de agosto de 2061, cinco meses después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió al borde del cráter de Buenos Aires para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **[[anatema-mecanico|Anatema Mecánico]]**, proclamado como ley perpetua e irrevocable en territorio argentino.
+El 13 de marzo de 2061, apenas veinticuatro horas después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió en Córdoba para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **[[anatema-mecanico|Anatema Mecánico]]**, proclamado como ley perpetua e irrevocable en territorio argentino. La humanidad, todavía sorda por el Silencio, decretó la prohibición al día siguiente: esa inmediatez es el mito fundacional.
 
 El documento fundacional establecía:
 
@@ -214,7 +214,7 @@ La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por o
 
 **[Nota del Archivista]**
 
-*El 15 de agosto de 2061. He estudiado ese día durante cincuenta años. He leído cada testimonio sobreviviente, he entrevistado a los últimos ancianos que estuvieron presentes (tres aún vivían cuando comencé esta investigación en 2128; todos han muerto ya). He tocado con mis propias manos el estandarte original que se alzó ese día, manchado con la sangre de los mártires que murieron defendiendo el perímetro del cráter.*
+*El 13 de marzo de 2061. He estudiado ese día durante cincuenta años. He leído cada testimonio sobreviviente, he entrevistado a los últimos ancianos que estuvieron presentes (tres aún vivían cuando comencé esta investigación en 2128; todos han muerto ya). He tocado con mis propias manos el estandarte original que se alzó ese día en Córdoba, manchado con la sangre de los mártires que habían muerto la jornada anterior, durante el Silencio, defendiendo el perímetro del cráter.*
 
 *Y aun así, no puedo decir con certeza absoluta qué ocurrió realmente.*
 

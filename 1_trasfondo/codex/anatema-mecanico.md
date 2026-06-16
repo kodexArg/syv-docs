@@ -150,7 +150,7 @@ La Confederación Argentina lideraba esta convergencia, convirtiéndose en el ba
 
 ### En la Confederación Argentina
 
-La Ley 0: Del Anatema Mecánico y la Pureza de la Mente (Constitución de 2161) articula:
+La Ley 0: Del Anatema Mecánico y la Pureza de la Mente (Constitución de 2061) articula:
 
 > "La mente del hombre es el templo de Dios; la mente de la máquina es la guarida del Adversario."
 
