@@ -25,13 +25,13 @@ ubicaciones:
 
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Neutral-ignorada (mientras sean discretos)
-**Área de influencia:** Local (Barrios del Muro, Tuberías)
-**Seguidores estimados:** 2,000
+**Área de influencia:** Intramuros local (Barrios del Muro, Tuberías) / Extramuros disperso (pantanos del Riachuelo, norte argentino, Amazonía)
+**Seguidores estimados:** Intramuros (Ciudad Dársena), unos pocos cientos / Extramuros (más allá del Muro), incalculable
 **Facción asociada:** Shipibo-Conibo (comunidad étnica minoritaria)
 
 ## Pueblo del Río Perdido
 
-Los Shipibo-Conibo son pueblo amazónico expatriado después de que los incendios del norte arrasaran su territorio ancestral post-2047. Durante la Gran Guerra Global, la cuenca amazónica ardió durante tres años. Napalm, bombas incendiarias, fuego descontrolado que consumió el pulmón del mundo. Para cuando terminó en 2047, el 70% de la selva era ceniza. Los pueblos indígenas que sobrevivieron migraron sur, buscando tierras donde el fuego no llegara. Dos mil Shipibo-Conibo llegaron a Dársena entre 2065 y 2080, refugiados sin territorio, trayendo consigo cosmovisión chamánica que la Iglesia no entiende y por eso teme.
+Los Shipibo-Conibo son pueblo amazónico expatriado después de que los incendios del norte arrasaran su territorio ancestral post-2047. Durante la Gran Guerra Global, la cuenca amazónica ardió durante tres años. Napalm, bombas incendiarias, fuego descontrolado que consumió el pulmón del mundo. Para cuando terminó en 2047, el 70% de la selva era ceniza. Los pueblos indígenas que sobrevivieron migraron sur, buscando tierras donde el fuego no llegara. De aquella diáspora, solo unos pocos cientos cruzaron los muros de Ciudad Dársena entre 2065 y 2080 —refugiados sin territorio que trajeron consigo una cosmovisión chamánica que la Iglesia no entiende y por eso teme—. La inmensa mayoría nunca entró: se dispersó por los pantanos del Riachuelo, por el norte argentino sin ley y por las cenizas de la Amazonía, en comunidades que ningún censo confederado alcanzó jamás. Por eso conviene no confundir las cifras: intramuros son un puñado; extramuros, su número es sencillamente incalculable.
 
 Su cosmología es compleja: el universo tiene tres niveles (cielo, tierra, subsuelo), poblado por espíritus que se comunican mediante patrones geométricos llamados kené. Estos patrones —vistos en visiones inducidas por plantas sagradas— son mapa del universo espiritual. Los Shipibo los bordaban en telas, los pintaban en cerámica, los tatuaban en piel. Aquí, en Dársena, los pintan en paredes de sótanos con pinturas bioluminiscentes, transformando espacios clandestinos en templos geométricos que brillan en la oscuridad.
 
@@ -63,10 +63,17 @@ Sus hijos nacidos en Dársena son generación liminal. Hablan español rioplaten
 
 ## Geografía de la Fe
 
-- **Barrios del Muro:** 1,200 miembros (comunidad principal)
-- **Tuberías:** 500 miembros (trabajadores subterráneos)
-- **Microcentro:** 200 miembros (servicio doméstico, invisibles)
-- **Litoral:** 100 miembros (intentaron retornar al norte, se establecieron en zonas rurales)
+### Intramuros (Ciudad Dársena) — unos pocos cientos, censables
+
+- **Tuberías:** ~300 miembros (comunidad principal, trabajadores subterráneos y chamanes del reino fungi)
+- **Barrios del Muro:** ~100 miembros (sótanos ceremoniales, "nuevas malocas")
+- **Microcentro:** ~50 miembros (servicio doméstico, invisibles)
+
+### Extramuros (más allá del Muro) — incalculable
+
+- **Pantanos del Riachuelo:** comunidades dispersas que cultivan las lianas en humedales que el Estado no patrulla; nadie las contó nunca.
+- **Norte argentino y Litoral sin ley:** grupos que intentaron retornar hacia la antigua selva y quedaron varados en zonas rurales ingobernadas.
+- **Amazonía de cenizas:** lo que queda del pueblo en su tierra madre arrasada; cifra desconocida, probablemente la mayor de todas.
 
 ## Relación con Otros Credos
 

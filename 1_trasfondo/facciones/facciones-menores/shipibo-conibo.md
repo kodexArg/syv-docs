@@ -35,7 +35,7 @@ No son guerreros. No son místicos iluminados. Son, en esencia, los jardineros y
 **Alias**: Los Cazadores de Pesadillas, Los Hongeros, Los de Pelo Largo
 **Tipo**: Comunidad chamánica proscrita
 **Alcance Geográfico**: Las Tuberías de Ciudad Dársena (principalmente sectores sur y este)
-**Población Estimada**: Entre 300 y 500 individuos
+**Población Estimada**: Intramuros (Ciudad Dársena), entre 300 y 500 individuos / Extramuros (más allá del Muro), incalculable
 **Complejidad**: Simple
 
 ## El Pueblo del Hongo
@@ -43,6 +43,8 @@ No son guerreros. No son místicos iluminados. Son, en esencia, los jardineros y
 Si se les comparara con algo de la historia pre-Colapso, serían una versión sudamericana y aborigen de los Rastafaris de Jamaica: una comunidad marginal que encontró en las sustancias psicoactivas no solo un sacramento, sino un modo de vida completo. Pero donde los rastas tenían la marihuana y Jah, los Shipibo-Conibo tienen los hongos y la selva que ya no existe.
 
 Llegaron a las Tuberías en oleadas entre 2025 y 2045, refugiados amazónicos que huyeron del colapso ecológico que devoró la cuenca amazónica. Trajeron consigo saberes ancestrales sobre hongos medicinales y psicoactivos, y descubrieron que las condiciones de las Tuberías —oscuridad, humedad, temperaturas estables— eran perfectas para cultivar variedades que en la superficie habrían sido imposibles de mantener.
+
+Conviene precisar las cifras, porque se prestan a confusión. Dentro de Ciudad Dársena —intramuros, en los niveles de las Tuberías— los Shipibo-Conibo son apenas un puñado: entre trescientos y quinientos jardineros del reino fungi, una curiosidad demográfica que la Iglesia ignora por irrelevante. Pero esa cuenta termina en el Muro. Más allá, en los pantanos del Riachuelo, en el norte argentino que ningún gobierno controla y en las cenizas de la Amazonía de donde vinieron, la población es sencillamente incalculable: comunidades dispersas que nadie censó nunca, que migran con las lianas y las aguas, y que ningún registro confederado alcanza. Los pocos de adentro son la punta visible de un pueblo cuyo verdadero tamaño se pierde fuera de la vista del Estado.
 
 ### Apariencia y Costumbres
 
