@@ -1,16 +1,17 @@
 ---
 title: Natalia Campos, Reportera
 folder: 3_personajes/secundarios
-description: Reportera novata de un periódico local, que busca la verdad detrás de
-  los rumores a pesar de su inexperiencia.
+description: Reportera novata de un periódico local, que busca la verdad detrás
+  de los rumores a pesar de su inexperiencia.
 nombre: Natalia Campos
 aliases:
   - Natalia Campos
 tags:
   - entidad/personaje
-facciones: []
+facciones: "[]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+related: '["[[sofia-rios]]", "[[resistencia-subterranea]]"]'
 ---
 ## Natalia Campos, Reportera
 
@@ -47,3 +48,5 @@ Natalia es una reportera relativamente nueva en el periódico local. Muchos la c
 ## Conexiones Importantes
 
 - **Periódico local**: Su lugar de trabajo
+- **[[sofia-rios|Sofía Ríos]]**: Inspectora que investiga las mismas desapariciones que Natalia sigue; sus caminos se cruzan sin que ninguna lo planee
+- **[[resistencia-subterranea|Resistencia Subterránea]]**: La organización cuyas verdades Natalia persigue sin saber aún que existen

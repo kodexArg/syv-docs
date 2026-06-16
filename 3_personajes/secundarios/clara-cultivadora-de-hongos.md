@@ -1,8 +1,8 @@
 ---
 title: Clara, Cultivadora de Hongos
 folder: 3_personajes/secundarios
-description: Especialista en el cultivo de hongos raros en las Tuberías, poseedora
-  de conocimientos únicos sobre el ecosistema subterráneo.
+description: Especialista en el cultivo de hongos raros en las Tuberías,
+  poseedora de conocimientos únicos sobre el ecosistema subterráneo.
 nombre: Clara
 aliases:
   - Clara
@@ -14,7 +14,8 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
-  - "Guarda el secreto de un pasadizo a una laguna subterránea oculta."
+  - Guarda el secreto de un pasadizo a una laguna subterránea oculta.
+related: '["[[marta-la-curandera]]", "[[marcos-el-verdulero]]"]'
 ---
 ## Clara, la Cultivadora de Hongos
 
@@ -56,4 +57,6 @@ Clara conoce un pasadizo secreto que lleva a una laguna subterránea natural, un
 
 - **El Ecosistema Subterráneo**: Su vida y pasión
 - **La Laguna Oculta**: Su secreto más preciado
+- **[[marta-la-curandera|Marta la Curandera]]**: Clienta que usa hongos medicinales en sus preparados
+- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Intercambio de conocimientos hortícolas en las Tuberías
 - **Clientes Selectos**: Quienes han ganado su confianza

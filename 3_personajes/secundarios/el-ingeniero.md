@@ -1,8 +1,8 @@
 ---
 title: El Ingeniero
 folder: 3_personajes/secundarios
-description: Maestro autoproclamado de las máquinas en las Tuberías, cuya reputación
-  supera sus capacidades reales.
+description: Maestro autoproclamado de las máquinas en las Tuberías, cuya
+  reputación supera sus capacidades reales.
 nombre: El Ingeniero
 aliases:
   - El Ingeniero
@@ -13,7 +13,9 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
-  - "No es realmente un ingeniero: es un autodidacta susceptible al pensamiento mágico."
+  - "No es realmente un ingeniero: es un autodidacta susceptible al pensamiento
+    mágico."
+related: '["[[el-negro-ramos]]", "[[marcos-el-verdulero]]"]'
 ---
 ## El "Ingeniero"
 
@@ -54,5 +56,7 @@ La verdad es que de ingeniero no tiene absolutamente nada. Es un autodidacta emp
 ## Conexiones Importantes
 
 - **Clientes de las Tuberías**: Quienes creen en su leyenda
+- **[[el-negro-ramos|El Negro Ramos]]**: Lo contrata para reparaciones cuando necesita equipos operativos
+- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Le arregla equipos de almacenamiento y distribución
 - **Sus "Creaciones"**: Mezcla de habilidad real y pensamiento mágico
 - **Su Reputación Falsa**: Lo único que lo protege

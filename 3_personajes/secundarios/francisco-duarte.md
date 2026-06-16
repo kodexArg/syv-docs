@@ -1,8 +1,8 @@
 ---
 title: Francisco Duarte, Operario en Torres Hidropónicas
 folder: 3_personajes/secundarios
-description: Joven operario de las Torres Hidropónicas que secretamente redistribuye
-  alimentos a las Tuberías.
+description: Joven operario de las Torres Hidropónicas que secretamente
+  redistribuye alimentos a las Tuberías.
 nombre: Francisco Duarte
 aliases:
   - Francisco Duarte
@@ -14,7 +14,8 @@ facciones:
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
-  - "Roba alimentos sistemáticamente para distribuirlos en Las Tuberías."
+  - Roba alimentos sistemáticamente para distribuirlos en Las Tuberías.
+related: '["[[marcos-duarte]]"]'
 ---
 ## Francisco Duarte, el Operario
 
@@ -52,7 +53,8 @@ Francisco utiliza su posición para robar alimentos sistemáticamente y distribu
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 
-- **Resistencia Subterránea**: La red que usa sus robos
+- **[[resistencia-subterranea|Resistencia Subterránea]]**: La red que usa sus robos
+- **[[marcos-duarte|Marcos Duarte]]**: Homónimo también ligado a la resistencia; posible vínculo familiar o de barrio
 - **Torres Hidropónicas**: Su acceso al recurso vital
 - **Habitantes de las Tuberías**: Beneficiarios de su redistribución
 - **Riesgo de Captura**: Su credulidad es una amenaza constante

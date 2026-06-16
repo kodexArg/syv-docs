@@ -1,8 +1,8 @@
 ---
 title: Hermano Diego Sánchez, Monaguillo
 folder: 3_personajes/secundarios
-description: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza
-  ocultan una búsqueda personal de fe verdadera.
+description: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y
+  belleza ocultan una búsqueda personal de fe verdadera.
 nombre: Diego Sánchez
 aliases:
   - Hermano Diego Sánchez
@@ -10,12 +10,12 @@ aliases:
 tags:
   - entidad/personaje
   - alcance/secreto
-facciones:
-  - "[[iglesia]]"
+facciones: '["[[iglesia]]", "[[alto-clero]]"]'
 ubicaciones:
   - "[[darsena]]"
 spoilers:
-  - "Busca en secreto una fe más allá de la doctrina oficial."
+  - Busca en secreto una fe más allá de la doctrina oficial.
+related: '["[[monsenor-luis-valverde]]"]'
 ---
 ## Hermano Diego Sánchez
 
@@ -55,4 +55,5 @@ Detrás de su apariencia superficial, Diego tiene una vida espiritual compleja. 
 
 - **Basílica de San Pedro**: Su hogar y lugar de servicio
 - **[[alto-clero|Alto Clero]]**: La jerarquía que sirve
+- **[[monsenor-luis-valverde|Monseñor Luis Valverde]]**: Director de la Academia Teológica, figura del Alto Clero cuya erudición Diego admira y cuya autoridad lo inquieta a la vez
 - **Su Búsqueda Espiritual**: El secreto que podría costarle su posición

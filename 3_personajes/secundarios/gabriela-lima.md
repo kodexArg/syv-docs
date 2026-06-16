@@ -1,8 +1,8 @@
 ---
 title: Gabriela Lima, Artista Callejera
 folder: 3_personajes/secundarios
-description: Artista callejera cuyos murales en los Barrios del Muro narran historias
-  de resistencia y esperanza.
+description: Artista callejera cuyos murales en los Barrios del Muro narran
+  historias de resistencia y esperanza.
 nombre: Gabriela Lima
 aliases:
   - Gabriela Lima
@@ -11,6 +11,7 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
+related: '["[[resistencia-subterranea]]", "[[veronica-suarez]]"]'
 ---
 ## Gabriela Lima, la Muralista
 
@@ -47,4 +48,5 @@ Gabriela Lima es conocida en los Barrios del Muro como la artista que transforma
 
 - **Los Barrios del Muro**: Su lienzo y su hogar
 - **La Comunidad**: Sus historias y su inspiración
-- **Ana López**: Conexión personal
+- **[[resistencia-subterranea|Resistencia Subterránea]]**: Sus murales son actos de resistencia que alimentan la memoria colectiva
+- **[[veronica-suarez|Verónica Suárez]]**: Vecina del barrio, conexión personal cercana

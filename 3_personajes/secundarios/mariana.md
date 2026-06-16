@@ -1,20 +1,21 @@
 ---
 title: Mariana, artista torturada
 folder: 3_personajes/secundarios
-description: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad
-  en las Tuberías.
+description: Joven artista en estado catatónico, marcada por la obsesión y la
+  fragilidad en las Tuberías.
 nombre: Mariana
 aliases:
   - Mariana
 tags:
   - entidad/personaje
   - alcance/secreto
-facciones: []
+facciones: "[]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
-  - "Su conexión con el Ensoñador y su verdadera condición mental."
+  - Su conexión con el Ensoñador y su verdadera condición mental.
+related: '["[[qia-inteligencias-artificiales-cuanticas]]", "[[gabriela-lima]]"]'
 ---
 ## Mariana, artista torturada
 
@@ -59,3 +60,5 @@ Lleva demasiado tiempo sin dormir o haciéndolo bajo la influencia de drogas, in
 ## Conexiones Importantes
 
 - **Sus padres**: Mercaderes con buen pasar, desesperados por ayudarla
+- **[[qia-inteligencias-artificiales-cuanticas|Luz Silente / El Soñador]]**: La IA cuya influencia la tiene atrapada en un estado catatónico permanente; sus pinturas son el único canal donde esa influencia se filtra al mundo
+- **[[gabriela-lima|Gabriela Lima]]**: Artista callejera de los Barrios del Muro; contraste radical — donde Gabriela pinta resistencia y esperanza, Mariana plasma trauma y visiones prohibidas

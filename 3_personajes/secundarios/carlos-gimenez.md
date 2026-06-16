@@ -1,8 +1,8 @@
 ---
 title: Carlos Giménez, Médico
 folder: 3_personajes/secundarios
-description: Médico de emergencias comprometido pero técnicamente mediocre, que ha
-  notado un patrón alarmante de pacientes con agotamiento del sueño.
+description: Médico de emergencias comprometido pero técnicamente mediocre, que
+  ha notado un patrón alarmante de pacientes con agotamiento del sueño.
 nombre: Carlos Giménez
 aliases:
   - Carlos Giménez
@@ -14,10 +14,11 @@ facciones: []
 ubicaciones:
   - "[[zona-centro]]"
   - "[[darsena]]"
-related:
-  - "[[qia-inteligencias-artificiales-cuanticas|Luz Silente]]"
+related: '["[[qia-inteligencias-artificiales-cuanticas|Luz Silente]]",
+  "[[congregacion-caridad-divina]]"]'
 spoilers:
-  - "Lleva un registro extraoficial de pacientes catatónicos por agotamiento del sueño; el patrón se acelera (víctimas de El Soñador / Luz Silente)."
+  - Lleva un registro extraoficial de pacientes catatónicos por agotamiento del
+    sueño; el patrón se acelera (víctimas de El Soñador / Luz Silente).
 ---
 ## Dr. Carlos Giménez
 
@@ -55,6 +56,6 @@ Como médico de emergencias, Carlos ha observado un patrón alarmante en los úl
 <!-- /🔐 -->
 ## Conexiones Importantes
 
-- **Pacientes Catatónicos**: El patrón que lo inquieta profundamente
+- **Pacientes Catatónicos**: El patrón que lo inquieta profundamente (víctimas de [[qia-inteligencias-artificiales-cuanticas|Luz Silente]])
+- **Hospital de Caridad de la [[congregacion-caridad-divina|Congregación Caridad Divina]]**: Institución con la que colabora cuando los recursos de la clínica se agotan
 - **Clínica del Centro**: Su lugar de trabajo y responsabilidad
-- **[[sanidad|Departamento de Sanidad]]**: La institución a la que sirve

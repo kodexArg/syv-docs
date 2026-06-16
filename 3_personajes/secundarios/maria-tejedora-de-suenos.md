@@ -1,8 +1,8 @@
 ---
 title: María, tejedora de sueños
 folder: 3_personajes/secundarios
-description: Tejedora y tarotista de las Tuberías, conocida por sus coloridas túnicas
-  que prometen protección y destino.
+description: Tejedora y tarotista de las Tuberías, conocida por sus coloridas
+  túnicas que prometen protección y destino.
 nombre: María
 aliases:
   - María
@@ -12,6 +12,7 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+related: '["[[marta-la-curandera]]", "[[marcos-el-verdulero]]"]'
 ---
 ## María, tejedora de sueños
 
@@ -49,4 +50,6 @@ Y sí, por supuesto que todo esto es una exageración, ya que en realidad solo e
 
 ## Conexiones Importantes
 
-- Las señoras de Las Tuberías son sus principales clientas
+- **Las señoras de Las Tuberías**: Sus principales clientas
+- **[[marta-la-curandera|Marta la Curandera]]**: Vecina y figura complementaria; donde Marta sana el cuerpo, María teje el destino — dos mujeres que sostienen la esperanza en el subsuelo
+- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Conocido de la taberna; una de las pocas presencias masculinas con las que intercambia palabras sin cálculo

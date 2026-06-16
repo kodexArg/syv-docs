@@ -12,10 +12,9 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
-related:
-  - "[[inquisicion]]"
+related: '["[[inquisicion]]", "[[guardianes-de-la-memoria]]"]'
 spoilers:
-  - "Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro."
+  - Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro.
 ---
 ## Hermana Cecilia Torres, la Archivista
 
@@ -55,6 +54,7 @@ Cecilia es una devota demonóloga. A través de libros prohibidos a los que tuvo
 
 - **Universidad de la Luz Divina**: Su posición de poder
 - **Archivistas y Científicos Teológicos**: La facción que infiltra
+- **[[guardianes-de-la-memoria|Guardianes de la Memoria]]**: Grupo cuyo conocimiento oscuro cruza con su investigación demonológica, alianza tenebrosa
 - **Estudiantes**: Víctimas de su manipulación sutil
 - **Textos Prohibidos**: Su fuente de conocimiento oscuro
 - **La Santa Inquisición**: El enemigo que sabotea desde dentro

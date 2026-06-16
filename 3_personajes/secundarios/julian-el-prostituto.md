@@ -1,8 +1,8 @@
 ---
 title: Julián, el Prostituto
 folder: 3_personajes/secundarios
-description: Prostituto que ejerce con discreción en la superficie pero prefiere la
-  libertad de las Tuberías.
+description: Prostituto que ejerce con discreción en la superficie pero prefiere
+  la libertad de las Tuberías.
 nombre: Julián
 aliases:
   - Julián
@@ -11,6 +11,7 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
+related: '["[[marcos-el-verdulero]]", "[[caronte-el-balsero-fantasma]]"]'
 ---
 ## Julián, el Prostituto
 
@@ -51,5 +52,7 @@ Julián ha desarrollado una red de conocimiento sobre los secretos de sus client
 ## Conexiones Importantes
 
 - **Las Tuberías**: Su refugio y hogar preferido
+- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Cliente habitual de la taberna; lo conoce desde hace años y guarda sus silencios
+- **[[caronte-el-balsero-fantasma|Caronte el Balsero Fantasma]]**: Su medio de transporte entre la superficie y el subsuelo; intercambian favores sin preguntas
 - **Clientes de Ambos Mundos**: Su sustento y fuente de información
 - **Comunidad Marginal**: Quienes buscan su consejo y consuelo

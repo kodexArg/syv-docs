@@ -1,8 +1,8 @@
 ---
 title: Monseñor Luis Valverde
 folder: 3_personajes/secundarios
-description: Director de la Academia Teológica y figura prominente del Alto Clero,
-  conocido por su erudición y vasta red de contactos científicos.
+description: Director de la Academia Teológica y figura prominente del Alto
+  Clero, conocido por su erudición y vasta red de contactos científicos.
 nombre: Luis Valverde
 aliases:
   - Monseñor Luis Valverde
@@ -13,7 +13,8 @@ tags:
 facciones:
   - "[[iglesia]]"
 spoilers:
-  - "Su objetivo de conservar el poder eclesiástico sobre el conocimiento."
+  - Su objetivo de conservar el poder eclesiástico sobre el conocimiento.
+related: '["[[hermana-cecilia-torres]]", "[[hermano-diego-sanchez]]"]'
 ---
 ## Monseñor Luis Valverde, Director de la Academia
 
@@ -57,3 +58,5 @@ Su principal motivación es preservar y conservar el poder eclesiástico sobre e
 
 - **Madre Inquisidora**: Relación profesional dentro del [[alto-clero|Alto Clero]]
 - **Padre Felipe**: Colaborador en asuntos académicos
+- **[[hermana-cecilia-torres|Hermana Cecilia Torres]]**: Archivista y profesora en la misma institución; Valverde es su superior jerárquico, aunque ignora el abismo que separa sus verdaderas lealtades
+- **[[hermano-diego-sanchez|Hermano Diego Sánchez]]**: Monaguillo de la Basílica cuya búsqueda espiritual inquieta, aunque aún no ha llegado a los oídos de Valverde

@@ -12,12 +12,12 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
-  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+related: '["[[iglesia]]", "[[inquisicion]]",
+  "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]",
+  "[[guardianes-de-la-memoria]]", "[[elena-juarez]]"]'
 spoilers:
-  - "Su colección incluye textos que desafían la doctrina oficial, lo que lo convierte en objetivo de la Iglesia y la Inquisición."
+  - Su colección incluye textos que desafían la doctrina oficial, lo que lo
+    convierte en objetivo de la Iglesia y la Inquisición.
 ---
 ## Eduardo, el Librero de las Sombras
 
@@ -61,5 +61,7 @@ Eduardo es un aliado valioso para los sedientos de verdad, pero también un obje
 ## Conexiones Importantes
 
 - **Buscadores de Conocimiento**: Sus verdaderos clientes
+- **[[guardianes-de-la-memoria|Guardianes de la Memoria]]**: Alianza natural con quienes preservan el conocimiento prohibido
+- **[[elena-juarez|Elena Juárez]]**: Maestra que también colecciona libros prohibidos; se conocen y se proveen mutuamente
 - **La Santa Inquisición**: La amenaza constante
 - **La Colección Prohibida**: Su tesoro y su condena

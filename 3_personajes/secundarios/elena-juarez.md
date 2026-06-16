@@ -1,8 +1,8 @@
 ---
 title: Elena Juárez, Maestra Residencial
 folder: 3_personajes/secundarios
-description: Maestra que trabaja tanto en barrios ricos como con niños de los Barrios
-  del Muro.
+description: Maestra que trabaja tanto en barrios ricos como con niños de los
+  Barrios del Muro.
 nombre: Elena Juárez
 aliases:
   - Elena Juárez
@@ -13,11 +13,11 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
-related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
+related: '["[[iglesia]]", "[[inquisicion]]", "[[eduardo-vendedor-de-libros]]",
+  "[[resistencia-subterranea]]"]'
 spoilers:
-  - "Su activismo antieclesiástico y su colección de libros prohibidos son un secreto peligroso."
+  - Su activismo antieclesiástico y su colección de libros prohibidos son un
+    secreto peligroso.
 ---
 ## Elena Juárez, la Maestra
 
@@ -60,5 +60,7 @@ Elena es profundamente antieclesiástica. Su verdadera motivación va más allá
 
 - **Estudiantes de Ambos Mundos**: Su responsabilidad y herramientas de cambio
 - **Círculos Intelectuales**: Su red de apoyo ideológico
+- **[[eduardo-vendedor-de-libros|Eduardo el Librero]]**: Proveedor de textos prohibidos con quien comparte riesgo y convicción
+- **[[resistencia-subterranea|Resistencia Subterránea]]**: Red de pensamiento crítico que sostiene desde su posición
 - **Colección de Libros Prohibidos**: Su tesoro y mayor riesgo
 - **La Santa Inquisición**: La amenaza que debe evitar

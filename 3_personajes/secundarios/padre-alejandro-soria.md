@@ -1,8 +1,8 @@
 ---
 title: Padre Alejandro Soria
 folder: 3_personajes/secundarios
-description: Médico que sirve como sacerdote en un hospital eclesiástico, dedicado
-  a salvar vidas.
+description: Médico que sirve como sacerdote en un hospital eclesiástico,
+  dedicado a salvar vidas.
 nombre: Alejandro Soria
 aliases:
   - Padre Alejandro Soria
@@ -13,7 +13,9 @@ tags:
 facciones:
   - "[[iglesia]]"
 spoilers:
-  - "Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la medicina."
+  - Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la
+    medicina.
+related: '["[[congregacion-caridad-divina]]", "[[hermana-laura-castillo]]"]'
 ---
 ## Padre Alejandro Soria, el sanador
 
@@ -56,4 +58,6 @@ En realidad, Alejandro no cree en Dios. Su única y verdadera vocación es la me
 ## Conexiones Importantes
 
 - **Hospital Eclesiástico**: Su lugar de trabajo y propósito
+- **[[congregacion-caridad-divina|Congregación de la Caridad Divina]]**: La orden que gestiona el hospital donde ejerce; su paraguas institucional aunque su fe sea nula
+- **[[hermana-laura-castillo|Hermana Laura Castillo]]**: Compañera enfermera; trabajan codo a codo en las clínicas y ella es de las pocas que conoce su vocación real más allá del hábito
 - **[[curatores|Curatores]]**: Facción a la que pertenece por su rol médico

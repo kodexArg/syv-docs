@@ -1,8 +1,8 @@
 ---
 title: El Negro Ramos
 folder: 3_personajes/secundarios
-description: Guardián autoproclamado de las Tuberías, ex-soldado fantasma que protege
-  a los vulnerables.
+description: Guardián autoproclamado de las Tuberías, ex-soldado fantasma que
+  protege a los vulnerables.
 nombre: Ramos
 aliases:
   - El Negro Ramos
@@ -13,11 +13,11 @@ tags:
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related:
-  - "[[paco-el-puntero]]"
-  - "[[marcos-el-verdulero]]"
+related: '["[[paco-el-puntero]]", "[[marcos-el-verdulero]]",
+  "[[caronte-el-balsero-fantasma]]"]'
 spoilers:
-  - "Su pasado heroico es inventado; perdió a su familia por las drogas y creó una narrativa de redención."
+  - Su pasado heroico es inventado; perdió a su familia por las drogas y creó
+    una narrativa de redención.
 ---
 ## El Negro Ramos
 
@@ -60,7 +60,8 @@ La verdad es devastadora: Ramos perdió a su familia por las drogas, viendo impo
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 
-- **Paco el Puntero**: Colaborador frecuente (fallecido)
-- **Marcos el Verdulero**: Aliado ocasional
+- **[[paco-el-puntero|Paco el Puntero]]**: Colaborador frecuente (fallecido)
+- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Aliado ocasional
+- **[[caronte-el-balsero-fantasma|Caronte el Balsero Fantasma]]**: Lo transporta por los túneles cuando la discreción lo exige
 - **Los Vulnerables de las Tuberías**: Quienes protege compulsivamente
 - **Su Narrativa Inventada**: Lo que lo mantiene funcional

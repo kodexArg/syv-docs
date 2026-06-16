@@ -1,17 +1,19 @@
 ---
 title: Mario Juárez, Guardia de Seguridad
 folder: 3_personajes/secundarios
-description: Guardia de seguridad en una factoría de El Puerto, sospechoso de filtrar
-  información a la resistencia.
+description: Guardia de seguridad en una factoría de El Puerto, sospechoso de
+  filtrar información a la resistencia.
 nombre: Mario Juárez
 aliases:
   - Mario Juárez
 tags:
   - entidad/personaje
   - alcance/secreto
-facciones: []
+facciones: '["[[resistencia-subterranea]]"]'
 spoilers:
-  - "Es informante de La Resistencia."
+  - Es informante de La Resistencia.
+related: '["[[francisco-duarte]]", "[[marcos-duarte]]"]'
+ubicaciones: '["[[darsena]]"]'
 ---
 ## Mario Juárez, Guardia de Seguridad
 
@@ -51,4 +53,6 @@ En secreto, Mario filtra información sobre movimientos de mercancías y activid
 
 ## Conexiones Importantes
 
-- **La Resistencia**: Contacto y fuente de información
+- **[[resistencia-subterranea|La Resistencia Subterránea]]**: Contacto y fuente de información
+- **[[francisco-duarte|Francisco Duarte]]**: Compañero en la Resistencia; otro operario que sirve de enlace en la red de inteligencia
+- **[[marcos-duarte|Marcos Duarte]]**: Científico saboteador de la misma red; Mario desconoce el alcance real de sus acciones

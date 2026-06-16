@@ -1,8 +1,8 @@
 ---
 title: Ramiro Vega, Artífice Restaurador
 folder: 3_personajes/secundarios
-description: Técnico electrónico que regenta un negocio en el centro, observador meticuloso
-  de actividades sospechosas.
+description: Técnico electrónico que regenta un negocio en el centro, observador
+  meticuloso de actividades sospechosas.
 nombre: Ramiro Vega
 aliases:
   - Ramiro Vega
@@ -13,7 +13,8 @@ tags:
 facciones:
   - "[[gremio-de-comercio]]"
 spoilers:
-  - "Su rol como espía de los Criptógrafos."
+  - Su rol como espía de los Criptógrafos.
+related: '["[[los-criptografos]]"]'
 ---
 ## Ramiro Vega, Artífice Restaurador
 
@@ -53,6 +54,6 @@ Ramiro es en realidad un espía de los [[los-criptografos|Criptógrafos]]. Utili
 
 ## Conexiones Importantes
 
-- **Comerciantes**: Facción a la que pertenece públicamente
-- **Criptógrafos**: Facción para la que espía en secreto
+- **Comerciantes**: Facción a la que pertenece públicamente ([[gremio-de-comercio|Gremio de Comercio]])
+- **[[los-criptografos|Criptógrafos]]**: Facción para la que espía en secreto
 - **Cliente misterioso**: Individuo sospechoso bajo vigilancia

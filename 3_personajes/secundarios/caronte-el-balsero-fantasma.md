@@ -1,8 +1,8 @@
 ---
 title: Caronte el Balsero Fantasma
 folder: 3_personajes/secundarios
-description: Misterioso balsero ciego que navega los túneles inundados de Las Tuberías,
-  transportando pasajeros y mercancía.
+description: Misterioso balsero ciego que navega los túneles inundados de Las
+  Tuberías, transportando pasajeros y mercancía.
 nombre: Damián Vergara
 aliases:
   - Caronte
@@ -15,8 +15,10 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
-  - "Su verdadero nombre es Damián Vergara."
-  - "Es un contrabandista que trabaja para todas las bandas de la Zona Roja; su red de secretos mutuos es lo único que lo mantiene vivo."
+  - Su verdadero nombre es Damián Vergara.
+  - Es un contrabandista que trabaja para todas las bandas de la Zona Roja; su
+    red de secretos mutuos es lo único que lo mantiene vivo.
+related: '["[[el-negro-ramos]]", "[[marcos-el-verdulero]]"]'
 ---
 ## Caronte, el Balsero Fantasma
 
@@ -60,5 +62,7 @@ Caronte mantiene su neutralidad trabajando para todos porque sabe demasiado sobr
 ## Conexiones Importantes
 
 - **Todas las Bandas de la Zona Roja**: Cliente de todos, aliado de ninguno
-- **Las Tuberías**: El río subterráneo es su hogar y su prisión
+- **[[el-negro-ramos|El Negro Ramos]]**: Uno de sus clientes frecuentes en las Tuberías
+- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Operador al que ha transportado mercancía por los túneles
+- **[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]**: El río subterráneo es su hogar y su prisión
 - **Los Desesperados**: Quienes necesitan cruzar las aguas recurren a él
