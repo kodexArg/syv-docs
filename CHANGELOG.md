@@ -1,6 +1,50 @@
 # Changelog
 
 ## [Unreleased]
+- group: canon-anatema-mecanico-fecha-unificada
+  priority: high
+  commit: 902f766
+  changes:
+    - fix(cronologia): unificar fecha del Anatema Mecánico — 13-mar-2061 (+24h del Gran Silencio, Córdoba); eliminar variante errónea (+5 meses, 15-ago)
+    - fix(codex): corregir siglo — "Constitución de 2161" → "2061" en anatema-mecanico.md
+    - fix(facciones-menores): actualizar fecha en los-remanentes.md al canon 13-mar-2061
+    - fix(codex): sincronizar qia-inteligencias-artificiales-cuanticas.md con fecha de Anatema Mecánico
+    - fix(sinopsis): refrescar línea temporal del prólogo — Anatema Mecánico ahora 13-mar-2061
+
+- group: canon-shipibo-conibo-intramuros-extramuros
+  priority: normal
+  commit: 7261f8c
+  changes:
+    - refactor(credos): Shipibo-Conibo — población refactorizada intramuros (censables, ~450) vs extramuros (incalculable); patrón Umbanda adoptado
+    - refactor(facciones-menores): shipibo-conibo.md alineado con distribución intramuros/extramuros
+
+- group: personajes-maria-aliases-desambiguacion
+  priority: normal
+  commit: 4128fa6
+  changes:
+    - refactor(personajes): madre-superiora-maria.md — refinados aliases para desambiguar de Hermana Superior María (secundaria)
+
+- group: personajes-secundarios-grafo-wikilinks
+  priority: normal
+  commit: affd67a
+  changes:
+    - feat(personajes): 27 secundarios huérfanos — enganchados al grafo con wikilinks
+    - refactor(indice): secundarios.md — listado de los 27 reparados + descripción breve de rol
+
+- group: walter-relato-renombrado-elevado
+  priority: normal
+  commit: b4ae1d8
+  changes:
+    - refactor(relatos): walter.md → walter-relato.md — basename único, diferenciación de personaje Walter
+    - feat(relatos): walter-relato.md elevado a versión mejorada del relato
+
+- group: mocs-relatos-cronicas-cartas-cierre
+  priority: normal
+  commit: d6f7da7
+  changes:
+    - refactor(mocs): relatos.md, cronicas.md, cartas.md — agregado title + description + tags #entidad/guia
+    - docs(structure): cerrados MOCs con [continuará...] — estructuras listas para expansión
+
 - group: strip-framework-consolidate-cities
   priority: high
   commit: cad02ec
