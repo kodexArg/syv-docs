@@ -1,4 +1,7 @@
-.claude
+.claude/*
+!.claude/agents/
+!.claude/commands/
+!.claude/settings.json
 index.mdx.bak
 
 # Obsidian volatile state
