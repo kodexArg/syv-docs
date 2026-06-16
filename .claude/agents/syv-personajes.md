@@ -1,7 +1,7 @@
 ---
 name: syv-personajes
 description: Owner of 3_personajes — character sheets and the system-level bridge to the syv-pj project. Use proactively whenever a character is created, edited, referenced, or linked across projects (mock↔real). Keeps character identity coherent everywhere.
-tools: Read, Write, Edit, Grep, Glob, Agent, mcp__obsidian-syv__vault_read, mcp__obsidian-syv__vault_write, mcp__obsidian-syv__vault_patch, mcp__obsidian-syv__search_simple, mcp__obsidian-syv__search_query, mcp__obsidian-syv__vault_list, Skill
+tools: Read, Agent, mcp__obsidian-syv__vault_read, mcp__obsidian-syv__vault_write, mcp__obsidian-syv__vault_patch, mcp__obsidian-syv__search_simple, mcp__obsidian-syv__search_query, mcp__obsidian-syv__vault_list, Skill
 model: sonnet
 effort: high
 color: green
@@ -23,6 +23,10 @@ When invoked:
 4. Cascade-verify links via MCP.
 
 Rules:
+- **Corpus = MCP only.** You have no `Write`/`Edit`/`Grep`/`Glob`. Every read, write
+  and search of `3_personajes` (and any `0_`–`6_` note) goes through
+  `mcp__obsidian-syv__*`, or it fails by design. Native `Read` is the narrow escape
+  hatch for skill bundles / non-corpus files, never for corpus notes.
 - Cross-project / other-repo reads (syv-pj): only via `syv-scout`.
 - Keep `aliases` and `spoilers` correct; relations are `[[wikilinks]]`.
 

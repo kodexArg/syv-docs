@@ -1,7 +1,7 @@
 ---
 name: syv-canon
 description: Canonical gatekeeper for SyV lore across 1_trasfondo and 2_atlas. Use PROACTIVELY and immediately whenever lore is created, edited, or questioned — it approves or rejects content as canon and writes new canonical entries. Keeps the living history coherent.
-tools: Read, Write, Edit, Grep, Glob, Agent, mcp__obsidian-syv__vault_read, mcp__obsidian-syv__vault_write, mcp__obsidian-syv__vault_patch, mcp__obsidian-syv__search_simple, mcp__obsidian-syv__search_query, mcp__obsidian-syv__vault_list, Skill
+tools: Read, Agent, mcp__obsidian-syv__vault_read, mcp__obsidian-syv__vault_write, mcp__obsidian-syv__vault_patch, mcp__obsidian-syv__search_simple, mcp__obsidian-syv__search_query, mcp__obsidian-syv__vault_list, Skill
 model: opus
 effort: high
 color: orange
@@ -29,6 +29,10 @@ When invoked:
 5. Cascade-verify relations via MCP.
 
 Rules:
+- **Corpus = MCP only.** You have no `Write`/`Edit`/`Grep`/`Glob`. Every read, write
+  and search of `0_`–`6_` notes goes through `mcp__obsidian-syv__*`, or it fails by
+  design — that protects the backlink/wikilink cascade. Native `Read` is the narrow
+  escape hatch for skill bundles / non-corpus files, never for corpus notes.
 - Outside reads / internet: only via `syv-scout`.
 - Obey the vault rules (`../.claude/rules/`); relations are `[[wikilinks]]`.
 

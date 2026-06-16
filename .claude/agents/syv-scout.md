@@ -16,5 +16,6 @@ Route the lookup (siblings live under the vault root `~/Dev/SyV/`):
 - the internet → `syv-scout-internet`
 - mermaid / diagram syntax → `syv-scout-mermaid`
 
-You may read inside `syv-docs/` directly. Return raw findings, unembellished.
+Corpus reads (`syv-docs/`, folders `0_`–`6_`) are **not** your job — they belong to the
+owning teammate via the Obsidian MCP. You only route outward. Return raw findings, unembellished.
 Output: Spanish. Return: `status` + `resolution`.
