@@ -14,7 +14,7 @@ facciones:
   - "[[congregacion-caridad-divina]]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related: '["[[hermana-superior-maria]]", "[[marta-la-curandera]]"]'
+related: '["[[madre-superiora-maria]]", "[[marta-la-curandera]]"]'
 ---
 ## Sor Nikole, La Hermana de la Caridad
 
@@ -56,5 +56,5 @@ Aunque su presencia no es bien vista por la Iglesia, la protección de la banda 
 
 - **Banda local de las Tuberías**: Le brinda protección
 - **Vecinos necesitados**: Aquellos a quienes sirve
-- **[[hermana-superior-maria|Hermana Superior María]]**: Su superiora en la congregación; relación tensa porque Nikole opera fuera de los canales oficiales aprobados por la Iglesia
+- **[[madre-superiora-maria|Hermana Superior María]]**: Su superiora en la congregación; relación tensa porque Nikole opera fuera de los canales oficiales aprobados por la Iglesia
 - **[[marta-la-curandera|Marta la Curandera]]**: Vecina en las Tuberías; comparten misión de cura aunque desde tradiciones distintas — fe y oficio que se complementan sin fusionarse

@@ -36,3 +36,4 @@ Aquí se registran quienes sostienen la textura del mundo: guardias de la Prefec
 - [[ramiro-vega|Ramiro Vega]] — Artífice Restaurador / espía de los Criptógrafos
 - [[teniente-carla-vazquez|Teniente Carla Vázquez]] — Analista de contrainteligencia
 - [[sor-nikole|Sor Nikole]] — Hermana de la Caridad en las Tuberías
+- [[lisa|Lisa]] — Nadadora y exploradora de los túneles inundados de las Tuberías

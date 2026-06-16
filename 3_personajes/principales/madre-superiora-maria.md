@@ -1,93 +1,119 @@
 ---
 title: Madre Superiora María
 folder: 3_personajes/principales
-description: Directora Espiritual de la Sagrada Inquisición Argentina. Reside en
-  la Torre del Faro, confinada a 100 metros de toda tecnología por deber divino.
-  Dirige la administración completa de la Inquisición.
+description: >-
+  Directora Espiritual de la Sagrada Inquisición Argentina y Superior nominal
+  de la Congregación de la Caridad Divina. Ascendió desde los barrios más
+  pobres de Dársena hasta la cúspide del Faro, cargando un trauma demoníaco
+  que nadie más conoce y un sistema de Iniciados que nadie más comprende del
+  todo.
 nombre: Madre Superiora María
-aliases: '["Madre Superiora María", "Directora del Faro", "Directora Espiritual
-  del Faro"]'
+aliases:
+  - Madre Superiora María
+  - Hermana Superior María
+  - Directora del Faro
+  - Campeona de la Iglesia
+  - Directora Espiritual del Faro
 facciones:
   - "[[inquisicion]]"
+  - "[[iglesia]]"
 related:
   - "[[sor-sofia]]"
+  - "[[congregacion-caridad-divina]]"
+  - "[[exorcistas]]"
 spoilers:
-  - Contiene información sobre el sistema de Iniciados del Faro y sus
-    'consecuencias'.
+  - "Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'."
+  - "Su celo contra las posesiones nace de un encuentro demoníaco que le reveló su nombre verdadero."
 tags:
   - entidad/personaje
   - alcance/secreto
 ---
 
-## Madre Superiora María, Directora del Faro
+## Madre Superiora María
 
-Edad indeterminada (~60-70 años), Torre del Faro (Isla Oriental)
+57 años, Torre del Faro (Isla Oriental) / origen: Barrios del Muro y Tuberías
 
-Autoridad Espiritual de la Sagrada Inquisición Argentina
+Directora Espiritual de la [[inquisicion|Sagrada Inquisición Argentina]] y Superior nominal de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]]
 
 ## Aspecto
 
-Su apariencia es la de un fantasma que ha olvidado cómo desvanecerse. Viste un hábito completamente blanco, casi luminoso en la oscuridad del Faro. Su rasgo más distintivo es su largo pelo canoso, que lleva suelto y apelmazado por la estática perpetua de la torre, flotando a su alrededor como un halo desordenado. Su rostro es un muro insondeable, críptico; sus ojos no revelan nada más que la voluntad férrea de quien ha renunciado a toda calidez humana.
+Mujer de estatura media y espalda ancha que conserva su fortaleza física a pesar de los años y el encierro. Viste un hábito completamente blanco, casi luminoso en la oscuridad del Faro. Su rasgo más distintivo es su largo pelo canoso, que lleva suelto y apelmazado por la estática perpetua de la torre, flotando a su alrededor como un halo desordenado. Su rostro es un muro insondeable; sus ojos no revelan nada más que la voluntad férrea de quien ha renunciado, o ha sido forzada a renunciar, a toda calidez ostensible. En sus gestos, sin embargo, sobrevive algo antiguo: la eficiencia de quien alguna vez cargó heridos en brazos y dirigió exorcismos en pasillos inundados.
 
-Un espectro de autoridad que vive entre los vivos solo por obligación.
+Un espectro de autoridad que habita el Faro como si fuera el único lugar del mundo donde todavía puede moverse.
 
 ## Descripción
 
 ### Rol y Posición
 
-Madre Superiora María es la cabeza administrativa y espiritual de la [[inquisicion|Sagrada Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro, y desde allí comanda a su rebaño—monjas, iniciadas y Hermanas de Batalla—como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
+María es la cabeza administrativa y espiritual de la [[inquisicion|Sagrada Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
 
 - Operaciones de todas las Monjas y Hermanas de Batalla en Dársena
 - Administración del Sistema de Iniciados en El Faro (selección, entrenamiento, "derivación")
 - Coordinación con el Comando Nacional de Dársena en asuntos de herejía y paranormalidad
-- Custodiar el Archivo Secreto bajo la Nueva Basílica (en colaboración con el Obispo Eclesiástico)
+- Custodia del Archivo Secreto bajo la Nueva Basílica (en colaboración con el Obispo Eclesiástico)
+
+Mantiene también el título de Superior General de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]] — cargo que ejerce en forma nominal desde su confinamiento en el Faro. El Consejo de Madres gestiona las operaciones cotidianas en los Barrios del Muro y Las Tuberías, pero ninguna decisión mayor se toma sin su bendición.
 
 Su palabra es final. Sus decisiones son inmutables.
 
 ### Personalidad
 
-María es un muro insondeable. Críptica en sus palabras y absoluta en sus silencios. No da explicaciones, solo órdenes disfrazadas de consejos espirituales. Su presencia es la de una fuerza de la naturaleza contenida: estática, cargada, peligrosa. No muestra favoritismo ni compasión. Los que la conocen la describen como una mujer que se convirtió en el faro mismo: una estructura fría que guía a otros pero no puede moverse de su roca.
+María es un muro insondeable. Críptica en sus palabras y absoluta en sus silencios. No da explicaciones, solo órdenes disfrazadas de consejos espirituales. Su presencia es la de una fuerza de la naturaleza contenida: estática, cargada, peligrosa. No muestra favoritismo ni compasión en público. Los que la conocen la describen como una mujer que se convirtió en el faro mismo: una estructura fría que guía a otros pero no puede moverse de su roca.
+
+Lo que casi nadie sabe es que detrás de ese muro hay una urgencia que no descansa. Un celo que roza la obsesión. Cada exorcismo que autoriza, cada iniciada que "no reúne el perfil", cada orden que firma — todo tiene una doble contabilidad: la administrativa y la personal.
 
 *"La fe requiere sacrificio. El sacrificio requiere silencio."*
 
 *"La caridad sin disciplina es debilidad disfrazada."*
 
+*"Las posesiones no discriminan, hermano. Pueden tocar a cualquiera. Por eso debemos estar siempre vigilantes."*
+
 ### Motivaciones
 
-María cree sinceramente que el Faro es el baluarte final contra la herejía y lo paranormal que amenaza a la Confederación. Cada decisión que toma—cada vida que reorienta, cada iniciada que "no reúne el perfil"—la justifica como necesaria para la supervivencia. No busca poder por poder; busca control total sobre variables incontrolables. El mundo es caótico. El Faro es orden.
+María cree sinceramente que el Faro es el baluarte final contra la herejía y lo paranormal que amenaza a la Confederación. Pero ese convencimiento nació antes de la Inquisición — nació en un callejón de Las Tuberías, durante un exorcismo que salió terriblemente mal, frente a una niña poseída cuyos ojos le devolvieron algo que no debería poder conocer nadie. Desde entonces, cada acción tiene dos propósitos: proteger a la Confederación y encontrar la manera de destruir aquello que la marcó para siempre.
 
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-María fue elegida como Madre Superiora hace 35 años por el entonces Obispo Arzobispo durante una época de crisis paranormal en Dársena. Su genio organizacional transformó el Faro de una institución religiosa lánguida en un motor de seguridad espiritual y militar. El sistema de Iniciados que diseñó es legendario: tasa de 87% de éxito en identificar futuros inquisidores, monjas y custodios. Bajo su dirección, las herejías paranormales en Isla Oriental cayeron a casi cero.
+María pasó sus primeras décadas como hermana activa de la [[congregacion-caridad-divina|Congregación de la Caridad Divina]], trabajando en Las Tuberías y los Barrios del Muro. Era reconocida oficialmente como Campeona de la Iglesia por su capacidad de liderazgo y su participación directa en casos de posesión — incluidos exorcismos que sus colegas no se atrevían a encarar. Su ascenso fue gradual, constante y merecido. Hace treinta y cinco años, durante una época de crisis paranormal aguda en Dársena, el entonces Obispo Arzobispo la eligió para dirigir la Sagrada Inquisición Argentina. Su genio organizacional transformó el Faro de una institución religiosa lánguida en un motor de seguridad espiritual y militar. El sistema de Iniciados que diseñó es legendario: tasa de 87% de éxito en identificar futuros inquisidores, monjas y custodios. Bajo su dirección, las herejías paranormales en Isla Oriental cayeron a casi cero.
 
-Su confinamiento voluntario a 100 metros de toda tecnología es tanto deber religioso como estrategia personal: así nada puede interferir con su communión directa con la voluntad divina. O así lo predica.
-/📖
+Su confinamiento voluntario a 100 metros de toda tecnología es tanto deber religioso como estrategia personal: así nada puede interferir con su comunión directa con la voluntad divina. O así lo predica.
+<!-- /📖 -->
+
+<!-- 🔐 (Iglesia de Dársena / Congregación de la Caridad Divina) -->
+Hace años, cuando todavía patrullaba los túneles inundados como hermana activa, María tuvo un encuentro directo con una entidad demoníaca durante un exorcismo que salió terriblemente mal. Aunque sobrevivió, la experiencia la marcó de un modo que ninguna formación espiritual podía anticipar. El recuerdo de esos ojos que la miraron desde el rostro de una niña inocente la persigue en sus noches de insomnio.
+
+Lo que pocos saben es que durante ese encuentro el demonio le susurró algo que no debería poder saber: su nombre verdadero. María teme que ese conocimiento la haya marcado de alguna forma, que exista un vínculo invisible entre ella y aquella entidad. Es por eso que su celo — en la Congregación, en la Inquisición, en el sistema de Iniciados — nunca cesa: busca destruir a ese demonio antes de que él regrese por ella.
+
+Fue ese episodio, y la forma en que lo resolvió — sola, sin refuerzos, con una frialdad que desconcertó a todos los testigos — lo que llamó la atención de la jerarquía eclesiástica y aceleró su nombramiento como Directora del Faro.
+<!-- /🔐 -->
 
 <!-- 🔐 (Sagrada Inquisición Argentina) -->
-El sistema de Iniciados del Faro no es lo que parecería ser. Sí, forma custodios e inquisidores. Pero María lo diseñó deliberadamente como filtro selectivo. Las iniciadas que muestran "problemas de aptitud"—duda teológica, empatía excesiva, rechazo a la obediencia—no se "derivan" a otras órdenes como se reporta oficialmente.
+El sistema de Iniciados del Faro no es lo que parece. Sí, forma custodios e inquisidores. Pero María lo diseñó deliberadamente como filtro selectivo. Las iniciadas que muestran "problemas de aptitud" — duda teológica, empatía excesiva, rechazo a la obediencia — no se "derivan" a otras órdenes como se reporta oficialmente.
 
 Desaparecen.
 
-En las cámaras subterráneas del Faro, bajo capas de rock y siglos de arquitectura, hay un segundo archivo más antiguo que el de la Basílica. Registra cada iniciada que no pasó el filtro. María mantiene esta información clasificada incluso de sus propios Censores.
-/🔐
+En las cámaras subterráneas del Faro, bajo capas de roca y siglos de arquitectura, hay un segundo archivo más antiguo que el de la Basílica. Registra cada iniciada que no pasó el filtro. María mantiene esta información clasificada incluso de sus propios Censores.
+<!-- /🔐 -->
 
-<!-- 🔐☠️ (Consejo del Faro - Madre Superiora María) -->
-La "tecnología prohibida" que María prohíbe a 100 metros de su torre no es una penitencia religiosa. Es confinamiento voluntario de algo que ella descubrió en el Archivo Secreto años atrás: prueba de que el Sistema de Iniciados del Faro se inspiró en protocolos de selección genética del Viejo Mundo, previos al Colapso. Las iniciadas que "desaparecen" no mueren. Se mantienen en un estado biológico suspendido en las cámaras, como si fuesen bancos de datos humanos esperando "reprogramación".
+<!-- 🔐☠️ (Consejo del Faro — Madre Superiora María) -->
+La "tecnología prohibida" que María prohíbe a 100 metros de su torre no es una penitencia religiosa. Es el confinamiento voluntario de algo que ella descubrió en el Archivo Secreto años atrás: prueba de que el Sistema de Iniciados del Faro se inspiró en protocolos de selección genética del Viejo Mundo, previos al Colapso. Las iniciadas que "desaparecen" no mueren. Se mantienen en un estado biológico suspendido en las cámaras, como si fuesen bancos de datos humanos esperando "reprogramación".
 
 María lo permite porque cree que es el precio de salvar a la Confederación. Ha justificado esto teológicamente como una forma de redención involuntaria: los cuerpos fallidos sirven al propósito divino de todos modos.
 
 Nadie más lo sabe. Si lo saben, serían un problema que María resolvería del mismo modo que resuelve todos sus problemas: silencio definitivo.
-/🔐☠️
+<!-- /🔐☠️ -->
 
 ## Conexiones Importantes
 
 - **Obispo Arzobispo de Dársena**: Superior jerárquico nominal (relación frágil, basada en mutua ignorancia deliberada)
 - **Comando Nacional de Dársena**: Colaborador en operaciones de seguridad y contención paranormal
 - **Hermanas de Batalla ([[sor-sofia|Sor Sofía]])**: Ejecutora de órdenes que otros no pueden cumplir
+- **[[congregacion-caridad-divina|Congregación de la Caridad Divina]]**: Orden que dirige en forma nominal; el Consejo de Madres opera en su nombre en los Barrios del Muro y Las Tuberías
+- **[[exorcistas|Exorcistas]]**: Orden aliada con tensiones jurisdiccionales; reconocen su autoridad y su historial de campo
 - **Iniciadas del Sistema del Faro**: Materia prima de su visión de perfección teológica
 - **El Archivo Secreto**: Custodio de secretos más antiguos que su propio reinado
 
 ## Referencias
 
-María es la pregunta que nadie se atreve a hacer: ¿Dónde termina la fe y comienza la crueldad? Ella cree que nunca comienzan; que son la misma cosa, refinada a través de intención divina.
+María es la pregunta que nadie se atreve a hacer: ¿dónde termina la fe y comienza la crueldad? Ella cree que nunca comienzan; que son la misma cosa, refinada a través de intención divina y terror personal.

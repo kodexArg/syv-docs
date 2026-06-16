@@ -1,8 +1,7 @@
 ---
 title: Walter
 folder: 4_diegesis/relatos
-description: Fragmento de la juventud de Walter, nadador y explorador de las
-  Tuberías de Dársena, en su bautismo subacuático junto a Paco.
+description: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena, en su bautismo subacuático junto a Paco.
 tags:
   - entidad/relato
 aliases:
@@ -11,6 +10,7 @@ related:
   - "[[3_personajes/principales/walter|Walter]]"
   - "[[paco-el-puntero|Paco]]"
   - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Inquisición]]"
+  - "[[lisa|Lisa]]"
 ubicaciones:
   - "[[tuberias]]"
   - "[[darsena]]"
@@ -43,7 +43,7 @@ Así que cualquier gravedad que Paco hubiera guardado para el final se deshizo s
 
 —Ahora te arrepentís de no haberte dejado los calzoncillos —sentenció el maestro, hablando hacia un rincón en concreto de la negrura, como quien le habla a alguien.
 
-Y del rincón salió una cabeza. Despacio, partiendo el agua sin un ruido, como una sirena del pantano: piel oscura, trenzas apretadas pegadas al cráneo, una bengala mordida entre los dientes que le pintaba la cara de naranja y le sacaba dos chispas blancas de los ojos. Lisa. Llevaba ahí quién sabe cuánto, esperándolos en el frío, mirándolos hacer el papelón.
+Y del rincón salió una cabeza. Despacio, partiendo el agua sin un ruido, como una sirena del pantano: piel oscura, trenzas apretadas pegadas al cráneo, una bengala mordida entre los dientes que le pintaba la cara de naranja y le sacaba dos chispas blancas de los ojos. [[lisa|Lisa]]. Llevaba ahí quién sabe cuánto, esperándolos en el frío, mirándolos hacer el papelón.
 
 Escupió la bengala a la mano. La sostuvo en alto, y la cámara entera tembló en ese anaranjado.
 

@@ -1,6 +1,15 @@
 # Changelog
 
 ## [Unreleased]
+- group: personajes-maria-unificada
+  priority: high
+  changes:
+    - refactor(personajes): unificar las dos Marías en una sola ficha canónica (slug madre-superiora-maria) — biografía reconciliada (Congregación → dirección del Faro), 5 aliases; eliminada hermana-superior-maria.md
+    - fix(personajes): repuntar backlinks al slug canónico — sor-nikole, hermana-laura-castillo, monseñor-miguel
+    - fix(facciones): repuntar congregacion-caridad-divina.md y exorcistas.md a madre-superiora-maria
+    - fix(sinopsis): repuntar referencia de María al slug canónico
+    - feat(personajes): nueva ficha de Lisa (3_personajes/secundarios/lisa.md), nadadora de las Tuberías; enlazada desde walter-relato.md
+
 - group: canon-anatema-mecanico-fecha-unificada
   priority: high
   commit: 902f766

@@ -21,7 +21,7 @@ related:
   - "[[francisco-de-la-cruz]]"
   - "[[monseñor-miguel]]"
   - "[[padre-rafa]]"
-  - "[[hermana-superior-maria]]"
+  - "[[madre-superiora-maria]]"
   - "[[paco-el-puntero]]"
   - "[[videla-iv]]"
   - "[[sumo-pontifice]]"
@@ -214,7 +214,7 @@ Y en el medio, la inmensa mayoría solo quiere sobrevivir otro día bajo la lluv
 
 **[[padre-rafa|Padre Rafa]]** —exorcista con hábitos poco ortodoxos— camina la delgada línea entre la fe y la heterodoxia. Ha visto cosas en sus exorcismos que contradicen la doctrina oficial, y guarda secretos que podrían destruir la Iglesia.
 
-**[[hermana-superior-maria|Hermana Superior María]]** —líder de la Congregación de la Caridad Divina— trabaja en los Barrios del Muro, alimentando a los hambrientos, sanando a los enfermos, y viendo la hipocresía de una Iglesia que predica caridad mientras acumula poder.
+**[[madre-superiora-maria|Hermana Superior María]]** —líder de la Congregación de la Caridad Divina— trabaja en los Barrios del Muro, alimentando a los hambrientos, sanando a los enfermos, y viendo la hipocresía de una Iglesia que predica caridad mientras acumula poder.
 
 Y otros: [[paco-el-puntero|Paco el Puntero]] (señor criminal de Las Tuberías), [[videla-iv|Videla IV]] (comandante militar de ambición desmedida), el [[sumo-pontifice|Sumo Pontífice]] (anciano visionario o manipulador político, según a quién preguntes).
 

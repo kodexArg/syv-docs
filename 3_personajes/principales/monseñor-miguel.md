@@ -1,18 +1,18 @@
 ---
 title: Monseñor Miguel
 folder: 3_personajes/principales
-description: Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático
-  y temido cuyo poder rivaliza con el del Papa.
+description: Máxima autoridad de la Santa Inquisición Argentina, un hombre
+  enigmático y temido cuyo poder rivaliza con el del Papa.
 nombre: Monseñor Miguel
 aliases:
   - Monseñor Miguel
   - Gran Inquisidor
 facciones:
   - "[[inquisicion]]"
-related:
-  - "[[hermana-superior-maria]]"
+related: '["[[madre-superiora-maria]]"]'
 spoilers:
-  - "Su historia ha sido intencionadamente eliminada; su verdadero origen y naturaleza son un misterio."
+  - Su historia ha sido intencionadamente eliminada; su verdadero origen y
+    naturaleza son un misterio.
 tags:
   - entidad/personaje
   - alcance/secreto
@@ -61,7 +61,7 @@ Aquellos que han investigado demasiado profundamente sobre el pasado de Monseño
 - **Santa Inquisición Argentina**: Lidera la organización con autoridad absoluta
 - **El Papa**: Su relación con Roma es compleja y su poder posiblemente equiparable
 - **Los Acusados**: Cada juicio es una manifestación de su voluntad inexorable
-- **[[hermana-superior-maria|Hermana Superior María]]**: Como Campeona, ejecuta casos bajo su autoridad
+- **[[madre-superiora-maria|Madre Superiora María]]**: Directora del Faro, Campeona de la Iglesia; ejecuta casos bajo su autoridad y dirige la Inquisición con mano de hierro propia
 
 ## Referencias
 

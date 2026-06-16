@@ -14,7 +14,7 @@ facciones:
   - "[[congregacion-caridad-divina]]"
 spoilers:
   - Colabora con una red clandestina de ayuda para los más necesitados.
-related: '["[[hermana-superior-maria]]", "[[sor-nikole]]"]'
+related: '["[[madre-superiora-maria]]", "[[sor-nikole]]"]'
 ---
 ## Hermana Laura Castillo
 
@@ -54,7 +54,7 @@ Laura colabora con una red clandestina de ayuda que va más allá de los canales
 
 - **Curatores**: Su orden profesional
 - **[[congregacion-caridad-divina|Hermanas de la Caridad]]**: Su red de apoyo espiritual y logístico
-- **[[hermana-superior-maria|Hermana Superior María]]**: Su superior jerárquica en la congregación
+- **[[madre-superiora-maria|Hermana Superior María]]**: Su superior jerárquica en la congregación
 - **[[sor-nikole|Sor Nikole]]**: Compañera en el trabajo en las Tuberías
 - **Red Clandestina de Ayuda**: La organización secreta que la conecta con recursos
 - **Barrios Bajos**: La comunidad que sirve

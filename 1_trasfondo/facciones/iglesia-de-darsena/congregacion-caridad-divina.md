@@ -1,7 +1,8 @@
 ---
 title: Caridad Divina
 folder: 1_trasfondo/facciones/iglesia-de-darsena
-description: Orden asistencia social, pobres marginales, combate posesiones zonas marginales.
+description: Orden asistencia social, pobres marginales, combate posesiones
+  zonas marginales.
 aliases:
   - Caridad Divina
   - Congregación de la Caridad Divina
@@ -12,19 +13,17 @@ tags:
   - estado/canon
 facciones:
   - "[[iglesia]]"
-related:
-  - "[[exorcistas]]"
-  - "[[inquisicion]]"
-  - "[[hermana-superior-maria]]"
-  - "[[padre-rafa]]"
-  - "[[paco-el-puntero]]"
+related: '["[[exorcistas]]", "[[inquisicion]]", "[[madre-superiora-maria]]",
+  "[[padre-rafa]]", "[[paco-el-puntero]]"]'
 ubicaciones:
   - "[[darsena]]"
   - "[[tuberias]]"
   - "[[barrios-del-muro]]"
 spoilers:
-  - "Algunos miembros estudian demonología profundamente y mantienen registros detallados de posesiones."
-  - "Hermana Superior María tiene un trauma del pasado: encuentro con un demonio poderoso del que sobrevivió marcada."
+  - Algunos miembros estudian demonología profundamente y mantienen registros
+    detallados de posesiones.
+  - "Hermana Superior María tiene un trauma del pasado: encuentro con un demonio
+    poderoso del que sobrevivió marcada."
 ---
 Orden religiosa dedicada al servicio de pobres, marginales y víctimas de posesión en las zonas más desfavorecidas de la Confederación. Combinan "acción social" (hospitales, comedores, albergues) con "combate espiritual" (exorcismos).
 
@@ -43,8 +42,8 @@ La Congregación opera bajo un modelo de "presencia encarnada": viven entre los 
 ### Liderazgo
 
 - "Madre Superiora / Superior General": Autoridad suprema (cargo de por vida o hasta jubilación)
-  - "Actual": [[hermana-superior-maria|Hermana Superior María]] (57 años, líder respetada y temida)
-- "Consejo de Madres": 5-7 veteranas que asesoran a la Madre Superiora
+  - "Actual": [[madre-superiora-maria|Madre Superiora María]] (57 años, líder respetada y temida; dirige en forma nominal desde la Torre del Faro — el Consejo de Madres gestiona las operaciones cotidianas)
+- "Consejo de Madres": 5-7 veteranas que asesoran y reemplazan operativamente a la Madre Superiora
 - "Maestras Regionales": Responsables de operaciones en cada ciudad/zona
 
 ### Militancia
