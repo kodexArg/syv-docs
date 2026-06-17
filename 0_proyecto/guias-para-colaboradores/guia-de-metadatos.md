@@ -41,8 +41,11 @@ Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinaci�
 | `title` | sí | Título del documento. |
 | `folder` | sí | Ruta relativa de la carpeta contenedora. |
 | `description` | sí | Una o dos frases del contenido. |
+| `entidad` | sí (entidades) | **Exactamente uno** de: `personaje · faccion · ubicacion · concepto · credo · hito · relato · guia · objeto · vehiculo`. Campo propio (faceta), **no** un tag. Lista abierta-extensible. |
+| `alcance` | cuando aplique | `secreto` · `publico`. Correlaciona con `spoilers`. Campo propio. |
+| `estado` | cuando aplique | `canon` · `borrador` · `propuesta`. Campo propio. |
 | `aliases` | recomendado | Lista de nombres alternativos (nombre propio, variantes). |
-| `tags` | recomendado | Taxonomía jerárquica (ver abajo). **No** son links. |
+| `tags` | opcional | **Vivero** open/closed: etiquetas emergentes (normalmente `[]`). **No** cargan dimensiones ni son links. |
 | `related` | opcional | Lista de **wikilinks** a entidades relacionadas sin campo propio. |
 
 ### Específicos por tipo de entidad
