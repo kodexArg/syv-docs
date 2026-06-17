@@ -95,7 +95,7 @@ A pesar de la tolerancia limitada bajo Corpus Licitus, la arqueología digital s
 | "SIA" | ENEMIGOS | Caza implacable, pero también reclutamiento forzoso |
 | "DNS" | ENEMIGOS | Persecución constante, reclutamiento a la fuerza |
 | "La Unión" | NEUTRAL | Algunos contactos comerciales clandestinos |
-| [[resistencia-subterranea\|Resistencia Subterránea]] | ALIADOS | Comparten refugio en las Túberías |
+| [[resistencia-subterranea|Resistencia Subterránea]] | ALIADOS | Comparten refugio en las Túberías |
 
 ---
 
