@@ -7,7 +7,7 @@ description: Relato del Hermano Archivista Pedro de los Santos (2178) sobre el i
   Iglesia desde Italia.
 entidad: relato
 estado: borrador
-folder: .
+folder: 4_diegesis/relatos
 related:
 - '[[2031-la-fragmentacion-de-argentina]]'
 - '[[cronologia]]'
