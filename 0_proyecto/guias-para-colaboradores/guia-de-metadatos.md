@@ -178,15 +178,15 @@ tags: []
 title: Arpistas
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red proscrita de arqueólogos tecnológicos que neutralizan y preservan tecnología prohibida.
+entidad: faccion
+alcance: publico
 aliases:
   - Los Arpistas
 related:
   - "[[inquisicion]]"
   - "[[dgapc]]"
   - "[[iglesia-de-darsena]]"
-tags:
-  - entidad/faccion
-  - alcance/publico
+tags: []
 ---
 ```
 
