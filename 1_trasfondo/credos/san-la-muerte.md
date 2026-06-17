@@ -2,12 +2,12 @@
 title: San La Muerte
 folder: 1_trasfondo/credos
 description: Culto litoral, muerte personificada, santo protector, proscrito, irradicable.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - San La Muerte
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

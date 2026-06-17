@@ -2,15 +2,15 @@
 title: Basílica de San Pedro
 folder: 2_atlas/ciudades/darsena
 description: Sede central del poder eclesiástico de la Confederación, reconstruida en la Isla Oriental de Dársena con las ruinas trasladadas desde el Vaticano (2082-2120).
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
   - Basílica de San Pedro
   - Nueva Basílica de San Pedro
   - Nueva Basílica
   - Basílica-Fortaleza
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[sumo-pontifice]]"

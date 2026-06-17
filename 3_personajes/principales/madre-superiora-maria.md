@@ -1,10 +1,9 @@
 ---
 title: Madre Superiora María
 folder: 3_personajes/principales
-description: Directora Espiritual de la Sagrada Inquisición Argentina y alma
-  fundadora de Las Manos Calladas. Ascendió desde los barrios más pobres de
-  Dársena hasta la cúspide del Faro, cargando un trauma demoníaco que nadie más
-  conoce y un sistema de Iniciados que nadie más comprende del todo.
+description: Directora Espiritual de la Sagrada Inquisición Argentina y alma fundadora de Las Manos Calladas. Ascendió desde los barrios más pobres de Dársena hasta la cúspide del Faro, cargando un trauma demoníaco que nadie más conoce y un sistema de Iniciados que nadie más comprende del todo.
+entidad: personaje
+alcance: secreto
 nombre: Madre Superiora María
 aliases:
   - Madre Superiora María
@@ -15,16 +14,11 @@ aliases:
 facciones:
   - "[[inquisicion]]"
   - "[[iglesia]]"
-related: '["[[sor-sofia]]", "[[las-manos-calladas]]", "[[exorcistas]]",
-  "[[sor-nikole]]", "[[sor-catalina]]"]'
+related: '["[[sor-sofia]]", "[[las-manos-calladas]]", "[[exorcistas]]", "[[sor-nikole]]", "[[sor-catalina]]"]'
 spoilers:
-  - Contiene información sobre el sistema de Iniciados del Faro y sus
-    'consecuencias'.
-  - Su celo contra las posesiones nace de un encuentro demoníaco que le reveló
-    su nombre verdadero.
-tags:
-  - entidad/personaje
-  - alcance/secreto
+  - Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'.
+  - Su celo contra las posesiones nace de un encuentro demoníaco que le reveló su nombre verdadero.
+tags: []
 ---
 
 ## Madre Superiora María

@@ -2,22 +2,19 @@
 title: Eduardo, Vendedor de Libros
 folder: 3_personajes/secundarios
 description: Comerciante de libros prohibidos y guardián del conocimiento censurado.
+entidad: personaje
+alcance: secreto
 nombre: Eduardo
 aliases:
   - Eduardo
   - El Librero de las Sombras
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related: '["[[iglesia]]", "[[inquisicion]]",
-  "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]",
-  "[[guardianes-de-la-memoria]]", "[[elena-juarez]]"]'
+related: '["[[iglesia]]", "[[inquisicion]]", "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]", "[[guardianes-de-la-memoria]]", "[[elena-juarez]]"]'
 spoilers:
-  - Su colección incluye textos que desafían la doctrina oficial, lo que lo
-    convierte en objetivo de la Iglesia y la Inquisición.
+  - Su colección incluye textos que desafían la doctrina oficial, lo que lo convierte en objetivo de la Iglesia y la Inquisición.
 ---
 ## Eduardo, el Librero de las Sombras
 

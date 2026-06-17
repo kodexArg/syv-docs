@@ -2,20 +2,20 @@
 title: Universidad Nacional de Córdoba
 folder: 2_atlas/ciudades/cordoba
 description: La institución académica más grande de la Confederación Argentina. Centro mundial de ingeniería mecánica, matemáticas aplicadas e investigación militar. Ubicada en Córdoba, bajo control del Ejército Argentino y el poder civil coordinado.
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Universidad Nacional de Córdoba
-- UNC
+  - Universidad Nacional de Córdoba
+  - UNC
 region: Córdoba
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+tags: []
 related:
-- "[[fuerzas-armadas]]"
-- "[[universidad-pontificia-america]]"
-- "[[universidad-de-cuyo]]"
+  - "[[fuerzas-armadas]]"
+  - "[[universidad-pontificia-america]]"
+  - "[[universidad-de-cuyo]]"
 ubicaciones:
-- "[[capital]]"
+  - "[[capital]]"
 ---
 
 # Universidad Nacional de Córdoba

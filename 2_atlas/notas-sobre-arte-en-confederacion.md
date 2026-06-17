@@ -2,16 +2,15 @@
 title: Notas Sobre Arte en la Confederación Argentina (2178)
 folder: 2_atlas
 description: Guía contextual sobre cómo arte, belleza y expresión creativa existen bajo restricciones implícitas y explícitas en la Confederación post-Anatema.
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Notas Sobre Arte
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Notas Sobre Arte
+tags: []
 related:
-- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-- "[[iglesia]]"
-
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[iglesia]]"
 ---
 
 # Arte en la Confederación Argentina: Existencia Regulada

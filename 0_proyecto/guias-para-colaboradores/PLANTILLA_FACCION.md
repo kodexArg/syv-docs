@@ -2,18 +2,19 @@
 title: Plantilla Facción
 folder: 0_proyecto/guias-para-colaboradores
 description: Estructura canónica para documentar facciones.
+entidad: guia
 aliases:
   - Plantilla Facción
-tags:
-  - entidad/guia
+tags: []
 related:
   - "[[guia-de-facciones]]"
   - "[[guia-de-metadatos]]"
 ---
 
 Copiá este frontmatter al crear una facción. Reemplazá los valores; las relaciones
-con otras facciones/actores van como **wikilinks** en `related`, los `tags` son
-taxonomía. Ver [[guia-de-metadatos]].
+con otras facciones/actores van como **wikilinks** en `related`. Las dimensiones
+controladas (`entidad`, `alcance`, `estado`) son **campos propios**, no tags.
+Ver [[guia-de-metadatos]] y [[glosario-de-tags]].
 
 ```yaml
 ---
@@ -25,8 +26,9 @@ aliases:
 related:
   - "[[slug-faccion-aliada]]"
   - "[[slug-faccion-rival]]"
-tags:
-  - entidad/faccion
-  - alcance/publico   # o alcance/secreto si guarda secretos
+entidad: faccion
+alcance: publico   # o secreto si guarda secretos
+estado: canon      # o propuesta / borrador
+tags: []
 ---
 ```

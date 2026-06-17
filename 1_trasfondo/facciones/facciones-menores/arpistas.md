@@ -2,15 +2,15 @@
 title: Arpistas
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red proscrita internacional, conocimiento, arqueología tecnológica, neutralización.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Arpistas
   - Los Arpistas
   - Orden de Archivistas del Anatema
   - Los Custodios del Silencio
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

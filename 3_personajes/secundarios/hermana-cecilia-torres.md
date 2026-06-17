@@ -2,13 +2,13 @@
 title: Hermana Cecilia Torres, Archivista
 folder: 3_personajes/secundarios
 description: Archivista y profesora en la Universidad de la Luz Divina.
+entidad: personaje
+alcance: secreto
 nombre: Cecilia Torres
 aliases:
   - Hermana Cecilia Torres
   - Cecilia Torres
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"

@@ -1,20 +1,18 @@
 ---
 title: Padre Alejandro Soria
 folder: 3_personajes/secundarios
-description: Médico que sirve como sacerdote en un hospital eclesiástico,
-  dedicado a salvar vidas.
+description: Médico que sirve como sacerdote en un hospital eclesiástico, dedicado a salvar vidas.
+entidad: personaje
+alcance: secreto
 nombre: Alejandro Soria
 aliases:
   - Padre Alejandro Soria
   - Alejandro Soria
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones:
   - "[[iglesia]]"
 spoilers:
-  - Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la
-    medicina.
+  - Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la medicina.
 related: '["[[hermana-laura-castillo]]", "[[sor-catalina]]", "[[las-manos-calladas]]"]'
 ---
 ## Padre Alejandro Soria, el sanador

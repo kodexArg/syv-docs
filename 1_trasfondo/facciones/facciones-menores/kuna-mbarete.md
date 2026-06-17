@@ -2,14 +2,14 @@
 title: Kuña Mbareté
 folder: 1_trasfondo/facciones/facciones-menores
 description: Hermandad mujeres chamanes guerreras, guerra contra Ména, profilaxis mística.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Kuña Mbareté
   - Las Yarará
   - Mujer Fuerte
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[arpistas]]"

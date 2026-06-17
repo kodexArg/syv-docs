@@ -2,15 +2,15 @@
 title: Hackers
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red clandestina hackers, arqueología digital, comunicaciones cifradas, contra régimen.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Hackers
   - Los Hackers
   - Criptógrafos clandestinos
   - Los Descifradores
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[arpistas]]"
   - "[[guardianes-de-la-memoria]]"

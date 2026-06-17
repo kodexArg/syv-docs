@@ -5,6 +5,8 @@ description: >-
   Nadadora y exploradora de las Tuberías. Conoce los túneles inundados como
   nadie más, espera en la oscuridad con una bengala entre los dientes, y sabe
   exactamente hasta dónde llegan los pulmones de los demás.
+entidad: personaje
+alcance: secreto
 nombre: Lisa
 aliases:
   - Lisa
@@ -14,9 +16,7 @@ ubicaciones:
 related:
   - "[[3_personajes/principales/walter|Walter]]"
   - "[[paco-el-puntero]]"
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 spoilers:
   - "Conoce pasadizos en las profundidades de las Tuberías que conducen hacia el Pueblo del Pantano."
 ---

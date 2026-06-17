@@ -2,13 +2,13 @@
 title: Hijos del Pantano
 folder: 1_trasfondo/credos
 description: Ultra-ecologismo radical terrorista, sabotaje industrial, humanidad como plaga.
+entidad: credo
+alcance: secreto
+estado: canon
 aliases:
   - Hijos del Pantano
   - Los Hijos del Pantano
-tags:
-  - entidad/credo
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[iglesia]]"

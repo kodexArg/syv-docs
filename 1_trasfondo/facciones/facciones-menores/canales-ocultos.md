@@ -2,12 +2,12 @@
 title: Canales Ocultos
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red invisible poder, mercado secretos, favores, fuera control oficial.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Canales Ocultos
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[gremio-de-comercio]]"
   - "[[fuerzas-armadas]]"

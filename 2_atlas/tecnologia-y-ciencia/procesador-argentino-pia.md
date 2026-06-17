@@ -2,17 +2,16 @@
 title: Procesador Argentino Pia
 folder: 2_atlas/tecnologia-y-ciencia
 description: Procesador de Industria Argentina (PIA)
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Procesador de Industria Argentina
   - PIA
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
   - "[[inquisicion]]"
-
 ---
 
 # Procesador de Industria Argentina (PIA)

@@ -3,15 +3,15 @@ title: A Cielo Abierto
 folder: 1_trasfondo/hitos
 fecha: 2031
 description: Terror aéreo, drones autónomos, década de muerte democratizada.
+entidad: hito
+alcance: publico
 aliases:
   - A Cielo Abierto
 related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
   - "[[anatema-mecanico]]"
   - "[[barrios-del-muro]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 *Hito conmemorativo del grafiti encontrado en las ruinas de Rosario*
 *Hermano Archivista Pedro de los Santos, 2178*

@@ -2,15 +2,15 @@
 title: Iglesia Católica (Sede Dársena)
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Santa Sede, corazón ideológico, poder fáctico autoridad espiritual y política de la Iglesia Católica post-Anatema Mecánico.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Iglesia Católica (Sede Dársena)
   - Iglesia de Dársena
   - Iglesia Católica
   - Iglesia
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[exorcistas]]"

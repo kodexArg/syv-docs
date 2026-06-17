@@ -1,22 +1,20 @@
 ---
 title: Alberto Gómez, Ferretero del Centro
 folder: 3_personajes/secundarios
-description: Encargado de una ferretería en el centro, que mantiene el negocio
-  funcionando tras la muerte del dueño.
+description: Encargado de una ferretería en el centro, que mantiene el negocio funcionando tras la muerte del dueño.
+entidad: personaje
+alcance: secreto
 nombre: Alberto Gómez
 aliases:
   - Alberto Gómez
   - El Ferretero
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: '["[[gremio-de-comercio]]"]'
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
 spoilers:
   - Oculta la muerte del dueño de la ferretería para sostener los empleos.
-  - Ha notado ventas sospechosas de materiales para tecnología prohibida y calla
-    por miedo.
+  - Ha notado ventas sospechosas de materiales para tecnología prohibida y calla por miedo.
 ---
 ## Alberto Gómez, el Ferretero
 

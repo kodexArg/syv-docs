@@ -2,16 +2,16 @@
 title: Electricidad
 folder: 2_atlas/tecnologia-y-ciencia
 description: Electricidad y Energía
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Electricidad
-- Electricidad y Energía
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Electricidad
+  - Electricidad y Energía
+tags: []
 related:
-- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-- "[[inquisicion]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[inquisicion]]"
 ---
 En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: estrictamente controlada, con grandes disparidades entre el suministro público y las necesidades de las megaestructuras que sostienen la ciudad.
 

@@ -1,13 +1,12 @@
 ---
 title: Ricardo Vélez, Historiador
 folder: 3_personajes/secundarios
-description: Historiador que imparte clases particulares sobre la verdadera historia
-  de Dársena para preservar la memoria colectiva.
+description: Historiador que imparte clases particulares sobre la verdadera historia de Dársena para preservar la memoria colectiva.
+entidad: personaje
 nombre: Ricardo Vélez
 aliases:
   - Ricardo Vélez
-tags:
-  - entidad/personaje
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"

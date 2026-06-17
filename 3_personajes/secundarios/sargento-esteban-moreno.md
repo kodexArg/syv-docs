@@ -1,15 +1,14 @@
 ---
 title: Sargento Esteban Moreno
 folder: 3_personajes/secundarios
-description: Sargento a cargo de la guarnición del Cementerio de Chacarita y líder
-  de la Orden de los Guardianes.
+description: Sargento a cargo de la guarnición del Cementerio de Chacarita y líder de la Orden de los Guardianes.
+entidad: personaje
+alcance: secreto
 nombre: Esteban Moreno
 aliases:
   - Sargento Esteban Moreno
   - Esteban Moreno
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones:
   - "[[fuerzas-armadas]]"
 spoilers:

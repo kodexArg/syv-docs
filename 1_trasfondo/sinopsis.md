@@ -2,6 +2,8 @@
 title: Sinopsis
 folder: 1_trasfondo
 description: Presente 2178 en Ciudad Dársena, historia desde 2020, facciones, conflicto central Anatema.
+entidad: concepto
+alcance: publico
 aliases:
   - Sinopsis
   - Subordinación y Valor
@@ -25,9 +27,7 @@ related:
   - "[[paco-el-puntero]]"
   - "[[videla-iv]]"
   - "[[sumo-pontifice]]"
-tags:
-  - entidad/concepto
-  - alcance/publico
+tags: []
 ---
 
 # Sinopsis: Subordinación y Valor

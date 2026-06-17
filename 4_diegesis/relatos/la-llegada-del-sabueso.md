@@ -2,12 +2,12 @@
 title: La Llegada del Sabueso
 folder: 4_diegesis/relatos
 description: Introducción narrativa del Detective Damián DiConte a Ciudad Dársena y su primer encuentro con la Inquisición.
+entidad: relato
+alcance: publico
+estado: borrador
 aliases:
   - La Llegada del Sabueso
-tags:
-  - entidad/relato
-  - alcance/publico
-  - estado/borrador
+tags: []
 related:
   - "[[damian-diconte]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"

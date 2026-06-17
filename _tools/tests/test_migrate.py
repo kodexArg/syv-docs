@@ -29,49 +29,59 @@ import migrate_metadata as mm
 # ---------------------------------------------------------------------------
 
 
-def _run_on_content(content: str, rel_path: str = "3_personajes/principais/x.md") -> tuple[str, mm.FileReport, mm.RunReport]:
-    """Run transforms on raw .md content; return (new_content, file_report, run_report)."""
-    # Write to a temp buffer and process via the module internals
+def _run_on_content(
+    content: str,
+    rel_path: str = "3_personajes/principais/x.md",
+    toggles: mm.Toggles | None = None,
+) -> tuple[str, mm.FileReport, mm.RunReport]:
+    """Run the full transform pipeline on raw .md content via process_file.
+
+    Writes to a temp file under a fake vault root mirroring rel_path so that
+    process_file sees the same ordering/toggles the CLI uses, then returns
+    (new_content, file_report, run_report). Dry-run, so the file is never written.
+    """
+    import tempfile
+
     run_rpt = mm.RunReport()
-    basenames: set[str] = set()
+    if toggles is None:
+        # Default for legacy tests: legacy-only pipeline (matches pre-N behavior).
+        toggles = mm.Toggles(
+            legacy=True,
+            fix_string_tags=False,
+            normalize_stragglers=False,
+            dimensions_to_fields=False,
+        )
 
     # Collect basenames from fixtures dir for realistic tests
     fixture_dir = Path(__file__).parent / "fixtures"
-    if fixture_dir.exists():
-        basenames = {f.stem for f in fixture_dir.glob("*.md")}
+    basenames: set[str] = (
+        {f.stem for f in fixture_dir.glob("*.md")} if fixture_dir.exists() else set()
+    )
 
-    rpt = mm.FileReport(rel_path=rel_path)
-    run_rpt.file_reports.append(rpt)
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        fpath = root / rel_path
+        fpath.parent.mkdir(parents=True, exist_ok=True)
+        fpath.write_text(content, encoding="utf-8")
 
-    split = mm._split_content(content)
-    assert split is not None, "Content has no frontmatter"
-    pre, fm_text, rest = split
+        # Capture the produced content by intercepting the write: run in dry-run
+        # and reconstruct via the same internals process_file uses. Simplest is
+        # to run process_file with apply against the temp file, then read it back.
+        mm.process_file(fpath, root, basenames, dry_run=False, run_rpt=run_rpt, toggles=toggles)
+        new_content = fpath.read_text(encoding="utf-8")
 
-    fm = mm._load_yaml(fm_text)
-    assert fm is not None, "Frontmatter is empty"
-
-    # Apply transforms in order (mirroring process_file)
-    mm._transform_spanish_fields(fm, rpt, run_rpt.category_counts)
-    mm._transform_spoilers(fm, rpt, run_rpt.category_counts)
-    mm._transform_missing_fields(fm, rpt, run_rpt.category_counts, rel_path)
-    mm._transform_folder_normalize(fm, rpt, run_rpt.category_counts, rel_path)
-    mm._transform_tags(fm, rpt, run_rpt.category_counts, basenames, rel_path)
-    mm._report_missing_entidad_tag(fm, rpt, run_rpt.category_counts, rel_path)
-    mm._transform_wikilink_quoting(fm, rpt, run_rpt.category_counts)
-
-    new_fm_text = mm._dump_yaml(fm)
-    new_content = pre + new_fm_text + "\n---" + rest
-
-    fm_end = len(pre) + len(new_fm_text) + len("\n---")
-    new_content = mm._transform_at_syntax(new_content, fm_end, rpt, run_rpt.category_counts)
-
+    rpt = run_rpt.file_reports[0]
     return new_content, rpt, run_rpt
 
 
-def _assert_idempotent(content: str, rel_path: str = "3_personajes/principals/x.md") -> None:
+def _assert_idempotent(
+    content: str,
+    rel_path: str = "3_personajes/principals/x.md",
+    toggles: mm.Toggles | None = None,
+) -> None:
     """Assert that running twice produces no additional changes on the second pass."""
-    result1, rpt1, _ = _run_on_content(content, rel_path)
-    result2, rpt2, _ = _run_on_content(result1, rel_path)
+    result1, rpt1, _ = _run_on_content(content, rel_path, toggles)
+    result2, rpt2, _ = _run_on_content(result1, rel_path, toggles)
     assert result1 == result2, (
         f"Not idempotent!\n"
         f"Pass-2 transforms: {rpt2.transforms}\n"
@@ -572,6 +582,362 @@ def _show_diff(expected: str, got: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# New transforms (N1 fix-string-tags, N2 normalize-stragglers, N3 dims-to-fields)
+# ---------------------------------------------------------------------------
+
+# All-new-transforms toggles, legacy OFF, so each test isolates the new behavior.
+_N = mm.Toggles(
+    legacy=False,
+    fix_string_tags=True,
+    normalize_stragglers=True,
+    dimensions_to_fields=True,
+)
+# fix-string-tags in isolation
+_N1 = mm.Toggles(legacy=False, fix_string_tags=True,
+                 normalize_stragglers=False, dimensions_to_fields=False)
+# normalize-stragglers in isolation
+_N2 = mm.Toggles(legacy=False, fix_string_tags=False,
+                 normalize_stragglers=True, dimensions_to_fields=False)
+# dimensions-to-fields in isolation
+_N3 = mm.Toggles(legacy=False, fix_string_tags=False,
+                 normalize_stragglers=False, dimensions_to_fields=True)
+
+
+# N1: tags as a flow-string '["entidad/guia"]' → real list
+def test_fix_string_tags():
+    content = textwrap.dedent("""\
+        ---
+        title: Cartas
+        folder: 4_diegesis/cartas
+        description: Indice de cartas.
+        tags: '["entidad/guia"]'
+        ---
+
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "4_diegesis/cartas/cartas.md", _N1)
+    fm = _fm_of(result)
+    assert isinstance(fm["tags"], list), f"tags not a list: {fm['tags']!r}"
+    assert fm["tags"] == ["entidad/guia"], f"tags wrong: {fm['tags']!r}"
+    assert any("fix-string-tags" in t for t in rpt.transforms)
+    _assert_idempotent(content, "4_diegesis/cartas/cartas.md", _N1)
+
+
+# N1: multi-value flow-string with quotes → list
+def test_fix_string_tags_multi():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 4_diegesis/cartas
+        description: D.
+        tags: '["entidad/guia", "alcance/publico"]'
+        ---
+        Body.
+        """)
+    result, _, _ = _run_on_content(content, "4_diegesis/cartas/x.md", _N1)
+    fm = _fm_of(result)
+    assert fm["tags"] == ["entidad/guia", "alcance/publico"], f"got {fm['tags']!r}"
+
+
+# N1: a plain single-word string tag is NOT touched by fix-string-tags
+def test_fix_string_tags_ignores_plain_scalar():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 4_diegesis/cartas
+        description: D.
+        tags: entidad/guia
+        ---
+        Body.
+        """)
+    _, rpt, _ = _run_on_content(content, "4_diegesis/cartas/x.md", _N1)
+    assert not any("fix-string-tags" in t for t in rpt.transforms), (
+        f"fix-string-tags fired on plain scalar: {rpt.transforms}"
+    )
+
+
+# N1 → N3 pipeline: string tags fixed, THEN promoted to a field
+def test_fix_string_tags_then_dimensions():
+    content = textwrap.dedent("""\
+        ---
+        title: Cronicas
+        folder: 4_diegesis/cronicas
+        description: Indice.
+        tags: '["entidad/guia"]'
+        ---
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "4_diegesis/cronicas/cronicas.md", _N)
+    fm = _fm_of(result)
+    assert fm.get("entidad") == "guia", f"entidad field not set: {fm}"
+    assert fm["tags"] == [], f"tags should be empty list: {fm['tags']!r}"
+    _assert_idempotent(content, "4_diegesis/cronicas/cronicas.md", _N)
+
+
+# N2: faccion (typo) → facciones
+def test_straggler_rename_faccion():
+    content = textwrap.dedent("""\
+        ---
+        title: Personaje
+        folder: 3_personajes/principales
+        description: D.
+        faccion:
+          - "[[inquisicion]]"
+        tags:
+          - entidad/personaje
+        ---
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "3_personajes/principales/x.md", _N2)
+    fm = _fm_of(result)
+    assert "faccion" not in fm, f"typo key remains: {fm}"
+    assert "facciones" in fm, f"facciones not set: {fm}"
+    assert [str(v) for v in fm["facciones"]] == ["[[inquisicion]]"], f"value lost: {fm['facciones']}"
+    assert any("straggler-rename" in t for t in rpt.transforms)
+    _assert_idempotent(content, "3_personajes/principales/x.md", _N2)
+
+
+# N2: faccion rename when facciones already present → conflict, no clobber
+def test_straggler_rename_conflict():
+    content = textwrap.dedent("""\
+        ---
+        title: Personaje
+        folder: 3_personajes/principales
+        description: D.
+        faccion:
+          - "[[a]]"
+        facciones:
+          - "[[b]]"
+        tags:
+          - entidad/personaje
+        ---
+        Body.
+        """)
+    _, rpt, _ = _run_on_content(content, "3_personajes/principales/x.md", _N2)
+    assert any("straggler-conflict" in w for w in rpt.warnings), f"no conflict warning: {rpt.warnings}"
+
+
+# N2: faccion whose value is a MAPPING (stats blob) → NOT renamed, flagged instead
+def test_straggler_rename_skips_mapping():
+    content = textwrap.dedent("""\
+        ---
+        title: Menores
+        folder: 1_trasfondo/facciones/facciones-menores
+        description: D.
+        faccion:
+          tipo: Variado
+          alcance: Local/Regional
+          regiones:
+            - Ciudad Dársena
+        tags: []
+        ---
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "1_trasfondo/facciones/facciones-menores/x.md", _N2)
+    fm = _fm_of(result)
+    assert "faccion" in fm, f"mapping-valued 'faccion' was renamed (must be left): {fm}"
+    assert "facciones" not in fm, f"facciones must NOT be created from a mapping: {fm}"
+    assert isinstance(fm["faccion"], dict), f"value type changed: {fm['faccion']!r}"
+    assert not any("straggler-rename:" in t for t in rpt.transforms), (
+        f"rename fired on mapping: {rpt.transforms}"
+    )
+    assert any("straggler-rename-skipped" in w for w in rpt.warnings), (
+        f"no skip warning: {rpt.warnings}"
+    )
+    _assert_idempotent(content, "1_trasfondo/facciones/facciones-menores/x.md", _N2)
+
+
+# N2: 1-use keys flagged, never deleted
+def test_straggler_flag_keys():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 1_trasfondo
+        description: D.
+        status: borrador
+        type: cosa
+        fechas-clave:
+          - 2099
+        personajes-historicos:
+          - "[[alguien]]"
+        tags:
+          - entidad/concepto
+        ---
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "1_trasfondo/x.md", _N2)
+    fm = _fm_of(result)
+    for k in ("status", "type", "fechas-clave", "personajes-historicos"):
+        assert k in fm, f"flagged key '{k}' was deleted (must be left): {fm}"
+        assert any(f"'{k}'" in w and "straggler-flag" in w for w in rpt.warnings), (
+            f"no flag warning for '{k}': {rpt.warnings}"
+        )
+    _assert_idempotent(content, "1_trasfondo/x.md", _N2)
+
+
+# N3: the big one — three dimensions promoted, tags emptied to []
+def test_dimensions_to_fields_full():
+    content = textwrap.dedent("""\
+        ---
+        title: Personaje
+        folder: 3_personajes/principales
+        description: D.
+        aliases:
+          - P
+        tags:
+          - entidad/personaje
+          - alcance/secreto
+          - estado/canon
+        related:
+          - "[[otro]]"
+        ---
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "3_personajes/principales/x.md", _N3)
+    fm = _fm_of(result)
+    assert fm.get("entidad") == "personaje", f"entidad: {fm}"
+    assert fm.get("alcance") == "secreto", f"alcance: {fm}"
+    assert fm.get("estado") == "canon", f"estado: {fm}"
+    assert fm["tags"] == [], f"tags not empty: {fm['tags']!r}"
+    assert sum(1 for t in rpt.transforms if "dimension-to-field" in t) == 3
+    _assert_idempotent(content, "3_personajes/principales/x.md", _N3)
+
+
+# N3: non-dimensional tags stay in the nursery
+def test_dimensions_keeps_nursery_tags():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 1_trasfondo
+        description: D.
+        tags:
+          - entidad/concepto
+          - misterio-emergente
+        ---
+        Body.
+        """)
+    result, _, _ = _run_on_content(content, "1_trasfondo/x.md", _N3)
+    fm = _fm_of(result)
+    assert fm.get("entidad") == "concepto"
+    assert fm["tags"] == ["misterio-emergente"], f"nursery tag lost: {fm['tags']!r}"
+
+
+# N3: field ordering — entidad/alcance/estado sit right after description
+def test_dimensions_field_order():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 1_trasfondo
+        description: D.
+        aliases:
+          - X
+        tags:
+          - entidad/concepto
+          - alcance/publico
+          - estado/canon
+        ---
+        Body.
+        """)
+    result, _, _ = _run_on_content(content, "1_trasfondo/x.md", _N3)
+    fm = _fm_of(result)
+    keys = list(fm.keys())
+    di = keys.index("description")
+    # The three dimension fields immediately follow description, in canonical order.
+    assert keys[di + 1: di + 4] == ["entidad", "alcance", "estado"], f"bad order: {keys}"
+
+
+# N3: two entidad/* values → conflict, no guess, tags untouched-for-that-tree
+def test_dimensions_conflict_no_guess():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 1_trasfondo
+        description: D.
+        tags:
+          - entidad/concepto
+          - entidad/faccion
+        ---
+        Body.
+        """)
+    result, rpt, _ = _run_on_content(content, "1_trasfondo/x.md", _N3)
+    fm = _fm_of(result)
+    assert "entidad" not in fm, f"entidad field should NOT be set on conflict: {fm}"
+    assert any("dimension-conflict" in w for w in rpt.warnings), f"no conflict warning: {rpt.warnings}"
+    tags = mm._get_tags_list(fm)
+    assert "entidad/concepto" in tags and "entidad/faccion" in tags, f"conflicting tags lost: {tags}"
+
+
+# N3: already-migrated file (fields set, tags []) is a no-op
+def test_dimensions_idempotent_already_migrated():
+    content = textwrap.dedent("""\
+        ---
+        title: X
+        folder: 1_trasfondo
+        description: D.
+        entidad: concepto
+        alcance: publico
+        estado: canon
+        tags: []
+        ---
+        Body.
+        """)
+    _, rpt, _ = _run_on_content(content, "1_trasfondo/x.md", _N3)
+    assert not rpt.transforms, f"already-migrated file had transforms: {rpt.transforms}"
+    _assert_idempotent(content, "1_trasfondo/x.md", _N3)
+
+
+# Full pipeline (legacy + all N): spoilers + dimensions must not churn.
+# Regression: legacy spoiler-migrate re-added alcance/secreto tag, N3 re-promoted
+# it to a field every pass → infinite churn. Guarded by the alcance-field check.
+_FULL = mm.Toggles(legacy=True, fix_string_tags=True,
+                   normalize_stragglers=True, dimensions_to_fields=True)
+
+
+def test_spoilers_plus_dimensions_no_churn():
+    content = textwrap.dedent("""\
+        ---
+        title: Secreto
+        folder: 1_trasfondo/credos
+        description: D.
+        spoilers:
+          - "Un secreto."
+        tags:
+          - entidad/credo
+          - alcance/secreto
+        ---
+        Body.
+        """)
+    # First pass promotes alcance/secreto → field; second pass must be a no-op.
+    result1, rpt1, _ = _run_on_content(content, "1_trasfondo/credos/x.md", _FULL)
+    fm1 = _fm_of(result1)
+    assert fm1.get("alcance") == "secreto", f"alcance not promoted: {fm1}"
+    assert fm1["tags"] == ["entidad/credo"] or "alcance/secreto" not in mm._get_tags_list(fm1), (
+        f"alcance/secreto should be a field, not a tag: {fm1}"
+    )
+    _assert_idempotent(content, "1_trasfondo/credos/x.md", _FULL)
+
+
+def test_spoilers_with_publico_field_flagged_not_churned():
+    content = textwrap.dedent("""\
+        ---
+        title: Contradiccion
+        folder: 1_trasfondo/credos
+        description: D.
+        alcance: publico
+        spoilers:
+          - "Pero tiene secretos."
+        tags: []
+        ---
+        Body.
+        """)
+    _, rpt, _ = _run_on_content(content, "1_trasfondo/credos/x.md", _FULL)
+    assert any("spoiler-alcance-mismatch" in w for w in rpt.warnings), (
+        f"no mismatch warning: {rpt.warnings}"
+    )
+    _assert_idempotent(content, "1_trasfondo/credos/x.md", _FULL)
+
+
+# ---------------------------------------------------------------------------
 # Runner
 # ---------------------------------------------------------------------------
 
@@ -598,6 +964,21 @@ def main() -> None:
         ("T10 non-wikilink display name reported", test_non_wikilink_display_name_reported),
         ("T6+T4 spoilers → alcance/secreto idempotent", test_spoiler_adds_secreto_tag_idempotent),
         ("emit style: folder-normalize touches only folder line", test_no_churn_on_folder_normalize),
+        ("N1 fix-string-tags → list", test_fix_string_tags),
+        ("N1 fix-string-tags multi-value", test_fix_string_tags_multi),
+        ("N1 fix-string-tags ignores plain scalar", test_fix_string_tags_ignores_plain_scalar),
+        ("N1→N3 string tags fixed then promoted", test_fix_string_tags_then_dimensions),
+        ("N2 straggler rename faccion→facciones (list)", test_straggler_rename_faccion),
+        ("N2 straggler rename SKIPS mapping value", test_straggler_rename_skips_mapping),
+        ("N2 straggler rename conflict", test_straggler_rename_conflict),
+        ("N2 straggler flag 1-use keys (not deleted)", test_straggler_flag_keys),
+        ("N3 dimensions-to-fields full", test_dimensions_to_fields_full),
+        ("N3 dimensions keeps nursery tags", test_dimensions_keeps_nursery_tags),
+        ("N3 dimensions field order", test_dimensions_field_order),
+        ("N3 dimensions conflict — no guess", test_dimensions_conflict_no_guess),
+        ("N3 dimensions idempotent (already migrated)", test_dimensions_idempotent_already_migrated),
+        ("FULL spoilers+dimensions no churn", test_spoilers_plus_dimensions_no_churn),
+        ("FULL spoilers+publico field flagged, not churned", test_spoilers_with_publico_field_flagged_not_churned),
     ]
 
     print(f"\n{'='*60}")

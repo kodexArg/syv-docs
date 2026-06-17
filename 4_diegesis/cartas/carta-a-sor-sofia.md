@@ -2,13 +2,13 @@
 title: Carta de Sor Catalina a Sor Sofía
 folder: 4_diegesis/cartas
 description: Carta confidencial de Sor Catalina, monja investigadora de la red clandestina de Las Manos Calladas, dirigida a Sor Sofía. Describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
+entidad: relato
+alcance: publico
+estado: borrador
 aliases:
   - Carta de Sor Catalina a Sor Sofía
   - Carta a Sor Sofía
-tags:
-  - entidad/relato
-  - alcance/publico
-  - estado/borrador
+tags: []
 related:
   - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"

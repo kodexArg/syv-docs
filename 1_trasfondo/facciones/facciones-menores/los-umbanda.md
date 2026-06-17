@@ -2,13 +2,13 @@
 title: Umbanda
 folder: 1_trasfondo/facciones/facciones-menores
 description: Fe sincrética Barrios Muro, presencia clandestina, desafía Iglesia.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Umbanda
   - Los Umbanda
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

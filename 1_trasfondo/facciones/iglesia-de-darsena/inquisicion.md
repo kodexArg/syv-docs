@@ -2,15 +2,15 @@
 title: SIA
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Sagrada Inquisición Argentina, Cirujanos del Alma, herejía y saberes prohibidos.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - SIA
   - Sagrada Inquisición Argentina
   - Santa Inquisición Argentina
   - Los Cirujanos del Alma
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[exorcistas]]"

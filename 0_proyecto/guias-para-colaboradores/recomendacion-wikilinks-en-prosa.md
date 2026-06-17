@@ -1,18 +1,16 @@
 ---
 aliases:
-- Wikilinks en la prosa
-- Ver relacionados
-description: 'Recomendación de estilo: agrupar los wikilinks al final del artículo
-  o sección en una tarjeta «Ver relacionados», en vez de intercalarlos en el párrafo,
-  para una lectura más limpia. No obligatoria, sin migración.'
+  - Wikilinks en la prosa
+  - Ver relacionados
+description: 'Recomendación de estilo: agrupar los wikilinks al final del artículo o sección en una tarjeta «Ver relacionados», en vez de intercalarlos en el párrafo, para una lectura más limpia. No obligatoria, sin migración.'
 folder: 0_proyecto/guias-para-colaboradores
 related:
-- '[[guia-de-metadatos]]'
-- '[[manual-del-colaborador]]'
-tags:
-- entidad/guia
-- estado/canon
+  - '[[guia-de-metadatos]]'
+  - '[[manual-del-colaborador]]'
+tags: []
 title: Wikilinks en la prosa (recomendación)
+entidad: guia
+estado: canon
 ---
 
 # Wikilinks en la prosa

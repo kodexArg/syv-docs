@@ -3,6 +3,8 @@ title: Gran Silencio
 folder: 1_trasfondo/hitos
 fecha: 2061-03-12
 description: Apagón global coordinado, fin dominio QIA, nacimiento Anatema Mecánico.
+entidad: hito
+alcance: secreto
 aliases:
   - El Gran Silencio
 related:
@@ -16,9 +18,7 @@ related:
 spoilers:
   - "El Oráculo de la Bestia: el corpus QIA capturado, no destruido, y consultado en secreto por la SIA bajo la Nueva Basílica."
   - "Las cifras reales de muertos (180.000+) y los dispositivos de distracción cognitiva permanecen clasificados."
-tags:
-  - entidad/hito
-  - alcance/secreto
+tags: []
 ---
 # El Gran Silencio (12 de marzo de 2061)
 

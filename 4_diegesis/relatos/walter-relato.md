@@ -2,8 +2,8 @@
 title: Walter
 folder: 4_diegesis/relatos
 description: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena, en su bautismo subacuático junto a Paco.
-tags:
-  - entidad/relato
+entidad: relato
+tags: []
 aliases:
   - Walter (relato)
 related:

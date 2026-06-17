@@ -2,12 +2,12 @@
 title: Guaraní
 folder: 1_trasfondo/credos
 description: Pueblo paraguayo, idioma común, millones en norte, minoría perseguida en Dársena.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Guaraní
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

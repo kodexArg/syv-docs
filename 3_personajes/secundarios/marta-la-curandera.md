@@ -1,15 +1,14 @@
 ---
 title: Marta, la Curandera
 folder: 3_personajes/secundarios
-description: Sanadora espiritual de Las Túberías. Vive de donaciones y remedios imposibles,
-  rodeada de hilos tejidos, sedas antiguas y un misterio que la precede.
+description: Sanadora espiritual de Las Túberías. Vive de donaciones y remedios imposibles, rodeada de hilos tejidos, sedas antiguas y un misterio que la precede.
+entidad: personaje
+alcance: secreto
 nombre: Marta
 aliases:
   - Marta
   - La Curandera
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"

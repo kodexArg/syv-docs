@@ -2,16 +2,16 @@
 title: Tecnologia Militar
 folder: 2_atlas/tecnologia-y-ciencia
 description: Tecnología Militar
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Tecnología Militar
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Tecnología Militar
+tags: []
 related:
-- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-- "[[inquisicion]]"
-- "[[fuerzas-armadas]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[inquisicion]]"
+  - "[[fuerzas-armadas]]"
 ---
 El poder de la Confederación Argentina se sostiene sobre una base militar tecnológicamente superior a la de sus vecinos. Aunque la tecnología está doctrinalmente limitada por la Iglesia, en el campo de batalla se permiten y desarrollan armas avanzadas, siempre que no dependan de una IA o de computación compleja.
 

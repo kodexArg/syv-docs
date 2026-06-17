@@ -2,6 +2,8 @@
 title: Conocimiento Sobreviviente
 folder: 1_trasfondo/codex
 description: Inventario del Hermano Archivista de memoria humana, qué sobrevivió y qué se perdió.
+entidad: concepto
+alcance: publico
 aliases:
   - El Conocimiento Sobreviviente
 related:
@@ -10,9 +12,7 @@ related:
   - "[[arpistas]]"
   - "[[inquisicion]]"
   - "[[videla-iv]]"
-tags:
-  - entidad/concepto
-  - alcance/publico
+tags: []
 ---
 # El Conocimiento Sobreviviente: Un Inventario de la Memoria Humana
 

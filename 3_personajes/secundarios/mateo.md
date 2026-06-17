@@ -1,14 +1,13 @@
 ---
 title: Mateo
 folder: 3_personajes/secundarios
-description: Niño poseído, escuálido y atormentado, símbolo de la vulnerabilidad en
-  las Tuberías.
+description: Niño poseído, escuálido y atormentado, símbolo de la vulnerabilidad en las Tuberías.
+entidad: personaje
+alcance: secreto
 nombre: Mateo
 aliases:
   - Mateo
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"

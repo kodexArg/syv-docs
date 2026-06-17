@@ -2,14 +2,14 @@
 title: Hermandades Católicas
 folder: 1_trasfondo/credos
 description: Variantes locales, órdenes internas de la Iglesia Católica, toleradas.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Hermandades Católicas
   - Hermandades y Órdenes Católicas
   - Hermandades Menores
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

@@ -2,21 +2,21 @@
 title: Isla Oriental
 folder: 2_atlas/ciudades/darsena
 description: Todo el territorio al este de la antigua dársena. Corazón del poder militar, religioso y espiritual de Ciudad Dársena. Hogar del Faro de la SIA, la Nueva Basílica de San Pedro y la Universidad de la Luz Divina.
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Isla Oriental
-- Zona Militar-Eclesiástica
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - Isla Oriental
+  - Zona Militar-Eclesiástica
+tags: []
 related:
-- "[[iglesia]]"
-- "[[inquisicion]]"
-- "[[fuerzas-armadas]]"
-- "[[monseñor-miguel]]"
-- "[[madre-superiora-maria]]"
+  - "[[iglesia]]"
+  - "[[inquisicion]]"
+  - "[[fuerzas-armadas]]"
+  - "[[monseñor-miguel]]"
+  - "[[madre-superiora-maria]]"
 ubicaciones:
-- "[[darsena]]"
+  - "[[darsena]]"
 ---
 La Isla Oriental es todo el territorio al este de la antigua dársena de Buenos Aires. Su morfología ha variado con los siglos: tierra ganada al mar ha ampliado su superficie más allá de lo que fue Puerto Madero en tiempos previos al Colapso. Separada del resto de la ciudad por la vieja dársena —un canal de aguas oscuras que ha ascendido hasta casi el nivel de la calle—, la isla alberga a 200.000 habitantes y constituye el corazón del poder en Ciudad Dársena. Aquí se materializa el mandato del **Preámbulo** de la Constitución: la unión de la Iglesia y las Fuerzas Armadas para afianzar la Justicia Divina y proveer a la defensa común.
 

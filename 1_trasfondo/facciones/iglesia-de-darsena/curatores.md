@@ -2,20 +2,20 @@
 title: Curatores
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Orden médica eclesiástica que administra hospitales y supervisa la práctica médica bajo criterio teológico.
+entidad: faccion
+alcance: publico
+estado: propuesta
 aliases:
   - Curatores
   - Los Curatores
-tags:
-  - entidad/faccion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[iglesia]]"
 ubicaciones:
   - "[[darsena]]"
 ---
 
-Ficha por desarrollar. Stub creado para una rama operativa de la Iglesia referenciada en personajes pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una rama operativa de la Iglesia referenciada en personajes pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

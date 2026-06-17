@@ -2,17 +2,16 @@
 title: Sistemas Energéticos en la Confederación
 folder: 2_atlas/tecnologia-y-ciencia
 description: Comparación entre tecnologías de almacenamiento civil y militar
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Sistemas Energéticos
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[tecnologia-civil]]"
   - "[[tecnologia-militar]]"
   - "[[celdas-radionuclidos]]"
-
 ---
 
 # Sistemas Energéticos en la Confederación

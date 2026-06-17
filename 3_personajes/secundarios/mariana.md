@@ -1,14 +1,13 @@
 ---
 title: Mariana, artista torturada
 folder: 3_personajes/secundarios
-description: Joven artista en estado catatónico, marcada por la obsesión y la
-  fragilidad en las Tuberías.
+description: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad en las Tuberías.
+entidad: personaje
+alcance: secreto
 nombre: Mariana
 aliases:
   - Mariana
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: "[]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"

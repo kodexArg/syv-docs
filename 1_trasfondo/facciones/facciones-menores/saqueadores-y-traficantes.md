@@ -2,14 +2,14 @@
 title: Saqueadores
 folder: 1_trasfondo/facciones/facciones-menores
 description: Arqueólogos traficantes, ruinas Dársena, venden secretos del pasado.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Saqueadores
   - Saqueadores y Traficantes
   - Saqueadores y Traficantes de Antigüedades
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[guardianes-de-la-memoria]]"

@@ -2,6 +2,8 @@
 title: Damián DiConte
 folder: 3_personajes/principales
 description: Detective veterano de Córdoba conocido como "El Sabueso", exiliado en Dársena tras descubrir una conspiración en el Ejército.
+entidad: personaje
+alcance: secreto
 nombre: Damián DiConte
 aliases:
   - Damián DiConte
@@ -9,9 +11,7 @@ aliases:
 facciones: []
 spoilers:
   - "Su investigación sobre la conspiración del Ejército en la Iglesia y los motivos de su huida a Dársena."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ## Damián DiConte, El Sabueso
 

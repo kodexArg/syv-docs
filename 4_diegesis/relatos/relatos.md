@@ -1,9 +1,9 @@
 ---
 title: Relatos
 folder: 4_diegesis/relatos
-description: "Índice de los relatos del universo SyV: ficciones inmersivas
-  narradas con la voz de quienes habitan Dársena y sus Tuberías."
-tags: '["entidad/guia"]'
+description: "Índice de los relatos del universo SyV: ficciones inmersivas narradas con la voz de quienes habitan Dársena y sus Tuberías."
+entidad: guia
+tags: []
 ---
 
 Las historias que habitan el universo. Narraciones escritas con la voz de los personajes que caminan las calles de Dársena, que descienden a las Tuberías en busca de supervivencia, que enfrentan el dilema entre obedecer el Anatema Mecánico o preservar el conocimiento prohibido.

@@ -2,21 +2,20 @@
 title: Barrios Del Muro
 folder: 2_atlas/ciudades/darsena
 description: Barrios del Muro
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Barrios del Muro
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - Barrios del Muro
+tags: []
 related:
-- "[[gremio-de-comercio]]"
-- "[[resistencia-subterranea]]"
-- "[[inquisicion]]"
-- "[[traficantes-de-almas]]"
+  - "[[gremio-de-comercio]]"
+  - "[[resistencia-subterranea]]"
+  - "[[inquisicion]]"
+  - "[[traficantes-de-almas]]"
 ubicaciones:
-- "[[darsena]]"
-- "[[tuberias]]"
-
+  - "[[darsena]]"
+  - "[[tuberias]]"
 ---
 Los Barrios del Muro son el distrito más grande de Ciudad Dársena. Cinco kilómetros cuadrados de concreto apilado en vertical albergan tres millones y medio de almas—el setenta por ciento de la población total de la ciudad. Rodeados por el muro al oeste y al sur, estos barrios viven en el límite físico de la civilización conocida: al oeste se extienden las Tierras Baldías de la DMZ, áridas y letales bajo los francotiradores; al sur, el laberinto verde de Los Pantanos, marismas anegadas donde nadie se atreve a entrar.
 

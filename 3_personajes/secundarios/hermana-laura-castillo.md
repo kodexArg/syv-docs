@@ -1,20 +1,18 @@
 ---
 title: Hermana Laura Castillo, Enfermera
 folder: 3_personajes/secundarios
-description: Enfermera experimentada y miembro de los Curatores, dedicada a
-  ayudar en las clínicas comunitarias.
+description: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias.
+entidad: personaje
+alcance: secreto
 nombre: Laura Castillo
 aliases:
   - Hermana Laura Castillo
   - Laura Castillo
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: '["[[las-manos-calladas]]"]'
 spoilers:
   - Colabora con una red clandestina de ayuda para los más necesitados.
-related: '["[[madre-superiora-maria]]", "[[sor-nikole]]",
-  "[[padre-alejandro-soria]]", "[[las-manos-calladas]]"]'
+related: '["[[madre-superiora-maria]]", "[[sor-nikole]]", "[[padre-alejandro-soria]]", "[[las-manos-calladas]]"]'
 ---
 ## Hermana Laura Castillo
 

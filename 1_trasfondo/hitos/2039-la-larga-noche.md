@@ -2,6 +2,8 @@
 title: Larga Noche
 folder: 1_trasfondo/hitos
 description: Gran Guerra Global 2039-2068, colapso comunicaciones, guerra contra máquinas.
+entidad: hito
+alcance: publico
 fecha: 2039
 aliases:
   - La Larga Noche
@@ -10,9 +12,7 @@ aliases:
 related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
   - "[[anatema-mecanico]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 *Inicio de la Gran Guerra Global (2039-2068)*
 

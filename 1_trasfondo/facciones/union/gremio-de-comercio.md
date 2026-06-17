@@ -2,14 +2,14 @@
 title: Gremio Comercio
 folder: 1_trasfondo/facciones/union
 description: Mayor poder económico, tenderos magnates, mercado negro, libre mercado extremo.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Gremio Comercio
   - Gremio de Comercio
   - Comerciantes
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[fuerzas-armadas]]"

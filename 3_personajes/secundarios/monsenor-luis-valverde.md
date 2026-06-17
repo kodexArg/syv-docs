@@ -1,15 +1,14 @@
 ---
 title: Monseñor Luis Valverde
 folder: 3_personajes/secundarios
-description: Director de la Academia Teológica y figura prominente del Alto
-  Clero, conocido por su erudición y vasta red de contactos científicos.
+description: Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y vasta red de contactos científicos.
+entidad: personaje
+alcance: secreto
 nombre: Luis Valverde
 aliases:
   - Monseñor Luis Valverde
   - Luis Valverde
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones:
   - "[[iglesia]]"
 spoilers:

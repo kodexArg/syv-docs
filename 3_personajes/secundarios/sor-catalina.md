@@ -1,20 +1,17 @@
 ---
 title: Sor Catalina
 folder: 3_personajes/secundarios
-description: Monja del núcleo de Las Manos Calladas que investiga extraños
-  sucesos sobrenaturales en los barrios bajos de Dársena y documenta sus
-  hallazgos en correspondencia confidencial.
+description: Monja del núcleo de Las Manos Calladas que investiga extraños sucesos sobrenaturales en los barrios bajos de Dársena y documenta sus hallazgos en correspondencia confidencial.
+entidad: personaje
 nombre: Catalina
 aliases:
   - Sor Catalina
   - Catalina
-tags:
-  - entidad/personaje
+tags: []
 facciones: '["[[las-manos-calladas]]"]'
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related: '["[[madre-superiora-maria]]", "[[padre-alejandro-soria]]",
-  "[[las-manos-calladas]]"]'
+related: '["[[madre-superiora-maria]]", "[[padre-alejandro-soria]]", "[[las-manos-calladas]]"]'
 ---
 ## Sor Catalina
 

@@ -1,14 +1,13 @@
 ---
 title: Marcos Duarte, Científico en Torres Hidropónicas
 folder: 3_personajes/secundarios
-description: Científico de las Torres Hidropónicas. Hombre silencioso que
-  trabaja como operario manteniendo sistemas de subsistencia.
+description: Científico de las Torres Hidropónicas. Hombre silencioso que trabaja como operario manteniendo sistemas de subsistencia.
+entidad: personaje
+alcance: secreto
 nombre: Marcos Duarte
 aliases:
   - Marcos Duarte
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: '["[[resistencia-subterranea]]"]'
 spoilers:
   - Participa en la Resistencia Subterránea y en planes de sabotaje.

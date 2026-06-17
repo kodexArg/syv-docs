@@ -2,12 +2,12 @@
 title: Índice de Energía y Electricidad
 folder: 2_atlas/tecnologia-y-ciencia
 description: Guía completa de la información energética del universo SyV - Atlas integrado
+entidad: guia
+alcance: publico
+estado: canon
 aliases:
   - Índice de Energía y Electricidad
-tags:
-  - entidad/guia
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[electricidad]]"
   - "[[sistemas-energeticos]]"

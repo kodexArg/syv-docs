@@ -1,14 +1,13 @@
 ---
 title: Sonia Rodríguez, Cocinera y Dueña
 folder: 3_personajes/secundarios
-description: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su
-  generosidad con los necesitados.
+description: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su generosidad con los necesitados.
+entidad: personaje
+alcance: secreto
 nombre: Sonia Rodríguez
 aliases:
   - Sonia Rodríguez
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"

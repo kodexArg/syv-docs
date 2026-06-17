@@ -2,12 +2,12 @@
 title: Carolina Pérez, Costurera
 folder: 3_personajes/secundarios
 description: Costurera con un pequeño taller en los Barrios del Muro.
+entidad: personaje
 nombre: Carolina Pérez
 aliases:
   - Carolina Pérez
   - La Costurera
-tags:
-  - entidad/personaje
+tags: []
 facciones:
   - "[[gremio-de-comercio]]"
 ubicaciones:

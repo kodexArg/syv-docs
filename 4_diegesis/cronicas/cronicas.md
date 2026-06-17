@@ -1,9 +1,9 @@
 ---
 title: Cronicas
 folder: 4_diegesis/cronicas
-description: "Índice de las crónicas del universo SyV: registros, bitácoras y
-  diarios que narran los eventos del canon desde adentro."
-tags: '["entidad/guia"]'
+description: "Índice de las crónicas del universo SyV: registros, bitácoras y diarios que narran los eventos del canon desde adentro."
+entidad: guia
+tags: []
 ---
 
 Los registros del mundo desde adentro. Crónicas oficiales que la Iglesia autoriza para preservar la memoria controlada, bitácoras de marineros que navegan el Río de la Plata bajo la niebla, diarios de campaña militar contra facciones proscritas.

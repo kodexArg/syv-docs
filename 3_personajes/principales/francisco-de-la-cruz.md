@@ -1,8 +1,9 @@
 ---
 title: Dr. Francisco de la Cruz
 folder: 3_personajes/principales
-description: Decano de Historia de la Universidad de Dársena. Académico respetado
-  especializado en la Era Pre-Catastrófica.
+description: Decano de Historia de la Universidad de Dársena. Académico respetado especializado en la Era Pre-Catastrófica.
+entidad: personaje
+alcance: secreto
 nombre: Francisco de la Cruz
 aliases:
   - Dr. Francisco de la Cruz
@@ -14,9 +15,7 @@ related:
   - "[[inquisicion]]"
 spoilers:
   - "Contiene información crítica sobre liderazgo de Guardianes de la Memoria, red de Arpistas, y sistema de preservación de conocimiento prohibido."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ## Dr. Francisco de la Cruz, "El Decano"
 

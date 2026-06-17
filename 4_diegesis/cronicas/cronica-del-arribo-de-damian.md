@@ -2,12 +2,12 @@
 title: Crónica del arribo de Damián
 folder: "4_diegesis/cronicas"
 description: "Relato del arribo de Damián a Dársena y su primer encuentro con la Inquisición, incluyendo a Sofía y el gran inquisidor Miguel. Historia inconclusa y central en el universo SyV."
+entidad: relato
+alcance: publico
+estado: borrador
 aliases:
   - Crónica del arribo de Damián
-tags:
-  - entidad/relato
-  - alcance/publico
-  - estado/borrador
+tags: []
 related:
   - "[[damian-diconte]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"

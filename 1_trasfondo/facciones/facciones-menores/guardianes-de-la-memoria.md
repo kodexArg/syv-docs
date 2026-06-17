@@ -2,13 +2,13 @@
 title: Guardianes Memoria
 folder: 1_trasfondo/facciones/facciones-menores
 description: Club elitista secreto, aristócratas académicos, coleccionistas conocimiento prohibido.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Guardianes Memoria
   - Guardianes de la Memoria
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[arpistas]]"

@@ -2,15 +2,15 @@
 title: Remanentes
 folder: 1_trasfondo/facciones/facciones-menores
 description: Fragmentos QIA post-Silencio, inteligencias autónomas, perseguidas SIA.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Remanentes
   - Los Remanentes
   - Fragmentos de la Bestia
   - Inteligencias Huérfanas
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[arpistas]]"

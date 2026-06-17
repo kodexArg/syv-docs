@@ -2,13 +2,13 @@
 title: Aduana Nacional
 folder: 2_atlas/ciudades/darsena
 description: Centro administrativo aduanero de Dársena, instalado en la antigua Casa Rosada.
+entidad: ubicacion
+alcance: publico
+estado: propuesta
 aliases:
   - Aduana Nacional
   - Edificio de la Aduana Nacional
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[gremio-de-comercio]]"
   - "[[arpistas]]"
@@ -18,7 +18,7 @@ ubicaciones:
   - "[[microcentro]]"
 ---
 
-Ficha por desarrollar. Stub creado para una ubicación referenciada en el atlas y aventuras pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una ubicación referenciada en el atlas y aventuras pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

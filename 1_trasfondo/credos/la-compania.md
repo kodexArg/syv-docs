@@ -2,12 +2,12 @@
 title: La Compañía
 folder: 1_trasfondo/credos
 description: Culto del azar, Compañía invisible, suerte, sorteos secretos populares.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - La Compañía
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia-maradoniana]]"
   - "[[umbanda]]"

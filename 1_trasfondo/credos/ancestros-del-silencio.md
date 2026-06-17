@@ -2,13 +2,13 @@
 title: Ancestros del Silencio
 folder: 1_trasfondo/credos
 description: Culto a los 180,000 mártires del Gran Silencio de 2061, proscrito.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Ancestros del Silencio
   - Los Ancestros del Silencio
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[2061-el-gran-silencio]]"

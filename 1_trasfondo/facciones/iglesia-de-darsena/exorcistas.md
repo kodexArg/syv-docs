@@ -2,12 +2,12 @@
 title: Exorcistas
 folder: 1_trasfondo/facciones/iglesia-de-darsena
 description: Rama especializada, combate posesiones demoníacas, rituales teológico-científicos.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Exorcistas
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 facciones:
   - "[[iglesia]]"
 related:

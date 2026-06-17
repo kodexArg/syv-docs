@@ -2,6 +2,8 @@
 title: QIA
 folder: 1_trasfondo/codex
 description: Inteligencias Artificiales Cuánticas, Gran Bestia, Catedrales de Lógica, naturaleza post-2061.
+entidad: concepto
+alcance: publico
 aliases:
   - QIA
   - Inteligencias Artificiales Cuánticas
@@ -12,9 +14,7 @@ related:
   - "[[otras-tecnologias-prohibidas]]"
   - "[[2048-el-fin-de-los-secretos]]"
   - "[[2035-nacimiento-de-las-qia]]"
-tags:
-  - entidad/concepto
-  - alcance/publico
+tags: []
 ---
 
 ---

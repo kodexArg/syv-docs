@@ -2,14 +2,14 @@
 title: Córdoba
 folder: 2_atlas/ciudades/cordoba
 description: Megalópolis industrial y segunda potencia de la Confederación Argentina. Treinta millones de almas bajo la dinastía Videla, corazón productivo del continente.
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
   - Córdoba
   - República Autónoma de Córdoba
   - Córdoba capital
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[fuerzas-armadas]]"
   - "[[iglesia]]"

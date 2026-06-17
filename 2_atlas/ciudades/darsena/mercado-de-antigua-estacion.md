@@ -2,13 +2,13 @@
 title: Mercado de Antigua Estación
 folder: 2_atlas/ciudades/darsena
 description: Bullicioso mercado en una estación de metro abandonada, corazón comercial de Las Tuberías.
+entidad: ubicacion
+alcance: publico
+estado: propuesta
 aliases:
   - Mercado de Antigua Estación
   - El Mercado de Antigua Estación
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[traficantes-de-almas]]"
   - "[[resistencia-subterranea]]"
@@ -18,7 +18,7 @@ ubicaciones:
   - "[[barrios-del-muro]]"
 ---
 
-Ficha por desarrollar. Stub creado para una ubicación referenciada en el atlas y aventuras pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una ubicación referenciada en el atlas y aventuras pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

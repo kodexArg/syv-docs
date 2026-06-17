@@ -1,15 +1,14 @@
 ---
 title: Diego Herrera, Comisario General
 folder: 3_personajes/secundarios
-description: Jefe del Departamento de Investigaciones Paranormales, hombre corrupto
-  y peligroso.
+description: Jefe del Departamento de Investigaciones Paranormales, hombre corrupto y peligroso.
+entidad: personaje
+alcance: secreto
 nombre: Diego Herrera
 aliases:
   - Diego Herrera
   - Comisario General Herrera
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 related:
   - "[[sofia-rios]]"

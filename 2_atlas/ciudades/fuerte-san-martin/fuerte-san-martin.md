@@ -2,14 +2,14 @@
 title: Fuerte San Martin
 folder: 2_atlas/ciudades/fuerte-san-martin
 description: Fuerte San Martín
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
   - Fuerte San Martín
   - FSM
 region: Nueva Pampa
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
   - "[[inquisicion|SIA]]"

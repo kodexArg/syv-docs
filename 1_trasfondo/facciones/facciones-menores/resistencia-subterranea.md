@@ -2,14 +2,14 @@
 title: Resistencia
 folder: 1_trasfondo/facciones/facciones-menores
 description: Células anarquistas, sabotaje, subterráneos, contra régimen.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Resistencia
   - Resistencia Subterránea
   - La Resistencia
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

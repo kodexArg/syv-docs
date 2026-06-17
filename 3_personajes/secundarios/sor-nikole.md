@@ -1,20 +1,18 @@
 ---
 title: Sor Nikole, La Hermana de la Caridad
 folder: 3_personajes/secundarios
-description: Joven hermana de la caridad que trabaja en las Tuberías, mezclando
-  modernidad y tradición en su labor.
+description: Joven hermana de la caridad que trabaja en las Tuberías, mezclando modernidad y tradición en su labor.
+entidad: personaje
 nombre: Nikole
 aliases:
   - Sor Nikole
   - Nikole
   - La Hermana de la Caridad
-tags:
-  - entidad/personaje
+tags: []
 facciones: '["[[las-manos-calladas]]"]'
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related: '["[[madre-superiora-maria]]", "[[marta-la-curandera]]",
-  "[[hermana-laura-castillo]]", "[[las-manos-calladas]]"]'
+related: '["[[madre-superiora-maria]]", "[[marta-la-curandera]]", "[[hermana-laura-castillo]]", "[[las-manos-calladas]]"]'
 ---
 ## Sor Nikole, La Hermana de la Caridad
 

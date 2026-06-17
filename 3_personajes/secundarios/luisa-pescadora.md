@@ -1,15 +1,14 @@
 ---
 title: Luisa, la Pescadora
 folder: 3_personajes/secundarios
-description: Trabajadora portuaria de los Barrios del Muro. Madre del pequeño Mateo,
-  consumida por la búsqueda desesperada de su hijo desaparecido.
+description: Trabajadora portuaria de los Barrios del Muro. Madre del pequeño Mateo, consumida por la búsqueda desesperada de su hijo desaparecido.
+entidad: personaje
+alcance: secreto
 nombre: Luisa
 aliases:
   - Luisa
   - La Pescadora
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"

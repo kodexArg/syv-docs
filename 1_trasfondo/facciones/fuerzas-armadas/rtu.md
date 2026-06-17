@@ -2,16 +2,16 @@
 title: Unidad de Respuesta Táctica Urbana
 folder: 1_trasfondo/facciones/fuerzas-armadas
 description: Equipos de asalto tipo SWAT para operaciones de alto riesgo en las zonas peligrosas de Dársena.
+entidad: faccion
+alcance: publico
+estado: propuesta
 aliases:
   - RTU
   - Unidad de Respuesta Táctica Urbana
   - URTA
   - Unidad de Respuesta Táctica y Antimotines
   - Los Martillos de Dios
-tags:
-  - entidad/faccion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[fuerzas-armadas]]"
   - "[[subcomisario-ivan-mendez]]"
@@ -19,7 +19,7 @@ ubicaciones:
   - "[[darsena]]"
 ---
 
-Ficha por desarrollar. Stub creado para una unidad referenciada en personajes y facciones pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una unidad referenciada en personajes y facciones pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

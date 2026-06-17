@@ -2,14 +2,14 @@
 title: Actualidad
 folder: 1_trasfondo/hitos
 description: Situación geopolítica y social 2178, perspectiva Confederación Argentina.
+entidad: hito
+alcance: publico
 fecha: 2178
 aliases:
   - Actualidad 2178
 related:
   - "[[anatema-mecanico]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 Este documento es un adelanto de hasta dónde se llegará con la cronología, donde en el futuro escribiremos los eventos que transforman el mundo año a año.
 

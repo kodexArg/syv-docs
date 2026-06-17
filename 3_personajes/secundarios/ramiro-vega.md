@@ -1,15 +1,14 @@
 ---
 title: Ramiro Vega, Artífice Restaurador
 folder: 3_personajes/secundarios
-description: Técnico electrónico que regenta un negocio en el centro, observador
-  meticuloso de actividades sospechosas.
+description: Técnico electrónico que regenta un negocio en el centro, observador meticuloso de actividades sospechosas.
+entidad: personaje
+alcance: secreto
 nombre: Ramiro Vega
 aliases:
   - Ramiro Vega
   - El Artífice Restaurador
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones:
   - "[[gremio-de-comercio]]"
 spoilers:

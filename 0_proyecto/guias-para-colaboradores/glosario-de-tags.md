@@ -1,19 +1,17 @@
 ---
 aliases:
-- Glosario de Tags
-- Glosario de Metadatos
-- SSOT de Tags
-description: 'SSOT del modelo de frontmatter de syv-docs sobre markdown-vault-syv:
-  campos controlados obligatorios, estandarizados, relaciones por wikilink, y tags
-  como vivero open/closed.'
+  - Glosario de Tags
+  - Glosario de Metadatos
+  - SSOT de Tags
+description: 'SSOT del modelo de frontmatter de syv-docs sobre markdown-vault-syv: campos controlados obligatorios, estandarizados, relaciones por wikilink, y tags como vivero open/closed.'
 folder: 0_proyecto/guias-para-colaboradores
 related:
-- '[[guia-de-metadatos]]'
-- '[[manual-del-colaborador]]'
-tags:
-- entidad/guia
-- estado/canon
+  - '[[guia-de-metadatos]]'
+  - '[[manual-del-colaborador]]'
+tags: []
 title: Glosario de Tags y Metadatos
+entidad: guia
+estado: canon
 ---
 
 # Glosario de Tags y Metadatos

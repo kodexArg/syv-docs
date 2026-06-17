@@ -2,13 +2,13 @@
 title: Los Rezagos
 folder: 2_atlas/tecnologia-y-ciencia
 description: Los Rezagos - El Vestigio y la Herejía Material
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Los Rezagos
   - Rezago
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
   - "[[inquisicion]]"

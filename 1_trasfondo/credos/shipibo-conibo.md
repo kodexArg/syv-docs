@@ -2,13 +2,13 @@
 title: Shipibo-Conibo
 folder: 1_trasfondo/credos
 description: Chamanismo amazónico, pueblos expatriados, lianas del pantano, sótanos Barrios.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Shipibo-Conibo (credo)
   - Los Cazadores de Pesadillas
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]"
   - "[[umbanda]]"

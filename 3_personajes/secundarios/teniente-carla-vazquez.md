@@ -1,15 +1,14 @@
 ---
 title: Teniente Carla Vázquez
 folder: 3_personajes/secundarios
-description: Analista del Departamento de Contrainteligencia de la Dirección de
-  Seguridad Nacional.
+description: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional.
+entidad: personaje
+alcance: secreto
 nombre: Carla Vázquez
 aliases:
   - Teniente Carla Vázquez
   - Carla Vázquez
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: "[]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"

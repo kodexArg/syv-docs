@@ -2,14 +2,14 @@
 title: Shipibo-Conibo
 folder: 1_trasfondo/facciones/facciones-menores
 description: Chamanes amazónicos Tuberías, hongos psicoactivos, sanación ritual.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Shipibo-Conibo (facción)
   - Los Cazadores de Pesadillas
   - Los Hongeros
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo (credo)]]"
   - "[[kuna-mbarete]]"

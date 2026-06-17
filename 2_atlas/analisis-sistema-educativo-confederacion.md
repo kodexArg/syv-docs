@@ -2,19 +2,18 @@
 title: Análisis del Sistema Educativo de la Confederación Argentina
 folder: 2_atlas
 description: Estudio comparativo de las tres instituciones académicas principales y cómo funcionan conjuntamente para mantener control intelectual y producción técnica en 2178.
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Análisis del Sistema Educativo
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Análisis del Sistema Educativo
+tags: []
 related:
-- "[[universidad-pontificia-america]]"
-- "[[universidad-nacional-cordoba]]"
-- "[[universidad-de-cuyo]]"
-- "[[iglesia]]"
-- "[[fuerzas-armadas]]"
-
+  - "[[universidad-pontificia-america]]"
+  - "[[universidad-nacional-cordoba]]"
+  - "[[universidad-de-cuyo]]"
+  - "[[iglesia]]"
+  - "[[fuerzas-armadas]]"
 ---
 
 # Análisis del Sistema Educativo de la Confederación Argentina

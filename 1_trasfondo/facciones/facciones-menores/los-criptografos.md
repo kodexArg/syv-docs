@@ -2,14 +2,14 @@
 title: Criptógrafos
 folder: 1_trasfondo/facciones/facciones-menores
 description: "Aclaración terminología: oficiales estatales o hackers clandestinos."
+entidad: faccion
+alcance: publico
+estado: canon
 aliases:
   - Criptógrafos
   - Los Criptógrafos
   - Criptógrafos clandestinos
-tags:
-  - entidad/faccion
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[los-hackers]]"
   - "[[fuerzas-armadas]]"

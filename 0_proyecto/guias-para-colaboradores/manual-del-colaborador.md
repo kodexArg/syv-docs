@@ -2,10 +2,10 @@
 title: Manual
 folder: 0_proyecto/guias-para-colaboradores
 description: Pautas, estructura de directorios, cómo contribuir con pull requests.
+entidad: guia
 aliases:
   - Manual del Colaborador
-tags:
-  - entidad/guia
+tags: []
 related:
   - "[[guia-de-metadatos]]"
   - "[[guia-de-personajes]]"

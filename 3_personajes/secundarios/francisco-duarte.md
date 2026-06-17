@@ -1,14 +1,13 @@
 ---
 title: Francisco Duarte, Operario en Torres Hidropónicas
 folder: 3_personajes/secundarios
-description: Joven operario de las Torres Hidropónicas que secretamente
-  redistribuye alimentos a las Tuberías.
+description: Joven operario de las Torres Hidropónicas que secretamente redistribuye alimentos a las Tuberías.
+entidad: personaje
+alcance: secreto
 nombre: Francisco Duarte
 aliases:
   - Francisco Duarte
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones:
   - "[[resistencia-subterranea]]"
 ubicaciones:

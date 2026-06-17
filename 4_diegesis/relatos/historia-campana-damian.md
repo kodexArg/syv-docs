@@ -2,12 +2,12 @@
 title: La Cosecha de los Cinco
 folder: 4_diegesis/relatos
 description: Damián DiConte investiga cinco asesinatos rituales en las Torres Hidropónicas que revelan la presencia de fuerzas oscuras en Ciudad Dársena
+entidad: relato
+alcance: secreto
+estado: borrador
 aliases:
   - La Cosecha de los Cinco
-tags:
-  - entidad/relato
-  - alcance/secreto
-  - estado/borrador
+tags: []
 related:
   - "[[damian-diconte]]"
   - "[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]"

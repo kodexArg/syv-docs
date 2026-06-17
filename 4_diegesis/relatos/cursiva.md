@@ -2,12 +2,12 @@
 title: Cursiva
 folder: 4_diegesis/relatos
 description: Sor Sofía recibe una carta en cursiva de Sor Catalina, escrita con la inigualable letra del orfanato. La historia alterna fragmentos de la carta con las pausas y reacciones de Sofía, mientras el verano de 2178 no da tregua en Ciudad Dársena.
+entidad: relato
+alcance: secreto
+estado: borrador
 aliases:
   - Cursiva
-tags:
-  - entidad/relato
-  - alcance/secreto
-  - estado/borrador
+tags: []
 related:
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
   - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"

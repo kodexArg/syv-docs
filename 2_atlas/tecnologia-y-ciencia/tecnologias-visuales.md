@@ -2,14 +2,14 @@
 title: Tecnologias Visuales
 folder: 2_atlas/tecnologia-y-ciencia
 description: Tecnologías Visuales
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Tecnologías Visuales
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Tecnologías Visuales
+tags: []
 related:
-- "[[inquisicion]]"
+  - "[[inquisicion]]"
 ---
 En un mundo sin computación avanzada, las tecnologías para mostrar imágenes dependen de soluciones analógicas y mecánicas, algunas de una complejidad sorprendente.
 

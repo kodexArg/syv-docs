@@ -2,13 +2,13 @@
 title: Viejo Mundo
 folder: 1_trasfondo/credos
 description: "Credos pre-colapso sobrevivientes: Judaísmo, Protestantismo, tolerados."
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Viejo Mundo
   - Religiones del Viejo Mundo
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

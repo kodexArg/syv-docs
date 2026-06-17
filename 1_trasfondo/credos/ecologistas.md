@@ -2,13 +2,13 @@
 title: Hermandad Verde
 folder: 1_trasfondo/credos
 description: Ecologismo moderado, reconciliación con naturaleza, mandato divino Anatema.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Hermandad Verde
   - Ecologistas
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[anatema-mecanico]]"

@@ -2,20 +2,20 @@
 title: Universidad Pontificia de América
 folder: 2_atlas/ciudades/darsena
 description: La institución académica más selecta de la Confederación, centro de excelencia en arqueología, medicina y teología. Ubicada en la Isla Oriental de Ciudad Dársena, bajo custodia eclesiástica exclusiva.
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Universidad Pontificia de América
-- UPA
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - Universidad Pontificia de América
+  - UPA
+tags: []
 related:
-- "[[iglesia]]"
-- "[[universidad-nacional-cordoba]]"
-- "[[universidad-de-cuyo]]"
+  - "[[iglesia]]"
+  - "[[universidad-nacional-cordoba]]"
+  - "[[universidad-de-cuyo]]"
 ubicaciones:
-- "[[darsena]]"
-- "[[zona-militar-eclesiastica]]"
+  - "[[darsena]]"
+  - "[[zona-militar-eclesiastica]]"
 ---
 
 # Universidad Pontificia de América

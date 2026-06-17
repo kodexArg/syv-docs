@@ -2,12 +2,12 @@
 title: Humedad Post Guerra
 folder: 2_atlas/climas
 description: La Humedad Post-Guerra - Consecuencias Climáticas de la Gran Devastación (2039-2178)
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Humedad Post-Guerra
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Humedad Post-Guerra
+tags: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
   - "[[2_atlas/ciudades/cordoba/capital|Córdoba]]"

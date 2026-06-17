@@ -1,13 +1,12 @@
 ---
 title: Julián, el Prostituto
 folder: 3_personajes/secundarios
-description: Prostituto que ejerce con discreción en la superficie pero prefiere
-  la libertad de las Tuberías.
+description: Prostituto que ejerce con discreción en la superficie pero prefiere la libertad de las Tuberías.
+entidad: personaje
 nombre: Julián
 aliases:
   - Julián
-tags:
-  - entidad/personaje
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"

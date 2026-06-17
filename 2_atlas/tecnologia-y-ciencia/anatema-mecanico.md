@@ -2,18 +2,17 @@
 title: Anatema Mecanico
 folder: 2_atlas/tecnologia-y-ciencia
 description: Ciencia y Tecnología bajo el Anatema Mecánico
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Anatema Mecánico (tech)
-- Ciencia y Tecnología bajo el Anatema Mecánico
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Anatema Mecánico (tech)
+  - Ciencia y Tecnología bajo el Anatema Mecánico
+tags: []
 related:
-- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-- "[[inquisicion]]"
-- "[[qia-inteligencias-artificiales-cuanticas]]"
-
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[inquisicion]]"
+  - "[[qia-inteligencias-artificiales-cuanticas]]"
 ---
 # Ciencia y Tecnología en 2178
 

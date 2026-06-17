@@ -1,13 +1,12 @@
 ---
 title: Verónica Suárez, Camarera
 folder: 3_personajes/secundarios
-description: Camarera que trabaja en una cocina improvisada en los Barrios del Muro
-  y organiza charlas con intelectuales y artistas.
+description: Camarera que trabaja en una cocina improvisada en los Barrios del Muro y organiza charlas con intelectuales y artistas.
+entidad: personaje
 nombre: Verónica Suárez
 aliases:
   - Verónica Suárez
-tags:
-  - entidad/personaje
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"

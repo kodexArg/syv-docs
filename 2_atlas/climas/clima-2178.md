@@ -2,19 +2,18 @@
 title: Clima 2178
 folder: 2_atlas/climas
 description: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Clima 2178
-- La Nube Roja
-- Niebla Perpetua
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Clima 2178
+  - La Nube Roja
+  - Niebla Perpetua
+tags: []
 ubicaciones:
-- "[[darsena]]"
-- "[[capital]]"
-- "[[mendoza]]"
-
+  - "[[darsena]]"
+  - "[[capital]]"
+  - "[[mendoza]]"
 ---
 # El Clima en la Confederación Argentina (2178)
 

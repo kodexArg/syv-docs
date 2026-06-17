@@ -1,9 +1,9 @@
 ---
 title: Cartas
 folder: 4_diegesis/cartas
-description: "Índice de las cartas del universo SyV: correspondencia
-  interceptada y preservada que revela la intimidad rota por la Confederación."
-tags: '["entidad/guia"]'
+description: "Índice de las cartas del universo SyV: correspondencia interceptada y preservada que revela la intimidad rota por la Confederación."
+entidad: guia
+tags: []
 ---
 
 La correspondencia interceptada y preservada. Cartas de amor escritas entre guardias de la Prefectura y novias en los Barrios del Muro, misivas teológicas entre obispos que debaten la naturaleza del Anatema Mecánico, mensajes cifrados que la Sagrada Inquisición Argentina decodifica en sus sótanos.

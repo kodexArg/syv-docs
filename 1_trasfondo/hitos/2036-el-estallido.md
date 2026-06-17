@@ -2,6 +2,8 @@
 title: Estallido
 folder: 1_trasfondo/hitos
 description: Guerra USA-China, fragmentación mundial, drones + QIA integrados fatalmente.
+entidad: hito
+alcance: publico
 fecha: 2036
 aliases:
   - El Estallido
@@ -9,9 +11,7 @@ aliases:
 related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
   - "[[inquisicion]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 # El Estallido: La Segunda Guerra Fría (2036-2039)
 

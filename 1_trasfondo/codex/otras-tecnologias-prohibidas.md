@@ -2,6 +2,8 @@
 title: Tecnologías Prohibidas
 folder: 1_trasfondo/codex
 description: Prohibiciones SIA, vigilancia, persecución, censores eclesiásticos, Cripta de la Razón.
+entidad: concepto
+alcance: publico
 aliases:
   - Herejía Tecnológica y Conocimiento Prohibido
   - Tecnologías Prohibidas
@@ -11,9 +13,7 @@ related:
   - "[[iglesia]]"
   - "[[arpistas]]"
   - "[[constitucion-argentina]]"
-tags:
-  - entidad/concepto
-  - alcance/publico
+tags: []
 ---
 # Herejía Tecnológica y Conocimiento Prohibido
 

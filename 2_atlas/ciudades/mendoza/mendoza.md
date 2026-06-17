@@ -2,16 +2,16 @@
 title: Mendoza
 folder: 2_atlas/ciudades/mendoza
 description: Ciudad Mendoza
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Mendoza
-- Ciudad Mendoza
+  - Mendoza
+  - Ciudad Mendoza
 region: Mendoza
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+tags: []
 ubicaciones:
-- "[[universidad-de-cuyo]]"
+  - "[[universidad-de-cuyo]]"
 ---
 
 > El granero de la Confederación. Ciudad andina que conservó sus sistemas de riego desde el Viejo Mundo, transformada en proveedor principal de alimentos para Dársena y Córdoba.

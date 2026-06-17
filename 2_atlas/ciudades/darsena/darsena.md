@@ -2,28 +2,28 @@
 title: Darsena
 folder: 2_atlas/ciudades/darsena
 description: Ciudad Dársena
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Dársena
-- Ciudad Dársena
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - Dársena
+  - Ciudad Dársena
+tags: []
 related:
-- "[[iglesia]]"
-- "[[fuerzas-armadas]]"
-- "[[gremio-de-comercio]]"
-- "[[resistencia-subterranea]]"
-- "[[arpistas]]"
-- "[[los-criptografos]]"
-- "[[masones]]"
-- "[[traficantes-de-almas]]"
+  - "[[iglesia]]"
+  - "[[fuerzas-armadas]]"
+  - "[[gremio-de-comercio]]"
+  - "[[resistencia-subterranea]]"
+  - "[[arpistas]]"
+  - "[[los-criptografos]]"
+  - "[[masones]]"
+  - "[[traficantes-de-almas]]"
 ubicaciones:
-- "[[zona-militar-eclesiastica]]"
-- "[[microcentro]]"
-- "[[zona-residencial-alta-sociedad]]"
-- "[[barrios-del-muro]]"
-- "[[tuberias]]"
+  - "[[zona-militar-eclesiastica]]"
+  - "[[microcentro]]"
+  - "[[zona-residencial-alta-sociedad]]"
+  - "[[barrios-del-muro]]"
+  - "[[tuberias]]"
 ---
 
 > La capital de facto de la Confederación. Cinco millones de almas comprimidas entre el muro de 20 metros y el Río de la Plata contaminado, bajo una niebla que nunca se disipa del todo.

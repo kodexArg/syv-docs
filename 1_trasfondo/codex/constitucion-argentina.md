@@ -2,6 +2,8 @@
 title: Constitución
 folder: 1_trasfondo/codex
 description: "Carta Magna: Teocracia Militar, Anatema, estructura de gobierno confederado."
+entidad: concepto
+alcance: publico
 aliases:
   - Constitución de la Confederación Argentina
 related:
@@ -9,9 +11,7 @@ related:
   - "[[inquisicion]]"
   - "[[iglesia]]"
   - "[[fuerzas-armadas]]"
-tags:
-  - entidad/concepto
-  - alcance/publico
+tags: []
 ---
 ## Preámbulo
 

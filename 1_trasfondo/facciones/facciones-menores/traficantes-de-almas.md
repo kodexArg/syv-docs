@@ -2,13 +2,13 @@
 title: Traficantes Almas
 folder: 1_trasfondo/facciones/facciones-menores
 description: Red criminal trata personas, explotación, mano obra ilícita.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Traficantes Almas
   - Traficantes de Almas
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[gremio-de-comercio]]"
   - "[[canales-ocultos]]"

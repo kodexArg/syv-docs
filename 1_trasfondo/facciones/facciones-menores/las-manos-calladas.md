@@ -2,14 +2,14 @@
 title: Las Manos Calladas
 folder: 1_trasfondo/facciones/facciones-menores
 description: Secta clandestina de ex-miembros de la disuelta Congregación de la Caridad Divina, unida por vínculos personales; abogó por la erradicación de la orden oficial y ahora opera oculta.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Las Manos Calladas
   - Las Calladas
   - La Mano que Cura en lo Oscuro
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

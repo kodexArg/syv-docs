@@ -2,6 +2,8 @@
 title: Padre Rafa
 folder: 3_personajes/principales
 description: Experimentado exorcista y estudioso que frecuenta los Barrios del Muro, investigando las posesiones.
+entidad: personaje
+alcance: secreto
 nombre: Padre Rafa
 aliases:
   - Padre Rafa
@@ -15,9 +17,7 @@ related:
   - "[[3_personajes/principales/walter|Walter]]"
 spoilers:
   - "Oculta su verdadera identidad y busca huir hacia el Pueblo del Pantano."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ## Padre Rafa
 

@@ -2,12 +2,12 @@
 title: Umbanda
 folder: 1_trasfondo/credos
 description: Sincretismo afro, catolicismo, espiritismo, yoruba, proscrita, dominante Barrios.
+entidad: credo
+alcance: publico
+estado: canon
 aliases:
   - Umbanda (credo)
-tags:
-  - entidad/credo
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[los-umbanda]]"
   - "[[iglesia]]"

@@ -1,14 +1,13 @@
 ---
 title: Sor Sofía
 folder: 3_personajes/secundarios
-description: Hermana de Batalla, experta en combate cuerpo a cuerpo. Bajo mando directo
-  de Madre Superiora María en el Faro de la SIA, Isla Oriental.
+description: Hermana de Batalla, experta en combate cuerpo a cuerpo. Bajo mando directo de Madre Superiora María en el Faro de la SIA, Isla Oriental.
+entidad: personaje
 nombre: Sofía
 aliases:
   - Sor Sofía
   - Sofía
-tags:
-  - entidad/personaje
+tags: []
 facciones:
   - "[[inquisicion]]"
 related:

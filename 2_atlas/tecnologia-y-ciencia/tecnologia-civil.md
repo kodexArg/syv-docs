@@ -2,14 +2,14 @@
 title: Tecnologia Civil
 folder: 2_atlas/tecnologia-y-ciencia
 description: Tecnología Civil
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Tecnología Civil
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Tecnología Civil
+tags: []
 related:
-- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
 ---
 La tecnología de uso diario en Ciudad Dársena está diseñada para ser robusta, funcional y fácil de mantener, evitando la complejidad electrónica que la Iglesia desaprueba.
 

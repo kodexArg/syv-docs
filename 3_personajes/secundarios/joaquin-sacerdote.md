@@ -1,14 +1,13 @@
 ---
 title: Joaquín, Sacerdote
 folder: 3_personajes/secundarios
-description: Sacerdote joven, sereno y compasivo, ex-profesor de ciencias que lucha
-  internamente con sus dudas.
+description: Sacerdote joven, sereno y compasivo, ex-profesor de ciencias que lucha internamente con sus dudas.
+entidad: personaje
 nombre: Joaquín
 aliases:
   - Joaquín
   - Padre Joaquín
-tags:
-  - entidad/personaje
+tags: []
 facciones:
   - "[[iglesia]]"
 ---

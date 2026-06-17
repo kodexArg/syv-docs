@@ -3,6 +3,8 @@ title: Fin de Secretos
 folder: 1_trasfondo/hitos
 fecha: 2048-04-07
 description: QIA descifra encriptación global, expone secretos, colapso confianza, dominio algorítmico.
+entidad: hito
+alcance: secreto
 aliases:
   - El Fin de los Secretos
 related:
@@ -11,9 +13,7 @@ related:
   - "[[inquisicion]]"
 spoilers:
   - "Las QIA preservaron ~60% de los secretos descubiertos: el 'Corpus Final' capturado y consultado por la SIA en el Oráculo de la Bestia."
-tags:
-  - entidad/hito
-  - alcance/secreto
+tags: []
 ---
 # El Fin de los Secretos (7 de abril de 2048)
 

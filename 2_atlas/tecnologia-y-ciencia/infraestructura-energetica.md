@@ -2,18 +2,17 @@
 title: Infraestructura Energética de Dársena
 folder: 2_atlas/tecnologia-y-ciencia
 description: Sistema de Nodos, reactores de fusión, Ministerio de Infraestructura
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Infraestructura Energética de Dársena
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
 ubicaciones:
   - "[[darsena]]"
   - "[[zona-centro]]"
-
 ---
 
 # Infraestructura Energética de Dársena

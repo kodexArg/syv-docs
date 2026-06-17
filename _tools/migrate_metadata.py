@@ -38,7 +38,7 @@ from ruamel.yaml.scalarstring import DoubleQuotedScalarString
 
 VAULT_ROOT = Path(__file__).parent.parent  # syv-docs/
 
-SKIP_DIRS = {".git", ".obsidian", "_tools", "_skills"}
+SKIP_DIRS = {".git", ".obsidian", ".claude", "_tools", "_skills"}
 
 # Taxonomy: the only valid tag values (without leading #)
 VALID_TAXONOMY: set[str] = {
@@ -83,6 +83,30 @@ REPORT_ONLY_TAGS: set[str] = {
     "estado/sospechoso",
 }
 
+# normalize-stragglers: typo field renames (closed safe map)
+STRAGGLER_RENAMES: dict[str, str] = {
+    "faccion": "facciones",   # typo → canonical relation field
+}
+
+# normalize-stragglers: 1-use keys to FLAG for human/Opus review (not deleted)
+STRAGGLER_FLAG_KEYS: set[str] = {
+    "fechas-clave",
+    "personajes-historicos",
+    "status",
+    "type",
+}
+
+# dimensions-to-fields: tag tree prefix → promoted top-level field name.
+# Each is "exactly one expected"; a second value of the same tree is a conflict.
+DIMENSION_TREES: dict[str, str] = {
+    "entidad": "entidad",
+    "alcance": "alcance",
+    "estado": "estado",
+}
+
+# Field-ordering hint: dimensions sit right after these top-of-frontmatter keys.
+DIMENSION_ORDER_ANCHOR: tuple[str, ...] = ("title", "folder", "description")
+
 # Tags that look like old full-path trasfondo sub-trees → REMOVE
 OLD_PATH_TAG_PATTERN = re.compile(r"^trasfondo/codex/.+$")
 
@@ -108,6 +132,23 @@ class RunReport:
 
     # per-category change counts
     category_counts: dict[str, int] = field(default_factory=lambda: defaultdict(int))
+
+
+@dataclass
+class Toggles:
+    """Independently switchable transforms. Each defaults ON.
+
+    The three new transforms (fix_string_tags, normalize_stragglers,
+    dimensions_to_fields) can be flipped off in isolation so a dry-run can
+    characterize the effect of one transform at a time.
+    """
+
+    # legacy transforms (kept as a single switch — they were always-on before)
+    legacy: bool = True
+    # new, independently toggleable
+    fix_string_tags: bool = True
+    normalize_stragglers: bool = True
+    dimensions_to_fields: bool = True
 
 
 # ---------------------------------------------------------------------------
@@ -217,15 +258,31 @@ def _transform_spoilers(fm: dict, rpt: FileReport, category_counts: dict) -> Non
             rpt.transforms.append(f"spoiler-migrate: '{legacy_key}' → 'spoilers'")
             category_counts["spoiler_migrate"] += 1
             rpt.changed = True
-    # Ensure alcance/secreto tag if spoilers present
+    # Ensure alcance=secreto if spoilers present. Once dimensions-to-fields has
+    # promoted alcance to a field (alcance: secreto), the tag is gone by design —
+    # the field already encodes secreto, so do NOT re-add the tag (that would churn
+    # forever: tag-add → re-promote → tag-add …). Add the tag only when there is no
+    # satisfying alcance field yet; dimensions-to-fields (if enabled) promotes it.
     if fm.get("spoilers"):
-        tags = _get_tags_list(fm)
-        if "alcance/secreto" not in tags:
-            tags.append("alcance/secreto")
-            fm["tags"] = tags
-            rpt.transforms.append("tag-add: 'alcance/secreto' (spoilers present)")
-            category_counts["tag_add"] += 1
-            rpt.changed = True
+        alcance_field = str(fm.get("alcance") or "")
+        if alcance_field == "secreto":
+            pass  # already encoded as a field — nothing to do (no churn)
+        elif alcance_field and alcance_field != "secreto":
+            # A non-secreto alcance field coexists with spoilers — a genuine data
+            # contradiction. Flag for human review; do not auto-flip (and do not
+            # add a tag that would clash + churn every pass).
+            rpt.warnings.append(
+                f"spoiler-alcance-mismatch: spoilers present but alcance='{alcance_field}' (expected secreto; human review)"
+            )
+            category_counts["spoiler_alcance_mismatch"] += 1
+        else:
+            tags = _get_tags_list(fm)
+            if "alcance/secreto" not in tags:
+                tags.append("alcance/secreto")
+                fm["tags"] = tags
+                rpt.transforms.append("tag-add: 'alcance/secreto' (spoilers present)")
+                category_counts["tag_add"] += 1
+                rpt.changed = True
 
 
 def _get_tags_list(fm: dict) -> list[str]:
@@ -233,6 +290,172 @@ def _get_tags_list(fm: dict) -> list[str]:
     if isinstance(tags, str):
         tags = [t.strip() for t in tags.split(",")]
     return [str(t).lstrip("#").strip() for t in tags if t is not None]
+
+
+def _transform_fix_string_tags(
+    fm: dict, rpt: FileReport, category_counts: dict
+) -> None:
+    """N1 fix-string-tags: a `tags` SCALAR that is really a JSON/flow list string,
+    e.g. tags: '["entidad/guia"]', becomes a genuine YAML list [entidad/guia].
+
+    Only fires when `tags` is a string whose stripped form looks like a bracketed
+    flow sequence. A plain single-word string tag is left to the legacy tag logic.
+    """
+    raw = fm.get("tags")
+    if not isinstance(raw, str):
+        return
+    s = raw.strip()
+    if not (s.startswith("[") and s.endswith("]")):
+        return
+    inner = s[1:-1].strip()
+    if not inner:
+        items: list[str] = []
+    else:
+        items = []
+        for part in inner.split(","):
+            v = part.strip().strip("'").strip('"').strip()
+            v = v.lstrip("#").strip()
+            if v:
+                items.append(v)
+    fm["tags"] = items
+    rpt.transforms.append(f"fix-string-tags: {raw!r} → {items}")
+    category_counts["fix_string_tags"] += 1
+    rpt.changed = True
+
+
+def _transform_normalize_stragglers(
+    fm: dict, rpt: FileReport, category_counts: dict
+) -> None:
+    """N2 normalize-stragglers: rename typo keys (faccion→facciones) and FLAG the
+    known 1-use straggler keys for human/Opus review (reported, never deleted)."""
+    for src, dst in STRAGGLER_RENAMES.items():
+        if src not in fm:
+            continue
+        val = fm.get(src)
+        # Only rename when the value is a relation LIST (of wikilinks). A MAPPING
+        # value (e.g. facciones-menores.md: faction-stats blob {tipo, alcance, …})
+        # is NOT a relation field; renaming it to the `facciones` relation key would
+        # be a category error. Flag it for subjective review, leave it untouched.
+        if isinstance(val, dict):
+            rpt.warnings.append(
+                f"straggler-rename-skipped: '{src}' value is a mapping, not a relation list; "
+                f"NOT renamed to '{dst}' (subjective review — likely wrong key for a stats blob)"
+            )
+            category_counts["straggler_rename_skipped"] += 1
+            continue
+        if dst in fm:
+            rpt.warnings.append(
+                f"straggler-conflict: '{src}' → '{dst}' but '{dst}' already exists; skipped"
+            )
+            category_counts["straggler_conflict"] += 1
+        else:
+            fm[dst] = fm.pop(src)
+            rpt.transforms.append(f"straggler-rename: '{src}' → '{dst}'")
+            category_counts["straggler_rename"] += 1
+            rpt.changed = True
+
+    for key in STRAGGLER_FLAG_KEYS:
+        if key in fm:
+            rpt.warnings.append(
+                f"straggler-flag: 1-use key '{key}' present (human/Opus review; left untouched)"
+            )
+            category_counts["straggler_flag"] += 1
+
+
+def _reorder_dimensions(fm: dict) -> None:
+    """Place entidad/alcance/estado right after the title/folder/description anchor,
+    in that canonical order. Operates on a ruamel CommentedMap in-place by moving keys.
+    """
+    present = [d for d in ("entidad", "alcance", "estado") if d in fm]
+    if not present:
+        return
+    # Capture current order, drop the dimension keys, then re-insert them after the
+    # last anchor key found (or at the front if no anchor is present).
+    keys = list(fm.keys())
+    anchor_idx = -1
+    for i, k in enumerate(keys):
+        if k in DIMENSION_ORDER_ANCHOR:
+            anchor_idx = i
+    # Pop dimension values, preserving them.
+    saved = {d: fm.pop(d) for d in present}
+    remaining = [k for k in keys if k not in present]
+    # Recompute anchor position within `remaining`.
+    insert_at = 0
+    for i, k in enumerate(remaining):
+        if k in DIMENSION_ORDER_ANCHOR:
+            insert_at = i + 1
+    # Rebuild order: take remaining[:insert_at], the dims, then the rest.
+    new_order = remaining[:insert_at] + present + remaining[insert_at:]
+    rebuilt = {k: fm.pop(k) for k in remaining}
+    # Clear and re-add in the new order (works for plain dict and CommentedMap).
+    for k in list(fm.keys()):
+        del fm[k]
+    for k in new_order:
+        if k in saved:
+            fm[k] = saved[k]
+        else:
+            fm[k] = rebuilt[k]
+
+
+def _transform_dimensions_to_fields(
+    fm: dict, rpt: FileReport, category_counts: dict
+) -> None:
+    """N3 dimensions-to-fields: promote each hierarchical dimension tag to its own
+    top-level field and remove it from `tags`.
+
+      entidad/<x> → entidad: <x>   (exactly one; two = conflict, no guess)
+      alcance/<x> → alcance: <x>
+      estado/<x>  → estado: <x>
+
+    Remaining non-dimensional tags stay in `tags` (the open nursery). If `tags`
+    becomes empty, set it to []. Then reorder dimensions near the top.
+    """
+    raw = fm.get("tags")
+    if raw is None:
+        return
+    tags = _get_tags_list(fm)
+
+    collected: dict[str, list[str]] = {d: [] for d in DIMENSION_TREES}
+    kept: list[str] = []
+    for t in tags:
+        tree, sep, leaf = t.partition("/")
+        if sep and tree in DIMENSION_TREES and leaf:
+            collected[tree].append(leaf)
+        else:
+            kept.append(t)
+
+    changed = False
+    for tree, field_name in DIMENSION_TREES.items():
+        vals = collected[tree]
+        if not vals:
+            continue
+        uniq = list(dict.fromkeys(vals))
+        if len(uniq) > 1:
+            # ambiguous — do not guess; leave those tags in `tags`, report it
+            rpt.warnings.append(
+                f"dimension-conflict: multiple '{tree}/*' values {uniq}; left in tags, no field set"
+            )
+            category_counts["dimension_conflict"] += 1
+            kept.extend(f"{tree}/{v}" for v in vals)
+            continue
+        value = uniq[0]
+        existing = fm.get(field_name)
+        if existing is not None and str(existing) != value:
+            rpt.warnings.append(
+                f"dimension-field-clash: tag '{tree}/{value}' but field '{field_name}: {existing}' already set; tag dropped"
+            )
+            category_counts["dimension_field_clash"] += 1
+            changed = True
+            continue
+        fm[field_name] = value
+        rpt.transforms.append(f"dimension-to-field: '{tree}/{value}' → {field_name}: {value}")
+        category_counts["dimension_to_field"] += 1
+        changed = True
+
+    if changed:
+        fm["tags"] = kept  # may be []; key is kept
+        rpt.changed = True
+        _reorder_dimensions(fm)
 
 
 def _transform_tags(
@@ -476,7 +699,10 @@ def process_file(
     basenames: set[str],
     dry_run: bool,
     run_rpt: RunReport,
+    toggles: Toggles | None = None,
 ) -> None:
+    if toggles is None:
+        toggles = Toggles()
     rel_path = fpath.relative_to(vault_root).as_posix()
     rpt = FileReport(rel_path=rel_path)
     run_rpt.file_reports.append(rpt)
@@ -514,26 +740,41 @@ def process_file(
 
     # --- Apply transforms (order matters) ---
 
-    # T7: español field names
-    _transform_spanish_fields(fm, rpt, run_rpt.category_counts)
+    # N1: fix-string-tags — must run FIRST so `tags` is a genuine list before
+    # any tag-aware transform reads it.
+    if toggles.fix_string_tags:
+        _transform_fix_string_tags(fm, rpt, run_rpt.category_counts)
 
-    # T6: spoilers migration
-    _transform_spoilers(fm, rpt, run_rpt.category_counts)
+    # N2: normalize-stragglers — typo rename + flag 1-use keys.
+    if toggles.normalize_stragglers:
+        _transform_normalize_stragglers(fm, rpt, run_rpt.category_counts)
 
-    # T11: missing fields (folder auto-fill + reports)
-    _transform_missing_fields(fm, rpt, run_rpt.category_counts, rel_path)
+    if toggles.legacy:
+        # T7: español field names
+        _transform_spanish_fields(fm, rpt, run_rpt.category_counts)
 
-    # T8: folder normalize
-    _transform_folder_normalize(fm, rpt, run_rpt.category_counts, rel_path)
+        # T6: spoilers migration
+        _transform_spoilers(fm, rpt, run_rpt.category_counts)
 
-    # T2/T3/T5: tag normalization (loose → remove or related)
-    _transform_tags(fm, rpt, run_rpt.category_counts, basenames, rel_path)
+        # T11: missing fields (folder auto-fill + reports)
+        _transform_missing_fields(fm, rpt, run_rpt.category_counts, rel_path)
 
-    # T4: report missing entidad/* tag (inference deferred — content-judgment required)
-    _report_missing_entidad_tag(fm, rpt, run_rpt.category_counts, rel_path)
+        # T8: folder normalize
+        _transform_folder_normalize(fm, rpt, run_rpt.category_counts, rel_path)
 
-    # T10: wikilink quoting in relation fields
-    _transform_wikilink_quoting(fm, rpt, run_rpt.category_counts)
+        # T2/T3/T5: tag normalization (loose → remove or related)
+        _transform_tags(fm, rpt, run_rpt.category_counts, basenames, rel_path)
+
+        # T4: report missing entidad/* tag (inference deferred — content-judgment required)
+        _report_missing_entidad_tag(fm, rpt, run_rpt.category_counts, rel_path)
+
+        # T10: wikilink quoting in relation fields
+        _transform_wikilink_quoting(fm, rpt, run_rpt.category_counts)
+
+    # N3: dimensions-to-fields — runs LAST so dimension tags added by legacy
+    # (e.g. alcance/secreto from spoilers) are also promoted to fields.
+    if toggles.dimensions_to_fields:
+        _transform_dimensions_to_fields(fm, rpt, run_rpt.category_counts)
 
     # Reconstruct content
     new_fm_text = _dump_yaml(fm)
@@ -582,6 +823,14 @@ def print_report(run_rpt: RunReport, dry_run: bool, skipped_files: list[str] | N
     print("### (c) Changes per transform category\n")
     cat_order = [
         "files_changed",
+        "fix_string_tags",
+        "straggler_rename",
+        "straggler_rename_skipped",
+        "straggler_conflict",
+        "straggler_flag",
+        "dimension_to_field",
+        "dimension_conflict",
+        "dimension_field_clash",
         "field_rename",
         "key_conflict",
         "spoiler_migrate",
@@ -676,9 +925,24 @@ def main() -> None:
         default=False,
         help="Write changes to corpus files",
     )
+    # Independent transform toggles (each defaults ON).
+    parser.add_argument("--no-legacy", action="store_true",
+                        help="Disable the legacy transform set (T2–T11)")
+    parser.add_argument("--no-fix-string-tags", action="store_true",
+                        help="Disable fix-string-tags (N1)")
+    parser.add_argument("--no-normalize-stragglers", action="store_true",
+                        help="Disable normalize-stragglers (N2)")
+    parser.add_argument("--no-dimensions-to-fields", action="store_true",
+                        help="Disable dimensions-to-fields (N3)")
     args = parser.parse_args()
 
     dry_run = not args.apply
+    toggles = Toggles(
+        legacy=not args.no_legacy,
+        fix_string_tags=not args.no_fix_string_tags,
+        normalize_stragglers=not args.no_normalize_stragglers,
+        dimensions_to_fields=not args.no_dimensions_to_fields,
+    )
 
     files = collect_files(VAULT_ROOT)
     basenames = collect_basenames(files)
@@ -686,7 +950,7 @@ def main() -> None:
     run_rpt = RunReport()
 
     for fpath in files:
-        process_file(fpath, VAULT_ROOT, basenames, dry_run, run_rpt)
+        process_file(fpath, VAULT_ROOT, basenames, dry_run, run_rpt, toggles)
 
     print_report(run_rpt, dry_run, skipped_files=skipped)
 

@@ -2,12 +2,12 @@
 title: Seguridad Urbana
 folder: 1_trasfondo/facciones/fuerzas-armadas
 description: División de seguridad de Dársena dedicada a vigilancia, seguimiento y operaciones encubiertas.
+entidad: faccion
+alcance: publico
+estado: propuesta
 aliases:
   - Seguridad Urbana
-tags:
-  - entidad/faccion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[fuerzas-armadas]]"
   - "[[sofia-rios]]"
@@ -16,7 +16,7 @@ ubicaciones:
   - "[[darsena]]"
 ---
 
-Ficha por desarrollar. Stub creado para una división referenciada en personajes pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una división referenciada en personajes pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

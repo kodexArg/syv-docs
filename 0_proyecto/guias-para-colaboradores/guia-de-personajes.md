@@ -2,10 +2,10 @@
 title: Personajes
 folder: 0_proyecto/guias-para-colaboradores
 description: Categorías, metadatos, estructura de contenido para personajes.
+entidad: guia
 aliases:
   - Guía de Personajes
-tags:
-  - entidad/guia
+tags: []
 related:
   - "[[guia-de-metadatos]]"
   - "[[manual-del-colaborador]]"
@@ -33,7 +33,7 @@ Además de los campos universales (`title`, `folder`, `description`) definidos e
 - `aliases`: Nombres alternativos / nombre propio para display y resistencia a renombres. **Recomendado**.
 - `facciones`: Lista de **wikilinks** a los archivos de facción a los que pertenece. **Este campo debe existir siempre**, incluso si la lista está vacía. Ejemplo: `facciones: ["[[inquisicion]]"]`.
 - `related` / `ubicaciones` / `apariciones`: listas de **wikilinks** a otras entidades, lugares del atlas y relatos donde aparece.
-- `spoilers`: Lista de frases sensibles (reemplaza `alerta-spoiler`/`alerta-spoilers`). Acompañar con el tag `#alcance/secreto`.
+- `spoilers`: Lista de frases sensibles (reemplaza `alerta-spoiler`/`alerta-spoilers`). Acompañar con el campo `alcance: secreto`.
   - Ejemplo: `spoilers: ["Este personaje no debe ser presentado directamente a un jugador."]`
 
 **IMPORTANTE**: Si este campo existe, no se deben mostrar los datos del personaje en el atlas, en las cartas, en los relatos, etc.
@@ -55,9 +55,9 @@ ubicaciones:
   - "[[sector-7]]"
 spoilers:
   - "Su lealtad final es un secreto que no debe revelarse prematuramente."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+entidad: personaje
+alcance: secreto
+tags: []
 ---
 ```
 
@@ -91,4 +91,4 @@ El cuerpo del archivo de un personaje debe organizarse con los siguientes aparta
 
 ---
 
-Finalmente, recuerda enlazar a otros personajes, lugares o documentos con **wikilinks** (`[[slug]]`) en el cuerpo y en propiedades como `facciones`, `ubicaciones`, `apariciones` o `related`. Los `tags` son taxonomía (`#entidad/...`), no enlaces. Ver [[guia-de-metadatos|Guía de Metadatos]].
+Finalmente, recuerda enlazar a otros personajes, lugares o documentos con **wikilinks** (`[[slug]]`) en el cuerpo y en propiedades como `facciones`, `ubicaciones`, `apariciones` o `related`. Las dimensiones controladas (`entidad`, `alcance`, `estado`) van como **campos propios** del frontmatter, no dentro de `tags`. `tags` es el vivero open/closed para etiquetas emergentes. Ver [[guia-de-metadatos|Guía de Metadatos]] y [[glosario-de-tags]].

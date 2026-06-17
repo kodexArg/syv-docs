@@ -2,15 +2,15 @@
 title: Capital
 folder: 2_atlas/ciudades/cordoba
 description: República Autónoma de Córdoba
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
   - Capital
   - República Autónoma de Córdoba
   - Córdoba
 region: Córdoba
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[fuerzas-armadas]]"

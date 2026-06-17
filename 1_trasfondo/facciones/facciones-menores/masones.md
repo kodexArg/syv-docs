@@ -2,13 +2,13 @@
 title: Masones
 folder: 1_trasfondo/facciones/facciones-menores
 description: Hermandad clandestina, libertad pensamiento, verdad, incomoda Anatema.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Masones
   - Los Masones
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
   - "[[arpistas]]"

@@ -2,12 +2,12 @@
 title: Torres Hidropónicas
 folder: 2_atlas/ciudades/darsena
 description: Rascacielos pre-bélicos reconvertidos en granjas verticales que alimentan a Ciudad Dársena.
+entidad: ubicacion
+alcance: publico
+estado: propuesta
 aliases:
   - Torres Hidropónicas
-tags:
-  - entidad/ubicacion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[procesador-argentino-pia]]"
   - "[[inquisicion]]"
@@ -17,7 +17,7 @@ ubicaciones:
   - "[[zona-centro]]"
 ---
 
-Ficha por desarrollar. Stub creado para una ubicación muy referenciada (vital para la supervivencia de la ciudad) pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una ubicación muy referenciada (vital para la supervivencia de la ciudad) pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

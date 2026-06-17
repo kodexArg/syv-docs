@@ -2,13 +2,13 @@
 title: Parias
 folder: 1_trasfondo/facciones/facciones-menores
 description: Masa sin estatus legal, márgenes Dársena, hambre, contra autoridades.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Parias
   - Refugiados y Parias
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[los-umbanda]]"
   - "[[traficantes-de-almas]]"

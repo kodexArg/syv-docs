@@ -2,19 +2,18 @@
 title: San Luis
 folder: 2_atlas/ciudades/san-luis
 description: La Ciudad Tristeza de la Confederación. No autosustentable, existiendo únicamente como control militar del paso entre océano Atlántico y océano Pacífico. Centro de vigilancia y represión. Población condenada a vivir en región inhóspita. Esperanza de vida de 35 años. El símbolo de la crueldad del sistema confederal.
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- San Luis
-- Ciudad Tristeza
+  - San Luis
+  - Ciudad Tristeza
 region: Cuyo
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+tags: []
 related:
-- "[[fuerzas-armadas]]"
+  - "[[fuerzas-armadas]]"
 ubicaciones:
-- "[[capital]]"
-
+  - "[[capital]]"
 ---
 
 > El nodo logístico entre la costa y los Andes. Ciudad de paso donde las caravanas terrestres intercambian mercancías prohibidas lejos de la vigilancia directa de Dársena.

@@ -2,15 +2,14 @@
 title: Energías Alternativas en la Confederación
 folder: 2_atlas/tecnologia-y-ciencia
 description: Generación energética en ciudades confederadas - solar, eólica, geotérmica, nuclear
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Energías Alternativas
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 ubicaciones:
   - "[[capital]]"
-
 ---
 
 # Energías Alternativas en la Confederación

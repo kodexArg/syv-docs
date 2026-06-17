@@ -2,13 +2,13 @@
 title: Celdas Radionuclidos
 folder: 2_atlas/tecnologia-y-ciencia
 description: Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Celdas de Radionúclidos
   - Americio-241
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[inquisicion]]"
 ---

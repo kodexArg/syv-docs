@@ -2,6 +2,8 @@
 title: Cronología
 folder: 1_trasfondo
 description: Registro completo desde 2020 hasta 2178, colapso global y Confederación Argentina.
+entidad: concepto
+alcance: publico
 aliases:
   - Cronología
 related:
@@ -14,9 +16,7 @@ related:
   - "[[2048-el-fin-de-los-secretos]]"
   - "[[2031-la-fragmentacion-de-argentina]]"
   - "[[2035-nacimiento-de-las-qia]]"
-tags:
-  - entidad/concepto
-  - alcance/publico
+tags: []
 ---
 
 Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores.

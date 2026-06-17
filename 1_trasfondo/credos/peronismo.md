@@ -2,13 +2,13 @@
 title: Peronismo
 folder: 1_trasfondo/credos
 description: Secta ultra-nacionalista de elite, venera Perón, modelo corporativista.
+entidad: credo
+alcance: secreto
+estado: canon
 aliases:
   - Peronismo
   - Justicialismo
-tags:
-  - entidad/credo
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

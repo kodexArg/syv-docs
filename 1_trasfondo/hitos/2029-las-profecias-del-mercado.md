@@ -3,6 +3,8 @@ title: Profecías del Mercado
 folder: 1_trasfondo/hitos
 fecha: 2029-05
 description: Profecías del Dr. Cambronero, predice colapso 2029-2047, vigilancia SIA.
+entidad: hito
+alcance: publico
 aliases:
   - Profecías del Mercado
   - Profecías del Dr. Cambronero
@@ -10,9 +12,7 @@ related:
   - "[[inquisicion]]"
   - "[[monseñor-miguel]]"
   - "[[qia-inteligencias-artificiales-cuanticas]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 *Recuperado del Archivo Sellado. Atribuido al Dr. Arturo Cambronero, mayo de 2029.*
 

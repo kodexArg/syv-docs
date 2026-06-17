@@ -2,8 +2,8 @@
 title: Guías
 folder: 0_proyecto/guias-para-colaboradores
 description: Protocolos, manuales y plantillas para mantener coherencia narrativa entre colaboradores.
-tags:
-  - entidad/guia
+entidad: guia
+tags: []
 related:
   - "[[manual-del-colaborador]]"
   - "[[guia-de-metadatos]]"

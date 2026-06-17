@@ -4,11 +4,11 @@
 - group: canon-caridad-divina-erradicada-las-manos-calladas
   priority: high
   changes:
-    - feat(facciones-menores): nueva secta clandestina Las Manos Calladas (las-manos-calladas) — ex-miembros de la disuelta Congregación de la Caridad Divina, unidos por vínculos personales, sin jerarquía ni registros
+    - feat(facciones-menores): nueva secta clandestina [[las-manos-calladas|Las Manos Calladas]] (las-manos-calladas) — ex-miembros de la disuelta Congregación de la Caridad Divina, unidos por vínculos personales, sin jerarquía ni registros
     - refactor(canon): erradicar la Congregación de la Caridad Divina de raíz — purga de rastros en sinopsis, iglesia, exorcistas, arpistas y credos (hermandades, shipibo-conibo, guarani)
-    - refactor(personajes): reasignar María, sor-nikole, sor-catalina, padre-alejandro-soria, hermana-laura-castillo a Las Manos Calladas; red de vínculos personales tejida; carlos-gimenez como satélite periférico
-    - refactor(diegesis): repuntar carta-a-sor-sofia y cursiva a Las Manos Calladas respetando la voz epistolar
-    - chore(canon): cero wikilinks colgantes a [[congregacion-caridad-divina]] en syv-docs (queda solo la referencia de origen histórico en la ficha de la secta)
+    - refactor(personajes): reasignar María, sor-nikole, sor-catalina, padre-alejandro-soria, hermana-laura-castillo a [[las-manos-calladas|Las Manos Calladas]]; red de vínculos personales tejida; carlos-gimenez como satélite periférico
+    - refactor(diegesis): repuntar carta-a-sor-sofia y cursiva a [[las-manos-calladas|Las Manos Calladas]] respetando la voz epistolar
+    - chore(canon): cero wikilinks colgantes a Congregación de la Caridad Divina en syv-docs (queda solo la referencia de origen histórico en la ficha de [[las-manos-calladas|Las Manos Calladas]])
 
 - group: personajes-maria-unificada
   priority: high

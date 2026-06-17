@@ -2,17 +2,17 @@
 title: Zona Residencial Alta Sociedad
 folder: 2_atlas/ciudades/darsena
 description: Zona Residencial de Alta Sociedad (Barrios del Norte)
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Zona Residencial de Alta Sociedad
-- Barrios del Norte
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - Zona Residencial de Alta Sociedad
+  - Barrios del Norte
+tags: []
 related:
-- "[[masones]]"
+  - "[[masones]]"
 ubicaciones:
-- "[[darsena]]"
+  - "[[darsena]]"
 ---
 Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena, hogar de 50.000 personas. Protegida por muros internos y patrullas de seguridad privadas, esta zona es el hogar de la élite de la Confederación. Se caracteriza por sus edificaciones bajas de dos plantas con jardines en las azoteas y servicios de alta calidad, un lujo impensable en el resto de la ciudad.
 

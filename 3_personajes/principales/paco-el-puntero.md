@@ -1,8 +1,9 @@
 ---
 title: Paco el Puntero
 folder: 3_personajes/principales
-description: Carismático líder y protector de una estación en las Tuberías, querido
-  por su comunidad.
+description: Carismático líder y protector de una estación en las Tuberías, querido por su comunidad.
+entidad: personaje
+alcance: secreto
 nombre: Paco el Puntero
 aliases:
   - Paco el Puntero
@@ -15,9 +16,7 @@ related:
   - "[[3_personajes/principales/walter|Walter]]"
 spoilers:
   - "Fue asesinado hace un año antes de revelar información crucial sobre las posesiones."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ## Paco, el Puntero
 

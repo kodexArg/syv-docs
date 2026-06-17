@@ -2,6 +2,8 @@
 title: Walter
 folder: 3_personajes/principales
 description: Joven nadador y nuevo puntero de las Tuberías, sucesor reacio de Paco, que busca mantener a flote a su comunidad.
+entidad: personaje
+alcance: secreto
 nombre: Walter
 aliases:
   - Walter
@@ -15,9 +17,7 @@ related:
   - "[[cintia-herrera]]"
 spoilers:
   - "Heredó los secretos de Paco sobre las posesiones y el Pueblo del Pantano, pero aún no sabe cómo usarlos."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ## Walter, El Heredero de las Tuberías
 

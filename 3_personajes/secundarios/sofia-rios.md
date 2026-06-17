@@ -2,12 +2,12 @@
 title: Sofía Ríos, Inspectora de Seguridad Nacional
 folder: 3_personajes/secundarios
 description: Inspectora recién ascendida del Departamento de Investigaciones Paranormales, que investiga por su cuenta un alarmante aumento de desapariciones.
+entidad: personaje
 nombre: Sofía Ríos
 aliases:
   - Sofía Ríos
   - Inspectora Sofía Ríos
-tags:
-  - entidad/personaje
+tags: []
 facciones: []
 related:
   - "[[diego-herrera]]"

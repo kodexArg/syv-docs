@@ -2,6 +2,8 @@
 title: Fragmentación de Argentina
 folder: 1_trasfondo/hitos
 description: Desintegración estatal post-meteorito, ciudades-estado, guerra civil décadas.
+entidad: hito
+alcance: publico
 fecha: 2031
 region: Argentina
 aliases:
@@ -10,9 +12,7 @@ aliases:
 related:
   - "[[videla-iv]]"
   - "[[fuerzas-armadas]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 *Hito histórico de Los Años del Caos*
 

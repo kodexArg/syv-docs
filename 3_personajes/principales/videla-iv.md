@@ -1,8 +1,9 @@
 ---
 title: General Videla IV
 folder: 3_personajes/principales
-description: Presidente y Generalísimo de Córdoba, cuarta generación de la dinastía
-  Videla que ha gobernado la ciudad desde su fundación en 2031.
+description: Presidente y Generalísimo de Córdoba, cuarta generación de la dinastía Videla que ha gobernado la ciudad desde su fundación en 2031.
+entidad: personaje
+alcance: secreto
 nombre: Videla IV
 aliases:
   - General Videla IV
@@ -16,9 +17,7 @@ related:
   - "[[damian-diconte]]"
 spoilers:
   - "La conspiración del Teniente Coronel Gobernador que opera potencialmente sin su conocimiento completo en Córdoba."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ## Videla IV, Generalísimo de Córdoba
 

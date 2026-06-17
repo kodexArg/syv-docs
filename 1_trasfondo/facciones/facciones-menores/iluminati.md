@@ -2,13 +2,13 @@
 title: Iluminati
 folder: 1_trasfondo/facciones/facciones-menores
 description: Facción mítica, conspiración, manipulación poder, más rumor que realidad.
+entidad: faccion
+alcance: secreto
+estado: propuesta
 aliases:
   - Iluminati
   - Los Iluminati
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/propuesta
+tags: []
 related:
   - "[[arpistas]]"
   - "[[guardianes-de-la-memoria]]"

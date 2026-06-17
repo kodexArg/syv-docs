@@ -1,15 +1,14 @@
 ---
 title: Subcomisario Iván Méndez
 folder: 3_personajes/secundarios
-description: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado
-  en operaciones de alto riesgo.
+description: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo.
+entidad: personaje
+alcance: secreto
 nombre: Iván Méndez
 aliases:
   - Subcomisario Iván Méndez
   - Iván Méndez
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"

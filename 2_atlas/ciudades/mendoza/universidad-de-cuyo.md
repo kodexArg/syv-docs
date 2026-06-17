@@ -2,23 +2,23 @@
 title: Uncuyo (Universidad de Cuyo)
 folder: 2_atlas/ciudades/mendoza
 description: Institución académica que preserva la tradición humanística de América Latina. Ubicada a las afueras de Mendoza en campus reubicado, débilmente financiada pero fieramente independiente. Centro de literatura, filosofía, y pensamiento crítico clandestino. Antiguamente conocida como Universidad Nacional de Cuyo.
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Universidad de Cuyo
-- Uncuyo
-- UC
-- Universidad Nacional de Cuyo
+  - Universidad de Cuyo
+  - Uncuyo
+  - UC
+  - Universidad Nacional de Cuyo
 region: Mendoza
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+tags: []
 related:
-- "[[arpistas]]"
-- "[[masones]]"
-- "[[universidad-pontificia-america]]"
-- "[[universidad-nacional-cordoba]]"
+  - "[[arpistas]]"
+  - "[[masones]]"
+  - "[[universidad-pontificia-america]]"
+  - "[[universidad-nacional-cordoba]]"
 ubicaciones:
-- "[[mendoza]]"
+  - "[[mendoza]]"
 ---
 
 # Uncuyo: Universidad de Cuyo

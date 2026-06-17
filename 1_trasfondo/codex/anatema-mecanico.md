@@ -2,6 +2,8 @@
 title: Anatema Mecánico
 folder: 1_trasfondo/codex
 description: Prohibición universal de tecnología digital (2061-2178), teología, aplicación confederada.
+entidad: concepto
+alcance: secreto
 aliases:
   - Anatema Mecánico
 related:
@@ -15,9 +17,7 @@ related:
   - "[[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (tech)]]"
 spoilers:
   - "La SIA consulta el Oráculo de la Bestia (corpus QIA) que oficialmente prohíbe; dos reactores de fusión automatizados bajo Dársena violan el espíritu del Anatema."
-tags:
-  - entidad/concepto
-  - alcance/secreto
+tags: []
 ---
 # El Anatema Mecánico
 ## Prohibición Universal de la Tecnología Digital Avanzada (2061-2178)

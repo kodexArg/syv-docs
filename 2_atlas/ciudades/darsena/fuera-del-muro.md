@@ -2,20 +2,20 @@
 title: Fuera Del Muro
 folder: 2_atlas/ciudades/darsena
 description: Fuera del Muro
+entidad: ubicacion
+alcance: publico
+estado: canon
 aliases:
-- Fuera del Muro
-tags:
-- entidad/ubicacion
-- alcance/publico
-- estado/canon
+  - Fuera del Muro
+tags: []
 related:
-- "[[fuerzas-armadas]]"
-- "[[arpistas]]"
-- "[[los-criptografos]]"
-- "[[iglesia]]"
-- "[[resistencia-subterranea]]"
+  - "[[fuerzas-armadas]]"
+  - "[[arpistas]]"
+  - "[[los-criptografos]]"
+  - "[[iglesia]]"
+  - "[[resistencia-subterranea]]"
 ubicaciones:
-- "[[darsena]]"
+  - "[[darsena]]"
 ---
 Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un mundo salvaje y sin ley. "Fuera del Muro" no es tanto una zona como un concepto: el vasto y peligroso exterior. Es una tierra de oportunidades y amenazas, donde las leyes de la Confederación tienen poco peso.
 

@@ -1,15 +1,14 @@
 ---
 title: Agente Luis Navarro
 folder: 3_personajes/secundarios
-description: Operativo de campo de Seguridad Urbana, especializado en seguimiento
-  y vigilancia.
+description: Operativo de campo de Seguridad Urbana, especializado en seguimiento y vigilancia.
+entidad: personaje
+alcance: secreto
 nombre: Luis Navarro
 aliases:
   - Luis Navarro
   - Agente Navarro
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: []
 related:
   - "[[sofia-rios]]"

@@ -2,6 +2,8 @@
 title: Nacimiento QIA
 folder: 1_trasfondo/hitos
 description: Aparición pública QIA, tecnología que conduce a Anatema Mecánico.
+entidad: hito
+alcance: publico
 fecha: 2035
 region: Global
 aliases:
@@ -9,9 +11,7 @@ aliases:
 related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
   - "[[anatema-mecanico]]"
-tags:
-  - entidad/hito
-  - alcance/publico
+tags: []
 ---
 *Hito histórico de Los Años del Caos*
 

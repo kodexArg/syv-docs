@@ -2,17 +2,16 @@
 title: Computacion Y Datos
 folder: 2_atlas/tecnologia-y-ciencia
 description: Computación y Datos
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
-- Computación y Datos
-tags:
-- entidad/concepto
-- alcance/publico
-- estado/canon
+  - Computación y Datos
+tags: []
 related:
-- "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-- "[[inquisicion]]"
-- "[[procesador-argentino-pia]]"
-
+  - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
+  - "[[inquisicion]]"
+  - "[[procesador-argentino-pia]]"
 ---
 # Computación y Gestión de Datos
 

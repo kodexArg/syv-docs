@@ -2,13 +2,13 @@
 title: Dirección Nacional de Seguridad
 folder: 1_trasfondo/facciones/fuerzas-armadas
 description: Aparato de seguridad e investigación criminal de la Confederación, con sede de poder en Córdoba.
+entidad: faccion
+alcance: publico
+estado: propuesta
 aliases:
   - Dirección Nacional de Seguridad
   - DNS
-tags:
-  - entidad/faccion
-  - alcance/publico
-  - estado/propuesta
+tags: []
 related:
   - "[[fuerzas-armadas]]"
   - "[[damian-diconte]]"
@@ -17,7 +17,7 @@ ubicaciones:
   - "[[darsena]]"
 ---
 
-Ficha por desarrollar. Stub creado para una facción referenciada en personajes y relatos pero sin ficha propia; canon no verificado (`#estado/propuesta`).
+Ficha por desarrollar. Stub creado para una facción referenciada en personajes y relatos pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 

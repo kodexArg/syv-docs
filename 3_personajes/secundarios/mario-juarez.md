@@ -1,14 +1,13 @@
 ---
 title: Mario Juárez, Guardia de Seguridad
 folder: 3_personajes/secundarios
-description: Guardia de seguridad en una factoría de El Puerto, sospechoso de
-  filtrar información a la resistencia.
+description: Guardia de seguridad en una factoría de El Puerto, sospechoso de filtrar información a la resistencia.
+entidad: personaje
+alcance: secreto
 nombre: Mario Juárez
 aliases:
   - Mario Juárez
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 facciones: '["[[resistencia-subterranea]]"]'
 spoilers:
   - Es informante de La Resistencia.

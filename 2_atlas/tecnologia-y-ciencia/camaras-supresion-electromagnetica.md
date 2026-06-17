@@ -2,16 +2,15 @@
 title: Cámaras de Supresión Electromagnética (CSE)
 folder: 2_atlas/tecnologia-y-ciencia
 description: Especificaciones técnicas de blindaje de campos nulos para estudio de artefactos
+entidad: concepto
+alcance: publico
+estado: canon
 aliases:
   - Cámaras de Supresión Electromagnética
   - CSE
-tags:
-  - entidad/concepto
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[arpistas]]"
-
 ---
 
 # Cámaras de Supresión Electromagnética (CSE)

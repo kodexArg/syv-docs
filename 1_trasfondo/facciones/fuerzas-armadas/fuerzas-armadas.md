@@ -2,14 +2,14 @@
 title: Fuerzas Armadas
 folder: 1_trasfondo/facciones/fuerzas-armadas
 description: Defensa, seguridad, poder militar, aparato interno, pilar régimen.
+entidad: faccion
+alcance: secreto
+estado: canon
 aliases:
   - Fuerzas Armadas
   - Ejército Argentino
   - Alto Mando
-tags:
-  - entidad/faccion
-  - alcance/secreto
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[inquisicion]]"

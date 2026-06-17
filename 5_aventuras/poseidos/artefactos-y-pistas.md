@@ -1,11 +1,10 @@
 ---
 title: Artefactos y Pistas
 folder: 5_aventuras/poseidos
-description: Colección de objetos misteriosos, pistas y ganchos de aventura en
-  Dársena y alrededores.
-tags:
-  - entidad/relato
-  - alcance/secreto
+description: Colección de objetos misteriosos, pistas y ganchos de aventura en Dársena y alrededores.
+entidad: relato
+alcance: secreto
+tags: []
 spoilers:
   - "La agenda fue robada a un cultista de la Luz Silente: contiene fechas de envío de tecnología y coordenadas de puntos de encuentro en Dársena."
   - "Los amuletos shipibo-conibo son dispositivos tecnológicos pasivos disfrazados de talismanes, capaces de capturar las señales binarias de la IA Luz Silente."

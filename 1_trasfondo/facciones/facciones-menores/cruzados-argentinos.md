@@ -2,14 +2,14 @@
 title: Los Cruzados Argentinos
 folder: 1_trasfondo/facciones/facciones-menores
 description: Destacamento expedicionario argentino que tomó Roma y custodió el traslado de las ruinas de la Basílica de San Pedro hacia Dársena (2082-2120).
+entidad: faccion
+alcance: publico
+estado: canon
 aliases:
   - Los Cruzados Argentinos
   - Cruzados Argentinos
   - Los Cruzados
-tags:
-  - entidad/faccion
-  - alcance/publico
-  - estado/canon
+tags: []
 related:
   - "[[iglesia]]"
   - "[[2_atlas/ciudades/darsena/basilica-de-san-pedro]]"

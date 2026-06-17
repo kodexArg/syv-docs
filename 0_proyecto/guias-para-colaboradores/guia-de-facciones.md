@@ -2,10 +2,10 @@
 title: Facciones
 folder: 0_proyecto/guias-para-colaboradores
 description: Escritura narrativa fluida de facciones, identidad, propósito, relaciones.
+entidad: guia
 aliases:
   - Guía de Facciones
-tags:
-  - entidad/guia
+tags: []
 related:
   - "[[guia-de-metadatos]]"
   - "[[PLANTILLA_FACCION]]"
@@ -50,9 +50,9 @@ related:
 - "[[iglesia-de-darsena]]"
 - "[[inquisicion]]"
 - "[[dgapc]]"
-tags:
-- entidad/faccion
-- alcance/publico
+entidad: faccion
+alcance: publico
+tags: []
 ---
 
 Los Arpistas constituyen una red clandestina y descentralizada, distribuida en todo el mundo, dedicada al desarme y la preservación de tecnología antigua.
@@ -73,7 +73,7 @@ Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocult
 1. **Narrativa fluida**: Evita listas y subtítulos innecesarios. Integra la información de forma natural en el texto.
 2. **Información secreta**: Marca claramente la información que no debe ser expuesta a jugadores.
 3. **Conexiones**: Menciona las relaciones con otras facciones de forma orgánica en el texto.
-4. **Metadatos, relaciones y tags**: Incluí todos los metadatos requeridos según la [[guia-de-metadatos]]. Las relaciones con otras facciones van como **wikilinks** en `related` (`"[[slug]]"`), no como tags. Los `tags` son taxonomía (`#entidad/faccion`, `#alcance/...`).
+4. **Metadatos, relaciones y campos**: Incluí todos los metadatos requeridos según la [[guia-de-metadatos]]. Las relaciones con otras facciones van como **wikilinks** en `related` (`"[[slug]]"`). Las dimensiones controladas (`entidad: faccion`, `alcance: publico/secreto`, `estado: canon/propuesta`) van como **campos propios** del frontmatter, no dentro de `tags`. `tags` es el vivero open/closed para etiquetas emergentes. Ver [[glosario-de-tags]].
 
 ---
 
