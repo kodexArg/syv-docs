@@ -231,12 +231,12 @@ tags: []
 title: "2031: El Año del Cráter"
 folder: 1_trasfondo/cronologia/2030-2039
 description: Argentina se vuelve un mosaico de territorios en guerra.
+entidad: hito
 region: Argentina
 fecha: 2031
 related:
   - "[[guerra-civil]]"
-tags:
-  - entidad/hito
+tags: []
 ---
 ```
 
