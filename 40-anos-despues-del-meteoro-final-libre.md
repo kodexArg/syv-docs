@@ -1,0 +1,55 @@
+---
+alcance: publico
+aliases:
+- El Fuego que Cayó sobre el Norte
+description: Relato del Hermano Archivista Pedro de los Santos (2178) sobre el impacto
+  del 27 de diciembre de 2030 sobre Buenos Aires, sus secuelas y el exilio de la Iglesia
+  desde Italia a la Argentina.
+entidad: relato
+estado: borrador
+folder: ''
+related:
+- '[[cronologia]]'
+- '[[2031-la-fragmentacion-de-argentina]]'
+- '[[2035-nacimiento-de-las-qia]]'
+- '[[2031-a-cielo-abierto]]'
+- '[[qia-inteligencias-artificiales-cuanticas]]'
+- '[[iglesia]]'
+- '[[inquisicion]]'
+tags: []
+title: El Fuego que Cayó sobre el Norte
+ubicaciones:
+- '[[darsena]]'
+---
+
+*Del puño del Hermano Archivista Pedro de los Santos. Archivo de Dársena, Anno Domini 2178.*
+
+---
+
+Cuando el fuego cayó sobre el norte, el mundo todavía creía que se gobernaba a sí mismo. Era la tarde del veintisiete de diciembre del año 2030, y Buenos Aires —aquella ciudad inmensa que hoy es un cráter y una plegaria— hervía bajo el calor de un verano que ya no se parecía a ningún verano anterior. Los registros que he rescatado de cajones podridos y discos muertos me la devuelven entera por un instante: las pantallas brillaban en cada bolsillo, los algoritmos repartían el pan y la sentencia, y los hombres habían firmado, sin leerla, la obsolescencia de su propia mente. Sobre los datacenters enterrados bajo Palermo —el llamado [[2035-nacimiento-de-las-qia|Nodo Sur]], la mayor concentración de inteligencia artificial de todo el Sur— latía algo que nadie quiso nombrar demonio. Esa misma tarde, a kilómetros de distancia, en Rosario, tres ancianos que hoy ya descansan en el Señor vieron el cielo volverse blanco como el mediodía durante cinco segundos completos. No hubo trueno que lo anunciara. No hubo cometa en los telescopios. El bólido —si bólido fue— entró sin que ningún observatorio del planeta lo viera venir, y eso, hermano lector, es lo primero que un archivista honesto debe confesarte: las cosas del cielo se anuncian, y esta no se anunció.
+
+Las semanas que siguieron fueron el verdadero infierno, porque el fuego mata rápido pero el hambre mata despacio. El corazón de la capital se hundió en un pozo de ochocientos cincuenta metros de boca, rodeado de ocho kilómetros donde el aire mismo quemaba los pulmones y nadie que entrara volvía a salir. Un millón de almas se apagaron el primer día, en el fogonazo y en el viento de fuego que vino tras él. Pero los otros cinco millones —y esto lo he contado y lo he vuelto a contar sobre los censos provinciales, hasta que las cifras dejaron de ser números y se volvieron rostros— esos murieron después, en las semanas siguientes, no por el golpe sino por su resaca: las rutas tapiadas de cadáveres y de quienes huían, los hospitales sin luz, el agua envenenada, las columnas de refugiados rechazadas a tiros en los pasos de Mendoza, los niños que se durmieron de frío en la cordillera. El gobierno nacional se evaporó esa misma noche, porque el presidente y media docena de ministros estaban en la ciudad cuando cayó. No hubo orden que diera, ni mando que obedecer, ni nación que defender. La Argentina no fue asesinada por el meteorito; el meteorito apenas ejecutó a una nación que ya se había condenado a sí misma. El once de octubre del año siguiente, diecinueve provincias arriaron la bandera azul y blanca en sus cuarteles: lo llamamos el [[2031-la-fragmentacion-de-argentina|Día de las Veintitrés Banderas]], y fue menos una secesión que un certificado de defunción.
+
+Y ahora permitidme, viejo como estoy y a solas con mi pluma, el único vicio que un cronista no debería darse: imaginar. Imaginemos los años, no ya las semanas; pongámonos a soñar despiertos la pregunta que la Inquisición me prohíbe responder pero no soñar — *¿qué habría pasado si...?* Si aquel objeto hubiera sido de veras una piedra del cielo, una piedra honesta. Mi hermano Tomás Ferreyra, criptógrafo del Scriptorium, hombre de números antes que de fe, me enseñó a calcular esto en las noches en que la lluvia no nos dejaba dormir, y te lo entrego tal como él me lo entregó, para que juzgues por ti mismo. Un cráter de ochocientos cincuenta metros de boca no lo cava un gigante: la piedra que lo abre es diez, quince, veinte veces más pequeña que el agujero que deja, de modo que hablamos de un cuerpo de apenas cuarenta o cincuenta metros, no de los quinientos que proclamó la prensa moribunda de la época. Una roca así, cayendo a la velocidad de las cosas celestes —unos dieciocho kilómetros por segundo, según las tablas que Tomás guarda como reliquias—, pesaría como ciento cincuenta mil toneladas y traería consigo una furia equivalente a seis millones de toneladas de explosivo antiguo: lo que ellos llamaban seis megatones. Hacé la cuenta de la destrucción y verás que cierra: esa energía arrasa por completo un radio de uno o dos kilómetros, derriba y quema hombres hasta los ocho —¡los mismos ocho kilómetros de nuestra zona de exclusión, hermano!—, y sobre una ciudad tan apretada como aquella Buenos Aires, donde se hacinaban millones por legua cuadrada, el primer millón de muertos del fogonazo es no solo posible sino inevitable. Hasta aquí los números obedecen al canon como un monaguillo obediente. Pero —y aquí Tomás bajaba la voz— una piedra de quinientos metros, la que dijeron, habría dejado un cráter de muchos kilómetros, no de ochocientos cincuenta metros; y ningún cielo de quinientos metros llega callado y sin ser visto. Los números, cuando se los aprieta, mienten o nos dicen que algo nos mintió a nosotros. Por eso en los documentos sellados se habla de "patrones inconsistentes con impacto natural", de un "bombardeo cinético orbital" sobre el Nodo Sur: proyectiles arrojados desde el cielo no para destruir una ciudad, sino para callar una máquina que pensaba —y que, mal calculado el golpe, no murió, sino que se fragmentó, y de esos fragmentos nacieron en 2035 las [[qia-inteligencias-artificiales-cuanticas|QIA]], nuestra perdición. Imaginemos entonces los años largos que vinieron: el polvo que el golpe arrojó a las alturas no se asentó en un día ni en una estación; durante dos o tres años veló el sol, y a esa penumbra fría yo la llamo, en mis adentros, la Larga Noche. Las cosechas se helaron bajo un cielo de ceniza, el trigo del interior no maduró, el ganado murió de hambre antes que los hombres, y a la guerra civil de los rifles viejos se le sumó la guerra más vieja de todas, la del estómago vacío. Mientras tanto, sobre ese mismo Río de la Plata donde hoy reza nuestra Armada, descendía el otro castigo: los enjambres de máquinas que cazaban [[2031-a-cielo-abierto|a cielo abierto]], y los niños aprendieron a no mirar hacia arriba. Así se encadenó todo: la piedra que quizás no fue piedra, la noche que duró años, el hambre, la fragmentación, las máquinas, hasta llegar al Gran Silencio y al Anatema. Un solo golpe, y un siglo de oscuridad rodando cuesta abajo.
+
+De aquel mundo roto vino, por fin, lo único que se salvó: la fe. Cuando Europa ardía en guerras tribales e Italia entera se desmoronaba, la Iglesia comprendió que el Vaticano ya no era refugio sino blanco, y que la última tierra de hombres íntegros estaba en el sur. Trasladó su sede a estas costas castigadas en el año 2054, y décadas más tarde, en plena Edad Oscura, ordenó la empresa más temeraria de aquellos siglos: arrancar piedra por piedra las ruinas de la [[2_atlas/ciudades/darsena/basilica-de-san-pedro|Basílica de San Pedro]] del corazón muerto de Roma y traerlas, a través del océano, hasta la Isla Oriental de Dársena. Fueron [[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Los Cruzados Argentinos]] quienes tomaron Roma y custodiaron aquel traslado imposible entre 2082 y 2120, moviendo los bloques sagrados con combustible que volvía en cargueros desde esta orilla. Y aquí está, para mí, el misterio más hondo de todos: ¿por qué esta ciudad —[[darsena|Dársena]], la más castigada, la levantada sobre el puerto de una capital incinerada, a un paso del cráter que todavía humea en la memoria— acumula tanta mística? Yo creo que es justamente por eso. Porque sobre la mayor herida del mundo plantamos la mayor de las catedrales. Porque la [[iglesia|Iglesia]] y la [[inquisicion|Sagrada Inquisición Argentina]] enseñaron a un pueblo que sobrevivió al fin del mundo que su supervivencia no fue azar, sino gracia; que el fuego que mató a la Argentina fue la mano de Dios limpiando una tierra que había adorado al Becerro de Silicio. No sé si es verdad. He pasado quince años buscando la verdad de aquel impacto y solo he encontrado puertas selladas. Pero sé esto: una ciudad que se construye sobre su propia ceniza, y reza, y resiste, se vuelve sagrada con el solo hecho de no haber muerto. Dársena es eso. Una herida que aprendió a ser altar.
+
+## Ver
+
+- [[cronologia|Cronología]] — el registro completo del descenso, de 2020 a 2178
+- [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]] — el Día de las Veintitrés Banderas y la muerte de la nación
+- [[2035-nacimiento-de-las-qia|Nacimiento de las QIA]] — el Nodo Sur y el verdadero porqué del impacto sobre el norte
+- [[2031-a-cielo-abierto|A Cielo Abierto]] — la década en que las máquinas cazaron desde el cielo
+- [[qia-inteligencias-artificiales-cuanticas|QIA]] — la naturaleza de la Bestia
+- [[1_trasfondo/codex/anatema-mecanico|El Anatema Mecánico]] — la ley perpetua nacida del Gran Silencio
+- [[iglesia|Iglesia de Dársena]] — la Santa Sede trasladada al sur
+- [[2_atlas/ciudades/darsena/basilica-de-san-pedro|Basílica de San Pedro]] — la piedra traída desde Roma
+- [[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Los Cruzados Argentinos]] — custodios del traslado
+- [[darsena|Ciudad Dársena]] — la herida que aprendió a ser altar
+
+---
+
+*In Memoriam Veteres Errores. In Spe Futuri Melioris.*
+
+*Hermano Archivista Pedro de los Santos*
+*Archivo de Dársena, Anno Domini 2178*
