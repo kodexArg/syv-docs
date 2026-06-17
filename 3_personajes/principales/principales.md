@@ -1,6 +1,7 @@
 ---
 title: Principales
 folder: 3_personajes/principales
+description: Índice de los personajes principales — quienes mueven las piezas del poder y la resistencia en la Confederación.
 ---
 
 Los arquitectos del poder y la resistencia. Monseñor Miguel que tortura herejes en nombre de la pureza doctrinal, el Dr. Francisco de la Cruz que preserva conocimiento prohibido bajo riesgo de hoguera, el Sumo Pontífice que gobierna desde la Nueva Basílica de San Pedro.
