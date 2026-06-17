@@ -132,11 +132,11 @@ Permite escribir `[[inquisidora-sofia|Sofía]]` y que Obsidian resuelva referenc
 Campo `spoilers`: lista de frases sensibles. Unifica los legacy `alerta-spoiler` y `alerta-spoilers` (escalar string), que quedan **prohibidos**.
 
 ```yaml
+entidad: personaje
+alcance: secreto
 spoilers:
   - "Su lealtad final no debe revelarse prematuramente."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ```
 
 > [!warning]
