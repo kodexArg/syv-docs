@@ -27,7 +27,7 @@ Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinaci�
 ## Las tres ideas centrales
 
 1. **Las relaciones son wikilinks.** Personaje ↔ facción ↔ ubicación ↔ concepto ↔ relato se conectan con `[[slug]]`, tanto en el cuerpo como dentro de propiedades de lista del frontmatter (`facciones`, `related`, `ubicaciones`, `apariciones`). El grafo **no** ve los `tags`.
-2. **Los tags son taxonomía, no relaciones.** Árboles jerárquicos cerrados (`#entidad/...`, `#alcance/...`, `#estado/...`) para filtrar y descubrir. Nunca un tag para apuntar a otro archivo. (Esto **reemplaza** la vieja "Regla de Oro" de tag-como-slug.)
+2. **Las dimensiones controladas son campos, no tags.** `entidad`, `alcance` y `estado` viven cada uno en **su propio campo** del frontmatter (faceta de match exacto), no dentro de `tags`. `tags` queda como **vivero** open/closed: etiquetas emergentes que aún no merecen campo propio. Nunca un tag para apuntar a otro archivo. (Esto **reemplaza** tanto la vieja "Regla de Oro" de tag-como-slug como el esquema `#entidad/...` dentro de `tags`. Ver [[glosario-de-tags]].)
 3. **Los aliases dan estabilidad y display.** Toda entidad debería declarar `aliases` con su nombre propio, para sobrevivir renombres y mostrar `[[slug|Texto Visible]]`.
 
 ---
