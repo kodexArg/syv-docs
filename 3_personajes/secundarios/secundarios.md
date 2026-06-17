@@ -1,6 +1,7 @@
 ---
 title: Secundarios
 folder: 3_personajes/secundarios
+description: Índice de los personajes secundarios — las voces desde los márgenes que sostienen la textura del mundo.
 ---
 
 Las voces desde los márgenes. Marineros que cruzan el Río de la Plata con contrabando en las bodegas, curanderas que mezclan liturgia católica con ritos de Umbanda, vendedores de libros prohibidos en las Tuberías.
