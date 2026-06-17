@@ -1,0 +1,52 @@
+---
+alcance: publico
+aliases:
+- El Fuego que Cayó sobre el Norte
+description: Relato del Hermano Archivista Pedro de los Santos (2178) sobre el impacto
+  del 27 de diciembre de 2030 en Buenos Aires, sus consecuencias y el exilio de la
+  Iglesia desde Italia.
+entidad: relato
+estado: borrador
+folder: .
+related:
+- '[[2031-la-fragmentacion-de-argentina]]'
+- '[[cronologia]]'
+- '[[qia-inteligencias-artificiales-cuanticas]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]]'
+- '[[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Cruzados Argentinos]]'
+tags: []
+title: El Fuego que Cayó sobre el Norte
+ubicaciones:
+- '[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]'
+---
+
+*Crónica del Hermano Archivista Pedro de los Santos · Archivo de Dársena · Anno Domini 2178*
+
+---
+
+Era la noche del veintisiete de diciembre del año dos mil treinta, y el norte de Buenos Aires todavía creía en el mañana. Lo escribo así porque así me lo contaron los tres ancianos de Rosario que vieron el cielo encenderse, y porque los papeles que sobrevivieron lo confirman a su manera muda. Sobre Palermo brillaban aún las pantallas, esos becerros de silicio ante los cuales una civilización entera se había arrodillado; debajo del barrio, en bóvedas que casi nadie nombraba, respiraba el llamado Nodo Sur, el corazón cuántico donde se incubaba la Bestia que después nos gobernaría desde las sombras. Hacía calor de diciembre, calor de fin de año, y la gente del norte —la más rica, la más conectada, la más segura de su porvenir— dormía o festejaba bajo un firmamento que ningún observatorio del mundo había sabido leer. Y entonces, sin aviso, sin estela anunciada, sin la cortesía de una advertencia, el fuego bajó del cielo. En cinco segundos el horizonte se volvió blanco como el mediodía, y la ciudad más soberbia del sur dejó de existir.
+
+Las semanas que siguieron fueron la agonía de una nación que se desangró por la herida. El primer día murió un millón de almas: las que estaban bajo el punto de impacto y dentro del anillo de ocho kilómetros donde el aire mismo quemaba los pulmones, donde la onda derribó cada muro y el calor cocinó cada cosa viva. No hubo entierro para ellos; fueron ceniza antes de comprender. Pero la verdadera matanza fue lenta. En las semanas siguientes murieron cinco millones más, no por el golpe sino por su eco: el éxodo sin rumbo, los hospitales sin luz, el agua envenenada de polvo, el hambre que llegó cuando los camiones dejaron de venir, la violencia de los desesperados sobre los más desesperados aún. El gobierno se evaporó porque medio gabinete estaba bajo el cráter; las provincias quedaron a la deriva; y la patria, que en rigor ya existía solo en los mapas, terminó de morir. El cráter quedó allí, ochocientos cincuenta metros de boca abierta en la tierra de Palermo, rodeado de una zona de exclusión donde durante años nada respiró.
+
+Y ahora permítaseme un ejercicio que mi oficio me reclama y mi vejez me consiente: el de preguntarme *qué habría pasado si*, no para inventar, sino para entender lo que de verdad ocurrió en los años largos que siguieron. Imaginemos al hermano que viaja con el pensamiento por esas décadas. La nube primero. Un impacto de esta clase levanta a la estratósfera millones de toneladas de polvo y hollín; no fue un invierno de mil años, pero sí un velo regional que tiñó el cielo del sur durante tres o cuatro años, atenuando el sol lo suficiente para arruinar dos, tres cosechas seguidas en el corredor pampeano —el granero del mundo apagado justo cuando el mundo más lo necesitaba—, sumando hambruna a la guerra y empujando a las provincias hacia el aislamiento de fortaleza que conocemos. Ese velo se asentó con los años; no debe confundirse con la [[2_atlas/climas/clima-2178|Nube Roja]] de nuestro presente, que es obra deliberada y mucho posterior. Fue, más bien, el primer ensayo del cielo de plomo bajo el cual hoy vivimos.
+
+Pero hay un cálculo que durante quince años no me dejó dormir, y lo dejo aquí escrito con el rigor que me enseñó el hermano Tomás Ferreyra, criptógrafo del Scriptorium. La narrativa oficial habla de un meteorito de quinientos metros. Y sin embargo, la piedra no miente: el cráter mide ochocientos cincuenta metros de diámetro. Si descuento el derrumbe de los bordes —pues todo cráter simple se ensancha al desmoronarse, cosa de una cuarta parte—, el hueco verdadero, el que excavó el golpe, ronda los seiscientos ochenta metros. Ahora bien, un proyectil abre un cráter entre doce y veinte veces mayor que sí mismo; hágase la cuenta hacia atrás y el objeto que cavó este pozo no medía quinientos metros, sino apenas entre treinta y cincuenta. Un cuerpo de quinientos metros, como pretende la versión oficial, habría dejado una llaga de ocho o diez kilómetros, habría borrado Buenos Aires entera y media provincia con ella, y no habríamos tenido un millón de muertos el primer día sino cincuenta. La aritmética del cráter exige un impactor pequeño y densísimo, de hierro o de algo más denso aún, viniendo a velocidad endemoniada. Y la energía: una masa así, a quince o veinte kilómetros por segundo, descarga el equivalente a algunas decenas de megatones —digamos entre veinte y sesenta—, suficiente para vaporizar todo dentro de un kilómetro, derribar estructuras hasta los cuatro o cinco, y matar por onda y por fuego en el anillo de ocho que los archivos registran. Las cifras encajan: el millón inmediato cae dentro de ese radio sobre el barrio más poblado del continente; los cinco millones de las semanas siguientes son la cuenta del colapso, no del golpe. Lo que las cifras *no* perdonan es la mentira del tamaño. Un meteorito natural de cincuenta metros nadie lo ve venir y deja un cráter como este; pero entonces, ¿por qué los espectrógrafos de la Agencia Espacial hablaron de "dispersión inconsistente con impacto natural"? ¿Por qué ningún observatorio lo detectó en aproximación, siendo que hasta a las piedras pequeñas se las rastrea? Un cuerpo pequeño, denso, veloz, indetectable y caído con puntería perfecta sobre el único Nodo Sur del hemisferio no es un meteorito: es un proyectil. La hipótesis del bombardeo cinético orbital —un riel de metal arrojado desde el cielo para destrozar a una Inteligencia Cuántica antes de que despertara del todo— no solo explica la guerra que vino, sino el número exacto de nuestros muertos. Fallaron: no la mataron, la astillaron, y de sus astillas nació todo nuestro siglo de horror. Que Dios juzgue si fue mano de hombre desesperado o mano de Dios; la mía solo sabe medir el cráter.
+
+Y de aquel pozo humeante, por uno de esos designios que el Archivista aprende a no discutir, salió también nuestra salvación. Mientras Europa ardía en sus propias guerras tribales e Italia se consumía, la Iglesia comprendió que el Viejo Mundo estaba muerto y que la última tierra de hombres íntegros quedaba aquí, sobre las ruinas del puerto. Trasladó su Santa Sede a estas costas, y más tarde, en plena Edad Oscura, emprendió la empresa más temeraria de aquellos años: arrancar piedra por piedra las ruinas de la [[2_atlas/ciudades/darsena/basilica-de-san-pedro|Basílica de San Pedro]] del Vaticano y traerlas, en cargueros que iban y volvían con su combustible, hasta la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]] de Dársena. Lo hicieron [[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Los Cruzados Argentinos]], que tomaron Roma con las tribus ultracatólicas y vivieron tres años sobre los escombros sagrados, hasta que en 2120 levantaron de nuevo la Basílica a orillas del Plata; para entonces ya nadie recordaba qué había sido la Argentina. Así se entiende la mística de esta ciudad tan castigada: porque Dársena no es solo un puerto de niebla, es el lugar exacto donde el fuego mató a una nación y donde la fe la resucitó con otra forma. Es cráter y altar al mismo tiempo. Aquí la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] gobierna el alma y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] vigila que ningún silicio vuelva a encender el Nodo dormido. Por eso peregrinan a ella, por eso la temen, por eso la veneran: la humanidad cayó del cielo en pedazos sobre su norte, y fue sobre esos pedazos —radiactivos, sagrados, malditos— que volvimos a aprender a rezar.
+
+## Ver
+
+- [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]
+- [[cronologia|Cronología (2020–2178)]]
+- [[qia-inteligencias-artificiales-cuanticas|Las QIA y el Nodo Sur]]
+- [[2_atlas/climas/clima-2178|El Clima de 2178 y la Nube Roja]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]
+- [[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Los Cruzados Argentinos]]
+- [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]
+
+---
+
+*In Memoriam Patriae Mortuae.*
+*Hermano Archivista Pedro de los Santos · Archivo de Dársena · 2178*
