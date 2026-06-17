@@ -274,5 +274,5 @@ La Confederación, especialmente Dársena, es la más represiva porque:
 - "Para resistencia clandestina": [[arpistas|Los Arpistas]]
 
 **Especificaciones Técnicas**:
-- "Para detalles técnicos de tecnologías permitidas": Ver [Atlas de Tecnología y Ciencia](../../2_atlas/tecnologia-y-ciencia/) (especialmente Energías Alternativas, Tecnología Civil y Militar)
+- "Para detalles técnicos de tecnologías permitidas": Ver [[2_atlas/tecnologia-y-ciencia/tecnologia-y-ciencia|Atlas de Tecnología y Ciencia]] (especialmente Energías Alternativas, Tecnología Civil y Militar)
 
