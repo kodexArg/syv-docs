@@ -197,13 +197,13 @@ tags: []
 title: Las Tuberías
 folder: 2_atlas/darsena
 description: Comunidad subacuática bajo Dársena.
+entidad: ubicacion
 aliases:
   - Tuberías
 region: Argentina, Ciudad Dársena
 related:
   - "[[walter]]"
-tags:
-  - entidad/ubicacion
+tags: []
 ---
 ```
 
