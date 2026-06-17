@@ -92,23 +92,26 @@ El vault raíz `/home/kodex/Dev/SyV` contiene basenames duplicados (p. ej. exist
 
 ---
 
-## Taxonomía de tags
+## Dimensiones controladas y el vivero `tags`
 
-Los `tags` son árboles **cerrados y angostos**, máximo 3 niveles. No se inventan ramas nuevas sin actualizar esta guía. Sirven para filtrar/descubrir, jamás para relacionar.
+Las tres dimensiones controladas son **campos propios**, cada uno con su catálogo cerrado de valores. El motor las indexa como facetas de **match exacto** (una sola grafía, minúsculas, ASCII, guiones, sin `#`):
 
+```yaml
+entidad: personaje      # personaje · faccion · ubicacion · concepto · credo · hito · relato · guia · objeto · vehiculo
+alcance: secreto        # secreto · publico
+estado: canon           # canon · borrador · propuesta
 ```
-#entidad/{personaje|faccion|ubicacion|concepto|credo|hito|relato|guia}
-#alcance/{secreto|publico}
-#estado/{canon|borrador|propuesta}
-```
 
-- Todo archivo de entidad lleva **un** tag `#entidad/...`.
-- `#alcance/secreto` marca contenido con secretos (correlaciona con `spoilers`).
-- Las ~70 palabras-tema sueltas de hoy (`detective`, `historia`, `politica`, `arte`...) **no son tags**: se resuelven como un `#entidad/...`, se convierten en wikilink/`related` si nombran una entidad real, o se eliminan.
+- Toda ficha de entidad lleva **exactamente un** valor de `entidad`.
+- `alcance: secreto` marca contenido con secretos (correlaciona con `spoilers`).
+- El valor es un **átomo**, no una ruta: `entidad: personaje`, nunca `entidad/personaje`.
 
-✓ `tags: ["entidad/personaje", "alcance/secreto"]`
+`tags` queda como **vivero open/closed**: el lado abierto para etiquetas emergentes que querés filtrar exacto pero que aún no merecen campo propio. Normalmente `[]`. **No** entra lo que ya es dimensión controlada (va a su campo) ni contenido descriptivo (lo halla la semántica del cuerpo). Lo que se usa seguido **gradúa** a campo propio, y se registra por PR en el [[glosario-de-tags]].
+
+✓ `entidad: personaje` · `alcance: secreto` · `tags: []`
+✗ `tags: ["entidad/personaje", "alcance/secreto"]` (dimensiones → campos propios)
 ✗ `tags: ["walter", "tuberias"]` (eso son relaciones → wikilinks)
-✗ `tags: ["misterio", "futuro"]` (palabra suelta → eliminar)
+✗ `tags: ["misterio", "futuro"]` (palabra suelta descriptiva → la halla la semántica)
 
 ---
 
