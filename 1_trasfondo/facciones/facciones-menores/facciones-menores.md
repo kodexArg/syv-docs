@@ -3,7 +3,7 @@ title: Menores
 folder: 1_trasfondo/facciones/facciones-menores
 description: "Grupos de menor escala: contrabandistas, cultos, células subversivas, gremios locales."
 tags: []
-faccion:
+ficha_faccion:
   tipo: Variado
   alcance: Local/Regional
   tamaño: "Variable"
