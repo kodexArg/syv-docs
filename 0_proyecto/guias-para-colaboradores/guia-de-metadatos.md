@@ -153,6 +153,8 @@ tags: []
 title: Inquisidora Sofía
 folder: 3_personajes/principales
 description: Primer contacto de la Iglesia con agentes externos en Dársena.
+entidad: personaje
+alcance: secreto
 aliases:
   - Sofía
 nombre: Sofía
@@ -165,9 +167,7 @@ apariciones:
   - "[[el-primer-contacto]]"
 spoilers:
   - "Su lealtad final es un secreto."
-tags:
-  - entidad/personaje
-  - alcance/secreto
+tags: []
 ---
 ```
 
