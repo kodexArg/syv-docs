@@ -167,7 +167,7 @@ Para entender cómo encaja la energía en la historia de SyV:
 
 - [[arpistas|Arpistas]] - Facciones que estudian tecnología
 - [[inquisicion|Inquisición (SIA)]] - Reguladores y vigilantes
-- [Cronología](../../1_trasfondo/hitos/) - Contexto histórico de sistemas energéticos
+- [[1_trasfondo/cronologia|Cronología]] - Contexto histórico de sistemas energéticos
 
 ---
 
