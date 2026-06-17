@@ -214,13 +214,13 @@ tags: []
 title: Walter
 folder: 4_diegesis/relatos
 description: Fragmento de la juventud de Walter en las Tuberías.
+entidad: relato
 aliases:
   - Walter (relato)
 related:
   - "[[walter]]"
   - "[[tuberias]]"
-tags:
-  - entidad/relato
+tags: []
 ---
 ```
 
