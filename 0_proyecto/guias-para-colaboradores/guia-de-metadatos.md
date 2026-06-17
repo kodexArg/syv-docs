@@ -244,7 +244,7 @@ tags: []
 
 ## Migración: qué cambia respecto al esquema viejo
 
-- `tags` deja de ser slug-de-archivo → pasa a taxonomía `#entidad/...`. Las relaciones que vivían en `tags` se mueven a `related`/`facciones`/`ubicaciones` como wikilinks.
+- Las dimensiones que vivían dentro de `tags` (`entidad/...`, `alcance/...`, `estado/...`) salen a sus **campos propios** (`entidad:`, `alcance:`, `estado:`) como valores-átomo. `tags` queda como vivero (normalmente `[]`). Las relaciones que vivían en `tags` se mueven a `related`/`facciones`/`ubicaciones` como wikilinks.
 - `facciones` con nombre-display (`"Iglesia Católica"`) → wikilink al slug (`"[[iglesia-catolica]]"`).
 - `alerta-spoiler` / `alerta-spoilers` (string) → `spoilers` (lista) + tag `#alcance/secreto`.
 - Sintaxis `@[ruta.md]` de guías viejas → wikilink `[[slug]]`.
