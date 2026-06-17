@@ -2,12 +2,12 @@
 title: "Cursiva Contexto"
 folder: 4_diegesis/relatos
 description: Contexto narrativo y guía de voces para el relato Cursiva.
+entidad: relato
+alcance: secreto
+estado: borrador
 aliases:
   - Cursiva Contexto
-tags:
-  - entidad/relato
-  - alcance/secreto
-  - estado/borrador
+tags: []
 related:
   - "[[4_diegesis/relatos/cursiva|Cursiva]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
@@ -21,8 +21,6 @@ facciones:
 ubicaciones:
   - "[[darsena]]"
   - "[[zona-militar-eclesiastica]]"
-type: "Cuento Corto"
-status: "En Escritura"
 spoilers:
   - "El sistema de Iniciados del Faro tiene un costo oculto que Sofía conoce en silencio."
   - "Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía."
