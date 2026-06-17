@@ -2,10 +2,10 @@
 title: Metadatos
 folder: 0_proyecto/guias-para-colaboradores
 description: Formato autoritativo del frontmatter YAML, relaciones por wikilink, taxonomía de tags y aliases.
+entidad: guia
 aliases:
   - Guía de Metadatos
-tags:
-  - entidad/guia
+tags: []
 related:
   - "[[manual-del-colaborador]]"
   - "[[guia-de-personajes]]"
@@ -14,7 +14,10 @@ related:
 
 # Guía de Metadatos
 
-Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinación y Valor". El corpus es un vault de Obsidian: el grafo de conocimiento se construye **solo con wikilinks**, los `tags` son **taxonomía** para descubrir y filtrar, y los `aliases` protegen contra renombres. Si algo acá contradice otra guía, manda esta.
+Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinación y Valor". El corpus es un vault de Obsidian operado por el motor `markdown-vault-syv`: el grafo de conocimiento se construye **solo con wikilinks**, las dimensiones controladas (`entidad`, `alcance`, `estado`) son **campos propios** del frontmatter, los `tags` son un **vivero** abierto para etiquetas emergentes, y los `aliases` protegen contra renombres. Si algo acá contradice otra guía, manda esta — salvo el `[[glosario-de-tags]]`, SSOT de qué campos existen y cómo se escriben.
+
+> [!important] Cómo lo ve `markdown-vault-syv`
+> El motor da tres superficies, y cada dato cae en **una sola**: **semántica** (el cuerpo), **facetas** (los campos de frontmatter — *match exacto*, una sola grafía, solo se indexan los campos declarados) y **grafo** (los wikilinks del cuerpo). Por eso una dimensión no se mete dentro de `tags` con barras: cada una es su campo, faceta nativa filtrable con `search(filters=...)`. La jerarquía **no se parte**: el valor es un átomo (`personaje`), no una ruta (`entidad/personaje`).
 
 > [!important]
 > El estándar YAML exige el **espacio después de los dos puntos** (`title: Valor`, no `title:Valor`). El bloque va al inicio del archivo, entre líneas `---`. Nombres de campo en **inglés y minúsculas**.
