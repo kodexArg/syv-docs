@@ -102,7 +102,7 @@ Para entender el marco regulatorio de la energía:
 Para entender cómo encaja la energía en la historia de SyV:
 
 - **[[arpistas|Arpistas]]** - Usuarios de CSE, estudio de artefactos tecnológicos antiguos
-- **[Infraestructura Energética de Dársena](../../1_trasfondo/hitos/)** - Contexto histórico de cómo la ciudad depende de reactores irreproducibles
+- **[[infraestructura-energetica|Infraestructura Energética de Dársena]]** - Contexto histórico de cómo la ciudad depende de reactores irreproducibles
 
 ---
 
