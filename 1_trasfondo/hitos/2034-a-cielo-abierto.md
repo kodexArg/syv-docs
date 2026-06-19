@@ -5,6 +5,7 @@ fecha: 2034
 description: Terror aéreo, drones autónomos, década de muerte democratizada.
 entidad: hito
 alcance: publico
+estado: canon
 aliases:
   - A Cielo Abierto
 related:
