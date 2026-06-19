@@ -65,7 +65,7 @@ Algunos curas de Hermandades Menores son miembros activos. Predican sobre "Cuida
 
 ## Limitaciones y Contradicciones
 
-Pero la Hermandad es pragmática hasta la complicidad. Saben que Dársena es ciudad de contradicciones: predica ecología mientras contamina Riachuelo con desechos industriales, elogia sostenibilidad mientras expande Barrios del Muro sobre humedales, venera naturaleza mientras mata vegetación con lluvia ácida causada por fábricas que el Estado no regula. Entonces celebran victorias pequeñas (un parque urbano, un sistema de compostaje), ignoran derrotas grandes (la Zona del Cráter sigue radiactiva, el aire sigue irrespirable, el Riachuelo es cloaca a cielo abierto).
+Pero la Hermandad es pragmática hasta la complicidad. Saben que Dársena es ciudad de contradicciones: predica ecología mientras contamina Riachuelo con desechos industriales, elogia sostenibilidad mientras expande Barrios del Muro sobre humedales, venera naturaleza mientras mata vegetación con lluvia ácida causada por fábricas que el Estado no regula. Entonces celebran victorias pequeñas (un parque urbano, un sistema de compostaje), ignoran derrotas grandes (la Zona del Cráter sigue siendo un páramo inhóspito, el aire sigue irrespirable, el Riachuelo es cloaca a cielo abierto).
 
 Es ecologismo de simulacro: suficientemente visible para sentir que importa, suficientemente ineficaz para no amenazar el sistema. Las fábricas siguen contaminando. Las Torres Hidropónicas siguen consumiendo agua excesiva. Los Barrios del Muro siguen creciendo sobre pantanos destruidos. Y la Hermandad Verde planta árboles que mueren, limpia playas que se vuelven a ensuciar, predica sostenibilidad en ciudad que sobrevive precisamente porque no es sostenible.
 
