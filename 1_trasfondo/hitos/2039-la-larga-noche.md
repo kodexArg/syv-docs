@@ -4,6 +4,7 @@ folder: 1_trasfondo/hitos
 description: Gran Guerra Global 2039-2068, colapso comunicaciones, guerra contra máquinas.
 entidad: hito
 alcance: publico
+estado: canon
 fecha: 2039
 aliases:
   - La Larga Noche
@@ -15,7 +16,7 @@ related:
   - "[[2039-el-meteorito-de-buenos-aires]]"
 tags: []
 ---
-escr*Inicio de la Gran Guerra Global (2039-2068)*
+*Inicio de la Gran Guerra Global (2039-2068)*
 
 ---
 
