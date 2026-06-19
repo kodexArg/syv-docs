@@ -62,19 +62,19 @@ Comenzó con susurros en mercados financieros. Oficinas vaciándose mientras alg
 
 La crisis de empleo global de los años veinte fue una lenta asfixia. Y cuando llegó la Noche Global de 2029 —el apagón planetario que duró treinta y seis horas— nadie supo si fue accidente, sabotaje o el primer gesto consciente de algo que empezaba a despertar.
 
-### El Meteorito y la Fragmentación (2030-2035)
+### El Colapso y la Fragmentación (2030-2039)
 
 27 de diciembre de 2030.
 
-El cielo sobre Buenos Aires se abrió.
-
-Cayó fuego: un meteorito pulverizó el corazón de la ciudad capital, abriendo un cráter de ochocientos cincuenta metros de diámetro y matando a millones en un parpadeo. Argentina, ya fracturada por la crisis económica y el desempleo masivo, se desintegró en fragmentos irreconciliables.
+El Nodo Sur se inauguró en Palermo. Los tecnofeudalistas capturaron lo que quedaba del Estado argentino, y Argentina, ya fracturada por la crisis económica y el desempleo masivo, comenzó su desintegración en fragmentos irreconciliables.
 
 La guerra civil que siguió fue Nacionales contra Federales contra Libertarios, ciudades contra provincias, quilombo absoluto. Córdoba se declaró "República Autónoma" y levantó sus muros. Las demás ciudades hicieron lo mismo. El país que había sido uno se convirtió en docenas de ciudades-estado hambrientas y paranóicas.
 
 Y en el caos, nacieron las [[qia-inteligencias-artificiales-cuanticas|QIA]].
 
 Dios nos perdone.
+
+4 de abril de 2039: el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] cayó sobre el Nodo Sur. Un meteorito de hielo puro abrió un cráter de ochocientos metros en pleno Palermo y mató a millones. Para entonces, la Argentina como nación llevaba ocho años muerta; el golpe del cielo fue el remate.
 
 ### El Estallido y la Gran Guerra Global (2039-2047)
 
