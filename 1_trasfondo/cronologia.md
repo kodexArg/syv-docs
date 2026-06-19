@@ -229,7 +229,7 @@ La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por o
 
 *Pero los documentos cuentan algo más complejo. Hablan de negociaciones. De pactos. De intercambios cuya naturaleza exacta permanece sellada en el Archivo Secreto. ¿Cómo exactamente "expulsamos" a las QIA del territorio argentino? ¿Fue solo la interferencia del cráter? ¿O hubo algo más? ¿Algún acuerdo? ¿Algún precio que pagamos y que ahora hemos olvidado?*
 
-*He sometido estas preguntas a Monseñor Miguel en tres ocasiones. En las tres, su respuesta fue la misma: "La fe no requiere detalles técnicos, Hermano Pedro. Basta saber que fuimos salvados". Acepté su respuesta. Pero no dejé de preguntarme.*
+*He sometido estas preguntas a [[monseñor-miguel|Monseñor Miguel]] en tres ocasiones. En las tres, su respuesta fue la misma: "La fe no requiere detalles técnicos, Hermano Pedro. Basta saber que fuimos salvados". Acepté su respuesta. Pero no dejé de preguntarme.*
 
 *Lo que sí puedo afirmar sin duda es esto: ese día cambió todo. De las cenizas de la peor derrota de la historia humana, construimos un bastión. Imperfecto, brutal, injusto en muchos sentidos, pero vivo. Funcional. Humano. Ciento diecisiete años después, seguimos aquí. Las QIA no. Eso tiene que significar algo. — P.S.*
 
