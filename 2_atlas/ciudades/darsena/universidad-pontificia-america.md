@@ -48,7 +48,7 @@ Los edificios siguen un patrón gótico tardío tardío recuperado fragmentariam
 
 ### 2030-2050: Los Años de Confusión
 
-Cuando el impacto del 27 de diciembre de 2030 destrozó Buenos Aires, la comunidad académica que sobrevivió se fragmentó. Algunos intelectuales se refugiaron en Córdoba, donde se estaba formando un poder militar incipiente. Otros, movidos por la fe o por pragmatismo, se acercaron a los grupos eclesiásticos que emergían de los escombros. Buenos Aires ardía; la Academia de Ciencias de Buenos Aires (institución decimonónica) fue consumida en los incendios de 2031.
+Cuando el impacto del 4 de abril de 2039 destrozó Buenos Aires, la comunidad académica que sobrevivió se fragmentó. Algunos intelectuales se refugiaron en Córdoba, donde se estaba formando un poder militar incipiente. Otros, movidos por la fe o por pragmatismo, se acercaron a los grupos eclesiásticos que emergían de los escombros. Buenos Aires ardía; la Academia de Ciencias de Buenos Aires (institución decimonónica) fue consumida en los incendios de 2031.
 
 En los barrios de lo que sería Dársena, sacerdotes jesuitas y franciscanos que habían permanecido clandestinos durante el caos comenzaron a agruparse. Algunos traían diplomas del siglo XX. Otros, conocimiento transmitido por oralidad de maestro a aprendiz. Entre ellos, la idea germinal: si el mundo técnico había caído, ¿no era responsabilidad de la Iglesia preservar la verdad sin corrupción?
 
