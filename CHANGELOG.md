@@ -1,6 +1,19 @@
 # Changelog
 
 ## [Unreleased]
+- group: canon-meteorito-buenos-aires-2039
+  priority: high
+  commit: 3af3788
+  changes:
+    - feat(hitos): nuevo hito 2039-el-meteorito-de-buenos-aires.md — impacto canónico 4-abr-2039, cuerpo hielo puro ~50m, ~1 Megatón, cráter 800m, sin radioactividad
+    - fix(cronologia): fecha correcta del Meteorito — 4-abr-2039 (no 2030-12-27); causación y energía documentadas; 1M + 5M muertes indirectas
+    - fix(hitos): 2039-la-larga-noche.md — alineado con fecha 2039; estado canon añadido; prefijo escr removido; sección Cuerpo de Hielo incorporada
+    - fix(hitos): 2031-la-fragmentacion-de-argentina.md — causación corregida a Nodo Sur (no meteorito); wikilink a [[2039-el-meteorito-de-buenos-aires]] agregado; estado canon reordenado
+    - fix(hitos): 2034-a-cielo-abierto.md — fecha 2034 corregida de 2031; estado canon agregado
+    - fix(sinopsis): sección renombrada a "El Colapso y la Fragmentación (2030-2039)"; causación alineada
+    - fix(atlas): darsena.md — Historia refactorizado — separados eventos Nodo Sur (2030) y Cuerpo de Hielo (2039)
+    - fix(atlas): universidad-pontificia-america.md — fecha impacto corregida a 2039
+
 - group: canon-caridad-divina-erradicada-las-manos-calladas
   priority: high
   changes:
