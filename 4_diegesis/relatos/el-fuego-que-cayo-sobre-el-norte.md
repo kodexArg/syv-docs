@@ -3,8 +3,8 @@ alcance: publico
 aliases:
 - El Fuego que Cayó sobre el Norte
 description: Relato del Hermano Archivista Pedro de los Santos (2178) sobre el impacto
-  del 27 de diciembre de 2030 en Buenos Aires, sus consecuencias y el exilio de la
-  Iglesia desde Italia.
+  del 4 de abril de 2039 en Buenos Aires (el Cuerpo de Hielo sobre el Nodo Sur), sus
+  consecuencias y el exilio de la Iglesia desde Italia. Estado borrador — cuerpo pendiente de revisión narrativa.
 entidad: relato
 estado: borrador
 folder: 4_diegesis/relatos
