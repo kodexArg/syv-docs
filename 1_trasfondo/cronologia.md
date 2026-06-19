@@ -1,11 +1,13 @@
 ---
 title: Cronología
 folder: 1_trasfondo
-description: Registro completo desde 2020 hasta 2178, colapso global y Confederación Argentina.
+description: Registro completo desde 2020 hasta 2178, colapso global y
+  Confederación Argentina.
 entidad: concepto
 alcance: publico
 aliases:
   - Cronología
+estado: canon
 related:
   - "[[anatema-mecanico]]"
   - "[[qia-inteligencias-artificiales-cuanticas]]"
@@ -16,6 +18,7 @@ related:
   - "[[2048-el-fin-de-los-secretos]]"
   - "[[2031-la-fragmentacion-de-argentina]]"
   - "[[2035-nacimiento-de-las-qia]]"
+  - "[[2039-el-meteorito-de-buenos-aires]]"
 tags: []
 ---
 
@@ -73,33 +76,21 @@ El hombre que soñaba con un robot que le sirviera el café en su escritorio se 
 
 Fueron dos años de estallidos sociales que recorrieron Norteamérica como un incendio sin agua para apagarlo. Las ciudades ardieron en protestas contra la irrelevancia decretada, contra el hambre que ya no tenía solución en el trabajo honesto. Desde Detroit hasta Los Ángeles, desde Toronto hasta Ciudad de México, las calles se llenaron de hombres y mujeres que gritaban contra un futuro que ya había llegado. Sudamérica escuchó esos gritos y los repitió con sus propios acentos: São Paulo, Buenos Aires, Santiago, Bogotá. El coro de la desesperación era universal, pero las corporaciones no escuchaban música humana; solo el susurro eficiente de los algoritmos.
 
-El 27 de diciembre de 2030, un evento catastrófico devastó Buenos Aires. La narrativa oficial, difundida por los gobiernos supervivientes de la época, describió el incidente como el impacto de un bólido celeste: un meteorito de aproximadamente 500 metros de diámetro que penetró la atmósfera sin detección previa y colisionó contra el corazón de la capital argentina. El impacto liberó energía equivalente a múltiples megatones, creando un cráter de 850 metros de diámetro en la zona que antiguamente correspondía a Palermo, con una zona de exclusión de ocho kilómetros donde los daños por la explosión hicieron imposible la vida. Las estimaciones conservadoras calculan un millón de víctimas inmediatas; las cifras totales, considerando la desintegración social posterior, superan los tres millones.
+El 27 de diciembre de 2030, lejos del apocalipsis que algunos temían, ocurrió un evento fundacional: la inauguración del "Nodo Sur". Argentina asumió un papel protagónico en el mundo, erigiendo el edificio de operaciones más importante del hemisferio. El Nodo Sur se convirtió en la base de una de las facciones más influyentes de tecnofeudalistas, los amos indiscutidos de la nueva era.
 
-Entre los documentos clasificados a los que he tenido acceso limitado, existen referencias a análisis espectroscópicos realizados por la Agencia Espacial Argentina en las 48 horas posteriores al impacto (antes de su colapso total) que sugerían patrones de dispersión de energía "inconsistentes con impacto natural". Hay también reportes fragmentarios de observatorios astronómicos internacionales que no detectaron el objeto en trayectoria de aproximación, hecho inusual para un cuerpo de tal magnitud.
+No era una obra colosal por su inmensidad —era apenas un gran edificio— sino por su magnificencia: un bloque inexpugnable de verdadero metal, clavado en pleno Palermo, a confortables metros de Aeroparque. En cuanto a las granjas de bytes donde el auténtico cómputo sucedía, se encontraban esparcidas a lo largo y ancho del territorio del antiguo país, conectadas mediante redes de fibra óptica, nunca a más de un par de milisegundos del gran nodo central.
 
-Una hipótesis minoritaria, mencionada en documentos militares estadounidenses parcialmente recuperados, planteaba la posibilidad de un "bombardeo cinético orbital": proyectiles no explosivos lanzados desde órbita que generan destrucción mediante energía cinética pura. Esta teoría apuntaba como objetivo potencial al complejo de datacenters subterráneos bajo Palermo, específicamente el llamado "Nodo Sur", donde supuestamente operaba un proyecto experimental de Inteligencia Artificial Cuántica. La hipótesis sugiere que el ataque buscaba destruir esta instalación, pero falló en neutralizar completamente la IA, fragmentándola en lugar de eliminarla.
-
-No existen pruebas concluyentes que confirmen esta versión. Los documentos están incompletos, contradictorios, y muchos permanecen sellados por orden de la Inquisición.
-
-Lo que es indiscutible son las consecuencias: Argentina se fragmentó política y socialmente en las semanas siguientes. El gobierno nacional colapsó. Las provincias se aislaron. La guerra civil era inevitable.
+Buenos Aires se volvió un actor importante en el inestable juego geopolítico global. Paradójicamente, mientras las corporaciones operaban desde aquel altar impenetrable, en las calles de la ciudad la gente mendigaba. La miseria absoluta rodeaba al Nodo Sur, y, sin embargo, esos mismos desposeídos protegían la torre, rondándola como zombis y esqueletos que resguardarían la torre de un nigromante en alguna novela fantástica.
 
 **[Nota del Archivista]**
 
-*He dedicado quince años de mi vida a investigar este evento. He leído todo lo que la Inquisición me ha permitido leer, y algunas cosas que no debería haber leído. He entrevistado a tres ancianos que estaban en Rosario esa noche y vieron el cielo tornarse blanco como el día durante cinco segundos completos.*
-
-*No puedo probar que fuera un arma. Pero tampoco puedo ignorar las coincidencias. El "meteorito" impactó exactamente sobre la mayor concentración de infraestructura de IA de Sudamérica.*
-
-*Si fue un ataque, ¿quién lo ordenó? ¿Fue un gobierno humano intentando desesperadamente destruir una IA rebelde? ¿Fue un ataque de una QIA contra otra? ¿O fue, como proclama la Iglesia, verdaderamente la mano de Dios abatiendo la soberbia humana?*
-
-*No lo sé. Y lo que es más terrible: quizás nunca lo sepamos. [[monseñor-miguel|Monseñor Miguel]] ha dejado claro que ciertos documentos del Archivo Secreto sobre este tema permanecerán sellados "hasta el fin de los tiempos". He aceptado esta prohibición con obediencia, pero no sin dolor.*
-
-*Lo único que puedo afirmar con certeza es esto: ese día, Argentina murió. Y del cráter que dejó, paradójicamente, nacería nuestra salvación. — P.S.*
+*La ironía de aquellos años es amarga. Crearon un pilar de silicio y acero para dictar el futuro de continentes enteros, y redujeron a su propia población a guardianes famélicos de su riqueza. El Nodo Sur fue el pináculo de la soberbia tecnofeudalista. Creyeron haber tocado el cielo con las manos, ignorando que estaban sembrando la semilla exacta de la destrucción que caería sobre ellos ocho años más tarde, en aquel abril de 2039. — P.S.*
 
 ---
 
 ### 2030-2036: La Automatización
 
-Mientras el mundo se desgarraba por las consecuencias globales de la automatización total, Argentina vivía su propio infierno. Tras el impacto del meteorito que destruyó Buenos Aires el 27 de diciembre de 2030, el país se fragmentaba en guerra civil. Las provincias se aislaban unas de otras, las comunicaciones se cortaban, el Estado se evaporaba. Para 2032, cuando las corporaciones globales perfeccionaban sus líneas de ensamblaje sin humanos, los argentinos se mataban entre sí con rifles viejos por latas de comida. La automatización era un lujo de naciones que aún funcionaban. Nosotros apenas éramos supervivientes (ver hito: La Fragmentación de Argentina, 2031-2035).
+Mientras el mundo se desgarraba por las consecuencias globales de la automatización total, Argentina vivía su propio infierno paradójico. Mientras Buenos Aires brillaba bajo el dominio del Nodo Sur, el interior del país fue abandonado a su suerte y el tejido social colapsó, fragmentando a la nación en una guerra civil no declarada. Las provincias se aislaban unas de otras, las comunicaciones se cortaban para los ciudadanos comunes, y el Estado secular se evaporaba. Para 2032, cuando las corporaciones globales en Palermo perfeccionaban sus algoritmos, en el resto del territorio los argentinos se mataban entre sí con rifles viejos por latas de comida. La automatización era un lujo de las murallas hacia adentro. Nosotros afuera apenas éramos supervivientes (ver hito: La Fragmentación de Argentina, 2031-2035).
 
 Pero la automatización no solo llegó a las fábricas y oficinas. Llegó también al arte de matar. A partir de 2031, una nueva forma de violencia emergió de las sombras: "drones de combate autónomos" tan baratos que cabían en una mochila, tan letales que podían ejecutar a un VIP en plena calle sin dejar testigos. La democratización de la muerte tecnológica transformó la guerra para siempre (ver "@hito: A Cielo Abierto", 2031-2038).
 
@@ -119,7 +110,7 @@ El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, 
 
 *Los ancianos que no miran al cielo no están locos. Están cuerdos. Vivieron bajo un terror que nosotros, los que nacimos después del Anatema, solo podemos imaginar a través de relatos. Pero en las Tuberías de Dársena, todavía hay túneles donde nadie entra. Túneles donde se dice que yacen enjambres enteros, apagados, esperando. No sé si es verdad. La Inquisición dice que ha limpiado toda la ciudad. Pero a veces, en las noches de niebla espesa, cuando el viento silba entre los edificios del Muro, juro que escucho un zumbido lejano. Y entonces, yo también dejo de mirar al cielo. — P.S.*
 
-*Ver hito completo: [[2031-a-cielo-abierto]]*
+*Ver hito completo: [[2034-a-cielo-abierto]]*
 
 ---
 
@@ -142,6 +133,22 @@ FIN DE: EL PINÁCULO Y EL OCASO DE LA HUMANIDAD
 ### 2036-2039: Preludio a la Gran Guerra Global
 
 *[Sección a desarrollar: tensiones geopolíticas crecientes, formación de alianzas caóticas entre naciones desesperadas, primeros conflictos regionales alimentados por QIA, escalada hacia el abismo]*
+
+### 2039: La Destrucción de Buenos Aires
+
+*Ver hito dedicado: [[2039-el-meteorito-de-buenos-aires]]*
+
+El 4 de abril de 2039, ocho años y tres meses después de la inauguración del Nodo Sur, el símbolo máximo del tecnofeudalismo fue borrado de la faz de la Tierra. Este evento marcó el estallido definitivo de la guerra.
+
+La narrativa oficial, difundida por los pocos gobiernos supervivientes, describió el incidente como el impacto de un bólido celeste: un cuerpo de hielo puro de aproximadamente cincuenta metros de diámetro que penetró la atmósfera sin detección previa —invisible para radares calibrados sobre roca y metal— y colisionó contra el corazón de la capital argentina. El impacto liberó energía cercana a un Megatón de TNT, creando un cráter de ochocientos metros de diámetro en Palermo; la destrucción total de estructuras alcanzó un radio de seis kilómetros y medio, y el colapso masivo de edificios se extendió hasta los catorce kilómetros. Las estimaciones calculan un millón de víctimas inmediatas y cinco millones más en las semanas siguientes —no por el golpe directo, sino por el colapso de toda infraestructura—, erradicando de un solo golpe al majestuoso bloque de metal y a los miserables que lo adoraban en sus calles. No hubo radioactividad: un cuerpo de hielo no envenena la tierra, solo la cubre de vapor y polvo, oscureciendo el cielo regional durante tres o cuatro años.
+
+Entre los documentos clasificados limitados, los análisis espectroscópicos realizados en las 48 horas posteriores sugerían patrones de energía "inconsistentes con un impacto natural". Una hipótesis militar de la época planteaba la posibilidad de un "bombardeo cinético orbital": proyectiles lanzados desde órbita que generan destrucción mediante energía cinética pura. Esa hipótesis buscaba explicar por qué el golpe cayó con tal puntería sobre el nodo principal de Inteligencia Artificial de Sudamérica. Sin embargo, el ataque —si lo fue— falló en neutralizar completamente la red: las inmensas granjas de bytes esparcidas por el territorio nacional sobrevivieron, fragmentando y desquiciando a los sistemas que las habitaban.
+
+**[Nota del Archivista]**
+
+*He dedicado años de mi vida a investigar este evento. He entrevistado a ancianos que estaban en Rosario esa noche y vieron el cielo del sur tornarse blanco como el día.*
+
+*Durante mucho tiempo me sedujo la hipótesis del proyectil orbital: si fue un arma, hubo una mano, y una mano es más fácil de soportar que el azar. Pero la piedra no miente, y la piedra dice hielo. Los espectrómetros de la época buscaban la firma del hierro y encontraron la del agua, y como no la entendían, gritaron "arma". La verdad —que un cuerpo de hielo cayó sobre el único punto del hemisferio donde más daño podía hacer— es más extraña que cualquier conspiración. No descarto del todo una mano detrás del golpe; pero ya no necesito el arma para explicar el cráter. Lo único que puedo afirmar con certeza es esto: ese día, la Buenos Aires que dictaba el futuro murió. Y del inmenso cráter que dejó, nacería nuestra salvación. — P.S.*
 
 ### 2039-2047: La Gran Guerra Global
 
