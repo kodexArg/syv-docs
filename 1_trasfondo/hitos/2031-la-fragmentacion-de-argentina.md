@@ -1,9 +1,11 @@
 ---
 title: Fragmentación de Argentina
 folder: 1_trasfondo/hitos
-description: Desintegración estatal post-meteorito, ciudades-estado, guerra civil décadas.
+description: "Desintegración estatal 2031-2035: colapso del Estado ante el
+  tecnofeudalismo, ciudades-estado, guerra civil de décadas."
 entidad: hito
 alcance: publico
+estado: canon
 fecha: 2031
 region: Argentina
 aliases:
@@ -12,6 +14,7 @@ aliases:
 related:
   - "[[videla-iv]]"
   - "[[fuerzas-armadas]]"
+  - "[[2039-el-meteorito-de-buenos-aires]]"
 tags: []
 ---
 *Hito histórico de Los Años del Caos*
@@ -26,9 +29,9 @@ Este hito marca el comienzo de la desintegración argentina en 2031, aunque la f
 
 ## El Colapso del Estado (Diciembre 2030 - Marzo 2031)
 
-El impacto del meteorito del 27 de diciembre de 2030 no solo destruyó Buenos Aires; asesinó a la Argentina como entidad política. La capital federal se convirtió en un cráter de 850 metros de diámetro rodeado de una zona de exclusión donde el aire mismo quemaba los pulmones. Un millón de personas murieron en el primer día. Cinco millones más morirían en las semanas siguientes, intentando huir del colapso de infraestructura, del caos absoluto.
+La inauguración del Nodo Sur, el 27 de diciembre de 2030, no fue solo el pináculo del tecnofeudalismo: fue el golpe de gracia al Estado argentino. Con aquel altar de metal clavado en Palermo, las facciones corporativas capturaron lo que quedaba del aparato nacional. El gobierno federal —ya reducido a árbitro impotente— dejó de gobernar de hecho. La riqueza y el poder se concentraron tras las murallas de Buenos Aires, mientras el interior del país fue abandonado a su suerte. Un millón de desposeídos rondaban el Nodo como esqueletos, y el resto del territorio quedó a la deriva.
 
-El gobierno nacional se evaporó. El presidente y la mitad del gabinete estaban en Buenos Aires cuando cayó el impacto. El vicepresidente, en Córdoba para una gira, intentó proclamar gobierno de emergencia, pero sus órdenes no llegaban a ningún lado. No había red eléctrica estable. No había comunicaciones nacionales. No había cadena de mando. Las provincias quedaron a la deriva.
+El gobierno nacional se evaporó, no en un día, sino en una agonía de meses. Las órdenes del poder central ya no llegaban a ningún lado. No había red eléctrica estable para los ciudadanos comunes. No había comunicaciones nacionales. No había cadena de mando que las provincias reconocieran. Capturado el Estado por los tecnofeudalistas, las provincias quedaron a la deriva.
 
 Porque recordemos que por ese año y los anteriores, la Argentina atravesaba una crisis cuya naturaleza exacta los documentos no permiten establecer con certeza. Los registros del período son escasos, contradictorios, y cada facción tenía sus propios cronistas. Según las fuentes provinciales, el gobierno federal desmanteló los servicios públicos mediante políticas de desregulación absoluta y abandonó a las provincias a su suerte. Según los archivos federales supervivientes, fueron las provincias quienes retuvieron recursos legítimos de la nación y conspiraron con potencias extranjeras bajo el pretexto de autonomía.
 
@@ -36,23 +39,23 @@ Porque recordemos que por ese año y los anteriores, la Argentina atravesaba una
 
 Las crisis sucesivas habían erosionado todo vestigio de autoridad federal, eso es indiscutible. En Tucumán, el gobernador había declarado en septiembre de 2030 la autonomía tributaria, negándose a remitir fondos a una capital que lo había abandonado primero. Salta y Jujuy habían firmado pactos comerciales directos con Bolivia, sin consultar cancillería alguna. En el sur, Neuquén y Río Negro administraban sus hidrocarburos como patrimonio propio, ignorando las demandas tardías de Buenos Aires. El Chaco y Formosa, abandonados a su suerte durante la sequía del veintinueve, habían dejado de enviar representantes al Congreso. La República, en rigor, existía solo en los mapas.
 
-El meteorito no destruyó una nación; ejecutó a una que ya había sido condenada.
+El catalizador no fue una piedra del cielo —esa llegaría ocho años más tarde— sino el Nodo Sur: el día en que los tecnofeudalistas capturaron el Estado, la nación quedó condenada. La inauguración no destruyó una República; ejecutó a una que ya había sido vaciada por dentro.
 
 Así llegamos al once de octubre de 2031, fecha que los historiadores posteriores llamarían el Día de las Veintitrés Banderas. Ese día, con una simultaneidad que algunos atribuyeron a conspiración y otros a simple inevitabilidad, diecinueve provincias declararon formalmente su secesión de la República Argentina. Los decretos, redactados en lenguaje casi idéntico —lo que sugiere coordinación previa o, quizás, la existencia de un modelo circulando entre gobiernos provinciales— invocaban el derecho a la autopreservación ante la inexistencia de facto del poder central. La Asamblea Militar de Rosario, convocada días antes por oficiales de rango medio que habían perdido contacto con sus superiores, resolvió por votación la distribución proporcional del Ejército y la Armada entre las nuevas entidades soberanas. Cada provincia recibiría guarniciones, pertrechos y navíos según su población y extensión territorial. La bandera azul y blanca fue arriada en cuarteles de todo el país; algunas provincias la conservaron con modificaciones, otras diseñaron estandartes nuevos, y unas pocas —las más desesperadas— no se molestaron en tener símbolo alguno.
 
-Pero el caos no se limitó a la fragmentación ordenada. Desde los escombros humeantes de lo que había sido Buenos Aires surgió, como espectro de un orden muerto, el llamado Gobierno de Reconstrucción Nacional. Una junta de coroneles sin tropas suficientes, liderada por un civil cuyo nombre los archivos no preservan con certeza —algunos documentos mencionan a un tal Echevarría, otros a un Menéndez, posiblemente apócrifo—, proclamó la continuidad constitucional desde un búnker en la zona sur del conurbano. Este gobierno fantasma, sostenido por la ficción jurídica y la obstinación de sus integrantes, reclamaba soberanía sobre un cráter humeante y tres millones de refugiados desperdigados. Las provincias lo ignoraron. Las potencias extranjeras, sumidas en sus propias catástrofes, no acusaron recibo de sus comunicados. El Gobierno de Reconstrucción Nacional existió, nominalmente, hasta 2034, cuando sus últimos miembros fueron ejecutados por una facción que controlaba Quilmes. Nadie lloró su desaparición.
+Pero el caos no se limitó a la fragmentación ordenada. Desde el conurbano de una Buenos Aires todavía en pie —aunque hambreada y sitiada por su propia miseria— surgió, como espectro de un orden muerto, el llamado Gobierno de Reconstrucción Nacional. Una junta de coroneles sin tropas suficientes, liderada por un civil cuyo nombre los archivos no preservan con certeza —algunos documentos mencionan a un tal Echevarría, otros a un Menéndez, posiblemente apócrifo—, proclamó la continuidad constitucional desde un búnker en la zona sur del conurbano. Este gobierno fantasma, sostenido por la ficción jurídica y la obstinación de sus integrantes, reclamaba soberanía sobre una capital capturada por las corporaciones y tres millones de desposeídos. Las provincias lo ignoraron. Las potencias extranjeras, sumidas en sus propias catástrofes, no acusaron recibo de sus comunicados. El Gobierno de Reconstrucción Nacional existió, nominalmente, hasta 2034, cuando sus últimos miembros fueron ejecutados por una facción que controlaba Quilmes. Nadie lloró su desaparición.
 
 Para febrero de 2031, lo que quedaba de la estructura administrativa federal había colapsado completamente. Los funcionarios públicos dejaron de cobrar salarios que ya no valían nada. Los militares se fragmentaron en unidades leales a comandantes regionales, no a una bandera que ya no representaba nada. Las fronteras internas se cerraron. Cada provincia, cada ciudad, quedó sola.
 
 ## Las Primeras Secesiones (Febrero - Junio 2031)
 
-Córdoba fue la primera en declararse independiente. El 12 de febrero de 2031, el gobernador provincial —un militar de carrera apellidado Videla, ancestro del [[videla-iv|que hoy gobierna la República]]— proclamó la República Autónoma de Córdoba en la plaza central. Su discurso, preservado en panfletos amarillentos, es una mezcla de pragmatismo brutal y orgullo herido: "Buenos Aires nos gobernó durante siglos. Ahora Buenos Aires es un cráter. No nos someteremos a fantasmas ni a cenizas."
+Córdoba fue la primera en declararse independiente. El 12 de febrero de 2031, el gobernador provincial —un militar de carrera apellidado Videla, ancestro del [[videla-iv|que hoy gobierna la República]]— proclamó la República Autónoma de Córdoba en la plaza central. Su discurso, preservado en panfletos amarillentos, es una mezcla de pragmatismo brutal y orgullo herido: "Buenos Aires nos gobernó durante siglos. Ahora Buenos Aires se arrodilla ante sus amos de metal. No nos someteremos a corporaciones ni a fantasmas."
 
 La declaración fue menos ruptura revolucionaria que reconocimiento de una realidad inevitable. Córdoba tenía universidad, industria pesada, capacidad agrícola en las sierras. Podía sobrevivir sola. Y lo hizo, cerrando fronteras, militarizando pasos, estableciendo control marcial absoluto.
 
-Santa Fe intentó algo diferente. Los gobernadores de las provincias litoraleñas —Santa Fe, Entre Ríos, Corrientes— se reunieron en Rosario en marzo para formar la Confederación del Litoral. Durió seis meses. Para septiembre, la región se había fragmentado en feudos narco-criminales controlados por carteles que importaban armas desde Brasil y Paraguay. Los documentos hablan de "zonas liberadas" que en realidad eran territorios sin ley donde el más violento gobernaba. Hoy llamamos a esa región El Páramo, y el nombre es exacto: tierra baldía donde la civilización murió.
+Santa Fe intentó algo diferente. Los gobernadores de las provincias litoraleñas —Santa Fe, Entre Ríos, Corrientes— se reunieron en Rosario en marzo para formar la Confederación del Litoral. Duró seis meses. Para septiembre, la región se había fragmentado en feudos narco-criminales controlados por carteles que importaban armas desde Brasil y Paraguay. Los documentos hablan de "zonas liberadas" que en realidad eran territorios sin ley donde el más violento gobernaba. Hoy llamamos a esa región El Páramo, y el nombre es exacto: tierra baldía donde la civilización murió.
 
-Mendoza, protegida por los Andes, se cerró como fortaleza. Militarizó todos los pasos cordilleranos en abril de 2031 y expulsó a los refugiados que llegaban desde Buenos Aires y desde Chile, donde la situación era igualmente desesperada. Testimonios de supervivientes hablan de columnas de miles de personas caminando por rutas 7 y 40, rechazadas en Uspallata y Malargüe, muriendo de frío y hambre en las montañas. Mendoza sobrevivió, sí, pero al costo de su humanidad.
+Mendoza, protegida por los Andes, se cerró como fortaleza. Militarizó todos los pasos cordilleranos en abril de 2031 y expulsó a los refugiados que llegaban desde el este y desde Chile, donde la situación era igualmente desesperada. Testimonios de supervivientes hablan de columnas de miles de personas caminando por rutas 7 y 40, rechazadas en Uspallata y Malargüe, muriendo de frío y hambre en las montañas. Mendoza sobrevivió, sí, pero al costo de su humanidad.
 
 ## La Guerra Civil Argentina (2031-2035... y más allá)
 
@@ -96,30 +99,23 @@ En ese aislamiento, las ciudades-estado argentinas desarrollaron culturas propia
 
 La Fragmentación de Argentina no terminó en 2035. La guerra civil continuaría, de forma intermitente, hasta bien entrados los años 2040. Pero para 2035 el patrón estaba establecido: Argentina como nación unitaria había muerto. Lo que emergería después serían ciudades-estado independientes que eventualmente, en 2161, formarían la Confederación Argentina —no por amor o identidad compartida, sino por miedo común a las amenazas externas y a la tecnología prohibida.
 
-Córdoba, Dársena, Mendoza, San Luis, Fuerte San Martín. Cinco gigantes que sostienen hoy un cielo de plomo, herederos de una fragmentación que comenzó aquel diciembre de 2030 cuando el fuego cayó del cielo y mató a una nación.
+Córdoba, Dársena, Mendoza, San Luis, Fuerte San Martín. Cinco gigantes que sostienen hoy un cielo de plomo, herederos de una fragmentación que comenzó aquel diciembre de 2030, cuando los amos del silicio inauguraron su altar y se tragaron al Estado entero.
 
 ---
 
 ## Reflexión del Hermano Archivista (2178)
 
-Desde la distancia de 147 años, veo la Fragmentación como castigo divino por nuestros pecados tecnológicos. La Argentina que murió en 2030 era una nación que había abrazado la automatización, la inteligencia artificial, el culto al progreso mecánico. Quizás el meteorito —o lo que fuera que realmente impactó Buenos Aires— fue la mano de Dios limpiando una tierra corrupta.
+Desde la distancia de 147 años, veo la Fragmentación como castigo divino por nuestros pecados tecnológicos. La Argentina que murió en aquel tránsito de 2030 a 2031 no fue asesinada por una piedra del cielo: murió porque sus instituciones se vaciaron, porque sus élites entregaron el Estado a los amos del silicio, porque una nación que había abrazado la automatización, la inteligencia artificial, el culto al progreso mecánico, dejó de tener sitio para sus propios hijos. El golpe del cielo llegaría después, en 2039, como un remate sobre un cadáver ya frío.
 
-O quizás solo fue caos aleatorio en un universo indiferente. No lo sé. Solo sé que de esas ruinas radiactivas, de esa guerra sin sentido, de esa fragmentación brutal, emergió eventualmente la Confederación que hoy nos rige. No somos la Argentina del pasado. Somos otra cosa. Algo más humilde, más pequeño, pero quizás —solo quizás— más sabio.
+O quizás solo fue caos aleatorio en un universo indiferente. No lo sé. Solo sé que de esas ruinas, de esa guerra sin sentido, de esa fragmentación brutal, emergió eventualmente la Confederación que hoy nos rige. No somos la Argentina del pasado. Somos otra cosa. Algo más humilde, más pequeño, pero quizás —solo quizás— más sabio.
 
 Que nunca olvidemos el precio de nuestra arrogancia.
 
----
-
 ## Conexiones Históricas
 
-- Antecedente directo: Meteorito de Buenos Aires (27 dic 2030)
+- Antecedente catalizador: Inauguración del Nodo Sur (27 dic 2030)
+- Evento posterior relacionado: [[2039-el-meteorito-de-buenos-aires]] (4 abr 2039) — destrucción del Nodo Sur
 - Eventos paralelos: Nacimiento de las QIA (2035), Gran Guerra Global (2036-2047)
 - Consecuencias: Formación ciudades-estado (2035-2040), Confederación Argentina (2161)
 - Legado en 2178: Tensiones Córdoba-Dársena, memoria de la fragmentación como advertencia
 
----
-
-*In Memoriam Patriae Mortuae - En memoria de la patria muerta.*
-
-*Hermano Archivista Pedro de los Santos*
-*Archivo de Dársena, 2178*
