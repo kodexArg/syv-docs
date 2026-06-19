@@ -12,9 +12,10 @@ aliases:
 related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
   - "[[anatema-mecanico]]"
+  - "[[2039-el-meteorito-de-buenos-aires]]"
 tags: []
 ---
-*Inicio de la Gran Guerra Global (2039-2068)*
+escr*Inicio de la Gran Guerra Global (2039-2068)*
 
 ---
 
@@ -34,7 +35,7 @@ Y esa ignorancia nos mataría a millones.
 
 ## ¿Qué Fue La Larga Noche?
 
-No fue un apagón como la Noche Global de 2029. No fue un bombardeo como el meteorito de 2030. No fue siquiera una batalla.
+No fue un apagón como la Noche Global de 2029. No fue siquiera una batalla.
 
 Fue silencio.
 
@@ -42,9 +43,15 @@ Los últimos satélites dejaron de transmitir señales confiables. Los cables su
 
 Y entonces, simplemente, dejamos de escuchar voces al otro lado del mar.
 
+### El Cuerpo de Hielo
+
+Y en medio de ese silencio que se cerraba sobre el mundo, el 4 de abril de 2039, cayó el fuego sobre Palermo. El [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] —una mole de hielo puro de unos cincuenta metros— se estrelló contra el corazón del Nodo Sur y lo borró del mapa. Un millón de almas murieron en el instante; cinco millones más, en las semanas que siguieron.
+
+Y sin embargo —esto es lo que me cuesta escribir— incluso esa catástrofe quedó enterrada en el silencio general. Porque para abril de 2039 las comunicaciones ya estaban colapsando, y la noticia de la muerte de Buenos Aires no recorrió el mundo como habría recorrido una década antes. Cayó en el vacío. Una ciudad entera murió y casi nadie, fuera del Río de la Plata, llegó a saberlo. Así de espesa era ya la oscuridad: ni siquiera el fin de la capital del hemisferio alcanzó a ser noticia.
+
 ### El Último Contacto
 
-Los registros argentinos —cables diplomáticos conservados en papel, cartas de marinos mercantes— coinciden en una cosa: el último contacto intercontinental verificable fue en abril de 2039.
+Los registros argentinos —cables diplomáticos conservados en papel, cartas de marinos mercantes— coinciden en una cosa: el último contacto intercontinental verificable fue en abril de 2039, apenas días después del impacto.
 
 Un barco mercante brasileño, el *São Paulo*, transmitió por radio antes de desaparecer en el Atlántico:
 
