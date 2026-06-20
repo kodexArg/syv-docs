@@ -40,7 +40,7 @@ Las ceremonias ocurren en sótanos profundos de Barrios del Muro, espacios que l
 
 El elemento central es la medicina: lianas del pantano, plantas emparentadas con la ayahuasca ancestral que crecen en los pantanos mutados fuera del Muro. La ayahuasca original se extinguió en los incendios amazónicos, pero botánicos Shipibo encontraron en los humedales del Riachuelo una variante mutada que produce efectos similares. Los chamanes la preparan hirviéndola horas hasta obtener líquido espeso, amargo, que provoca vómitos violentos antes de inducir visiones. Los participantes ven kené: patrones geométricos que se mueven, espíritus que hablan en lenguas muertas, memorias ancestrales de selva que ya no existe.
 
-La Iglesia clasifica estas ceremonias como herejía botánica. Las lianas del pantano son tecnobotánica prohibida: plantas cuya modificación genética (natural, por radiación del Cráter) las hace ilegales bajo interpretación estricta del Anatema. Consumirlas es delito que la SIA persigue cuando las ceremonias se hacen visibles. Pero en sótanos sellados, donde el humo no sale y los cantos no se escuchan, los Shipibo practican sin ser molestados.
+La Iglesia clasifica estas ceremonias como herejía botánica. Las lianas del pantano son tecnobotánica prohibida: plantas cuya modificación genética (natural, por la contaminación tóxica de los Pantanos) las hace ilegales bajo interpretación estricta del Anatema. Consumirlas es delito que la SIA persigue cuando las ceremonias se hacen visibles. Pero en sótanos sellados, donde el humo no sale y los cantos no se escuchan, los Shipibo practican sin ser molestados.
 
 ## Medicina Tradicional
 
