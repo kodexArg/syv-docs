@@ -216,10 +216,11 @@ Pero cada vez que miro el horizonte del Río de la Plata, me pregunto: ¿Habrá 
 
 ---
 
-*In Memoriam Veteres Errores - Para que nunca olvidemos los errores del pasado.*
+*In Memoriam Veteres Errores — Para que nunca olvidemos los errores del pasado.*
 
-*Hermano Archivista Pedro de los Santos*
-*Archivo de Dársena, 2178*
+*Copiado de mi puño en el Archivo de Dársena, a XXI días del mes de febrero del Año del Señor de dos mil ciento setenta y ocho, en la víspera de la Cátedra de San Pedro —que no quise consignar fecha de día a esta noche que no la tuvo, pero sí quise dejar consignado el día en que la confié al papel, para que el lector sepa que un hombre vivo, en una mañana concreta, se sentó a escribir sobre la oscuridad y no se dejó vencer por ella.*
+
+*—Hermano Archivista Pedro de los Santos*
 
 ---
 

@@ -161,3 +161,13 @@ Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide
 
 #### Integración Cultural
 - Fomento de la diversidad y la identidad regional.
+
+---
+
+*Y aquí debo soltar la pluma, no porque la historia se acabe, sino porque la historia que cuento es la única que todavía no terminó de escribirse. Las páginas anteriores de esta crónica las copié con la certeza del que mira hacia atrás; esta la dejo abierta, como una puerta sin trancar, para que la complete quien venga después de mí. Si Dios me presta vida, yo mismo iré asentando año a año lo que el mundo nos depare. Si no, que otro hermano tome la tinta donde yo la dejo. El pasado ya está dicho; el presente apenas balbucea.*
+
+*Vigilate, quia nescitis diem neque horam — Velad, porque no sabéis el día ni la hora.*
+
+*Escrito de mi puño en el Archivo de Dársena, a XIX días del mes de junio del Año del Señor de dos mil ciento setenta y ocho, en la fiesta del Sagrado Corazón, mientras afuera cae la lluvia de siempre y el mundo, más allá de nuestros muros, sigue siendo un rumor.*
+
+*—Hermano Archivista Pedro de los Santos*

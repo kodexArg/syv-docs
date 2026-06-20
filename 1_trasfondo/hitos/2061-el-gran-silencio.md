@@ -2,6 +2,7 @@
 title: Gran Silencio
 folder: 1_trasfondo/hitos
 fecha: 2061-03-12
+fecha_exacta: 2061-03-12
 description: Apagón global coordinado, fin dominio QIA, nacimiento Anatema Mecánico.
 entidad: hito
 alcance: secreto
@@ -21,6 +22,13 @@ spoilers:
 tags: []
 ---
 # El Gran Silencio (12 de marzo de 2061)
+
+> *Hito del Anatema — la noche en que la humanidad se amputó para vivir.*
+>
+> *De todos los días que esta crónica conmemora, ninguno me arranca a la vez tanto orgullo y tanta vergüenza como este. Orgullo, porque mis antepasados hicieron lo imposible: callaron al dios de silicio. Vergüenza, porque sé lo que costó y sé lo que se calla todavía. Escribo este capítulo, como el de 2048, sabiendo más de lo que un hombre piadoso debería; y rezo cada noche para que el peso de ese saber no me condene. Lo que aquí queda asentado, lector, no es la historia que se canta en la procesión del Anatema. Es la otra, la de abajo.*
+
+> [!warning] Materia reservada
+> Hay en estas páginas cifras y nombres que la Sagrada Inquisición guarda bajo sello. Los consigno porque un archivista que miente por comodidad no merece la tinta. Pero que sepa quien lea: no todo esto debe repetirse en voz alta.
 
 El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]].
 
@@ -342,3 +350,11 @@ El silencio continúa.
 - "Sagrada Inquisición Argentina" (1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Ejecutora del Anatema
 - "Scriptorium de Criptoanálisis" (ver cronología.md, línea 26) - Custodios del corpus QIA
 - "Cronología general" (1_trasfondo/cronología.md) - Contexto histórico completo
+
+---
+
+*Soli Deo Gloria, et Bestiae Silentium — A solo Dios la gloria, y a la Bestia el silencio.*
+
+*Copiado de mi puño en el Archivo de Dársena, a XII días del mes de marzo del Año del Señor de dos mil ciento setenta y siete —ciento dieciséis años justos del Primer Silencio—, en tiempo de Cuaresma, que es tiempo de callar y de mirarse adentro. Sello estas páginas y las entrego a la custodia que les corresponde.*
+
+*—Hermano Archivista Pedro de los Santos*

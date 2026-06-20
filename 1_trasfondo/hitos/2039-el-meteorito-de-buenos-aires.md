@@ -6,6 +6,7 @@ entidad: hito
 alcance: publico
 estado: canon
 fecha: 2039-04-04
+fecha_exacta: 2039-04-04
 region: Argentina
 aliases:
   - Meteorito de Buenos Aires
@@ -18,7 +19,9 @@ related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
 tags: []
 ---
-*Hito histórico del Fuego Perpetuo — el día en que cayó el Cuerpo de Hielo*
+> *Hito histórico del Fuego Perpetuo — el día en que cayó el Cuerpo de Hielo.*
+>
+> *De cuanto he debido reconstruir en esta crónica, este es el único capítulo que las piedras me dictaron y no los hombres. Por una vez no escribo entre dudas: escribo con un cráter delante, exacto y terco. Y aun así lo que el cráter me dice me quita más el sueño que todas las conspiraciones que inventamos para consolarnos.*
 
 ## Nota del Hermano Archivista
 
@@ -114,5 +117,6 @@ La única excepción está al este, sobre el borde que mira al Río de la Plata.
 
 *In Memoriam Glaciei Cadentis — En memoria del hielo que cayó.*
 
-*Hermano Archivista Pedro de los Santos*
-*Archivo de Dársena, 2178*
+*Escrito de mi puño en el Archivo de Dársena, a IV días del mes de abril del Año del Señor de dos mil ciento setenta y ocho —ciento treinta y nueve años justos del día en que el hielo borró la capital, fecha que quise honrar escribiendo en su aniversario.*
+
+*—Hermano Archivista Pedro de los Santos*

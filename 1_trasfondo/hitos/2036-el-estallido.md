@@ -21,7 +21,7 @@ tags: []
 
 ## Prólogo del Hermano Archivista: Sobre las Fuentes
 
-Escribo sobre estos años desde mi celda en el Archivo de Dársena, en este año de nuestro Señor de 2178, con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. Los documentos que sobrevivieron al Fuego Perpetuo son fragmentarios, contradictorios, a menudo imposibles de reconciliar. Pero son lo que tenemos.
+Escribo sobre estos años desde mi celda en el Archivo de Dársena, en este año de nuestro Señor de 2178, con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. De todos los capítulos de esta crónica, este es el que más noches me robó, y es justo que el lector sepa por qué: no porque falten documentos, sino porque los que hay se contradicen unos a otros con una saña que parece deliberada, como si el caos de aquellos años hubiese contaminado hasta los registros que lo narran. No hay aquí una fecha de día que consignar, ni un hecho limpio al que aferrarse: solo un deslizamiento lento hacia el abismo. Los documentos que sobrevivieron al Fuego Perpetuo son fragmentarios, contradictorios, a menudo imposibles de reconciliar. Pero son lo que tenemos.
 
 Gracias al trabajo de "los Hackers" —esos arqueólogos digitales que arriesgan sus vidas recuperando información de memorias antiguas— hemos podido acceder a fuentes que nuestros predecesores jamás imaginaron posibles. M-DISC militares recuperados de búnkeres sellados, transcriptos byte a byte mediante lectores mecánicos tolerados (apenas) bajo el Corpus Licitus. Algunos discos duros de datacenters que sobrevivieron al colapso, sus platters magnéticos preservados durante 142 años, esperando ser leídos mediante técnicas forenses de extrema dificultad.
 
@@ -377,8 +377,9 @@ Solo importaba sobrevivir a lo que vendría después.
 
 ---
 
-*Hermano Archivista Pedro de los Santos*
-*Archivo de Dársena, 2178*
+*Escrito de mi puño en el Archivo de Dársena, a IX días del mes de enero del Año del Señor de dos mil ciento setenta y ocho, tras unas fiestas de Navidad en que tampoco llegó la revisión prometida por la Inquisición.*
+
+*—Hermano Archivista Pedro de los Santos*
 
 ---
 

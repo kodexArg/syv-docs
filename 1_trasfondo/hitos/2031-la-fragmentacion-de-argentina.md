@@ -7,6 +7,7 @@ entidad: hito
 alcance: publico
 estado: canon
 fecha: 2031
+fecha_exacta: 2031-10-11
 region: Argentina
 aliases:
   - Fragmentación de Argentina
@@ -21,7 +22,7 @@ tags: []
 
 ## Nota del Hermano Archivista
 
-Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo que alguna vez fue el puerto de Buenos Aires, y me pregunto cómo documentar la muerte de una nación. Los registros de ese período son escasos, contradictorios, manchados por la sangre y el humo. Lo que sigue es reconstrucción a partir de archivos provinciales supervivientes, testimonios de quienes eran niños entonces y ahora son ancianos, y los decretos militares que se imprimían en papel cuando la red dejó de funcionar.
+Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo que alguna vez fue el puerto de Buenos Aires, y me pregunto cómo documentar la muerte de una nación. No hay tarea que me haya costado más en toda esta crónica. A un imperio que cae se le puede poner fecha; a una piedra que cae del cielo, también. Pero una patria no muere de un golpe: se va apagando, decreto a decreto, provincia a provincia, hasta que un día alguien advierte que ya no queda nadie a quien obedecer. Los registros de ese período son escasos, contradictorios, manchados por la sangre y el humo. Lo que sigue es reconstrucción a partir de archivos provinciales supervivientes, testimonios de quienes eran niños entonces y ahora son ancianos, y los decretos militares que se imprimían en papel cuando la red dejó de funcionar. Que el lector me perdone si en algún punto el dolor le gana a la precisión: hay heridas que ni siglo y medio bastan para cicatrizar.
 
 Este hito marca el comienzo de la desintegración argentina en 2031, aunque la fragmentación se consolidaría completamente recién hacia 2035, y la guerra civil continuaría intermitentemente hasta los años 2040.
 
@@ -71,7 +72,7 @@ Los Libertarios estaban en Buenos Aires. La mayoría eran anarquistas tecnológi
 
 Por supuesto que habían muchas más facciones: estaban los que se autoproclamaban "Peronistas", y definían una identidad en oposición al resto; aunque registros de la época prueban que la mayoría de ellos ya pertenecían a algún otro movimiento. La biografía de muchos de ellos es muy confusa, y entender exactamente qué pensaban depende más de cuándo se pregunte.
 
-Sobre esto, no es muy conocido pero actualmente, ya un siglo después de aquellos años catastróficos, yo he tenido la oportunidad de entrevistar a más de un peronista. La mayoría ancianos, lo reconozco: {inventa aquí: un sargento retirado e inválido procedente de La Plata (antes de su pérdida), peronista. Una científica de las Plantas Hidropónicas -y curiosamente su hija, que poco puede entender lo que su madre le habrá contado- peronista. Inventa también un conductor de tranvía recientemente retirado y quiero un cardenal también peronistas, todos enumerados como indicando, y ese es el objetivo de este párrafo, que los peronistoas en 2178 aún están y no son tan difíciles de encontrar, aunque ya no se comprende bien su sentido (sic del escriba,, que claramente no entiende a peronistas) este parrafo pretende tener un poquito de gracia}
+Sobre esto, no es muy conocido, pero he de confesar al lector una pequeña vanidad de archivista: ya un siglo después de aquellos años catastróficos, yo mismo he tenido la oportunidad de entrevistar a más de un peronista. La mayoría ancianos, lo reconozco. Conversé con un sargento retirado e inválido, oriundo de La Plata —que Dios la tenga, antes de su pérdida—, peronista de toda la vida y orgulloso de serlo, aunque ya no supiera bien de qué. Conversé con una científica de las Plantas Hidropónicas, mujer de mente clara y manos verdes, también peronista; y —esto me dio que pensar— con su hija, que dice ser peronista igual que la madre pero que poco alcanza a entender de lo que la madre le habrá contado. Hablé con un conductor de tranvía recién jubilado, peronista hasta en la forma de frenar; y, para mi sorpresa y la de mi confesor, hasta con un cardenal de nuestra propia Iglesia que, en voz baja y con una sonrisa que no supe interpretar, se declaró peronista. Consigno todo esto no por erudición sino para dejar asentado un hecho curioso: que en 2178 los peronistas todavía existen y no son, en verdad, tan difíciles de hallar —están en el cuartel, en la huerta, en el tranvía y hasta bajo la mitra—, solo que ya casi nadie, y me incluyo el primero, comprende del todo qué cosa es ser peronista (sic del escriba, que confiesa con humildad no entender a los peronistas, y sospecha que ellos tampoco se entienden entre sí, lo cual quizás sea, justamente, lo más peronista de todo).
 
 La mayoría de estas facciones perdieron su identidad o fueron exterminadas en esos años duros.
 
@@ -127,3 +128,8 @@ Que nunca olvidemos el precio de nuestra arrogancia.
 - Consecuencias: Formación ciudades-estado (2035-2040), Confederación Argentina (2161)
 - Legado en 2178: Tensiones Córdoba-Dársena, memoria de la fragmentación como advertencia
 
+---
+
+*Escrito de mi puño en el Archivo de Dársena, a XI días del mes de octubre del Año del Señor de dos mil ciento setenta y siete —ciento cuarenta y seis años justos del Día de las Veintitrés Banderas, que no quise consignar en otra fecha.*
+
+*—Hermano Archivista Pedro de los Santos*

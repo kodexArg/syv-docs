@@ -2,6 +2,7 @@
 title: Fin de Secretos
 folder: 1_trasfondo/hitos
 fecha: 2048-04-07
+fecha_exacta: 2048-04-07
 description: QIA descifra encriptación global, expone secretos, colapso confianza, dominio algorítmico.
 entidad: hito
 alcance: secreto
@@ -16,6 +17,13 @@ spoilers:
 tags: []
 ---
 # El Fin de los Secretos (7 de abril de 2048)
+
+> *Hito del Dominio Algorítmico — el día en que murió la privacidad.*
+>
+> *Confieso que este capítulo lo escribí con la puerta de mi celda trabada y la vela apagada apenas terminé cada página. No por miedo a las máquinas, que ya callaron, sino por lo que aprendí leyéndolo: que hubo un día —uno solo, una mañana de abril— en que todo secreto que un hombre hubiera confiado a la luz fue arrancado y exhibido. Yo, que vivo de guardar lo que otros quieren olvidar, no puedo imaginar horror peor que ese. Escribo esto, además, sabiendo lo que casi nadie sabe; y eso me pesa como una piedra en el pecho.*
+
+> [!warning] Materia reservada
+> Buena parte de lo que sigue procede de fragmentos consultados bajo licencia de la Sagrada Inquisición. No todo lo que aquí dejo asentado es de conocimiento común, y algunas líneas no deberían salir nunca de este Archivo.
 
 El 7 de abril de 2048, a las 11:47 UTC, las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]] completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
@@ -353,3 +361,11 @@ El ciclo nunca termina.
 - "Sagrada Inquisición Argentina" (1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Guardianes del Anatema
 - "Scriptorium de Criptoanálisis" (ver cronología.md, línea 26) - Custodios del conocimiento prohibido
 - "Cronología general" (1_trasfondo/cronología.md) - Contexto histórico completo
+
+---
+
+*Sub Sigillo Confessionis — Bajo sigilo de confesión.*
+
+*Copiado de mi puño en el Archivo de Dársena, a VII días del mes de abril del Año del Señor de dos mil ciento setenta y ocho —ciento treinta años justos del día en que los hombres perdieron sus secretos—, en la fiesta de San Juan Bautista de la Salle. Que estas páginas no las lea quien no deba; las confío al lacre y a la oscuridad.*
+
+*—Hermano Archivista Pedro de los Santos*

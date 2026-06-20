@@ -14,8 +14,7 @@ related:
   - "[[barrios-del-muro]]"
 tags: []
 ---
-*Hito conmemorativo del grafiti encontrado en las ruinas de Rosario*
-*Hermano Archivista Pedro de los Santos, 2178*
+> *Hito conmemorativo del grafiti hallado en las ruinas de Rosario. No le puse fecha de día a este capítulo porque no la tiene: no fue un suceso, sino una década entera de cacería. Lo que sí tiene fecha es la pared donde empezó a tener nombre, y a esa pared peregriné yo mismo, ya viejo, para tocar con la mano el aerosol negro de un muerto sin nombre que tuvo el coraje de advertirnos.*
 
 ---
 
@@ -156,5 +155,6 @@ Y aprendimos que cuando le das a cualquiera el poder de matar a distancia, sin c
 *In Memoriam Omnium Qui Sub Caelo Perierunt*
 *En memoria de todos los que perecieron bajo el cielo*
 
-Hermano Archivista Pedro de los Santos
-Archivo de Dársena, 2178
+*Escrito de mi puño en el Archivo de Dársena, a III días del mes de diciembre del Año del Señor de dos mil ciento setenta y siete, habiendo regresado hace poco de mi peregrinación a la pared de Pellegrini.*
+
+*—Hermano Archivista Pedro de los Santos*
