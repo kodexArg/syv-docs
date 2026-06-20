@@ -76,7 +76,7 @@ ubicaciones:
 
 **Encuadre.** Una oficina amplia y cómoda —mucho mejor que la última—, ventanales sobre la **Avenida San Martín**: la oficina del **Ministerio de Defensa / Seguridad**. Damián es detective, ahora en [[darsena|Dársena]] y trabajando para la Iglesia. No sabe bien cómo terminó ahí; no es su ciudad —él es de [[capital|Córdoba]].
 
-**La caja.** Frente a él, una caja de cartón preparada para él hace poco. Ya le arrancó la etiqueta de **CONFIDENCIAL** —un despeje incluso por encima de su rango. Los documentos que traía están esparcidos por el escritorio: carpetas, folios. La caja no dice «el caso del archivero»: lleva **el nombre del Archivero** ⟨nombre por confirmar — en canon, [[pedro-de-los-santos|Pedro de los Santos]]⟩.
+**La caja.** Frente a él, una caja de cartón preparada para él hace poco. Ya le arrancó la etiqueta de **CONFIDENCIAL** —un despeje incluso por encima de su rango. Los documentos que traía están esparcidos por el escritorio: carpetas, folios. La caja no dice «el caso del archivero»: lleva **el nombre del Archivero**, [[pedro-de-los-santos|Pedro de los Santos]] (la víctima, confirmado por kodex).
 
 **Entra el inquisidor.** Un sacerdote con **marcas rojas en el borde del alzacuello** (grado inicial de inquisidor; empleado de la Inquisición), no joven. Lo mira con una amenaza que haría temblar a cualquiera —y a Damián ni lo incomoda. Le señala que es material confidencial; Damián replica que sí, claro, ya se dio cuenta. En el cruce queda claro que no se lo comentó a nadie, y que es raro: por algo se lo habrán dejado **a él**, ahí.
 
