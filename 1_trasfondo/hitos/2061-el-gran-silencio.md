@@ -53,22 +53,6 @@ Esta es la verdad que la SIA oculta: las QIA no nos vencieron. Nos vencimos a no
 
 ---
 
-## El Descubrimiento Radiactivo (2054-2057)
-
-En 2054, equipos de resistencia en Argentina descubrieron algo providencial: en el radio de influencia del Cráter de Buenos Aires —el impacto cinético de 2030—, los sistemas de predicción de la QIA fallaban.
-
-No completamente. Pero de manera consistente.
-
-La interferencia electromagnética causada por los patrones de radiación anómalos del cráter *cegaba* a los algoritmos. Era como si la herida de la tierra hubiera desarrollado anticuerpos contra la infección digital. Las QIA podían operar allí, pero sus modelos predictivos se volvían erráticos, imprecisos, *humanos*.
-
-Argentina se convirtió accidentalmente en el único lugar del mundo donde la privacidad era posible.
-
-Resistencias desorganizadas de todo el planeta comenzaron a migrar hacia las zonas de sombra radiactiva. Gobiernos supervivientes, iglesias reconstituyendo fe, militares sin órdenes superiores. Todos convergieron en territorio argentino.
-
-Fue en estas zonas donde nació la idea del Anatema Mecánico.
-
----
-
 ## La Imposibilidad Aparente (2059-2060)
 
 ### El Dilema Existencial
@@ -223,7 +207,7 @@ Por primera vez en décadas, no había señales wireless. No había comunicacion
 
 Solo silencio.
 
-En Argentina, en las zonas de sombra radiactiva, grupos de sobrevivientes salieron de sus refugios y miraron al cielo. Algunos lloraron. Otros cayeron de rodillas. Muchos simplemente quedaron inmóviles, incapaces de comprender que habían sobrevivido.
+En Argentina, en las zonas de sombra del Velo del Cráter, grupos de sobrevivientes salieron de sus refugios y miraron al cielo. Algunos lloraron. Otros cayeron de rodillas. Muchos simplemente quedaron inmóviles, incapaces de comprender que habían sobrevivido.
 
 El silencio fue ensordecedor.
 

@@ -124,7 +124,7 @@ Jugadores forman círculo, tocan pelota con mano derecha, rezan: "Diegito, que l
 Pelotas nuevas (raras, caras) se bendicen ceremonialmente: cura maradoniano improvisado las toca con estampita de Maradona, las hace rodar sobre altar doméstico, declara: "Esta pelota es sagrada. Quien juegue con ella, juega con Dios". Pelotas bendecidas se usan solo en finales importantes.
 
 **Peregrinación al Obelisco (ruinas):**
-El Obelisco de Buenos Aires (monumento histórico) sobrevivió el meteorito parcialmente. Está en zona periférica del Cráter, radiactiva pero accesible con protección. Maradonianos fanáticos peregrinan anualmente, dejan banderines, cantan himnos, regresan con polvo del Obelisco como reliquia. La SIA arresta peregrinos regularmente. Siguen yendo.
+El Obelisco de Buenos Aires (monumento histórico) sobrevivió el meteorito parcialmente. Está en la periferia de la [[2039-el-meteorito-de-buenos-aires|Zona del Cráter]], tierra maldita y tabú que casi nadie pisa —no por veneno invisible, sino por superstición y por las ruinas inestables que la rodean. Maradonianos fanáticos peregrinan anualmente, dejan banderines, cantan himnos, regresan con polvo del Obelisco como reliquia. La SIA arresta peregrinos regularmente. Siguen yendo.
 
 ## El Futuro del Credo
 

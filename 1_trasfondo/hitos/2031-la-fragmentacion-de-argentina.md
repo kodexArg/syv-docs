@@ -55,17 +55,25 @@ La declaración fue menos ruptura revolucionaria que reconocimiento de una reali
 
 Santa Fe intentó algo diferente. Los gobernadores de las provincias litoraleñas —Santa Fe, Entre Ríos, Corrientes— se reunieron en Rosario en marzo para formar la Confederación del Litoral. Duró seis meses. Para septiembre, la región se había fragmentado en feudos narco-criminales controlados por carteles que importaban armas desde Brasil y Paraguay. Los documentos hablan de "zonas liberadas" que en realidad eran territorios sin ley donde el más violento gobernaba. Hoy llamamos a esa región El Páramo, y el nombre es exacto: tierra baldía donde la civilización murió.
 
-Mendoza, protegida por los Andes, se cerró como fortaleza. Militarizó todos los pasos cordilleranos en abril de 2031 y expulsó a los refugiados que llegaban desde el este y desde Chile, donde la situación era igualmente desesperada. Testimonios de supervivientes hablan de columnas de miles de personas caminando por rutas 7 y 40, rechazadas en Uspallata y Malargüe, muriendo de frío y hambre en las montañas. Mendoza sobrevivió, sí, pero al costo de su humanidad.
+Mendoza, protegida por los Andes, se cerró sin que nadie lo notara. Construyó su fortaleza y se ordenó alrededor de un feudo militar con características particulares. Mendoza se extendió con los años. Militarizó todos los pasos cordilleranos y expulsó o tomó por prisioneros de campos forzados a los refugiados que llegaban desde el este, desde el sur y desde Chile. Testimonios de supervivientes hablan de columnas de miles de personas caminando por rutas 7 y 40, rechazadas en Uspallata y Malargüe, muriendo de frío y hambre en las montañas. Mendoza sobrevivió, sí, pero al costo de su humanidad.
+
+Hoy, Mendoza es poco más que un buen vecino. Su frontera es Chile, y ocupa celosamente su tierra. A la Confederación no le combiene de ninguna manera importunarla, así es que la paz está asegurada, y el mercado y la religión fluyen sin problema entre la Región Cuyana y el resto del continente. La base más próxima es San Martín y la frontera es incómoda pero fluye.
 
 ## La Guerra Civil Argentina (2031-2035... y más allá)
 
 Lo que siguió no fue una guerra en el sentido tradicional, con frentes de batalla y ejércitos organizados. Fue violencia tribal perpetua, fragmentada, sin propósito más allá de la supervivencia inmediata o la venganza ancestral. Tres facciones principales emergieron del caos:
 
-Los Nacionales, leales a la idea de reconstruir Argentina bajo un gobierno central fuerte (dictatorial, en realidad), con base en lo que quedaba de las Fuerzas Armadas regulares. Controlaban algunas ciudades del interior: San Luis, parte de La Rioja, San Juan.
+Los Nacionalistas, leales a la idea de reconstruir Argentina bajo un gobierno central fuerte (dictatorial, en realidad), con base en lo que quedaba de las Fuerzas Armadas regulares. Controlaban algunas ciudades del interior: San Luis, parte de La Rioja, San Juan.
 
-Los Federales, que defendían la autonomía provincial absoluta. Cada provincia era una nación soberana. Córdoba era su bastión más poderoso, pero también incluían células en Salta, Jujuy, Tucumán.
+Los Caudillos Federales, que defendían la autonomía provincial absoluta. Cada provincia era una nación soberana. Córdoba era su bastión más poderoso, pero también estaba Salta, que bastante sabía de federalismo. Habían muchos más de Jujuy y Tucumán, aunque aquí las fronteras son muy difusas. Mendoza estaba por esos años entre ellas.
 
-Los Libertarios, facción más caótica, mezcla de anarquistas tecnológicos, milicianos anti-Estado y señores de la guerra locales. Dominaban el Páramo santafesino, partes de Chaco y Formosa. No tenían ideología coherente más allá del rechazo a cualquier autoridad.
+Los Libertarios estaban en Buenos Aires. La mayoría eran anarquistas tecnológicos y milicianos anti-Estado, frecuentemente aliados a los nuevos señores de la guerra locales, que venían escapando del norte para instalarse tempranamente al sur del mundo. Los libertarios giraban alrededor de ello, convirtiéndose en cortesanos con acento rioplatense.
+
+Por supuesto que habían muchas más facciones: estaban los que se autoproclamaban "Peronistas", y definían una identidad en oposición al resto; aunque registros de la época prueban que la mayoría de ellos ya pertenecían a algún otro movimiento. La biografía de muchos de ellos es muy confusa, y entender exactamente qué pensaban depende más de cuándo se pregunte.
+
+Sobre esto, no es muy conocido pero actualmente, ya un siglo después de aquellos años catastróficos, yo he tenido la oportunidad de entrevistar a más de un peronista. La mayoría ancianos, lo reconozco: {inventa aquí: un sargento retirado e inválido procedente de La Plata (antes de su pérdida), peronista. Una científica de las Plantas Hidropónicas -y curiosamente su hija, que poco puede entender lo que su madre le habrá contado- peronista. Inventa también un conductor de tranvía recientemente retirado y quiero un cardenal también peronistas, todos enumerados como indicando, y ese es el objetivo de este párrafo, que los peronistoas en 2178 aún están y no son tan difíciles de encontrar, aunque ya no se comprende bien su sentido (sic del escriba,, que claramente no entiende a peronistas) este parrafo pretende tener un poquito de gracia}
+
+La mayoría de estas facciones perdieron su identidad o fueron exterminadas en esos años duros.
 
 La guerra fue brutal. Sin reglas, sin convenciones. Pueblos enteros masacrados por bandos que cambiaban de nombre y lealtad cada seis meses. Campos sembrados de minas que aún hoy, en 2178, matan a campesinos. Ejecuciones públicas. Mercados de esclavos en ciudades fronterizas.
 

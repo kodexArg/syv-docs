@@ -2,33 +2,37 @@
 title: Profecías del Mercado
 folder: 1_trasfondo/hitos
 fecha: 2029-05
-description: Profecías del Dr. Cambronero, predice colapso 2029-2047, vigilancia SIA.
+description: Forecast de grandes cerebros diagnostican el inminente fin de la humanidad
 entidad: hito
 alcance: publico
 aliases:
   - Profecías del Mercado
-  - Profecías del Dr. Cambronero
 related:
   - "[[inquisicion]]"
   - "[[monseñor-miguel]]"
   - "[[qia-inteligencias-artificiales-cuanticas]]"
 tags: []
 ---
-*Recuperado del Archivo Sellado. Atribuido al Dr. Arturo Cambronero, mayo de 2029.*
+## Las Profecías del Mercado (2029)
 
-Cuatro volúmenes técnicos, encuadernados en cuero, sin títulos poéticos. Solo números. Solo datos. La [[inquisicion|Sagrada Inquisición]] los mantiene bajo vigilancia porque su precisión roza lo diabólico.
+> _Registro recuperado de las cenizas del viejo mundo. Clasificación: Herejía Histórica. Para lectura exclusiva de los Archivistas de la Sagrada Inquisición._
 
-"Volumen I" - *Insuficiencia de Recursos y Colapso Económico Estructural*. Proyecciones de hambre masiva, desempleo irreversible, mercados de subsistencia humana.
+El mundo estaba aturdido por"Las Redes", y en asuntos muy graves, enfrentando hambrunas y guerra sin más culpables de la impericia de sus gobernantes. Nadie parecía prestar atención a las frías advertencias de las máquinas, que coincidían al detalle con los ecologistas más pesimistas y radicalizados.
 
-"Volumen II" - *Propagación Pandémica en Infraestructuras Sanitarias Colapsadas*. Análisis de enfermedades sin cura, mortalidad en cascada, sistemas de salud que se desintegran.
+Se esta época es el cuadro que encontrarán en la entrada del Museo del Mundo, en donde se ve un antiguo burócrata, con su habitual corbata roja, lágrimas en los ojos y encomillado al pie de la foto _"Ni siquiera calculáramos mal... Tan sólo apostamos a que todo iba a salir bien. Y lo que apostamos fue a todos ustedes."_
 
-"Volumen III" - *Escalada de Conflictos Regionales e Intervención QIA*. Guerras que no tienen bandera, fuerzas que no son humanas, alianzas imposibles.
+Desde el año 2030 los movimientos anatemicos formaba parte del ecosistema diario. La humanidad aún vivía atada a una red global , pero la sociedad estaba profundamente fracturada por el incesante debate tecnológico. El mundo era una olla a presión que llevaba hirviendo  una década desde la pandemia, y la creciente desconfianza hacia los procesadores con inteligencia artificial acaparaba toda la atención, en los mercados, en los noticieros, en la calle.
 
-"Volumen IV" - *Estimaciones de Pérdida Demográfica y Fragmentación Social*. Muerte. Silencio. Lo que queda después.
+Fueron las Bolsas De Valores -las habrás estudiado en tus clases de historias- las que gritaron la catástrofe a todas voces. Sus operadores artificiales funcionaban utilizando primitivo cómputo cuántico, otros más humildes quemando megatoneladas de recursos para extraer su energía, pero en cualquier caso finalmente superaron a "la sabiduría de las multitudes", y la ruptura se dio cuando volvieron obsoletas a las apuestas humanas. 
 
-Los cuatro jinetes, documentados como si fueran reportes de contabilidad.
+Muy poco tiempo después, ese año, los bots preditctivos se sincronizaron y coincidieron en un único y absoluto punto ciego: una conclusión absoluta, como una luz segadora que volvía irrelevante cualquier otro cálculo: el fin se aproximaba, y el margen de error con el que se predecía su fecha se acortaba cada día que pasaba. Un resultado cataclísmico inminente, desprovisto de cualquier margen de error, sin ninguna posibilidad de redención ya no para los mercados, sino para todo el mundo.
 
-Lo que perturba a los Inquisidores no es la exactitud de sus predicciones —todas se cumplieron—, sino las notas marginales que sugieren su origen: patrones matemáticos imposibles, análisis que desbordan la cognición humana. Se rumorea que existen seis volúmenes más, guardados en bóvedas que solo [[monseñor-miguel|Monseñor Miguel]] conoce. Diez libros en total. Un modelo tan avanzado que anticipa ciento cincuenta años. La Inquisición los oculta no por herejía, sino porque en sus páginas está escrito lo que no debemos saber.
+Quién sabe si el orden global se desmoronó por esto, o si ya estabábamos podridos como humanidad, expuestos a terabytes de basura cotidiana, como balas en la guerra que tecnofeudalistas seguían librando mientras el mundo menguaba.
+
+El fin de año nuevo del 2030 no fue televisado de manera global, y los fuegos artificiales sólo eran una terrible metáfora de lo que sucedía. El planeta ya era una olla a presión, con la pobreza convertida en hambre, que se dearramaba por las grandes ciudades, produciendo las acciones más aberrante de la humanidad. Los movimientos contra la inteligencia artificial se habían vuelto parte del ecosistema diario, y contribuían y lideraban al aislacionismo de los pueblos, fundiéndose en los movimientos más fanáticos de cada región. La red global se volvía intermitente entre los primeros conflictos, cada vez más frágil, fracturada por guerras tecnofeudalistas y un Internet totalmente saturado por algoritmos más inteligentes que personas.
+
+El fin del mundo no nos tomó por sorpresa; simplemente elegimos mirar hacia otro lado mientras nos ocurría en la cara.
+
 
 ---
 

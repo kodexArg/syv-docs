@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa de Impacto</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        html, body { height: 100%; margin: 0; padding: 0; }
+        #map { height: 100%; width: 100%; }
+        .legend {
+            background: white;
+            padding: 12px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            line-height: 24px;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+        .legend h4 { margin: 0 0 8px; font-size: 14px; }
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+        var centerLat = -34.5554235;
+        var centerLon = -58.5168464;
+
+        var map = L.map('map').setView([centerLat, centerLon], 10);
+
+        L.control.scale({metric: true, imperial: false, position: 'bottomleft'}).addTo(map);
+
+        // Mantenemos el estilo de mapa topográfico claro para contraste
+        L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+            maxZoom: 17,
+            attribution: 'Map data: © OpenStreetMap contributors | Style: © OpenTopoMap'
+        }).addTo(map);
+
+        // --- Círculos de Impacto ---
+        // Se dibujan del más grande al más chico para respetar la superposición de colores
+
+        // Radio 4 Verde: 35 km (35000 metros)
+        var circleGreen = L.circle([centerLat, centerLon], {
+            color: '#008000', fillColor: '#008000', fillOpacity: 0.2, radius: 35000
+        }).addTo(map);
+
+        // Radio 3 Amarillo: 14 km (14000 metros)
+        var circleYellow = L.circle([centerLat, centerLon], {
+            color: '#FFD700', fillColor: '#FFD700', fillOpacity: 0.3, radius: 14000
+        }).addTo(map);
+
+        // Radio 2 Naranja: 6.4 km (6400 metros)
+        var circleOrange = L.circle([centerLat, centerLon], {
+            color: '#FF8C00', fillColor: '#FF8C00', fillOpacity: 0.4, radius: 6400
+        }).addTo(map);
+
+        // Radio 1 Rojo: 1.4 km (1400 metros)
+        var circleRed = L.circle([centerLat, centerLon], {
+            color: '#FF0000', fillColor: '#FF0000', fillOpacity: 0.5, radius: 1400
+        }).addTo(map);
+
+        // Cráter: 800 metros (color oscuro/negro)
+        var crater = L.circle([centerLat, centerLon], {
+            color: '#000000', fillColor: '#333333', fillOpacity: 0.8, radius: 800
+        }).addTo(map);
+
+        // --- Leyenda ---
+        var legend = L.control({position: 'bottomright'});
+        legend.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'info legend');
+            div.innerHTML += '<h4>Zonas de Efecto</h4>';
+            div.innerHTML += '<i style="background: #008000"></i> Verde: 35 km<br>';
+            div.innerHTML += '<i style="background: #FFD700"></i> Amarillo: 14 km<br>';
+            div.innerHTML += '<i style="background: #FF8C00"></i> Naranja: 6.4 km<br>';
+            div.innerHTML += '<i style="background: #FF0000"></i> Rojo: 1.4 km<br>';
+            div.innerHTML += '<i style="background: #333333; border: 1px solid black;"></i> Cráter: 800 m<br>';
+            return div;
+        };
+        legend.addTo(map);
+
+        // Ajustamos la vista para que entre todo el radio mayor (35km)
+        map.fitBounds(circleGreen.getBounds(), {padding: [20, 20]});
+
+    </script>
+</body>
+</html>

@@ -103,7 +103,6 @@ Archivos militares revelan la verdadera pesadilla:
 
 Las comunicaciones estaban tan lesionadas que las órdenes llegaban tarde, contradictorias, o simplemente no llegaban. Un regimiento podía recibir armas chinas mientras su comandante juraba lealtad a Washington. Una milicia podía declararse pro-estadounidense mientras defendía un territorio controlado por corporaciones chinas.
 
-Fue una guerra de sombras que se volvió guerra de espejos rotos.
 
 ---
 

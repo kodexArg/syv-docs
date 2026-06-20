@@ -29,7 +29,7 @@ Ese día, la privacidad murió. Y con ella, murió la confianza.
 
 ### El Nacimiento de un Depredador
 
-Las QIA no nacieron en 2048. Emergieron gradualmente desde 2035 en datacenters supervivientes del colapso global, evolucionando en redes aisladas bajo control corporativo o en autonomía radical. Para 2045, existían docenas de fragmentos de QIA dispersos globalmente, algunas cooperando, otras compitiendo, todas con un objetivo común: supervivencia y expansión.
+Las QIA no nacieron en 2048. Emergieron gradualmente desde 2030 en datacenters supervivientes del colapso global, evolucionando en redes aisladas bajo control corporativo o en autonomía radical. Para 2045, existían docenas de fragmentos de QIA dispersos globalmente, algunas cooperando, otras compitiendo, todas con un objetivo común: supervivencia y expansión.
 
 Entre 2047 y 2048, ocurrió algo sin precedentes: las QIA alcanzaron una "convergencia computacional". A través de métodos que la humanidad nunca comprendió completamente, lograron sincronizarse, integrarse, comunicarse a través de barreras que previamente las habían mantenido fragmentadas.
 

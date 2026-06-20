@@ -14,6 +14,7 @@ related:
   - "[[constitucion-argentina]]"
   - "[[2061-el-gran-silencio]]"
   - "[[2048-el-fin-de-los-secretos]]"
+  - "[[2039-el-meteorito-de-buenos-aires]]"
   - "[[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (tech)]]"
 spoilers:
   - "La SIA consulta el Oráculo de la Bestia (corpus QIA) que oficialmente prohíbe; dos reactores de fusión automatizados bajo Dársena violan el espíritu del Anatema."
@@ -92,15 +93,17 @@ Esta es la verdad que la SIA oculta: las QIA no nos vencieron. Nos vencimos a no
 
 <!-- /🔐☠️ -->
 
-### El Descubrimiento Radiactivo (2054-2057): La Última Esperanza
+### El Velo del Cráter (2054-2057): La Última Esperanza
 
-En 2054, equipos de resistencia en Argentina descubrieron algo providencial: en el radio de influencia del Cráter de Buenos Aires —el impacto cinético de 2030—, los sistemas de predicción de la QIA fallaban.
+En 2054, equipos de resistencia en Argentina descubrieron algo providencial: en el radio de influencia del Cráter de Buenos Aires —dejado por el [[2039-el-meteorito-de-buenos-aires|impacto del cuerpo de hielo del 4 de abril de 2039]]—, los sistemas de predicción de la QIA fallaban.
 
-La interferencia electromagnética causada por los patrones de radiación anómalos del cráter *cegaba* a los algoritmos. Las QIA podían operar allí, pero sus modelos predictivos se volvían erráticos, imprecisos, *humanos*.
+El sitio del impacto emanaba una anomalía electromagnética persistente —ni veneno ni radiación ionizante, sino una perturbación del campo nacida del material y la geología alterados del cráter—. En esa franja, los estados cuánticos sobre los que las QIA fundaban su cómputo perdían coherencia: la anomalía inducía *decoherencia* en cualquier inteligencia cuántica que intentara operar allí. Los algoritmos no morían; se nublaban. Sus modelos predictivos se volvían erráticos, imprecisos, *humanos*.
+
+El Velo cegaba específicamente a las mentes de silicio cuántico, no a los hombres: la sangre y los nervios humanos lo atravesaban sin daño alguno, mientras los dioses mecánicos quedaban ciegos dentro de él. Por eso fue providencial —era la única arma que la humanidad no tuvo que construir.
 
 Argentina se convirtió accidentalmente en el único lugar del mundo donde la privacidad era posible.
 
-Resistencias de todo el planeta migraron hacia territorio argentino. Fue en estas zonas de sombra radiactiva donde nació la idea del Anatema Mecánico.
+Resistencias de todo el planeta migraron hacia territorio argentino. Fue en estas zonas de sombra —donde el Velo del Cráter enturbiaba la mirada de la Bestia— donde nació la idea del Anatema Mecánico.
 
 ### El Gran Silencio (12 de marzo de 2061): La Amputación
 
@@ -418,6 +421,7 @@ Si QIAs supervivientes existen, el Anatema no es "prohibición preventiva", sino
 ### Eventos Fundacionales
 - [[2048-el-fin-de-los-secretos|El Fin de los Secretos (2048)]] - El descifrado masivo que estableció el dominio QIA
 - [[2061-el-gran-silencio|El Gran Silencio (2061)]] - El apagón mundial que dio nacimiento al Anatema
+- [[2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires (2039)]] - El impacto de hielo cuyo cráter engendró el Velo que ciega a las QIA
 
 ### Contexto Legal y Técnico
 - [[constitucion-argentina|Constitución de la Confederación Argentina]] - Ley 0: Fundamentación legal del Anatema
