@@ -32,7 +32,7 @@ Me lo confirmaron los tres ancianos de Rosario que vieron el horizonte encenders
 
 Las semanas que siguieron fueron la agonía de una nación que se desangró por la herida. El primer día murió un millón de almas. A catorce kilómetros a la redonda, nada sobrevivió; y después de eso, apenas uno de cada diez salió con vida de entre los escombros.
 
-<mark style="background: #CACFD9A6;">Para la inmensa mayoría de los porteños no hubo entierro, y el viento se llevó sus cenizas.</mark>
+Para la inmensa mayoría de los porteños no hubo entierro; el viento se llevó sus cenizas.
 
 Pero la verdadera matanza fue lenta. En las semanas siguientes murieron cinco millones más, no por el golpe sino por su eco: el éxodo sin rumbo, los hospitales sin luz, el agua espesa de polvo, el hambre que llegó cuando los camiones dejaron de venir, la violencia de los desesperados sobre los más desesperados aún. El gobierno se evaporó porque medio gabinete estaba bajo el cráter; las provincias quedaron a la deriva; y la patria, que en rigor ya existía solo en los mapas, terminó de morir. El cráter quedó allí, ochocientos metros de boca abierta en la tierra de Palermo, rodeado de una zona de exclusión donde durante años nada respiró.
 
