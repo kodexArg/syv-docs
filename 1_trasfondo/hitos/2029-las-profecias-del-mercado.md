@@ -19,7 +19,7 @@ tags: []
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**.>
 > 
-> La copia de esta obra que estudio es un compendio fragmentario publicado en 2059 por los Cartoneros, quienes una década después de la caída y con gran esfuerzo rescataron la historia de entre los escombros de Buenos Aires. Esos documentos impresos no hubieran sobrevivido muchos años más hundidos bajo las ruinas de la ciudad.
+> La copia de esta obra que estudio es un compendio fragmentario publicado en 2059 por los Cartoneros, quienes una década después de la caída y con gran esfuerzo rescataron la historia de entre los escombros de Buenos Aires. Esos documentos impresos no hubieran sobrevivido muchos años más hundidos bajo la ciudad.
 > 
 > Confieso que demoré años en reencontrarme con estos cuadernos: con sus tablas, gráficos de colores plásticos, mapas amarillos. Los estudié muy bien en mis días y nada de lo que dicen me es ajeno. Es su existencia la que me incomoda.
 > 
