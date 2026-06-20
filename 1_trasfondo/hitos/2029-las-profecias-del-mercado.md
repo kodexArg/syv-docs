@@ -21,7 +21,7 @@ tags: []
 >
 > La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros del Sur, una cuadrilla de supervivientes —hoy extinta— que, una década después de la caída del meteorito, dedicó lo poco que le restaba de fuerzas a rescatar papel quemado de entre las ruinas de Buenos Aires.
 > 
-> _Confieso que demoré años en reabrir estos cuadernos perturbadores, llenos de tablas, gráficos y mapas amarillos. {Bien estudiados los tuve en mis días, no me aparto de su conocimiento}, es su existencia la que me incomoda. Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos escribe un algoritmo a la cara. «Morite»._
+> _Confieso que demoré años en reabrir estos cuadernos perturbadores, llenos de tablas, gráficos y mapas amarillos. Bien los estudié en mis días y no reniego de cuanto enseñan, es su existencia la que me incomoda. Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos escribe un algoritmo a la cara. «Morite»._
 >
 > _«Las Profecías del Mercado» podrían ser de varios autores , aunque la prosa empática y florida nos demuestra que fueron al menos revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo la revisión sino la autoría y la intención a La Máquina. Estudios posteriores en el {palabra latina que indque profundo hermético y oculto, un lugar, mayusculas} no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas, asociadas con los eventos del Mercado —y sus terribles consecuencias— que sucedieron en esa década infame._
 > 
