@@ -53,6 +53,26 @@ frontmatter). La recomendación ordena la lectura *y*, de paso, mantiene las
 relaciones navegables sin ensuciar el párrafo. Ver [[guia-de-metadatos]] para el
 detalle de cómo se declaran relaciones.
 
+## Anclas en el texto (cuando hace falta señalar la palabra)
+
+Si querés que el lector sepa *qué palabra* corresponde a cada enlace —sin ensuciar
+la prosa con corchetes—, usá una **nota al pie** sobre la primera mención, no un
+wikilink inline. Se renderiza como un superíndice (p. ej. «Las Tuberías¹») y su
+definición, que **sí** lleva el wikilink, se agrupa al pie:
+
+```markdown
+…sobreviven como grafitis en Las Tuberías[^tuberias] y en los murales del túnel…
+
+[^tuberias]: [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]
+```
+
+Así el enlace queda **abajo, no inline**, y el grafo conserva la arista (la
+definición vive en el cuerpo, no en el frontmatter). Es el mismo criterio de la
+tarjeta de cierre, solo que con ancla puntual.
+
+El bloque de cierre puede titularse **«Ver relacionados»** o **«Ver también»**:
+son equivalentes. Elegí uno y mantenelo dentro del documento.
+
 ## Alcance
 
 - Recomendación, no obligación.
