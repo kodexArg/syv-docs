@@ -16,6 +16,8 @@ así que los reportamos verbatim como los ve el indexador.
 """
 from __future__ import annotations
 
+import datetime
+import re
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -40,6 +42,12 @@ ALCANCE = {"secreto", "publico"}
 ESTADO = {"canon", "borrador", "propuesta"}
 LEGACY_FORBIDDEN = {"alerta-spoiler", "alerta-spoilers"}
 ASCII_KEYS_OK = True  # detectamos field names no-inglés/no-ascii
+
+# Campos específicos opcionales reconocidos (registrados en glosario-de-tags.md).
+# `fecha_exacta`: fecha exacta del evento en ISO YYYY-MM-DD (hitos/cronología),
+# opcional, complementa a `fecha` (que admite año o año-mes). YAML puede parsear
+# una fecha ISO como datetime.date, así que aceptamos ambas formas.
+ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def iter_corpus_files():
@@ -105,6 +113,17 @@ def normalize_tags(value):
     return [str(value)], "other"
 
 
+def valid_fecha_exacta(value) -> bool:
+    """`fecha_exacta` es válida si es una fecha ISO YYYY-MM-DD.
+
+    YAML parsea una fecha ISO sin comillas como datetime.date; entre comillas
+    queda como str. Aceptamos ambas; rechazamos años sueltos, año-mes, etc.
+    """
+    if isinstance(value, datetime.date):
+        return True
+    return isinstance(value, str) and bool(ISO_DATE_RE.match(value))
+
+
 def rel(path: Path) -> str:
     return str(path.relative_to(ROOT))
 
@@ -139,6 +158,7 @@ def main():
     nonascii_keys = []
     parse_errors = []
     no_frontmatter = []
+    bad_fecha_exacta = []
 
     for path in files:
         data, err = parse_frontmatter(path)
@@ -168,6 +188,10 @@ def main():
                 folder_mismatch.append(f"{rel(path)} :: folder={data['folder']!r} actual={actual!r}")
         if not data.get("description"):
             missing_description.append(rel(path))
+
+        # fecha_exacta: opcional, pero si está debe ser ISO YYYY-MM-DD
+        if "fecha_exacta" in data and not valid_fecha_exacta(data.get("fecha_exacta")):
+            bad_fecha_exacta.append(f"{rel(path)} :: fecha_exacta={data.get('fecha_exacta')!r}")
 
         # tags
         tags, fmt = normalize_tags(data.get("tags"))
@@ -302,6 +326,9 @@ def main():
         P(f"       - {f}")
     P(f"\n   4f. nombres de campo no-ascii / no-inglés sospechosos: {len(nonascii_keys)}")
     for f in cap(nonascii_keys):
+        P(f"       - {f}")
+    P(f"\n   4g. `fecha_exacta` malformada (no ISO YYYY-MM-DD): {len(bad_fecha_exacta)}")
+    for f in cap(bad_fecha_exacta):
         P(f"       - {f}")
 
     P("\n" + "=" * 72)
