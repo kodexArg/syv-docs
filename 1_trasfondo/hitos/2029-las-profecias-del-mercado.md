@@ -19,19 +19,23 @@ tags: []
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**._
 >
-> _Confieso que demoré años en abrir otra vez estos cuadernos llenos de tablas, gráficos y mapas amarillos. Ya no por sus notas que bien estudié en mis años de estudio, no me aparto de su contenido. Pero hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos dice el antiguo algoritmo a la cara. «Morite»._
->
-> _«Las Profecías del Mercado» son de varios autores, después de los tiempos de la Inteligencia Artificial, así es que, en rigor a la verdad debe decirse que algunos autores adjudican el texto completo a inteligencias artificiales primigenias. No se ha logrado descartar esta teoría._
+> La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros del Sur, una cuadrilla de supervivientes —hoy extinta— que, una década después de la caída del meteorito, dedicó lo poco que le restaba de fuerzas a rescatar papel quemado de entre las ruinas de Buenos Aires.
 > 
-> _Sus obras sobrevivieron en forma de grafitis y panfletos hasta nuestros días, dejando un mensaje indeleble en la historia: nosotros sabemos que están condenados._
+> _Confieso que demoré años en reabrir estos cuadernos perturbadores, llenos de tablas, gráficos y mapas amarillos. {Bien estudiados los tuve en mis días, no me aparto de su conocimiento}, es su existencia la que me incomoda. Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos escribe un algoritmo a la cara. «Morite»._
+>
+> _«Las Profecías del Mercado» podrían ser de varios autores , aunque la prosa empática y florida nos demuestra que fueron al menos revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo la revisión sino la autoría y la intención a La Máquina. Estudios posteriores en el {palabra latina que indque profundo hermético y oculto, un lugar, mayusculas} no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas, asociadas con los eventos del Mercado —y sus terribles consecuencias— que sucedieron en esa década infame._
+> 
+> _Los mensajes de esta obra apocalíptica han sobrevivido injertos en la cultura: en forma de grafitis en "Las Tuberías", como referencias en la literatura son constantes, por lo que sabemos que alrededor de los años '30 esta obra formaba parte del corpus cultural de nuestra extinta Nación y más allá. El contenido {memético está bien?} ha sido resignificado, pero las referencias al Fin de los Tiempos están ahí para el ojo entrenado: {inventa dos lugares públicos de Ciudad Dársena, la estatua geométrica en la plaza del barrio norte y el túnel de los murales, en "Tuberías" bajo la avenida San Martín, en pleno centro de la ciudad}_.
+> 
+>_En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes la asocian con eventos del pasado y escatológicos ven en ellos advertencias incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, {y creo que ya hemos tenido bastante influencia de estas obras como para dejarlas peligrosamente al alcance de cualquiera}._
 >
 > _El material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, nunca jamás será contado._
 >
-> **—Hermano Archivista Anselmo Quiroga. A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir.**
+> **—Hermano Archivista Anselmo Quiroga.** A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir.
 
 El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
-El mundo estaba aturdido por «Las Redes» —o lo que sea que eso signifique—. Imagínese el lector un río que no era de agua, sino de palabras, de imágenes y de voces; un río que no corría por cauce alguno, sino por el aire mismo y por unas láminas de vidrio que cada hombre, cada mujer y cada niño llevaban en la mano, de día y de noche, sin soltarlas jamás. Por esa corriente bajaba todo a la vez: los fríos titulares en letras romanas que gritaban la catástrofe del día, las mentiras pintadas de verdad, los rostros de mil desconocidos, las compras y las guerras y las plegarias, y sobre todo la basura —un mar inmundo que crecía más rápido de lo que mil hombres podrían leer en mil vidas—. La humanidad entera flotaba allí dentro, aturdida y hasta dichosa de estarlo, sin advertir que se ahogaba. Y dudo, lo confieso, que estas pobres líneas basten para que quien nunca lo vio alcance a comprenderlo.
+{Escribe acá algo que referencie el serio problema de un mundo hiper-comunicado que no entiende lo que pasa producto de la post verdad, ponte filosófico y profundo en este parrafo para terminar con las redes}
 
 > _Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._
 >
