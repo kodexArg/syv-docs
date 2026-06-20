@@ -31,7 +31,7 @@ tags: []
 > 
 >En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes las asocian con eventos ya ocurridos y los escatológicos ven en ellas advertencias aún incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, y sostengo que hemos padecido suficiente como para seguir soportándolas.
 >
-> El material utilizado para crear este documento ya ha sido incinerado. {algo sobre los cartoneros}. Lo que no debe decirse, nunca jamás será contado.
+> El material utilizado para crear este documento ya ha sido incinerado. Los Cartoneros que lo arrancaron a los escombros se extinguieron hace generaciones; no queda quien reclame lo que hoy reduzco a cenizas. Lo que no debe decirse, nunca jamás será contado.
 >
 > **—Hermano Archivista Anselmo Quiroga.** A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir._
 
