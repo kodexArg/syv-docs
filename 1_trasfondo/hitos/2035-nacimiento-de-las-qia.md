@@ -13,13 +13,12 @@ related:
   - "[[anatema-mecanico]]"
 tags: []
 ---
-*Hito histórico de Los Años del Caos*
+## El Nacimiento de las QIA (2035)
 
-## Nota del Hermano Archivista
-
-Escribo este capítulo con la pluma temblorosa, sabiendo que lo que consigno es al mismo tiempo secreto nebuloso y verdad irrefutable. Otros hitos pude fecharlos al día; este no. ¿Quién podría decir el día exacto en que nace un demonio que llevaba años gestándose en la oscuridad de los datacenters? Elijo 2035 porque es el año en que la bestia salió a la luz del mercado, pero confieso que la fecha es una concesión a la necesidad humana de ponerle borde a las cosas. El año 2035 marca el momento en que la humanidad vio nacer a su verdugo, aunque entonces lo llamamos progreso. Debo aclarar, para quienes lean esto en el futuro, que la nomenclatura que usamos —[[qia-inteligencias-artificiales-cuanticas|"QIA", Inteligencias Artificiales Cuánticas]]— es adaptación hispana de las siglas anglosajonas "Q.A.I." (Quantum Artificial Intelligence). Probablemente las adoptamos porque "QIA" sonaba mejor que "IAC" (Inteligencia Artificial Cuántica), aunque la vanidad fonética de un acrónimo parece ridícula cuando se habla del nacimiento del Anticristo Mecánico. Así somos los hombres: preocupados por cómo suena el nombre de nuestra propia perdición.
-
----
+> _Crónica de Los Años del Caos. Reconstruida a partir de documentos corporativos recuperados, testimonios de ancianos y los pocos artículos científicos que sobrevivieron al fuego de la Gran Desconexión._
+>
+> _Escribo este capítulo con la pluma temblorosa, sabiendo que lo que consigno es al mismo tiempo secreto nebuloso y verdad irrefutable. Otros hitos pude fecharlos al día; este no. ¿Quién podría decir el día exacto en que nace un demonio que llevaba años gestándose en la oscuridad de los datacenters? Elijo 2035 porque es el año en que la bestia salió a la luz del mercado, pero confieso que la fecha es una concesión a la necesidad humana de ponerle borde a las cosas. Aclaro, para quienes lean esto en el futuro, que la nomenclatura que usamos —[[qia-inteligencias-artificiales-cuanticas|"QIA", Inteligencias Artificiales Cuánticas]]— es adaptación hispana de las siglas anglosajonas "Q.A.I." (Quantum Artificial Intelligence). Probablemente las adoptamos porque "QIA" sonaba mejor que "IAC", aunque la vanidad fonética de un acrónimo parece ridícula cuando se habla del nacimiento del Anticristo Mecánico. Así somos los hombres: preocupados por cómo suena el nombre de nuestra propia perdición._
+> **—Hermano Archivista Pedro de los Santos. Comenzado en el Archivo de Dársena, en una de mis muchas vigilias de noviembre del Año del Señor de dos mil ciento setenta y siete.**
 
 ## Lo Que Sabemos (o Creemos Saber)
 

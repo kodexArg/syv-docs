@@ -14,9 +14,12 @@ related:
   - "[[barrios-del-muro]]"
 tags: []
 ---
-> *Hito conmemorativo del grafiti hallado en las ruinas de Rosario. No le puse fecha de día a este capítulo porque no la tiene: no fue un suceso, sino una década entera de cacería. Lo que sí tiene fecha es la pared donde empezó a tener nombre, y a esa pared peregriné yo mismo, ya viejo, para tocar con la mano el aerosol negro de un muerto sin nombre que tuvo el coraje de advertirnos.*
+## A Cielo Abierto (2031-2038)
 
----
+> _Hito conmemorativo reconstruido a partir de un grafiti hallado en las ruinas de Rosario, de testimonios franciscanos y de informes militares supervivientes. Crónica de Los Años del Caos para los hermanos archivistas que vengan después._
+>
+> _No le puse fecha de día a este capítulo porque no la tiene: no fue un suceso, sino una década entera de cacería. Lo que sí tiene fecha es la pared donde la muerte empezó a tener nombre, y a esa pared peregriné yo mismo, ya viejo, para tocar con la mano el aerosol negro de un muerto sin nombre que tuvo el coraje de advertirnos. Confieso que pocas veces el polvo de esta crónica me pesó tanto como el de aquella avenida descascarada._
+> **—Hermano Archivista Pedro de los Santos. Encarado en el Archivo de Dársena, recién vuelto de mi peregrinación a la pared de Pellegrini, en la primavera del Año del Señor de dos mil ciento setenta y siete.**
 
 ## El Grafiti que Nombró una Época
 

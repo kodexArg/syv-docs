@@ -13,23 +13,12 @@ related:
   - "[[inquisicion]]"
 tags: []
 ---
-# El Estallido: La Segunda Guerra Fría (2036-2039)
+## El Estallido: La Segunda Guerra Fría (2036-2039)
 
-*Fragmentación Transversal del Mundo*
-
----
-
-## Prólogo del Hermano Archivista: Sobre las Fuentes
-
-Escribo sobre estos años desde mi celda en el Archivo de Dársena, en este año de nuestro Señor de 2178, con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. De todos los capítulos de esta crónica, este es el que más noches me robó, y es justo que el lector sepa por qué: no porque falten documentos, sino porque los que hay se contradicen unos a otros con una saña que parece deliberada, como si el caos de aquellos años hubiese contaminado hasta los registros que lo narran. No hay aquí una fecha de día que consignar, ni un hecho limpio al que aferrarse: solo un deslizamiento lento hacia el abismo. Los documentos que sobrevivieron al Fuego Perpetuo son fragmentarios, contradictorios, a menudo imposibles de reconciliar. Pero son lo que tenemos.
-
-Gracias al trabajo de "los Hackers" —esos arqueólogos digitales que arriesgan sus vidas recuperando información de memorias antiguas— hemos podido acceder a fuentes que nuestros predecesores jamás imaginaron posibles. M-DISC militares recuperados de búnkeres sellados, transcriptos byte a byte mediante lectores mecánicos tolerados (apenas) bajo el Corpus Licitus. Algunos discos duros de datacenters que sobrevivieron al colapso, sus platters magnéticos preservados durante 142 años, esperando ser leídos mediante técnicas forenses de extrema dificultad.
-
-Pero también tenemos papel carbonizado, microfilms deteriorados, grabados en metal que sobrevivieron incendios, y sobre todo, los testimonios orales de aquellos ancianos que escucharon las historias de sus abuelos, transmitidas en la oscuridad de las Túberías cuando el mundo aún olía a ceniza.
-
-Todas estas fuentes coinciden en una cosa: entre 2036 y 2039, el mundo dejó de ser comprensible. Lo que sigue es mi mejor reconstrucción de ese abismo.
-
----
+> _Crónica de la Fragmentación Transversal del Mundo. Reconstruida a partir de M-DISC militares recuperados de búnkeres sellados, discos duros de datacenters supervivientes transcriptos byte a byte por los Hackers, papel carbonizado, microfilms deteriorados y testimonios orales transmitidos en la oscuridad de las Tuberías. Para los hermanos archivistas que vengan después._
+>
+> _Escribo sobre estos años con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. De todos los capítulos de esta crónica, este es el que más noches me robó, y es justo que el lector sepa por qué: no porque falten documentos, sino porque los que hay se contradicen unos a otros con una saña que parece deliberada, como si el caos de aquellos años hubiese contaminado hasta los registros que lo narran. No hay aquí una fecha de día que consignar, ni un hecho limpio al que aferrarse: solo un deslizamiento lento hacia el abismo. Todas las fuentes que pude reunir coinciden en una sola cosa: entre 2036 y 2039, el mundo dejó de ser comprensible. Lo que sigue es mi mejor reconstrucción de ese abismo._
+> **—Hermano Archivista Pedro de los Santos. Comenzado en el Archivo de Dársena, en los días sin luz del verano del Año del Señor de dos mil ciento setenta y siete, sobre el más esquivo de cuantos legajos he tenido entre manos.**
 
 ## El Nombre: "Segunda Guerra Fría"
 

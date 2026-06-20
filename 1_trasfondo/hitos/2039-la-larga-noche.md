@@ -16,23 +16,12 @@ related:
   - "[[2039-el-meteorito-de-buenos-aires]]"
 tags: []
 ---
-*Inicio de la Gran Guerra Global (2039-2068)*
+## La Larga Noche (2039-2068)
 
----
-
-## Prólogo del Hermano Archivista: Sobre la Imposibilidad de Saber
-
-Escribo estas líneas con la humildad de quien sabe que miente sin querer. No porque desee engañar, sino porque la verdad se me escapa entre los dedos como arena.
-
-El año 2039 marca el inicio de lo que llamamos la "Gran Guerra Global", el "Fuego Perpetuo" que ardería durante veintinueve años. Pero no puedo decirles cuándo comenzó exactamente. No hay fecha. No hay evento único. No hay declaración formal de guerra.
-
-Solo sé esto: en algún momento de los primeros meses de 2039, las comunicaciones intercontinentales —ya degradadas, ya moribundas— dejaron de existir del todo. Y el mundo, fragmentado en islas de silencio, se hundió en una oscuridad de la que jamás emergería igual.
-
-A esto le llamo "La Larga Noche". No porque duró una sola noche, sino porque fue la primera noche en que nadie, en ninguna parte, sabía qué estaba sucediendo más allá del horizonte.
-
-Y esa ignorancia nos mataría a millones.
-
----
+> _Crónica del inicio de la Gran Guerra Global, el Fuego Perpetuo. Reconstruida a partir de cables diplomáticos conservados en papel, cartas de marinos mercantes y testimonios de ancianos que recuerdan las historias de sus abuelos. Para los hermanos archivistas que vengan después._
+>
+> _Escribo estas líneas con la humildad de quien sabe que miente sin querer. No porque desee engañar, sino porque la verdad se me escapa entre los dedos como arena. El año 2039 marca el inicio de lo que llamamos la Gran Guerra Global, el Fuego Perpetuo que ardería durante veintinueve años. Pero no puedo decirles cuándo comenzó exactamente: no hay fecha, no hay evento único, no hay declaración formal de guerra. Solo sé que en algún momento de los primeros meses de 2039 las comunicaciones intercontinentales —ya moribundas— dejaron de existir del todo, y el mundo, fragmentado en islas de silencio, se hundió en una oscuridad de la que jamás emergería igual. A esto le llamo La Larga Noche: la primera noche en que nadie, en ninguna parte, sabía qué sucedía más allá del horizonte. Y esa ignorancia nos mataría a millones._
+> **—Hermano Archivista Pedro de los Santos. Comenzado en el Archivo de Dársena, en las noches largas del invierno del Año del Señor de dos mil ciento setenta y siete, velando contra la oscuridad de la que escribo.**
 
 ## ¿Qué Fue La Larga Noche?
 

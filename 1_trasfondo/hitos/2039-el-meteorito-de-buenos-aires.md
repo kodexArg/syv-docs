@@ -19,9 +19,12 @@ related:
   - "[[qia-inteligencias-artificiales-cuanticas]]"
 tags: []
 ---
-> *Hito histórico del Fuego Perpetuo — el día en que cayó el Cuerpo de Hielo.*
+## El Meteorito de Buenos Aires (4 de abril de 2039)
+
+> _Hito del Fuego Perpetuo — el día en que cayó el Cuerpo de Hielo. Único capítulo de esta crónica reconstruido de las piedras y no de los hombres: del cráter, de los espectrogramas que la Inquisición consintió en abrir y del trabajo del hermano Tomás Ferreyra._
 >
-> *De cuanto he debido reconstruir en esta crónica, este es el único capítulo que las piedras me dictaron y no los hombres. Por una vez no escribo entre dudas: escribo con un cráter delante, exacto y terco. Y aun así lo que el cráter me dice me quita más el sueño que todas las conspiraciones que inventamos para consolarnos.*
+> _De cuanto he debido reconstruir en esta crónica, este es el único capítulo que las piedras me dictaron. Por una vez no escribo entre dudas: escribo con un cráter delante, exacto y terco. He pasado la mayor parte de mi vida persiguiendo verdades que se deshacían apenas las tocaba, y el Meteorito de Buenos Aires es la excepción: el cráter sigue ahí, medible, terco. Y aun así lo que el cráter me dice me quita más el sueño que todas las conspiraciones que inventamos para consolarnos._
+> **—Hermano Archivista Pedro de los Santos. Encarado en el Archivo de Dársena, en el otoño del Año del Señor de dos mil ciento setenta y ocho, asomado al lago que fue herida.**
 
 ## Nota del Hermano Archivista
 

@@ -11,19 +11,14 @@ related:
   - "[[anatema-mecanico]]"
 tags: []
 ---
-Este documento es un adelanto de hasta dónde se llegará con la cronología, donde en el futuro escribiremos los eventos que transforman el mundo año a año.
+## Año 2178: Actualidad
 
-# Año 2178: Actualidad
+> _Adelanto de hasta dónde llegará la cronología — el único capítulo todavía abierto. Compilación de rumores, testimonios de navegantes, informes fragmentarios de la Armada y especulaciones del Servicio de Inteligencia. No es historia verificada: es, en el mejor de los casos, especulación informada; en el peor, rumor infundado._
+>
+> _Lo dejo abierto, como una puerta sin trancar, porque la historia que aquí cuento es la única que aún no terminó de escribirse. Las páginas anteriores de esta crónica las copié con la certeza del que mira hacia atrás; esta la confío al presente, que apenas balbucea. Desde el Gran Silencio de 2061 la Confederación carece de comunicación fiable con el resto del mundo: no hay embajadas, ni correspondencia, ni evidencia documental de nada más allá de nuestras fronteras inmediatas. Quizás el mundo es tal como se describe aquí; quizás es completamente diferente; quizás no queda nada más allá del horizonte. No lo sabemos. Y esa incertidumbre define nuestra época tanto como el [[anatema-mecanico|Anatema]] mismo. Si Dios me presta vida, yo mismo iré asentando año a año lo que el mundo nos depare; si no, que otro hermano tome la tinta donde yo la dejo._
+> **—Hermano Archivista Pedro de los Santos. Comenzado en el Archivo de Dársena, mientras afuera cae la lluvia de siempre, en los primeros días del verano del Año del Señor de dos mil ciento setenta y ocho.**
 
 Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide bajo el prisma de la Ley X: De la Ciudadanía y la Barbarie. Más allá de nuestras fronteras sagradas, reina el caos de los "Salvajes", naciones que han olvidado a Dios o se han entregado a la anarquía. Sin embargo, es necesario conocer al enemigo y al vecino para cumplir con nuestro destino.
-
-**[Advertencia del Hermano Archivista Pedro de los Santos]**
-
-*Lo que sigue es una compilación de rumores, testimonios de navegantes, informes fragmentarios de la Armada, y especulaciones del Servicio de Inteligencia. Desde el Gran Silencio de 2061, la Confederación Argentina carece de comunicación fiable con el resto del mundo. No existen embajadas, no hay correspondencia oficial, no tenemos evidencia documental verificable de nada más allá de nuestras fronteras inmediatas (Chile, Uruguay, Paraguay).*
-
-*Los capitanes de la Armada que navegan hacia aguas distantes regresan con historias. Los refugiados que llegan desde el norte traen relatos. Los agentes de inteligencia compilan reportes. Pero todo es de segunda o tercera mano. No sabemos con certeza qué es verdad y qué es leyenda. He incluido esta información tal como me fue reportada, pero el lector debe entender: **esto NO es historia verificada. Es especulación informada en el mejor de los casos, rumor infundado en el peor.***
-
-*Quizás el mundo es tal como se describe aquí. Quizás es completamente diferente. Quizás no queda nada más allá del horizonte. No lo sabemos. Y esta incertidumbre define nuestra época tanto como el [[anatema-mecanico|Anatema]] mismo. — P.S.*
 
 ## Europa (o Eurasia Occidental)
 
