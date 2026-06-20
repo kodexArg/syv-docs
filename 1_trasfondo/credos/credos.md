@@ -79,7 +79,7 @@ En los Barrios del Muro, la Religión va en plural. Pero esa pluralidad es contr
 - Hermandad Verde (académicos)
 
 ### Zona del Cráter
-- Ancestros del Silencio (periferia radiactiva: 3K)
+- Ancestros del Silencio (periferia maldita: 3K)
 
 ## Relación Credo-Facción
 
