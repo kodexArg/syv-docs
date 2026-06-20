@@ -17,21 +17,23 @@ tags: []
 
 > Clasificación: Herejía Histórica.
 >
-> _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**._
->
-> La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros, quienes una década después de la caída del meteorito hicieron un gran esfuerzo para rescatar la historia de entre las ruinas de Buenos Aires.
+> _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**.>
 > 
-> _Confieso que demoré años en reabrir estos cuadernos perturbadores, llenos de tablas, gráficos y mapas amarillos. Bien los estudié en mis días y nada de cuanto enseñan me es ajeno, es su existencia la que me incomoda. Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos escribe un algoritmo a la cara. «Morite»._
->
-> _«Las Profecías del Mercado» podrían ser de varios autores. La prosa empática y florida nos demuestra que fueron revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo el curado sino también la autoría y la intención a La Máquina. Estudios posteriores en el ADYTUM no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas, asociadas con los eventos del Mercado —y sus terribles consecuencias— que sucedieron en esa década infame._
+> La copia de esta obra que estudio es un compendio fragmentario publicado en 2059 por los Cartoneros, quienes una década después de la caída y con gran esfuerzo rescataron la historia de entre las ruinas de Buenos Aires. Esos documentos impresos no hubieran sobrevivido muchos años más hundidos bajo la ruinas de la ciudad.
 > 
-> _Los mensajes de esta obra apocalíptica han sobrevivido injertos en la cultura: en forma de grafitis en "Las Tuberías", como referencias en la literatura moderna, por lo que sabemos que alrededor de los años '30 esta obra formaba parte del corpus cultural de nuestra extinta Nación. El contenido memético ha sido resignificado, pero las referencias al Fin de los Tiempos están ahí para el ojo entrenado: la estatua geométrica que preside la plaza mayor de los Barrios del Norte, cuyas aristas repiten la curva de extinción que cierra aquellas tablas; y los murales del túnel que las Tuberías horadan bajo la avenida San Martín, en pleno centro, donde manos anónimas repintaron por décadas el rostro lloroso del Optimista_.
+> Confieso que demoré años en reencontrarme con estos cuadernos: con sus tablas, gráficos de colores plásticos, mapas amarillos. Los estudié muy bien en mis días y nada de lo que dicen me es ajeno. Es su existencia la que me incomoda.
 > 
->_En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes la asocian con eventos del pasado y escatológicos ven en ellos advertencias incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, y sostengo que ya hemos padecido suficiente de su influjo como para seguir dejándolas, temerariamente, al alcance de cualquiera._
+> Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís, humano», nos escribe un algoritmo a la cara. «Morite».
 >
-> _El material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, nunca jamás será contado._
+> «Las Profecías del Mercado» podrían ser de varios autores. La prosa empática y florida nos demuestra que fueron revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo el curado sino también la autoría y la intención a La Máquina. Estudios posteriores en el ADYTUM no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas que la relacionan más estrechamente con los eventos del Mercado —y sus terribles consecuencias— que sucedieron en esa década infame.
+> 
+> Los mensajes de esta obra apocalíptica han sobrevivido injertos en la cultura: en forma de grafitis en "Tuberías", como referencias en la literatura moderna, por lo que sabemos que alrededor de los años '30 esta obra formaba parte del corpus cultural de nuestra extinta Nación. El contenido memético ha sido resignificado, pero las referencias al Fin de los Tiempos están ahí, para el ojo entrenado: la estatua geométrica que preside la plaza mayor de los Barrios del Norte, cuyas aristas repiten la curva de extinción que cierra aquellas tablas; y los murales del túnel que las Tuberías horadan bajo la avenida San Martín, en pleno centro, donde manos anónimas repintaron por décadas el rostro lloroso del Optimista.
+> 
+>En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes la asocian con eventos del pasado y escatológicos ven en ellos advertencias incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, y sostengo que ya hemos padecido suficiente de su influjo como para seguir dejándolas, temerariamente, al alcance de cualquiera.
 >
-> **—Hermano Archivista Anselmo Quiroga.** A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir.
+> El material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, nunca jamás será contado.
+>
+> **—Hermano Archivista Anselmo Quiroga.** A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir._
 
 El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
