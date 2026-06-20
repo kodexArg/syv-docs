@@ -21,7 +21,7 @@ tags: []
 > 
 > La copia de esta obra que estudio es un compendio fragmentario publicado en 2059 por los Cartoneros, quienes una década después de la caída y con gran esfuerzo rescataron la historia de entre los escombros de Buenos Aires. Esos documentos impresos no hubieran sobrevivido muchos años más hundidos bajo las ruinas de la ciudad.
 > 
-><mark style="background: #BBFABBA6;"> Confieso que demoré años en reencontrarme con estos cuadernos: con sus tablas, gráficos de colores plásticos, mapas amarillos. Los estudié muy bien en mis días y nada de lo que dicen me es ajeno. Es su existencia la que me incomoda.</mark>
+> Confieso que demoré años en reencontrarme con estos cuadernos: con sus tablas, gráficos de colores plásticos, mapas amarillos. Los estudié muy bien en mis días y nada de lo que dicen me es ajeno. Es su existencia la que me incomoda.
 > 
 > <mark style="background: #BBFABBA6;">Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís, humano», nos escribe un algoritmo a la cara. «Morite».</mark>
 >
