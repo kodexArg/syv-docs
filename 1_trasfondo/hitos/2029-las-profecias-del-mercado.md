@@ -27,7 +27,7 @@ tags: []
 > 
 > _Los mensajes de esta obra apocalíptica han sobrevivido injertos en la cultura: en forma de grafitis en "Las Tuberías", como referencias en la literatura son constantes, por lo que sabemos que alrededor de los años '30 esta obra formaba parte del corpus cultural de nuestra extinta Nación y más allá. El contenido memético ha sido resignificado, pero las referencias al Fin de los Tiempos están ahí para el ojo entrenado: la estatua geométrica que preside la plaza mayor de los Barrios del Norte, cuyas aristas repiten la curva de extinción que cierra aquellas tablas; y los murales del túnel que las Tuberías horadan bajo la avenida San Martín, en pleno centro, donde manos anónimas repintaron por décadas el rostro lloroso del Optimista_.
 > 
->_En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes la asocian con eventos del pasado y escatológicos ven en ellos advertencias incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, {y creo que ya hemos tenido bastante influencia de estas obras como para dejarlas peligrosamente al alcance de cualquiera}._
+>_En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes la asocian con eventos del pasado y escatológicos ven en ellos advertencias incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, y sostengo que ya hemos padecido suficiente de su influjo como para seguir dejándolas, temerariamente, al alcance de cualquiera._
 >
 > _El material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, nunca jamás será contado._
 >
