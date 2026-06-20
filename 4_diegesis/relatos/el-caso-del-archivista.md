@@ -40,7 +40,9 @@ ubicaciones:
 
 # El Caso del Archivista
 
-%% La prosa del relato se escribe acá, debajo del título. Esperando la voz de la historia. %%
+Un hombre inmenso, obeso, ocupa una oficina igual de desmedida. Se remueve, incómodo. Mira a los costados y ve cómo la silla de oficina le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
+
+Abajo es Jueves, y los adoquines de la San Martín se vuelven invisibles con la marea de personas que recorren la dársena, apurados, en que obligados deban cerrar sus tiendas hasta las quince.
 
 ---
 
