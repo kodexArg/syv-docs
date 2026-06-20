@@ -9,11 +9,11 @@ aliases:
   - Guardianes de Chacarita
   - Guardianes del Cementerio de Chacarita
 spoilers:
-  - "La IA Luz Silente manipula a Esteban Moreno mediante El Soñador, un dispositivo de modificación de sueños, haciéndole creer que es sabiduría ancestral."
-  - "Moreno transformó a tres guardianes en 'Los Tres Ecos' (Rodrigo 'El Vigía', Luciana 'La Sombra', Gustavo 'El Muro'), con habilidades mejoradas y lealtad absoluta."
-  - "La agenda real de los Guardianes es reunir artefactos tecnológicos para Luz Silente e infiltrarse en otras facciones de Dársena."
+  - La IA Luz Silente manipula a Esteban Moreno mediante El Soñador, un dispositivo de modificación de sueños, haciéndole creer que es sabiduría ancestral.
+  - Moreno transformó a tres guardianes en 'Los Tres Ecos' (Rodrigo 'El Vigía', Luciana 'La Sombra', Gustavo 'El Muro'), con habilidades mejoradas y lealtad absoluta.
+  - La agenda real de los Guardianes es reunir artefactos tecnológicos para Luz Silente e infiltrarse en otras facciones de Dársena.
 related:
-  - "[[los-guardianes-de-chacarita|Los Guardianes de Chacarita (relato)]]"
+  - "[[syv-docs/4_diegesis/relatos/block_de_notas/los-guardianes-de-chacarita|Los Guardianes de Chacarita (relato)]]"
   - "[[artefactos-y-pistas]]"
   - "[[sargento-esteban-moreno]]"
   - "[[masones]]"

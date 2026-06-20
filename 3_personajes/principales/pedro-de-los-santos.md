@@ -31,7 +31,7 @@ apariciones:
   - "[[2034-a-cielo-abierto]]"
   - "[[2035-nacimiento-de-las-qia]]"
   - "[[1_trasfondo/cronologia|Cronología]]"
-  - "[[4_diegesis/relatos/el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]"
+  - "[[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]"
 spoilers:
   - "Pedro sabe más de lo que consigna: en el epígrafe de 2061 hay una fisura que sugiere conocimiento directo de eventos que ningún archivista debería poder datar con tanta precisión."
 tags: []
@@ -88,4 +88,4 @@ La fisura en el epígrafe de 2061 es real y deliberada. Pedro registra el Gran S
 - **Hermano Tomás Ferreyra** (mencionado en corpus): criptógrafo del scriptorium, su colaborador más cercano
 - **Hermano Anselmo Quiroga** (predecesor): la voz de los epígrafes más antiguos; mismo don, mismo oficio — la línea de archivistas con memoria total es tradición de la orden, no anomalía
 - **[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]**: la institución que lo contiene, lo financia y lo gestiona
-- **[[4_diegesis/relatos/el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]**: relato donde su voz de archivista enmarca la historia
+- **[[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]**: relato donde su voz de archivista enmarca la historia

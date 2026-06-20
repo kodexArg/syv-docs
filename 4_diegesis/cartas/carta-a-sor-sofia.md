@@ -12,7 +12,7 @@ tags: []
 related:
   - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
-  - "[[4_diegesis/relatos/cursiva|Cursiva]]"
+  - "[[syv-docs/4_diegesis/relatos/cursiva|Cursiva]]"
 facciones:
   - "[[las-manos-calladas]]"
   - "[[inquisicion]]"

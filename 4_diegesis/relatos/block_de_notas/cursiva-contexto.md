@@ -1,5 +1,5 @@
 ---
-title: "Cursiva Contexto"
+title: Cursiva Contexto
 folder: 4_diegesis/relatos
 description: Contexto narrativo y guía de voces para el relato Cursiva.
 entidad: relato
@@ -9,7 +9,7 @@ aliases:
   - Cursiva Contexto
 tags: []
 related:
-  - "[[4_diegesis/relatos/cursiva|Cursiva]]"
+  - "[[syv-docs/4_diegesis/relatos/cursiva|Cursiva]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
   - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
   - "[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]"
@@ -22,9 +22,9 @@ ubicaciones:
   - "[[darsena]]"
   - "[[zona-militar-eclesiastica]]"
 spoilers:
-  - "El sistema de Iniciados del Faro tiene un costo oculto que Sofía conoce en silencio."
-  - "Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía."
-  - "Sor Catalina está sola en las Tuberías desde hace meses, desoída por su orden."
+  - El sistema de Iniciados del Faro tiene un costo oculto que Sofía conoce en silencio.
+  - Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía.
+  - Sor Catalina está sola en las Tuberías desde hace meses, desoída por su orden.
 ---
 
 ## Contexto de Usuario
