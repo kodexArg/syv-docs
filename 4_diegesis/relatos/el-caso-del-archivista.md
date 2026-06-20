@@ -91,3 +91,32 @@ Hilos abiertos:
 
 > [!warning] Detalles a reconciliar con canon cuando solidifiquen
 > «Ministerio de Defensa / Seguridad» en Dársena (¿se relaciona con la [[direccion-nacional-de-seguridad|DNS]], que es de Córdoba/Estado?) · las marcas rojas del alzacuello como insignia de grado inquisitorial.
+
+### Cómo llegó a tener las cajas (mecánica de la apertura)
+
+Damián entró al edificio **de noche** —de hecho, pasó la noche ahí. De madrugada vio al **mensajero** (que arranca a las 6) preparando las cajas de mensajería para todas las oficinas, y se **adelantó a tomar las suyas**: dos horas de ventaja. Las cajas estaban para abrirse **recién frente a él**, en la reunión que efectivamente iban a tener. Por eso «no debió haberlas abierto». Cuando los demás llegan poco después de las 8 —primero el inquisidor, luego el jefe—, él ya leyó todo.
+
+### El hilo que envuelve la historia — quién lo puso, y por qué insulta a todos
+
+**Eclesiásticos de primera línea** acomodaron a Damián en esa oficina; es un privilegio que la Iglesia ejerce sobre él desde hace años. La elección es deliberadamente particular: la Iglesia **no pone a uno de los suyos** para un caso tan sensible y carísimo, sino que se fía de **un investigador con problemas de adicciones, cordobés, ajeno a todo**.
+
+Eso resulta insultante en tres frentes —y de ahí sale buena parte de la fricción del relato:
+- **La policía / departamento de seguridad**: un extraño, un cordobés jubilado, pasa por encima de su autoridad.
+- **Los militares**: celosos de su jurisdicción, no toleran que alguien de afuera disponga.
+- **El clero darsenero**: les resulta extrañísimo tener que responderle a un desconocido que no es parte de ellos.
+
+Este es el hilo que **presenta a Damián**: lo definimos por cómo lo miran los que deberían mandarlo.
+
+---
+
+## Esquema propuesto (borrador de estructura)
+
+> [!abstract] Propuesta de estructura — sujeta a tu visto bueno
+> No es guion cerrado: es un andamiaje para colgar las escenas. La trama se escribe libre; esto solo ordena el recorrido.
+
+1. **Apertura — La caja.** Damián, de noche en la oficina, se adelanta al mensajero, abre la caja con el nombre de [[pedro-de-los-santos|Pedro de los Santos]] y lee los folios. Llegan el inquisidor y el jefe. Se establecen tono, personaje y disonancia (cordobés adicto al servicio de la Iglesia, donde nadie lo quiere).
+2. **El encargo — por qué a él.** La Iglesia le confía el caso, carísimo y de alta conmoción. Se siembra el motivo de la elección (no uno de los suyos) y la forma terrible del crimen: a Pedro «se le exprimió hasta la última gota de verdad». Damián, aburrido, entra porque por fin hay un detalle digno de su ojo.
+3. **La víctima — quién era el Archivista.** Damián entra en el mundo de Pedro: el Scriptorium, [[el-cronologio|El Cronologio]], la memoria total. Aquí arranca el repaso histórico: leer al muerto es leer el pasado de Dársena. Vehículo natural para recorrer la Argentina post-[[2029-las-profecias-del-mercado|2029]].
+4. **La investigación — entre las facciones más comprometidas.** Damián tira de hilos por los poderes de SyV (Iglesia/Inquisición, los militares de [[capital|Córdoba]], las facciones de la memoria: [[guardianes-de-la-memoria|Guardianes de la Memoria]], saqueadores, arpistas). Cada facción abre un capítulo de historia. Su mala memoria para nombres lo obliga a apoyarse en apodos, rasgos y documentos —y en los folios del propio Pedro.
+5. **El espejo — lo que el muerto sabía.** Se revela que a Pedro lo mataron por lo que recordaba y no consignó (la fisura del epígrafe de 2061; «sabe más de lo que escribe»). El detective sin memoria reconstruye lo que la memoria total se llevó a la tumba.
+6. **La resolución.** El autor del crimen, entre las facciones más comprometidas ⟨a definir por vos⟩. Cierre que confirma la tesis: la Historia de SyV solo se deja contar por el ojo del detalle.
