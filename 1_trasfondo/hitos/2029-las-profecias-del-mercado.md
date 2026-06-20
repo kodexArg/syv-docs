@@ -19,19 +19,13 @@ tags: []
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**._
 >
-> _Confieso que demoré años en atreverme a abrir estos cuadernos. No por su contenido —tablas de números aburridos, gráficos y mapas amarillos—, sino por lo pretencioso de su contenido. Hay una soberbia electrónica que me eriza la piel. «Te morís», nos dice a la cara. «Morite»._
+> _Confieso que demoré años en abrir otra vez estos cuadernos llenos de tablas, gráficos y mapas amarillos. Ya no por sus notas que bien estudié en mis años de estudio, no me aparto de su contenido. Pero hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos dice el antiguo algoritmo a la cara. «Morite»._
 >
-> _«Las Profecías del Mercado» son de autor anónimo, más probablemente varios autores, y aún más probablemente, productos directos de la inteligencia artificial. Sus obras sobrevivieron en forma de grafitis y panfletos hasta nuestros días, dejando un mensaje indeleble en la historia: nosotros sabemos que están condenados._
+> _«Las Profecías del Mercado» son de varios autores, después de los tiempos de la Inteligencia Artificial, así es que, en rigor a la verdad debe decirse que algunos autores adjudican el texto completo a inteligencias artificiales primigenias. No se ha logrado descartar esta teoría._
+> 
+> _Sus obras sobrevivieron en forma de grafitis y panfletos hasta nuestros días, dejando un mensaje indeleble en la historia: nosotros sabemos que están condenados._
 >
-> _Más quisieran._
->
-> _En esos panfletos se leen los hechos que luego sucedieron con una precisión escalofriante, y que aquí desarrollaré._
->
-> _Casi todo el material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, no será nunca más dicho. Le rendimos culto a la historia, pero no puede prevalecer sobre el bien común._
->
-> _Nuestros peores enemigos y a las más abominaciones, desterrándolos a la ignominia._
->
-> _Espero de corazón y por la gracia de la Virgen que mi patria me perdone._
+> _El material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, nunca jamás será contado._
 >
 > **—Hermano Archivista Anselmo Quiroga. A trece días del mes de diciembre del Año del Señor de dos mil ciento sesenta y tres, fiesta de Santa Lucía, virgen y mártir.**
 
@@ -39,7 +33,7 @@ El boom del veintinueve se repitió perfectamente: hasta en lo impredecible.
 
 El mundo estaba aturdido por «Las Redes» —o lo que sea que eso signifique—, y los fríos titulares en letras romanas gritaban noticias en un mar inmundo e inundado de contenido basura. Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas.
 
-También he visto oscuridad que sólo El Señor —a quien veré pronto— podrá borrar de mi alma. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos; y fue por eso que nuestro Santo Padre, en su sabiduría, lo vio antes que ningún otro: mandó a llamarme y me encomendó esta misión santa, a la que me puse de inmediato.
+>_También he visto oscuridad que sólo El Señor —a quien veré pronto— podrá borrar de mi alma. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos; y fue por eso que nuestro Santo Padre, en su sabiduría, lo vio antes que ningún otro y me mandó a llamar._
 
 Todo empezó en «Las Redes». No sabemos, no podemos saber qué son; pero lo que sí diré es que por ahí comenzó todo. Nuestros libros, y esto sí que lo sabemos, sólo mantienen una pequeña fracción del pasado; el resto está en algún otro lado, en «Las Redes». Junto con los dispositivos particulares electrónicos, que surgieron alrededor del 2010, lograron inmovilizar y estupidizar a toda la humanidad en lo que tarda un hombre en llegar a la adolescencia.
 
