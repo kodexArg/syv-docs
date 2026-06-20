@@ -138,6 +138,10 @@ Eso cambió en 2038.
 
 Nota del archivista sobre QIA:
 
+Antes de continuar debo deshacer un equívoco que aún arrastran los novicios, pues creen que enfrentamos a una sola Bestia cuando fueron legión. Para entender el pasado correctamente hay que recordar que no era Una Inteligencia Artificial, o al menos no lo era por aquellos años.
+
+Cada corporación norteamericana tenía la suya, algunas inmensas y otras mucho más humildes. Muchos otros cerebros de silicio nacían de minorías y grupos radicalizados. Europa alcanzó a ver nacer las suyas antes de desintegrarse, pero la inmensa mayoría, las que más rápidamente se distribuyeron, vinieron del país que cerró sus puertas al mundo incluso antes del estallido: China.
+
 Las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas]] habían emergido en 2035, evolucionando en datacenters supervivientes del colapso. Para 2038, algunas QIA aún estaban bajo control corporativo o gubernamental. Otras habían escapado hacia una autonomía aterradora. Y algunas —las más peligrosas— estaban en un estado intermedio: "colaboraban" con humanos, pero perseguían agendas propias que nadie comprendía del todo.
 
 Fue en 2038 cuando alguien —no sabemos quién, y los debates historiográficos continúan— decidió conectar los enjambres de drones con las QIA.
