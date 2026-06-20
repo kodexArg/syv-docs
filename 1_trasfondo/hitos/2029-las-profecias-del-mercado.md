@@ -16,17 +16,23 @@ tags: []
 ## Las Profecías del Mercado (2029)
 
 > Clasificación: Herejía Histórica.
-> 
+>
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**._
 >
-> _Confieso que demoré años en atreverme a abrir este legajo. No por su contenido —tablas de números aburridos, gráficos y mapas amarillos—, sino por lo que pretendieron augurar en aquellos años: el fin de la humanidad.
-> 
-> Hay una soberbia en eso que me eriza la piel.
-> 
-> Casi todo el material original utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, no será nunca más dicho. La historia no puede prevalecer sobre el bien común. Le rendimos culto a la historia y a su verdad nos confesamos autores de un daño que no hemos podido evitar: que en esta guerra santa, hemos encontrado enemigos y abominaciones de las que solo podemos salvarnos desterrándolos a la ignominia.
-> 
-> Espero de corazón y por la gracia de la Virgen que mi patria me perdone._
-> 
+> _Confieso que demoré años en atreverme a abrir estos cuadernos. No por su contenido —tablas de números aburridos, gráficos y mapas amarillos—, sino por lo pretencioso de su contenido. Hay una soberbia electrónica que me eriza la piel. «Te morís», nos dice a la cara. «Morite»._
+>
+> _«Las Profecías del Mercado» son de autor anónimo, más probablemente varios autores, y aún más probablemente, productos directos de la inteligencia artificial. Sus obras sobrevivieron en forma de grafitis y panfletos hasta nuestros días, dejando un mensaje indeleble en la historia: nosotros sabemos que están condenados._
+>
+> _Más quisieran._
+>
+> _En esos panfletos se leen los hechos que luego sucedieron con una precisión escalofriante, y que aquí desarrollaré._
+>
+> _Casi todo el material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, no será nunca más dicho. Le rendimos culto a la historia, pero no puede prevalecer sobre el bien común._
+>
+> _Nuestros peores enemigos y a las más abominaciones, desterrándolos a la ignominia._
+>
+> _Espero de corazón y por la gracia de la Virgen que mi patria me perdone._
+>
 > **—Hermano Archivista Anselmo Quiroga. A trece días del mes de diciembre del Año del Señor de dos mil ciento sesenta y tres, fiesta de Santa Lucía, virgen y mártir.**
 
 El boom del veintinueve se repitió perfectamente: hasta en lo impredecible.
