@@ -19,7 +19,7 @@ tags: []
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**._
 >
-> La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros del Sur, una cuadrilla de supervivientes —hoy extinta— que, una década después de la caída del meteorito, dedicó lo poco que le restaba de fuerzas a rescatar papel quemado de entre las ruinas de Buenos Aires.
+> La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros, quienes una década después de la caída del meteorito, hicieron un gran esfuerzo para rescatar la historia de entre las ruinas de Buenos Aires.
 > 
 > _Confieso que demoré años en reabrir estos cuadernos perturbadores, llenos de tablas, gráficos y mapas amarillos. Bien los estudié en mis días y no reniego de cuanto enseñan, es su existencia la que me incomoda. Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos escribe un algoritmo a la cara. «Morite»._
 >
@@ -60,6 +60,9 @@ Quién sabe si el orden global se desmoronó por esto, o si ya estábamos podrid
 El fin de año nuevo del 2030 no fue televisado de manera global, y los fuegos artificiales sólo eran una terrible metáfora de lo que sucedía. El planeta ya era una olla a presión, con la pobreza convertida en hambre, que se derramaba por las grandes ciudades, produciendo las acciones más aberrantes de la humanidad. Los movimientos contra la inteligencia artificial se habían vuelto parte del ecosistema diario, y contribuían y lideraban al aislacionismo de los pueblos, fundiéndose en los movimientos más fanáticos de cada región. La red global se volvía intermitente entre los primeros conflictos, cada vez más frágil, fracturada por guerras tecnofeudalistas y un Internet totalmente saturado por algoritmos más inteligentes que personas.
 
 El fin del mundo no nos tomó por sorpresa; simplemente elegimos mirar hacia otro lado mientras nos ocurría en la cara.
+
+> [!info]- Ver también
+> [[los-cartoneros-del-sur|Los Cartoneros del Sur]] · [[inquisicion|Sagrada Inquisición Argentina]] · [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] · [[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|Barrios del Norte]] · [[2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires]] · [[qia-inteligencias-artificiales-cuanticas|Las QIA]] · [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]] · [[pedro-de-los-santos|Pedro de los Santos]]
 
 
 ---
