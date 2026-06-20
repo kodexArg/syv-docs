@@ -38,7 +38,7 @@ tags: []
 ---
 El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
-{<mark style="background: #FF5582A6;">Hubo un tiempo en que los hombres creyeron que saberlo todo los volvería libres. Acumularon más palabras de las que ninguna generación podría leer en mil vidas y, sin embargo, jamás estuvieron tan a oscuras: cada verdad nacía apareada con su falsificación, idénticas al tacto, hasta que la certeza se hizo mercancía tan abundante que dejó de valer nada. Cada cual se fabricaba la suya y la defendía como un dogma. La humanidad que más había hablado en toda su historia fue también la que menos llegó a entenderse: no la perdió la ignorancia, sino el exceso, ese estruendo perpetuo en el que ya nadie distinguía el aviso del engaño. Aquel murmullo sin rostro, la marea de voces que todo lo anegaba, tenía un nombre:</mark>} «Las Redes».
+Por entonces el conocimiento se había vuelto infinito y, por eso mismo, inútil. Cada dato llegaba con su copia falsa, imposible de separar del verdadero; la verdad, de tan abundante, dejó de valer, y cada uno se quedó con la que le servía. La especie que más información acumuló fue la que peor entendió su propio tiempo. Ese ruido sin fuente tenía un nombre: «Las Redes».
 
 > _Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._
 >
