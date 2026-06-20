@@ -38,7 +38,7 @@ tags: []
 ---
 El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
-Hubo un tiempo en que los hombres creyeron que saberlo todo los volvería libres. Acumularon más palabras de las que ninguna generación podría leer en mil vidas y, sin embargo, jamás estuvieron tan a oscuras: cada verdad nacía ya apareada con su falsificación, idénticas al tacto, hasta que la certeza se hizo mercancía tan abundante que dejó de valer nada. Cada cual se fabricaba la propia y la defendía como un dogma. Así, la humanidad que más había hablado en toda su historia fue también la que menos llegó a entenderse; no la perdió la ignorancia, sino el exceso: ese estruendo perpetuo en el que ya nadie sabía distinguir el aviso del engaño. Y todo aquel murmullo sin rostro, la marea de voces que lo anegaba todo, tenía un nombre: «Las Redes».
+Hubo un tiempo en que los hombres creyeron que saberlo todo los volvería libres. Acumularon más palabras de las que ninguna generación podría leer en mil vidas y, sin embargo, jamás estuvieron tan a oscuras: cada verdad nacía apareada con su falsificación, idénticas al tacto, hasta que la certeza se hizo mercancía tan abundante que dejó de valer nada. Cada cual se fabricaba la suya y la defendía como un dogma. La humanidad que más había hablado en toda su historia fue también la que menos llegó a entenderse: no la perdió la ignorancia, sino el exceso, ese estruendo perpetuo en el que ya nadie distinguía el aviso del engaño. Aquel murmullo sin rostro, la marea de voces que todo lo anegaba, tenía un nombre: «Las Redes».
 
 > _Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._
 >
