@@ -14,7 +14,6 @@ tags: []
 title: Orden de Lectura
 ---
 
-ســ
 # Orden de Lectura
 
 No hay forma corta de entender este mundo. No hay resumen que alcance ni mapa que reemplace al territorio. Si querés comprender por qué en 2178 encender una máquina es herejía punible con la hoguera, por qué la Iglesia gobierna desde un puerto de niebla, por qué un cráter es hoy un lago maldito que nadie pisa — hay que leer la historia dura, y hay que leerla **en orden**. El desastre tuvo etapas, y cada una explica la siguiente. No se me ocurre mejor forma de contarlo.
