@@ -42,7 +42,15 @@ ubicaciones:
 
 Un hombre inmenso, obeso, ocupa una oficina igual de desmedida. Se remueve, incómodo. Es nuevo acá. Mira a sus costados y ve cómo la silla de oficina le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
 
-Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, hasta el mediodía, cuando los comercios cierran obligados hasta las tres.
+Mira abajo, a la izquierda. Todo es ventana en el edificio de Seguridad Nacional, piso Siete. Sabe que desde afuera es un negro azabache, opaco y sin brillo; pero su cristal es incómodamente cristalino.
+
+Se asoma un poco.
+
+Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, hasta el mediodía, cuando los comercios cierran obligados hasta las quince.
+
+Tiene hambre, pero no va a conseguir nada hasta esa hora.
+
+Enfrente tiene la caja de cartón corrugado, del tamaño de un archivo de oficina, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde alguien arrancó la etiqueta de CONFIDENCIAL, queda un rectángulo más limpio que el resto del cartón; debajo, escrito a mano con marcador, un nombre: Pedro de los Santos. La trajo 
 
 ---
 
