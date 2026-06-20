@@ -58,6 +58,7 @@ Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinaci�
 | `apariciones` | personajes, lugares | Lista de **wikilinks** a relatos/crónicas/cartas donde aparece. |
 | `region` | atlas, cronología | Región geográfica, p. ej. `Sud América, Argentina, Ciudad Dársena`. |
 | `fecha` | cronología, atlas | Fecha o año de referencia. |
+| `fecha_exacta` | hitos, cronología | Fecha exacta del evento en ISO `YYYY-MM-DD`. **Opcional**: solo cuando el día es canónico. Complementa a `fecha`. |
 | `spoilers` | cualquiera con secreto | Lista de frases sensibles. Reemplaza `alerta-spoiler`/`alerta-spoilers`. |
 
 ---
