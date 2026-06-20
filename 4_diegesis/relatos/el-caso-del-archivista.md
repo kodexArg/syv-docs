@@ -86,7 +86,7 @@ ubicaciones:
 
 Hilos abiertos:
 - **Qué hay en los folios.** ¿Los escritos del propio Archivero / el Cronologio? ¿La evidencia de que «se le exprimió hasta la última gota»?
-- **Por qué a él.** El despeje está por encima de su rango y aun así la caja es «para Damián». ¿Error, prueba, trampa, o alguien lo quiere metido?
+- **Por qué a él (resuelto).** Eclesiásticos de primera línea lo pusieron ahí hace años; la caja es «para Damián» porque la Iglesia le confía el caso. La abrió antes de tiempo porque madrugó y se adelantó al mensajero (ver mecánica abajo). Matiz vivo: ¿por qué la Iglesia se fía de un adicto cordobés ajeno, y no de uno de los suyos? → ver «El hilo que envuelve la historia».
 - **Disonancia útil.** Trabaja para la Iglesia pero se sienta en un ministerio de Defensa/Seguridad, en una ciudad que no es la suya. Sostener esa extrañeza.
 
 > [!warning] Detalles a reconciliar con canon cuando solidifiquen
