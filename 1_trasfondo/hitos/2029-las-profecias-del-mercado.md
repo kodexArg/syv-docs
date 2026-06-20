@@ -27,13 +27,15 @@ tags: []
 >
 > _El material utilizado para crear este documento ya ha sido incinerado. Lo que no debe decirse, nunca jamás será contado._
 >
-> **—Hermano Archivista Anselmo Quiroga. A trece días del mes de diciembre del Año del Señor de dos mil ciento sesenta y tres, fiesta de Santa Lucía, virgen y mártir.**
+> **—Hermano Archivista Anselmo Quiroga. A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir.**
 
-El boom del veintinueve se repitió perfectamente: hasta en lo impredecible.
+El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
-El mundo estaba aturdido por «Las Redes» —o lo que sea que eso signifique—, y los fríos titulares en letras romanas gritaban noticias en un mar inmundo e inundado de contenido basura. Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas.
+El mundo estaba aturdido por «Las Redes» —o lo que sea que eso signifique—. Imagínese el lector un río que no era de agua, sino de palabras, de imágenes y de voces; un río que no corría por cauce alguno, sino por el aire mismo y por unas láminas de vidrio que cada hombre, cada mujer y cada niño llevaban en la mano, de día y de noche, sin soltarlas jamás. Por esa corriente bajaba todo a la vez: los fríos titulares en letras romanas que gritaban la catástrofe del día, las mentiras pintadas de verdad, los rostros de mil desconocidos, las compras y las guerras y las plegarias, y sobre todo la basura —un mar inmundo que crecía más rápido de lo que mil hombres podrían leer en mil vidas—. La humanidad entera flotaba allí dentro, aturdida y hasta dichosa de estarlo, sin advertir que se ahogaba. Y dudo, lo confieso, que estas pobres líneas basten para que quien nunca lo vio alcance a comprenderlo.
 
->_También he visto oscuridad que sólo El Señor —a quien veré pronto— podrá borrar de mi alma. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos; y fue por eso que nuestro Santo Padre, en su sabiduría, lo vio antes que ningún otro y me mandó a llamar._
+> _Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._
+>
+> _Mi tarea estos años me ha acercado a una oscuridad macabra, producto de una humanidad menguante. Sólo el Señor —a quien veré pronto— podrá borrar de mi alma las imágenes de los archivos de lo que fuimos capaces por esos años del Becerro de Silicio. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos._
 
 Todo empezó en «Las Redes». No sabemos, no podemos saber qué son; pero lo que sí diré es que por ahí comenzó todo. Nuestros libros, y esto sí que lo sabemos, sólo mantienen una pequeña fracción del pasado; el resto está en algún otro lado, en «Las Redes». Junto con los dispositivos particulares electrónicos, que surgieron alrededor del 2010, lograron inmovilizar y estupidizar a toda la humanidad en lo que tarda un hombre en llegar a la adolescencia.
 
