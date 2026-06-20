@@ -64,3 +64,21 @@ ubicaciones:
 
 > [!note] Sobre el uso de esta guía
 > La trama definitiva se escribe arriba, en el cuerpo del relato, con plena libertad de autor. Esto es referencia permanente: si el relato contradice la brújula, primero revisamos la brújula.
+
+---
+
+## Notas de trabajo · escenas e ideas
+
+> [!quote] Brainstorm — material crudo para ir pensando el caso
+> Textos sueltos dictados por kodex, sin pulir. No es prosa final; es cantera de escenas.
+
+### Escena de apertura — la caja
+
+Ciudad Dársena, **Departamento de Detectives**. Damián en su escritorio nuevo, en esa oficina que le queda grande (séptimo piso). Es temprano: los demás esperaban ser los primeros en llegar… y se lo encuentran a Damián **ya ahí**. Hay una **caja**. Damián ya vio dentro **lo que no debería haber visto**.
+
+Lectura: el caso le llega literalmente *en una caja*. Su naturaleza —madrugador, aburrido, con demasiados recursos que no desaprovecha— hace que meta la nariz antes de que nadie pueda frenarlo. El ojo de detalle pesca lo vedado.
+
+Hilos abiertos para pensar:
+- ¿Qué hay en la caja? (¿restos / efectos / escritos del Archivista? ¿evidencia que «se le exprimió hasta la última gota»?)
+- ¿Quiénes llegan temprano y lo encuentran? (¿colegas, un superior, un enviado de la Iglesia?)
+- ¿Por qué «no debería haber visto»? (¿era para otro destinatario? ¿contenido clasificado / censurado por el Anatema?)
