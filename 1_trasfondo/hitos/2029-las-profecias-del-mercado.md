@@ -23,7 +23,7 @@ tags: []
 > 
 > Confieso que demoré años en reencontrarme con estos cuadernos: con sus tablas, gráficos de colores plásticos, mapas amarillos. Los estudié muy bien en mis días y nada de lo que dicen me es ajeno. Es su existencia la que me incomoda.
 > 
-> <mark style="background: #BBFABBA6;">Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís, humano», nos escribe un algoritmo a la cara. «Morite».</mark>
+> Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís, humano», nos escribe un algoritmo a la cara. «Morite».
 >
 > <mark style="background: #BBFABBA6;">«Las Profecías del Mercado» podrían ser de varios autores. La prosa empática y florida nos demuestra que fueron revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo el curado sino también la autoría y la intención a La Máquina. Estudios posteriores en el ADYTUM no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas que la relacionan más estrechamente con los eventos del Mercado —y sus terribles consecuencias— que sucedieron en esa década infame.</mark>
 > 
