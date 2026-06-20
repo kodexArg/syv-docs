@@ -7,3 +7,13 @@ index.mdx.bak
 # Obsidian volatile state
 .obsidian/workspace.json
 .obsidian/graph.json
+
+# syv-kodex-style volatile logs (the tooling is tracked, the state is not)
+_tools/syv-kodex-style/queue.jsonl
+_tools/syv-kodex-style/generations.jsonl
+_tools/syv-kodex-style/state.json
+
+# Python build artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
