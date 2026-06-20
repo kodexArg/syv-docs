@@ -74,11 +74,21 @@ ubicaciones:
 
 ### Escena de apertura — la caja
 
-Ciudad Dársena, **Departamento de Detectives**. Damián en su escritorio nuevo, en esa oficina que le queda grande (séptimo piso). Es temprano: los demás esperaban ser los primeros en llegar… y se lo encuentran a Damián **ya ahí**. Hay una **caja**. Damián ya vio dentro **lo que no debería haber visto**.
+**Encuadre.** Una oficina amplia y cómoda —mucho mejor que la última—, ventanales sobre la **Avenida San Martín**: la oficina del **Ministerio de Defensa / Seguridad**. Damián es detective, ahora en [[darsena|Dársena]] y trabajando para la Iglesia. No sabe bien cómo terminó ahí; no es su ciudad —él es de [[capital|Córdoba]].
 
-Lectura: el caso le llega literalmente *en una caja*. Su naturaleza —madrugador, aburrido, con demasiados recursos que no desaprovecha— hace que meta la nariz antes de que nadie pueda frenarlo. El ojo de detalle pesca lo vedado.
+**La caja.** Frente a él, una caja de cartón preparada para él hace poco. Ya le arrancó la etiqueta de **CONFIDENCIAL** —un despeje incluso por encima de su rango. Los documentos que traía están esparcidos por el escritorio: carpetas, folios. La caja no dice «el caso del archivero»: lleva **el nombre del Archivero** ⟨nombre por confirmar — en canon, [[pedro-de-los-santos|Pedro de los Santos]]⟩.
 
-Hilos abiertos para pensar:
-- ¿Qué hay en la caja? (¿restos / efectos / escritos del Archivista? ¿evidencia que «se le exprimió hasta la última gota»?)
-- ¿Quiénes llegan temprano y lo encuentran? (¿colegas, un superior, un enviado de la Iglesia?)
-- ¿Por qué «no debería haber visto»? (¿era para otro destinatario? ¿contenido clasificado / censurado por el Anatema?)
+**Entra el inquisidor.** Un sacerdote con **marcas rojas en el borde del alzacuello** (grado inicial de inquisidor; empleado de la Inquisición), no joven. Lo mira con una amenaza que haría temblar a cualquiera —y a Damián ni lo incomoda. Le señala que es material confidencial; Damián replica que sí, claro, ya se dio cuenta. En el cruce queda claro que no se lo comentó a nadie, y que es raro: por algo se lo habrán dejado **a él**, ahí.
+
+**Entra el jefe.** El jefe de Damián, sorprendido de encontrarlo tan temprano. Cierra con un «no» seco. Evidente: Damián **pasó la noche ahí**.
+
+**Lectura.** El caso le llega literalmente *en una caja*. Su naturaleza —madrugador por aburrimiento, con demasiados recursos que no desaprovecha— hace que meta la nariz antes de que nadie pueda frenarlo. El ojo de detalle pesca lo vedado.
+
+Hilos abiertos:
+- **Nombre del Archivero.** ¿Es [[pedro-de-los-santos|Pedro de los Santos]] (canon) o un personaje nuevo? La caja necesita su nombre propio.
+- **Qué hay en los folios.** ¿Los escritos del propio Archivero / el Cronologio? ¿La evidencia de que «se le exprimió hasta la última gota»?
+- **Por qué a él.** El despeje está por encima de su rango y aun así la caja es «para Damián». ¿Error, prueba, trampa, o alguien lo quiere metido?
+- **Disonancia útil.** Trabaja para la Iglesia pero se sienta en un ministerio de Defensa/Seguridad, en una ciudad que no es la suya. Sostener esa extrañeza.
+
+> [!warning] Detalles a reconciliar con canon cuando solidifiquen
+> «Ministerio de Defensa / Seguridad» en Dársena (¿se relaciona con la [[direccion-nacional-de-seguridad|DNS]], que es de Córdoba/Estado?) · las marcas rojas del alzacuello como insignia de grado inquisitorial.
