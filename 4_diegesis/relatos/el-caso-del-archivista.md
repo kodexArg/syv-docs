@@ -85,7 +85,6 @@ ubicaciones:
 **Lectura.** El caso le llega literalmente *en una caja*. Su naturaleza —madrugador por aburrimiento, con demasiados recursos que no desaprovecha— hace que meta la nariz antes de que nadie pueda frenarlo. El ojo de detalle pesca lo vedado.
 
 Hilos abiertos:
-- **Nombre del Archivero.** ¿Es [[pedro-de-los-santos|Pedro de los Santos]] (canon) o un personaje nuevo? La caja necesita su nombre propio.
 - **Qué hay en los folios.** ¿Los escritos del propio Archivero / el Cronologio? ¿La evidencia de que «se le exprimió hasta la última gota»?
 - **Por qué a él.** El despeje está por encima de su rango y aun así la caja es «para Damián». ¿Error, prueba, trampa, o alguien lo quiere metido?
 - **Disonancia útil.** Trabaja para la Iglesia pero se sienta en un ministerio de Defensa/Seguridad, en una ciudad que no es la suya. Sostener esa extrañeza.
