@@ -89,7 +89,7 @@ Entonces la estrategia es contención: fortificar Torres Hidropónicas con guard
 ## Geografía de la Fe
 
 - **Riachuelo (pantanos):** 300 militantes (base principal)
-- **Zona del Cráter (periferia):** 100 militantes (aprovechan radiación como barrera natural)
+- **Zona del Cráter (periferia):** 100 militantes (aprovechan el tabú de la zona maldita como barrera natural)
 - **Tuberías (sectores profundos):** 80 militantes (refugiados del Riachuelo)
 - **Dispersos en zonas rurales:** 20 militantes (células durmientes)
 
