@@ -15,11 +15,16 @@ tags: []
 ---
 ## Las Profecías del Mercado (2029)
 
-> _Registro recuperado de las cenizas del viejo mundo. Clasificación: Herejía Histórica. Para lectura exclusiva de los Archivistas de la Sagrada Inquisición._
+> _Registro recuperado. Clasificación: Herejía Histórica. Para lectura exclusiva de los Archivistas de la Sagrada Inquisición._
+>
+> _Confieso que demoré años en atreverme a abrir este legajo. No por su contenido —aburridas tablas de números, gráficos y mapas amarillos—, sino por lo que esos datos pretendieron augurar: el fin del hombre. Hay una soberbia en eso que me eriza la piel. Pero no es mi misión comprender. El Señor iluminó mi mente para que los números y las fechas se me adhirieran como insectos, mientras escribo, mientras duermo, mientras rezo. Pongo al servicio del mundo este don y esta condena, para que alguien más iluminado entienda lo que yo he tenido el privilegio de ordenar._
+> **—Hermano Archivista Anselmo Quiroga. A trece días del mes de diciembre del Año del Señor de dos mil ciento sesenta y tres, fiesta de Santa Lucía, virgen y mártir.**
 
-El mundo estaba aturdido por"Las Redes", y en asuntos muy graves, enfrentando hambrunas y guerra sin más culpables de la impericia de sus gobernantes. Nadie parecía prestar atención a las frías advertencias de las máquinas, que coincidían al detalle con los ecologistas más pesimistas y radicalizados.
+El mundo estaba aturdido por "Las Redes", o lo que sea que eso signifique. Quiero decir: claro que tenemos una idea muy elaborada, pero en mi opinión no lograremos nunca comprender la magnitud del asunto. Nuestros libros, y esto sí que lo sabemos, sólo contienen una pequeña fracción del pasado. El caso es que "Las Redes" junto con los dispositivos particulares lograron inmobilizar y estupidizar a toda la humanidad, a la vez, en lo que tarda un hombre en llegar a la adolescencia. Me consuela que no sólo a mí se me escapa la respueta, ya que no hay tema más trillado en los debates académicos que el de intentar comprender esta década, ¿y qué esperanza teníamos contra lo que no comprendíamos? La respuesta la encontramos de manera milagrosa, y gracias Nuestro Señor.
 
-Se esta época es el cuadro que encontrarán en la entrada del Museo del Mundo, en donde se ve un antiguo burócrata, con su habitual corbata roja, lágrimas en los ojos y encomillado al pie de la foto _"Ni siquiera calculáramos mal... Tan sólo apostamos a que todo iba a salir bien. Y lo que apostamos fue a todos ustedes."_
+Lo que sigue es la historia de cómo comenzó nuestra peor década.
+
+Del verano del '29 viene "El Optimista", el cuadro que encontrarán en la entrada del Museo del Mundo, en donde se ve un antiguo burócrata con su clásica corbata roja, lágrimas en los ojos y encomillado al pie de la foto _"Ni siquiera calculáramos mal... Tan sólo creímos en la mística, en que todo iba a salir bien. Y lo que apostamos fue a todos ustedes."_
 
 Desde el año 2030 los movimientos anatemicos formaba parte del ecosistema diario. La humanidad aún vivía atada a una red global , pero la sociedad estaba profundamente fracturada por el incesante debate tecnológico. El mundo era una olla a presión que llevaba hirviendo  una década desde la pandemia, y la creciente desconfianza hacia los procesadores con inteligencia artificial acaparaba toda la atención, en los mercados, en los noticieros, en la calle.
 
@@ -35,5 +40,7 @@ El fin del mundo no nos tomó por sorpresa; simplemente elegimos mirar hacia otr
 
 
 ---
+
+*Copiado de mi puño en el Archivo de Dársena, a XXI días del mes de noviembre del Año del Señor de dos mil ciento setenta y siete, vísperas de la Presentación de Nuestra Señora.*
 
 *—Hermano Archivista Pedro de los Santos*

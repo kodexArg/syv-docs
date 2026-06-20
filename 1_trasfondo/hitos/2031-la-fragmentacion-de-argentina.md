@@ -9,24 +9,25 @@ estado: canon
 fecha: 2031
 fecha_exacta: 2031-10-11
 region: Argentina
-aliases:
-  - Fragmentación de Argentina
-  - Día de las Veintitrés Banderas
-related:
-  - "[[videla-iv]]"
-  - "[[fuerzas-armadas]]"
-  - "[[2039-el-meteorito-de-buenos-aires]]"
+aliases: '["Fragmentación de Argentina", "Día de las Veintitrés Banderas", "La
+  Fragmentación de la Argentina"]'
+related: '["[[videla-iv]]", "[[fuerzas-armadas]]",
+  "[[2039-el-meteorito-de-buenos-aires]]", "[[pedro-de-los-santos]]",
+  "[[el-cronologio]]"]'
 tags: []
 ---
-*Hito histórico de Los Años del Caos*
+## La Fragmentación de Argentina (2031)
 
-## Nota del Hermano Archivista
+> _Extractos de la conferencia «La Fragmentación de la Argentina», dictada por el Hermano Archivista Pedro de los Santos en la [[2_atlas/ciudades/darsena/academia-de-ciencias-de-darsena|Academia de Ciencias de Dársena]]._
+>
+> _(...) Un hombre del archivo es hombre del silencio: su oficio es la pluma, no la lengua. Y hoy me piden que hable yo, y peor aún, que hable de mí. Pídanle a un topo que describa el sol._
+>
+> _Soy cordobés, y vine a terminar mis días en esta [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]] de cielo de plomo, donde las calles del sur se angostan hasta tragarse al que las camina; mi celda no tiene la mitad de la que ya era estrecha allá —al menos en [[2_atlas/ciudades/cordoba/cordoba|Córdoba]]…— en fin. Y es a mí, en la celda más angosta de la ciudad más angosta, a quien le toca devolverles la inmensidad de lo que fue: la pampa sin horizonte, las sierras de mi infancia, el litoral de ríos anchos como mares, el sur de viento y piedra, la cordillera blanca cerrando el poniente. (...)_
+> **—Hermano Archivista Pedro de los Santos. Academia de Ciencias de Dársena, invierno del Año del Señor de dos mil ciento setenta y siete.**
 
-Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo que alguna vez fue el puerto de Buenos Aires, y me pregunto cómo documentar la muerte de una nación. No hay tarea que me haya costado más en toda esta crónica. A un imperio que cae se le puede poner fecha; a una piedra que cae del cielo, también. Pero una patria no muere de un golpe: se va apagando, decreto a decreto, provincia a provincia, hasta que un día alguien advierte que ya no queda nadie a quien obedecer. Los registros de ese período son escasos, contradictorios, manchados por la sangre y el humo. Lo que sigue es reconstrucción a partir de archivos provinciales supervivientes, testimonios de quienes eran niños entonces y ahora son ancianos, y los decretos militares que se imprimían en papel cuando la red dejó de funcionar. Que el lector me perdone si en algún punto el dolor le gana a la precisión: hay heridas que ni siglo y medio bastan para cicatrizar.
+A un imperio que cae se le puede poner fecha; a una piedra que cae del cielo, también. Pero una patria no muere de un golpe: se va apagando, decreto a decreto, provincia a provincia, hasta que un día alguien advierte que ya no queda nadie a quien obedecer.
 
 Este hito marca el comienzo de la desintegración argentina en 2031, aunque la fragmentación se consolidaría completamente recién hacia 2035, y la guerra civil continuaría intermitentemente hasta los años 2040.
-
----
 
 ## El Colapso del Estado (Diciembre 2030 - Marzo 2031)
 

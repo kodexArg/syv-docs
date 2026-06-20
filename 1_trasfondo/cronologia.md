@@ -118,6 +118,9 @@ El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, 
 
 *Ver hito completo: [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]*
 
+
+> [!note] Esta Cronología es la columna vertebral de [[el-cronologio|El Cronologio]] —la obra mayor en que asiento cada documento recuperado con su data crónica y su data tópica—; cada hito es uno de sus capítulos.
+
 ### 2035: Nacimiento de las QIA (hito)
 
 *Ver hito completo: [[2035-nacimiento-de-las-qia]]*
