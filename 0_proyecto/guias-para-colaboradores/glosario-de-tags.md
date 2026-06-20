@@ -43,7 +43,9 @@ Las dimensiones controladas **no** viven dentro de `tags` con barras. Cada una e
 `facciones`, `ubicaciones`, `apariciones`, `related` → `"[[slug]]"`. Para que sean **aristas del grafo** deben repetirse en el cuerpo (ver [[recomendacion-wikilinks-en-prosa]]).
 
 ### Específicos
-`nombre` (personajes), `region`, `fecha`, `spoilers` (lista).
+`nombre` (personajes), `region`, `fecha`, `fecha_exacta`, `spoilers` (lista).
+
+`fecha_exacta` (hitos / cronología): fecha exacta del evento en formato ISO `YYYY-MM-DD`. **Opcional** — solo cuando el día se conoce con precisión canónica; complementa a `fecha`, que admite año o año-mes. No inventar el día si el canon no lo fija.
 
 ### `tags` — el vivero open/closed
 `tags` deja de cargar dimensiones. Queda como **lado abierto**: etiquetas emergentes que querés filtrar exacto pero que aún no merecen campo propio.
