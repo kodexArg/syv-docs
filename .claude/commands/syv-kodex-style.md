@@ -4,11 +4,12 @@ description: Aprende del estilo de kodex comparando mi prosa generada vs cómo �
 
 # /syv-kodex-style — aprender del lápiz rojo de kodex
 
-Proceso de aprendizaje de estilo. Cada commit que toca prosa narrativa
-(`1_trasfondo/`, `4_diegesis/`, `5_aventuras/`) queda registrado por el hook
-`post-commit`. Este comando **drena la cola**: toma cada par
-`<texto que generé yo>` → `<cómo lo modificó kodex>`, lo evalúa, y destila tres
-aprendizajes que guarda en **mi memoria del proyecto** y en **engram**.
+Proceso de aprendizaje de estilo. **Se dispara a mano tras un push**: el hook
+`pre-push` detecta el push de prosa narrativa (`1_trasfondo/`, `4_diegesis/`,
+`5_aventuras/`) y avisa; entonces kodex corre este comando. Toma cada par
+`<texto que generé yo>` → `<cómo lo modificó kodex>` desde la última corrida, lo
+evalúa, y destila tres aprendizajes que guarda en **mi memoria del proyecto** y
+en **engram**.
 
 > **Autoría — leé esto.** En este repo, tanto mis escrituras por la MCP como las
 > ediciones a mano de kodex en Obsidian commitean como `markdown-vault-mcp`. Son
@@ -70,4 +71,5 @@ aprendizajes que guarda en **mi memoria del proyecto** y en **engram**.
   `python3 _tools/syv-kodex-style/record_generation.py <archivo.md> --note "qué escribí"`
   inmediatamente después de escribir. Mis commits de Bash ya se autodetectan por
   el trailer Claude.
-- Engancha bien a `/loop`: `/loop 10m /syv-kodex-style`.
+- Disparo previsto: **a mano, tras ver el aviso del hook `pre-push`**. El hook
+  sólo notifica (no lanza el skill solo). Instalación: `python3 _tools/syv-kodex-style/install_hook.py`.

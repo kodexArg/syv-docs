@@ -6,8 +6,8 @@ in-scope file that kodex modified AFTER a known Claude generation, and emits
 JSON pairs <mine -> kodex's revision> with unified diffs — ready for the LLM in
 /syv-kodex-style to judge into the three learnings.
 
-Source of truth is git history (not queue.jsonl), so it works even if the
-post-commit hook never fired. CONSERVATIVE: a file is only paired when "mine"
+Source of truth is git history + cursor, so it works regardless of whether the
+pre-push hook fired. CONSERVATIVE: a file is only paired when "mine"
 can be attributed (ledger entry, or a Co-Authored-By: Claude commit). If neither
 exists, the file is skipped — we never invent a learning from text we can't
 prove was ours.
