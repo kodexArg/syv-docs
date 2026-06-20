@@ -19,7 +19,7 @@ tags: []
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**._
 >
-> La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros, quienes una década después de la caída del meteorito, hicieron un gran esfuerzo para rescatar la historia de entre las ruinas de Buenos Aires.
+> La copia de esta obra que estudio es un compendio realizado en 2059 por los Cartoneros, quienes una década después de la caída del meteorito hicieron un gran esfuerzo para rescatar la historia de entre las ruinas de Buenos Aires.
 > 
 > _Confieso que demoré años en reabrir estos cuadernos perturbadores, llenos de tablas, gráficos y mapas amarillos. Bien los estudié en mis días y nada de cuanto enseñan me es ajeno, es su existencia la que me incomoda. Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís», nos escribe un algoritmo a la cara. «Morite»._
 >
