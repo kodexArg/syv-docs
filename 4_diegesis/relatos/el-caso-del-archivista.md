@@ -78,6 +78,9 @@ ubicaciones:
 
 **La caja.** Frente a él, una caja de cartón preparada para él hace poco. Ya le arrancó la etiqueta de **CONFIDENCIAL** —un despeje incluso por encima de su rango. Los documentos que traía están esparcidos por el escritorio: carpetas, folios. La caja no dice «el caso del archivero»: lleva **el nombre del Archivero**, [[pedro-de-los-santos|Pedro de los Santos]] (la víctima, confirmado por kodex).
 
+> [!check] Decisión — la caja y *La Caja* de Córdoba
+> La relación con **La Caja** de Córdoba (la de pruebas que [[damian-diconte|Damián]] abandonó al huir) es **eco poético/narrativo**, NO puente de trama: mismo cartón, mismo gesto —una caja que lo define—, pero las dos historias no se tocan. El hombre que tuvo que abandonar una caja recibe ahora otra, con su nombre.
+
 **Entra el inquisidor.** Un sacerdote con **marcas rojas en el borde del alzacuello** (grado inicial de inquisidor; empleado de la Inquisición), no joven. Lo mira con una amenaza que haría temblar a cualquiera —y a Damián ni lo incomoda. Le señala que es material confidencial; Damián replica que sí, claro, ya se dio cuenta. En el cruce queda claro que no se lo comentó a nadie, y que es raro: por algo se lo habrán dejado **a él**, ahí.
 
 **Entra el jefe.** El jefe de Damián, sorprendido de encontrarlo tan temprano. Cierra con un «no» seco. Evidente: Damián **pasó la noche ahí**.
