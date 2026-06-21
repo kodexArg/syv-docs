@@ -46,13 +46,13 @@ A él le han entregado una oficina inmensa. Y nada que hacer.
 
 A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del siniestro negro bruñido que tiene el edificio desde afuera. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
 
-Abajo es jueves, y los adoquines de la San Martín brillan entre el gentío, todo el mundo girando alrededor de la dársena, en una dirección o en otra, de prisa desde temprano. Debe reconcer que su oficina tiene una vista impactante. Los cristales le permiten ver el sol naranja como un punto brillante. Tras el vidrio siente el murmullo, e imagina los cientos de dialectos<mark style="background: #CACFD9A6;">, comerciantes de paso, apurados por cerrar en el día sus tratos, pasar por aduana y partir sin hacer ni una noche en una ciudad que encuentran carísima.</mark>
+Abajo es jueves, y los adoquines de la San Martín brillan entre el gentío, todo el mundo girando alrededor de la dársena, en una dirección o en otra, de prisa desde temprano. Debe reconcer que su oficina tiene una vista impactante. Los cristales le permiten ver el sol naranja como un punto brillante. Tras el vidrio siente el murmullo, e imagina los cientos de dialectos, comerciantes de paso, apurados por cerrar sus tratos en el día, pasar por aduana y partir sin hacer ni una noche en una ciudad que encuentran carísima.
 
 Y así, cada día, un par de millones de visitantes más aprietan contra el muro a una ciudad ya congestionada, a punto de reventar.
 
 En contraste con Córdoba, decir que esta ciudad es sofocante es poco.
 
-Y más allá, al otro lado de la Dársena, tras un amanecer dorad
+Y más allá, al otro lado de la Dársena, tras un amanecer dorado, la Isla Ori
 
 Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar despegada, colgando a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDENCIAL, el cartón guarda la huella del rótulo: un rectángulo más pálido y limpio que el resto.
 
