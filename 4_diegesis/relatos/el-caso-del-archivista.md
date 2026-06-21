@@ -40,31 +40,25 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso, de fedora, ocupa una oficina en el séptimo piso de Seguridad Nacional, Dársena. Su tapado de cuero, absolutamente negro, cuelga del perchero junto a la puerta. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando se pare, se le va a quedar pegada al culo esa silla cara.
+Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, Dársena. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando se pare, se le va a quedar pegada al culo esa silla cara, piensa. Y suspira. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
 
-Suspira. Son las seis de la mañana. Sólo están los ordenanzas del correo interno, entregando los primeros paquetes de expedientes en los cubículos de afuera.
+A él le han entregado una oficina inmensa. Y nada que hacer.
 
-Él tiene su propia e inmensa oficina. Y nada que hacer.
+A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del siniestro negro bruñido que tiene el edificio desde afuera. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
 
-La pared a su izquierda es toda de vidrio. Desde afuera él es invisible tras el negro azabache y opaco del polarizado eléctrico; justo abajo alcanza a ver la mugre en las letras corpóreas plateadas de «SEGURIDAD NACIONAL». Por dentro, en cambio, es incómodamente cristalino para un edificio donde se investigan secretos. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra los apoyabrazos— y se asoma, la nariz contra el vértigo.
-
-Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, que viene y que va por los puentes, esquivando los puestos, apretujándose aún más en la parada del tranvía.
+Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, que viene y que va por los puentes, esquivando los puestos, apretujándose aún más en la parada del tranvía, que los atraviesa despacio como un cuchillo a la mantequilla. El vidrio transforma en un murmullo lo que él sabe se escucha como el clamor de un ágora: cientos de dialectos de visitantes, intentando comerciar con la luz del día para no hacer noche en una ciudad carísima. Los barcos esperan en el río, los tratos se cierran en pocas horas, mientras los hombres esperan, hambrientos, que vuelva su capitán.
 
 En contraste con Córdoba, encuentra a esta ciudad sofocante.
 
-Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDmENCIAL, queda un rectángulo más limpio que el resto.
+<mark style="background: #CACFD9A6;">Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de</mark> CONFIDENCIAL<mark style="background: #FFB86CA6;">, queda un rectángulo más limpio que el resto.</mark>
 
-Mete las dos manos en la caja. Los dedos —gruesos, amarillos de tabaco en la primera falange— tantean el fondo antes de agarrar nada; primero quiere saber cuánto hay y cómo está acomodado, si alguien lo ordenó o lo metió a las apuradas. Está ordenado. Eso ya le dice algo.
+<mark style="background: #FF5582A6;">Mete las dos manos en la caja. Los dedos —gruesos, amarillos de tabaco en la primera falange— tantean el fondo antes de agarrar nada; primero quiere saber cuánto hay y cómo está acomodado, si alguien lo ordenó o lo metió a las apuradas. Está ordenado. Eso ya le dice algo.
+</mark>
+Saca el primer expediente con las dos manos. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.
 
-Saca el primer expediente con las dos manos, como si pesara más de lo que pesa. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.
+<mark style="background: #FF5582A6;">Vienen tres carpetas iguales, más finas, unidas por una banda elástica reseca que se parte cuando la estira; los pedazos le quedan colgando de los dedos y los deja caer de nuevo en la caja, sin pensarlo. Las separa una de otra. Tienen pestañas de colores —una azul, una verde, una que fue roja y ahora es rosa de sol— y en cada pestaña una palabra que de lejos no llega a leer. Las pone en fila, debajo de las dos primeras. {acá tienes que reemplazar esto y poner los tomos separados de lo que son las cronologías completas. Un tomo para tal guerra, otro tomo para tal otra. Queda claro que lo que Damián lee, son las notas de @hitos/ y con eso quiero decir mucho! eso es lo que encuentra físicamente aquí}</mark>
 
-El segundo es más delgado: un sobre de papel madera, sin cerrar, con la lengüeta metida para adentro. Lo levanta contra la luz del ventanal y ve, en sombra, el canto de algo rígido —fotografías, calcula, por el grosor—. Lo deja a la derecha del primero, sin sacarle nada. Cada cosa en su lugar; el desorden lo arma después, si hace falta.
 
-Vienen tres carpetas iguales, más finas, unidas por una banda elástica reseca que se parte cuando la estira; los pedazos le quedan colgando de los dedos y los deja caer de nuevo en la caja, sin pensarlo. Las separa una de otra. Tienen pestañas de colores —una azul, una verde, una que fue roja y ahora es rosa de sol— y en cada pestaña una palabra que de lejos no llega a leer. Las pone en fila, debajo de las dos primeras.
-
-Al fondo, parado contra la pared de la caja, hay un cuaderno de tapa dura, de los gruesos, hinchado de tanto abrirse y cerrarse. No tiene etiqueta. Lo saca con cuidado, lo abre por la mitad y le reconoce de una la letra: chica, pareja, inclinada, de alguien que escribió toda su vida. Tiene que ser la del muerto. Eso no se lo dieron por error.
-
-Cuando termina, el escritorio es otra cosa: una hilera de carpetas, el sobre, las tres de pestañas, el cuaderno abierto en el medio. La caja queda casi vacía —la banda rota, un poco de polvo en las esquinas—. Damián se echa para atrás; la silla cara cruje bajo el peso. Se queda mirando todo eso desplegado como un tablero antes del primer movimiento. Todavía no leyó una palabra. Ya sabe que va a estar todo el día.
 
 ---
 
