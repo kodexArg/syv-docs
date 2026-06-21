@@ -52,7 +52,7 @@ En contraste con Córdoba, encuentra a esta ciudad sofocante.
 
 Tiene hambre, pero no va a conseguir nada hasta esa hora.
 
-Enfrente tiene la caja <mark style="background: #FF5582A6;">de cartón corrugado,</mark> , con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDmENCIAL, queda un rectángulo más limpio que el resto.
+Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDmENCIAL, queda un rectángulo más limpio que el resto.
 
 Mete las dos manos en la caja. Los dedos —gruesos, amarillos de tabaco en la primera falange— tantean el fondo antes de agarrar nada; primero quiere saber cuánto hay y cómo está acomodado, si alguien lo ordenó o lo metió a las apuradas. Está ordenado. Eso ya le dice algo.
 
