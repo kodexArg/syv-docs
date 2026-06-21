@@ -60,7 +60,7 @@ Seis y veinte. La puerta se abre de golpe y entra una chica de camisa celeste, u
 
 Damián no la corrige. Estira una mano enorme hacia el escritorio: que la deje ahí. Ella apoya la caja —clasificada, sellada, la que mandó el comisario con el pedido de no tocarla hasta verse con él en la mañana— y sale casi de espaldas, como quien no quiere perder de vista a un perro grande.
 
-<mark style="background: #FFF3A3A6;">Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar despegada, colgando a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDENCIAL, el cartón guarda la huella del rótulo: un rectángulo más pálido y limpio que el resto.</mark>
+Apenas la puerta se cierra, le arranca la cinta de embalar; las solapas ceden, una queda colgando a un costado. La etiqueta de CONFIDENCIAL la despega él mismo, y en la cara de arriba queda su huella: un rectángulo de cartón más pálido y limpio que el resto.
 
 <mark style="background: #D2B3FFA6;">{Sorpresa, estoy usando púrpura, quiero que este color represente un momento mágico, un momento de creación itensa, un flashback, algo que represente el encuentro de Damián con esta caja, buscamos el momento en el que lee la etiqueta, aquí debes hacer mágia y que coordine con todo, puedes salpicar magia} No mete la mano enseguida. Primero mira cómo viene cargada la caja —los lomos parejos, las carpetas de canto, nada tirado de cualquier modo— y recién entonces hunde los dedos hasta el fondo. Alguien la acomodó con tiempo. Eso, antes de leer una sola línea, ya es un dato.</mark>
 
