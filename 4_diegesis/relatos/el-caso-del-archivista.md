@@ -52,8 +52,8 @@ En contraste con Córdoba, encuentra a esta ciudad sofocante.
 
 <mark style="background: #CACFD9A6;">Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de</mark> CONFIDENCIAL<mark style="background: #FFB86CA6;">, queda un rectángulo más limpio que el resto.</mark>
 
-<mark style="background: #FF5582A6;">Mete las dos manos en la caja. Los dedos —gruesos, amarillos de tabaco en la primera falange— tantean el fondo antes de agarrar nada; primero quiere saber cuánto hay y cómo está acomodado, si alguien lo ordenó o lo metió a las apuradas. Está ordenado. Eso ya le dice algo.
-</mark>
+No mete la mano enseguida. Primero mira cómo viene cargada la caja —los lomos parejos, las carpetas de canto, nada tirado de cualquier modo— y recién entonces hunde los dedos hasta el fondo. Alguien la acomodó con tiempo. Eso, antes de leer una sola línea, ya es un dato.
+
 Saca el primer expediente con las dos manos. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.
 
 <mark style="background: #FF5582A6;">Vienen tres carpetas iguales, más finas, unidas por una banda elástica reseca que se parte cuando la estira; los pedazos le quedan colgando de los dedos y los deja caer de nuevo en la caja, sin pensarlo. Las separa una de otra. Tienen pestañas de colores —una azul, una verde, una que fue roja y ahora es rosa de sol— y en cada pestaña una palabra que de lejos no llega a leer. Las pone en fila, debajo de las dos primeras. {acá tienes que reemplazar esto y poner los tomos separados de lo que son las cronologías completas. Un tomo para tal guerra, otro tomo para tal otra. Queda claro que lo que Damián lee, son las notas de @hitos/ y con eso quiero decir mucho! eso es lo que encuentra físicamente aquí}</mark>
