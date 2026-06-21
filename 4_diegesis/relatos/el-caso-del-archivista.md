@@ -50,7 +50,7 @@ Abajo es jueves, y los adoquines de la San Martín brillan entre la humedad y el
 
 Aquí la diversión apesta. Hasta en los bares se respeta el toque de queda. Ocho campanas y la ciudad se apaga.
 
-<mark style="background: #CACFD9A6;">Pero otra ciudad se enciende. Tuberías. Uno se la pasa bien ahí: la música, las chicas. Pero por momentos hay que estarse con demasiado cuidado. Lleva un año en Ciudad Dársena y ya lo tratan como un habitué. Sonríe, "mejor que acá".</mark>
+Pero otra ciudad se enciende. Las Tuberías. Ahí uno se la pasa bien: la música, las chicas. Aunque por momentos haya que andarse con mucho cuidado. Lleva un año en Dársena y ya lo tratan como a un habitué. Sonríe: «mejor que acá».
 
 Y así, cada día, un par de millones de visitantes más aprietan contra el muro a una ciudad ya congestionada, a punto de reventar.
 
