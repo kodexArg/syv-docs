@@ -40,13 +40,17 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, en Ciudad Dársena, la Ciudad de las Nubes. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando se pare, se le va a quedar pegada al culo esa silla cara, piensa. Su escritorio es inmenso, de esos para recibir gente, pero no tiene nada. Suspira. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
+Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, en Ciudad Dársena, la Ciudad de las Nubes. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando me pare se me va a quedar pegada al culo esta silla cara, piensa. Su escritorio es inmenso, de esos para recibir gente, pero no tiene nada enfrente. Suspira, tamborillea con unos dedos regordotes. Muerde un abano apagado, preguntándose cuánto tiempo va a aguantar antes de prendérselo, y cuánto van a tardar en sacarlo de una patada en el culo. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
 
-A él le han entregado una oficina inmensa. Y nada que hacer.
+Una oficina inmensa. Y nada que hacer.
 
-A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del siniestro negro bruñido que tiene el edificio desde afuera. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
+A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del mismo edificio negro bruñido que se ve desde afuera, donde él es absolutamente invisible. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
 
-Abajo es jueves, y los adoquines de la San Martín brillan entre el gentío, todo el mundo girando alrededor de la dársena, en una dirección o en otra, de prisa desde temprano. Debe reconcer que su oficina tiene una vista impactante. Los cristales le permiten ver el sol naranja como un punto brillante. Tras el vidrio siente el murmullo, e imagina los cientos de dialectos, comerciantes de paso, apurados por cerrar sus tratos en el día, pasar por aduana y partir sin hacer ni una noche en una ciudad que encuentran carísima.
+Abajo es jueves, y los adoquines de la San Martín brillan entre la humedad y el gentío, todo el mundo girando alrededor de la dársena, por sus puentes, en una dirección o en otra. A Damián no le cuesta reconocer que la vista es impactante. Los cristales le permiten ver el sol naranja del amanecer. Tras el vidrio siente el murmullo de incontables dialectos, comerciantes de paso apurados por cerrar sus tratos en el día, pasar por aduana y partir sin hacer ni una noche en esta ciudad carísima y <mark style="background: #FFB86CA6;">mojigata</mark>.
+
+Aquí la diversión apesta. Hasta en los bares se respeta el toque de queda. Ocho campanas y la ciudad se apaga.
+
+<mark style="background: #CACFD9A6;">Pero otra ciudad se enciende. Tuberías. Uno se la pasa bien ahí: la música, las chicas. Pero por momentos hay que estarse con demasiado cuidado. Lleva un año en Ciudad Dársena y ya lo tratan como un habitué. Sonríe, "mejor que acá".</mark>
 
 Y así, cada día, un par de millones de visitantes más aprietan contra el muro a una ciudad ya congestionada, a punto de reventar.
 
