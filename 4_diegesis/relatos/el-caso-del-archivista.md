@@ -40,7 +40,7 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina igual de desmedida en el séptimo piso de Seguridad Nacional, en Ciudad Dársena. Se remueve incómodo en su asiento. Mira a sus costados y ve cómo <mark style="background: #FFF3A3A6;">la silla de oficina</mark> le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
+Un hombre inmenso ocupa una oficina igual de desmedida en el séptimo piso de Seguridad Nacional, en Ciudad Dársena. Se remueve incómodo en su asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
 
 La pared a su izquierda es toda de vidrio. Desde afuera es un negro azabache y opaco, pero adentro es incómodamente cristalino.
 
