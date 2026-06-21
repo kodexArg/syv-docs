@@ -46,7 +46,10 @@ A él le han entregado una oficina inmensa. Y nada que hacer.
 
 A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del siniestro negro bruñido que tiene el edificio desde afuera. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
 
-Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, que viene y que va por los puentes, esquivando los puestos, apretujándose aún más en la parada del tranvía, que los atraviesa despacio como un cuchillo a la mantequilla. El vidrio transforma en un murmullo lo que él sabe se escucha como el clamor de un ágora: cientos de dialectos de visitantes, intentando comerciar con la luz del día para no hacer noche en una ciudad carísima. Los barcos esperan en el río, los tratos se cierran en pocas horas, mientras los hombres esperan, hambrientos, que vuelva su capitán.
+Abajo es jueves, y los adoquines de la San Martín brillan entre el gentío, todo el mundo girando alrededor de la dársena, <mark style="background: #CACFD9A6;">en una dirección o en otra, todos apurados desde las primeras horas del día</mark>. Debe reconcer que su oficina tiene una vista impactante. Los cristales le permiten ver el sol naranja como un punto brillante. Tras el vidrio siente el murmullo, e imagina los cientos de dialectos, comerciantes de paso, apurados por cerrar en el día sus tratos, pasar por aduana y partir sin hacer ni una noche en una ciudad que encuentran carísima.
+
+Y así, cada día, un par de millones de visitantes más aprietan contra el muro a una ciudad ya congestionada, a punto de reventar.
+
 
 En contraste con Córdoba, encuentra a esta ciudad sofocante.
 
