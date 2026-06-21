@@ -40,17 +40,22 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, en Ciudad Dársena, la Ciudad de las Nubes. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando me pare se me va a quedar pegada al culo esta silla cara, piensa. Su escritorio es inmenso, de esos para recibir gente, pero no tiene nada enfrente. Suspira, tamborillea con unos dedos regordotes. Muerde un abano apagado, preguntándose cuánto tiempo va a aguantar antes de prendérselo, y cuánto van a tardar en sacarlo de una patada en el culo. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
+><mark style="background: #CACFD9A6;">Damián DiConte, conocido como El Sabueso, es un detective de cincuenta y pocos, retirado del servicio cordobés tras el incidente del Teniente Coronel. Fue trasladado como testigo a Dársena, pero resultó muy útil en una investigación y, cuando se reponía de sus últimos dolores, cuando ya se acostumbraba a dar un corto paseo cada día para bajar de peso, recibió la llamada. Cinco minutos más tardes había aceptado ocupar la silla reservada para un representante de la Iglesia dentro del edificio de</mark> <mark style="background: #FFB86CA6;">Seguridad Nacional {se llama seguridad nacional? nunca recuerdo donde estan los detectives}</mark>.
+
+<mark style="background: #FF5582A6;">vuelve a escribir sobre el hombre inmenso</mark> la oficina que hoy ocupa parece diseñada para él. Está en el séptimo piso de Seguridad Nacional, en Ciudad Dársena, la Ciudad de las Nubes. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando me pare se me va a quedar pegada al culo esta silla cara, piensa. Su escritorio es inmenso, de esos para recibir gente. Suspira, tamborillea con unos dedos regordotes. Muerde un abano apagado, preguntándose cuánto tiempo va a aguantar antes de prendérselo, y cuánto van a tardar en sacarlo de una patada
+en el culo. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
 
 Una oficina inmensa. Y nada que hacer.
 
-A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del mismo edificio negro bruñido que se ve desde afuera, donde él es absolutamente invisible. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
+A su derecha, la pared es todo vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del mismo edificio negro bruñido que se ve desde afuera, y donde él es invisible. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— se asoma y pega la nariz contra el vértigo.
 
-Abajo es jueves, y los adoquines de la San Martín brillan entre la humedad y el gentío, todo el mundo girando alrededor de la dársena, por sus puentes, en una dirección o en otra. A Damián no le cuesta reconocer que la vista es impactante. Los cristales le permiten ver el sol naranja del amanecer. Tras el vidrio siente el murmullo de incontables dialectos, comerciantes de paso apurados por cerrar sus tratos en el día, pasar por aduana y partir sin hacer ni una noche en esta ciudad carísima y beata.
+Abajo es jueves, y los adoquines de la San Martín brillan entre la humedad y el gentío, todo el mundo girando alrededor de la dársena, por sus puentes, en una dirección o en otra. A Damián no le cuesta reconocer que la vista es impactante. Los cristales lo protegen del sol naranja del este mientras el murmullo de la ciudad <mark style="background: #FFF3A3A6;">reverbera</mark> en el cristal. La ciudad se despierta a sus pies, con incontables dialectos de comerciantes apurados por cerrar sus tratos y hacer pasar sus barcos por la aduana en el día.
 
-Aquí la diversión apesta. Hasta en los bares se respeta el toque de queda. Ocho campanas y la ciudad se apaga.
+Aquí la diversión apesta. Hasta en los bares se respeta el toque de queda. Ocho campanas y la ciudad se apaga. Y los musulmanes, vienen de a millones, y de a millones son mal vistos. Sin embargo el trato fluye con desprecio. Una muy buena señal.
 
-Pero otra ciudad se enciende. Las Tuberías. Ahí uno se la pasa bien: la música, las chicas. Aunque por momentos haya que andarse con mucho cuidado. Lleva un año en Dársena y ya lo tratan como a un habitué. Sonríe: «mejor que acá».
+Pero Damián no es un hombre del día, el pertenece a la noche. Sus ojeras
+
+otra ciudad se enciende. Las Tuberías. Ahí uno se la pasa bien: la música, las chicas. Aunque por momentos haya que andarse con mucho cuidado. Lleva un año en Dársena y ya lo tratan como a un habitué. Sonríe: «mejor que acá».
 
 Y así, cada día, un par de millones de visitantes más aprietan contra el muro a una ciudad ya congestionada, a punto de reventar.
 
