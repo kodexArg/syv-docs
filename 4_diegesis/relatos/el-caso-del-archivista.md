@@ -46,7 +46,7 @@ Una oficina inmensa. Y nada que hacer.
 
 A su derecha, la pared es toda de vidrio, incómodamente cristalino para un edificio donde se investigan secretos, piensa, mientras descarta la visión del mismo edificio negro bruñido que se ve desde afuera, donde él es absolutamente invisible. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra esos apoyabrazos— y se asoma, la nariz contra el vértigo.
 
-Abajo es jueves, y los adoquines de la San Martín brillan entre la humedad y el gentío, todo el mundo girando alrededor de la dársena, por sus puentes, en una dirección o en otra. A Damián no le cuesta reconocer que la vista es impactante. Los cristales le permiten ver el sol naranja del amanecer. Tras el vidrio siente el murmullo de incontables dialectos, comerciantes de paso apurados por cerrar sus tratos en el día, pasar por aduana y partir sin hacer ni una noche en esta ciudad carísima y <mark style="background: #FFB86CA6;">mojigata</mark>.
+Abajo es jueves, y los adoquines de la San Martín brillan entre la humedad y el gentío, todo el mundo girando alrededor de la dársena, por sus puentes, en una dirección o en otra. A Damián no le cuesta reconocer que la vista es impactante. Los cristales le permiten ver el sol naranja del amanecer. Tras el vidrio siente el murmullo de incontables dialectos, comerciantes de paso apurados por cerrar sus tratos en el día, pasar por aduana y partir sin hacer ni una noche en esta ciudad carísima y beata.
 
 Aquí la diversión apesta. Hasta en los bares se respeta el toque de queda. Ocho campanas y la ciudad se apaga.
 
