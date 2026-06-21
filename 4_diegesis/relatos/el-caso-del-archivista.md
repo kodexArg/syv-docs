@@ -40,17 +40,15 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina igual de desmedida en el séptimo piso de Seguridad Nacional, en Ciudad Dársena. Se remueve incómodo en su asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
+Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, en Ciudad Dársena. Se remueve incómodo en su asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
 
 La pared a su izquierda es toda de vidrio. Desde afuera es un negro azabache y opaco, pero adentro es incómodamente cristalino.
 
-Se asoma un poco.
+Se asoma un poco, contra el vértigo.
 
-Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, hasta el mediodía, cuando los comercios cierran obligados hasta las quince.
+Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, siempre con prisa.
 
 En contraste con Córdoba, encuentra a esta ciudad sofocante.
-
-Tiene hambre, pero no va a conseguir nada hasta esa hora.
 
 Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDmENCIAL, queda un rectángulo más limpio que el resto.
 
