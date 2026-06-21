@@ -40,17 +40,31 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina igual de desmedida en el séptimo piso del departamento de Seguridad Nacional, en Ciudad Dársena. Se remueve, incómodo. Es nuevo acá. Mira a sus costados y ve cómo la silla de oficina le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
+Un hombre inmenso ocupa una oficina igual de desmedida en el séptimo piso de Seguridad Nacional, en Ciudad Dársena. Se remueve incómodo en su asiento. Mira a sus costados y ve cómo <mark style="background: #FFF3A3A6;">la silla de oficina</mark> le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
 
-Mira abajo, a la izquierda. Todo es ventana en el edificio de Seguridad Nacional, piso Siete. Sabe que desde afuera es un negro azabache, opaco y sin brillo; pero su cristal es incómodamente cristalino.
+La pared a su izquierda es toda de vidrio. Desde afuera es un negro azabache y opaco, pero adentro es incómodamente cristalino.
 
 Se asoma un poco.
 
 Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, hasta el mediodía, cuando los comercios cierran obligados hasta las quince.
 
+En contraste con Córdoba, encuentra a esta ciudad sofocante.
+
 Tiene hambre, pero no va a conseguir nada hasta esa hora.
 
-Enfrente tiene la caja de cartón corrugado, del tamaño de un archivo de oficina, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde alguien arrancó la etiqueta de CONFIDENCIAL, queda un rectángulo más limpio que el resto del cartón; debajo, escrito a mano con marcador, un nombre: Pedro de los Santos. La trajo 
+Enfrente tiene la caja <mark style="background: #FF5582A6;">de cartón corrugado,</mark> , con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDmENCIAL, queda un rectángulo más limpio que el resto.
+
+Mete las dos manos en la caja. Los dedos —gruesos, amarillos de tabaco en la primera falange— tantean el fondo antes de agarrar nada; primero quiere saber cuánto hay y cómo está acomodado, si alguien lo ordenó o lo metió a las apuradas. Está ordenado. Eso ya le dice algo.
+
+Saca el primer expediente con las dos manos, como si pesara más de lo que pesa. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.
+
+El segundo es más delgado: un sobre de papel madera, sin cerrar, con la lengüeta metida para adentro. Lo levanta contra la luz del ventanal y ve, en sombra, el canto de algo rígido —fotografías, calcula, por el grosor—. Lo deja a la derecha del primero, sin sacarle nada. Cada cosa en su lugar; el desorden lo arma después, si hace falta.
+
+Vienen tres carpetas iguales, más finas, unidas por una banda elástica reseca que se parte cuando la estira; los pedazos le quedan colgando de los dedos y los deja caer de nuevo en la caja, sin pensarlo. Las separa una de otra. Tienen pestañas de colores —una azul, una verde, una que fue roja y ahora es rosa de sol— y en cada pestaña una palabra que de lejos no llega a leer. Las pone en fila, debajo de las dos primeras.
+
+Al fondo, parado contra la pared de la caja, hay un cuaderno de tapa dura, de los gruesos, hinchado de tanto abrirse y cerrarse. No tiene etiqueta. Lo saca con cuidado, lo abre por la mitad y le reconoce de una la letra: chica, pareja, inclinada, de alguien que escribió toda su vida. Tiene que ser la del muerto. Eso no se lo dieron por error.
+
+Cuando termina, el escritorio es otra cosa: una hilera de carpetas, el sobre, las tres de pestañas, el cuaderno abierto en el medio. La caja queda casi vacía —la banda rota, un poco de polvo en las esquinas—. Damián se echa para atrás; la silla cara cruje bajo el peso. Se queda mirando todo eso desplegado como un tablero antes del primer movimiento. Todavía no leyó una palabra. Ya sabe que va a estar todo el día.
 
 ---
 
