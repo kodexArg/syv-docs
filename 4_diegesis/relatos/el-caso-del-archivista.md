@@ -40,13 +40,15 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, en Ciudad Dársena. Se remueve incómodo en su asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera, piensa que cuando se pare se le va a quedar pegada al culo esa silla cara.
+Un hombre inmenso, de fedora, ocupa una oficina en el séptimo piso de Seguridad Nacional, Dársena. Su tapado de cuero, absolutamente negro, cuelga del perchero junto a la puerta. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando se pare, se le va a quedar pegada al culo esa silla cara.
 
-La pared a su izquierda es toda de vidrio. Desde afuera es un negro azabache y opaco, pero adentro es incómodamente cristalino.
+Suspira. Son las seis de la mañana. Sólo están los ordenanzas del correo interno, entregando los primeros paquetes de expedientes en los cubículos de afuera.
 
-Se asoma un poco, contra el vértigo.
+Él tiene su propia e inmensa oficina. Y nada que hacer.
 
-Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, siempre con prisa.
+La pared a su izquierda es toda de vidrio. Desde afuera él es invisible tras el negro azabache y opaco del polarizado eléctrico; justo abajo alcanza a ver la mugre en las letras corpóreas plateadas de «SEGURIDAD NACIONAL». Por dentro, en cambio, es incómodamente cristalino para un edificio donde se investigan secretos. Se levanta —comprueba que todavía le quedan dos hamburguesas de ventaja contra los apoyabrazos— y se asoma, la nariz contra el vértigo.
+
+Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío que cruza la dársena con prisa, que viene y que va por los puentes, esquivando los puestos, apretujándose aún más en la parada del tranvía.
 
 En contraste con Córdoba, encuentra a esta ciudad sofocante.
 
