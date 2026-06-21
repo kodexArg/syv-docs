@@ -40,7 +40,7 @@ ubicaciones:
 
 # El Caso del Archivista
 
-Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, Dársena. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando se pare, se le va a quedar pegada al culo esa silla cara, piensa. Y suspira. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
+Un hombre inmenso ocupa una oficina en el séptimo piso de Seguridad Nacional, en Ciudad Dársena, la Ciudad de las Nubes. Se remueve incómodo en su nuevo asiento. Mira a sus costados y ve cómo el apoyabrazos de la silla le roza la cadera. Cuando se pare, se le va a quedar pegada al culo esa silla cara, piensa. Su escritorio es inmenso, de esos para recibir gente, pero no tiene nada. Suspira. Son las seis de la mañana y sólo están los de ordenanzas y correo entregando los primeros paquetes en los cubículos de afuera.
 
 A él le han entregado una oficina inmensa. Y nada que hacer.
 
@@ -56,7 +56,7 @@ No mete la mano enseguida. Primero mira cómo viene cargada la caja —los lomos
 
 Saca el primer expediente con las dos manos. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.
 
-<mark style="background: #FF5582A6;">Vienen tres carpetas iguales, más finas, unidas por una banda elástica reseca que se parte cuando la estira; los pedazos le quedan colgando de los dedos y los deja caer de nuevo en la caja, sin pensarlo. Las separa una de otra. Tienen pestañas de colores —una azul, una verde, una que fue roja y ahora es rosa de sol— y en cada pestaña una palabra que de lejos no llega a leer. Las pone en fila, debajo de las dos primeras. {acá tienes que reemplazar esto y poner los tomos separados de lo que son las cronologías completas. Un tomo para tal guerra, otro tomo para tal otra. Queda claro que lo que Damián lee, son las notas de @hitos/ y con eso quiero decir mucho! eso es lo que encuentra físicamente aquí}</mark>
+Debajo no hay más carpetas: hay tomos. Pesados, de tapa dura, parados de canto como en un anaquel, cada uno con una fecha y un nombre rotulados a mano en el lomo. Saca el primero —La Fragmentación— y atrás vienen los otros, en orden: A Cielo Abierto, El Estallido, la Larga Noche. Una guerra por tomo. Los abre al azar y reconoce la misma letra chica y pareja de la carpeta de arriba: no es el Cronologio impreso que todos citan, son las notas con que lo escribió, el borrador a mano de décadas de guerra, fechado día por día como un libro de cuentas. Damián los va alineando sobre el escritorio, lomo contra lomo, y recién entonces entiende qué le dejaron en la caja: la historia entera, de puño y letra del muerto.
 
 
 
