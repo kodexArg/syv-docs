@@ -50,7 +50,7 @@ Abajo es jueves, y los adoquines de la San Martín desaparecen bajo el gentío q
 
 En contraste con Córdoba, encuentra a esta ciudad sofocante.
 
-<mark style="background: #CACFD9A6;">Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar colgando despegada a un costado. En la cara de arriba, donde arrancó la etiqueta de</mark> CONFIDENCIAL<mark style="background: #FFB86CA6;">, queda un rectángulo más limpio que el resto.</mark>
+Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar despegada, colgando a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDENCIAL, el cartón guarda la huella del rótulo: un rectángulo más pálido y limpio que el resto.
 
 No mete la mano enseguida. Primero mira cómo viene cargada la caja —los lomos parejos, las carpetas de canto, nada tirado de cualquier modo— y recién entonces hunde los dedos hasta el fondo. Alguien la acomodó con tiempo. Eso, antes de leer una sola línea, ya es un dato.
 
