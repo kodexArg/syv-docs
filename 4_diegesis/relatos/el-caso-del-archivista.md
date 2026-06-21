@@ -52,13 +52,19 @@ Y así, cada día, un par de millones de visitantes más aprietan contra el muro
 
 En contraste con Córdoba, decir que esta ciudad es sofocante es poco.
 
-Y más allá, al otro lado de la Dársena, tras un amanecer dorado, la Isla Ori
+Y más allá, al otro lado de la Dársena, tras un amanecer dorado, la Isla Oriental, tierra santa. Sus deños. Vuelve a sentarse.
 
-Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar despegada, colgando a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDENCIAL, el cartón guarda la huella del rótulo: un rectángulo más pálido y limpio que el resto.
+Seis y veinte. La puerta se abre de golpe y entra una chica de camisa celeste, una caja entre los brazos, hablando antes de mirar —que dónde la deja, que es para el de la reunión de las nueve—. Levanta la vista y se frena en seco. Damián la mira sin moverse, derramado sobre la silla cara, el cuello hundido entre los hombros, una mancha seca de café en la camisa que no le cierra del todo sobre la panza. La chica abre la boca y no le sale nada: esperaba la oficina vacía, no a este animal a las seis y veinte de la mañana.
 
-No mete la mano enseguida. Primero mira cómo viene cargada la caja —los lomos parejos, las carpetas de canto, nada tirado de cualquier modo— y recién entonces hunde los dedos hasta el fondo. Alguien la acomodó con tiempo. Eso, antes de leer una sola línea, ya es un dato.
+—Perdón —dice al fin, y se le suben los colores cuando ata cabos: el séptimo piso, el ventanal, el escritorio para recibir gente. No es un intruso; es el dueño—. Usted es… el Sabueso.
 
-Saca el primer expediente con las dos manos. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.
+Damián no la corrige. Estira una mano enorme hacia el escritorio: que la deje ahí. Ella apoya la caja —clasificada, sellada, la que mandó el comisario con el pedido de no tocarla hasta verse con él en la mañana— y sale casi de espaldas, como quien no quiere perder de vista a un perro grande.
+
+<mark style="background: #FFF3A3A6;">Enfrente tiene la caja, con las solapas abiertas y la cinta de embalar despegada, colgando a un costado. En la cara de arriba, donde arrancó la etiqueta de CONFIDENCIAL, el cartón guarda la huella del rótulo: un rectángulo más pálido y limpio que el resto.</mark>
+
+<mark style="background: #D2B3FFA6;">{Sorpresa, estoy usando púrpura, quiero que este color represente un momento mágico, un momento de creación itensa, un flashback, algo que represente el encuentro de Damián con esta caja, buscamos el momento en el que lee la etiqueta, aquí debes hacer mágia y que coordine con todo, puedes salpicar magia} No mete la mano enseguida. Primero mira cómo viene cargada la caja —los lomos parejos, las carpetas de canto, nada tirado de cualquier modo— y recién entonces hunde los dedos hasta el fondo. Alguien la acomodó con tiempo. Eso, antes de leer una sola línea, ya es un dato.</mark>
+
+<mark style="background: #D2B3FFA6;">Saca el primer expediente con las dos manos. Es una carpeta de cartulina ocre, de las de archivo oficial, atada con un piolín que alguna vez fue blanco. En la solapa hay una etiqueta mecanografiada: un número de legajo, una fecha y, abajo, a mano, el mismo nombre que está en la caja. La apoya en el extremo izquierdo del escritorio, paralela al borde. No la abre todavía.</mark>
 
 Debajo no hay más carpetas: hay tomos. Pesados, de tapa dura, parados de canto como en un anaquel, cada uno con una fecha y un nombre rotulados a mano en el lomo. Saca el primero —La Fragmentación— y atrás vienen los otros, en orden: A Cielo Abierto, El Estallido, la Larga Noche. Una guerra por tomo. Los abre al azar y reconoce la misma letra chica y pareja de la carpeta de arriba: no es el Cronologio impreso que todos citan, son las notas con que lo escribió, el borrador a mano de décadas de guerra, fechado día por día como un libro de cuentas. Damián los va alineando sobre el escritorio, lomo contra lomo, y recién entonces entiende qué le dejaron en la caja: la historia entera, de puño y letra del muerto.
 
