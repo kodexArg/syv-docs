@@ -15,10 +15,6 @@ tags: []
 ---
 ## Las Profecías del Mercado (2029)
 
-> [!note]- Marcas de edición (Claude · borrar tras revisar)
-> Método inverso a `/syv-obsidian-highlight`: dejo señalado en el texto lo que toqué.
-> <mark style="background:#b9f6ca">verde = recuperado</mark> · <mark style="background:#ffd180">naranja = refactor</mark> · <mark style="background:#82b1ff">azul = nota de edición</mark>
-
 > Clasificación: Herejía Histórica.
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**.>
