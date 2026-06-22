@@ -40,11 +40,9 @@ El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
 Por entonces el conocimiento se había vuelto infinito y, por eso mismo, inútil. Cada dato llegaba con su copia falsa, imposible de separar del verdadero; la verdad, de tan abundante, dejó de valer, y cada uno se quedó con la que le servía. La especie que más información acumuló fue la que peor entendió su propio tiempo. Ese ruido sin fuente tenía un nombre: «Las Redes».
 
-> <mark style="background:#b9f6ca">_Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._</mark>
+> _Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._
 >
-> <mark style="background:#b9f6ca">_Mi tarea estos años me ha acercado a una oscuridad macabra, producto de una humanidad menguante. Sólo el Señor —a quien veré pronto— podrá borrar de mi alma las imágenes de los archivos de lo que fuimos capaces por esos años del Becerro de Silicio. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos._</mark>
->
-> <mark style="background:#82b1ff">— nota de edición: recuperé estas líneas que habías borrado. Son la voz de Anselmo (savant, áspero, el que consigue y custodia la documentación), por eso las dejo como su nota dentro del cuerpo. Si preferís, las muevo a una ficha propia de Anselmo cuando la creemos (propuesta B-1).</mark>
+> _Mi tarea estos años me ha acercado a una oscuridad macabra, producto de una humanidad menguante. Sólo el Señor —a quien veré pronto— podrá borrar de mi alma las imágenes de los archivos de lo que fuimos capaces por esos años del Becerro de Silicio. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos._
 
 Todo empezó en «Las Redes». No sabemos, no podemos saber qué son; pero por ahí comenzó todo. Nuestros libros —y esto sí lo sabemos— sólo conservan una pequeña fracción del pasado; el resto está en algún otro lado, en «Las Redes». Junto con los dispositivos electrónicos personales, surgidos alrededor de 2010, lograron inmovilizar y estupidizar a toda la humanidad en lo que tarda un hombre en llegar a la adolescencia.
 
