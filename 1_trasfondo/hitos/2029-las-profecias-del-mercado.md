@@ -15,19 +15,23 @@ tags: []
 ---
 ## Las Profecías del Mercado (2029)
 
+> [!note]- Marcas de edición (Claude · borrar tras revisar)
+> Método inverso a `/syv-obsidian-highlight`: dejo señalado en el texto lo que toqué.
+> <mark style="background:#b9f6ca">verde = recuperado</mark> · <mark style="background:#ffd180">naranja = refactor</mark> · <mark style="background:#82b1ff">azul = nota de edición</mark>
+
 > Clasificación: Herejía Histórica.
 >
 > _**Para lectura exclusiva de los Archivistas de la Sagrada Inquisición**.>
 > 
-> La copia de esta obra que estudio es un compendio fragmentario publicado en 2059 por los Cartoneros, quienes una década después de la caída y con gran esfuerzo rescataron la historia de entre los escombros de Buenos Aires. Esos documentos impresos no hubieran sobrevivido muchos años más hundidos bajo la ciudad.
+> El ejemplar de esta obra que estudio es un compendio fragmentario publicado en 2059 por los Cartoneros, quienes una década después de la caída y con gran esfuerzo rescataron los originales de entre los escombros de Buenos Aires. El papel impreso no habría sobrevivido muchos años más bajo la ciudad.
 > 
 > Confieso que demoré años en reencontrarme con estos cuadernos: con sus tablas, gráficos de colores plásticos, mapas amarillos. Los estudié muy bien en mis días y nada de lo que dicen me es ajeno. Es su existencia la que me incomoda.
 > 
-> Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís, humano», nos escribe un algoritmo a la cara. «Morite».
+> Hay una soberbia alienígena en sus predicciones que me eriza la piel. «Te morís, humano», nos escribe un algoritmo de hace ciento cincuenta años. «Morite».
 >
-> «Las Profecías del Mercado» podrían ser de varios autores. La prosa empática y florida nos demuestra que fueron revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo el curado sino también la autoría y la intención a La Máquina. Estudios posteriores en el ADYTUM no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas que la relacionan más estrechamente con los eventos del Mercado —y sus terribles consecuencias— que sucedieron en esa década infame.
+> «Las Profecías del Mercado» podrían ser de varios autores. La prosa empática y florida nos demuestra que fueron revisados por una Inteligencia Artificial primigenia. Algunos escribas han teorizado más allá sobre este asunto y le adjudican no sólo el curado sino también la autoría y la intención a La Máquina. Estudios posteriores en el ADYTUM no han logrado descartar esta teoría, pero sí la matizan y nos presentan alterantivas que la relacionan más estrechamente con los eventos del Mercado de Valores —y sus terribles consecuencias— que precipitaron la caída en la década infame.
 > 
-> Los mensajes de esta obra apocalíptica han sobrevivido injertos en la cultura: en forma de grafitis en "Tuberías", como referencias en la literatura moderna, por lo que sabemos que alrededor de los años '30 esta obra formaba parte del corpus cultural de nuestra extinta Nación. El contenido memético ha sido resignificado, pero las referencias al Fin de los Tiempos están ahí, para el ojo entrenado: la estatuame geométrica que preside la plaza mayor de los Barrios del Norte, cuyas aristas repiten la curva de extinción que cierra aquellas tablas; y los murales del túnel que las Tuberías horadan bajo la avenida San Martín, en pleno centro, donde manos anónimas repintaron por décadas el rostro lloroso del Optimista.
+> Los mensajes de esta obra han sobrevivido hasta nuestros días, injertos en la cultura en forma de grafitis en "Tuberías" o como referencias en la literatura posmoderna. Podemos con esto concluir que "Las Profecías del Mercado" formaba parte del corpus cultural de nuestra Nación. Su carga memética —las imágenes y consignas que la obra sembró en la cultura— ha sido resignificada con los siglos, pero las referencias al Fin de los Tiempos siguen ahí: la estatua geométrica que preside la plaza mayor de los Barrios del Norte, cuyas aristas repiten la curva de extinción que cierra aquellas tablas; y los murales del túnel que las Tuberías horadan bajo la avenida San Martín, en pleno centro, donde manos anónimas repintaron por décadas el rostro lloroso del Optimista.
 > 
 >En las casas de estudio aún se reinterpretan estas obras de arte indelebles perdidas en la ciudad: están quienes las asocian con eventos ya ocurridos y los escatológicos ven en ellas advertencias aún incumplidas para el futuro próximo. Yo me alíneo con la visión de nuestra Sagrada Inquisición, y sostengo que hemos padecido suficiente como para seguir soportándolas.
 >
@@ -40,9 +44,6 @@ El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
 Por entonces el conocimiento se había vuelto infinito y, por eso mismo, inútil. Cada dato llegaba con su copia falsa, imposible de separar del verdadero; la verdad, de tan abundante, dejó de valer, y cada uno se quedó con la que le servía. La especie que más información acumuló fue la que peor entendió su propio tiempo. Ese ruido sin fuente tenía un nombre: «Las Redes».
 
-> _Quiero decir: claro que tenemos una idea de lo que eran «Las Redes». Más que una idea, tenemos varias; incluso algunas muy elaboradas._
->
-> _Mi tarea estos años me ha acercado a una oscuridad macabra, producto de una humanidad menguante. Sólo el Señor —a quien veré pronto— podrá borrar de mi alma las imágenes de los archivos de lo que fuimos capaces por esos años del Becerro de Silicio. Pero el tiempo pasa, y no parece que vayamos a lograr mayor entendimiento del que ahora poseemos._
 
 Todo empezó en «Las Redes». No sabemos, no podemos saber qué son; pero por ahí comenzó todo. Nuestros libros —y esto sí lo sabemos— sólo conservan una pequeña fracción del pasado; el resto está en algún otro lado, en «Las Redes». Junto con los dispositivos electrónicos personales, surgidos alrededor de 2010, lograron inmovilizar y estupidizar a toda la humanidad en lo que tarda un hombre en llegar a la adolescencia.
 
