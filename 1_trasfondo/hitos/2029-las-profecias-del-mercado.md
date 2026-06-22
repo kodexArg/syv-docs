@@ -70,8 +70,6 @@ El fin del mundo no nos tomó por sorpresa; simplemente elegimos mirar hacia otr
 
 ---
 
-*<mark style="background:#ffd180">Edición y copia de mi puño de esta entrada del [[el-cronologio|Cronologio]] del Hermano Archivista Anselmo Quiroga</mark>, asentada en el Archivo de Dársena, a XXI días del mes de noviembre del Año del Señor de dos mil ciento setenta y siete, vísperas de la Presentación de Nuestra Señora.*
+*Edición y copia de mi puño de esta entrada del [[el-cronologio|Cronologio]] del Hermano Archivista Anselmo Quiroga, asentada en el Archivo de Dársena, a XXI días del mes de noviembre del Año del Señor de dos mil ciento setenta y siete, vísperas de la Presentación de Nuestra Señora.*
 
 *—Hermano Archivista Pedro de los Santos*
-
-> <mark style="background:#82b1ff">— nota de edición: dejé a Pedro como editor/copista de esta edición que **cita** a Anselmo (autor de la Cronología), no como su autor. Las fechas ya cierran sin tocarlas: Anselmo firma e incinera el original en 2173; Pedro asienta esta copia en 2177. Conflicto cruzado a resolver: su ficha (`pedro-de-los-santos.md`) y `cronologia.md` hoy lo hacen el gran autor savant de todo — eso le corresponde a Anselmo. Ver propuestas B-2 y B-3.</mark>
