@@ -6,9 +6,9 @@
     "scm.diffDecorationsGutterWidth": 4,
     "git.decorations.enabled": true,
     "workbench.colorCustomizations": {
-        "titleBar.activeBackground": "#4F6B41",
+        "titleBar.activeBackground": "#E25510",
         "titleBar.activeForeground": "#F3EEE4",
-        "titleBar.inactiveBackground": "#34442D",
+        "titleBar.inactiveBackground": "#1a1714",
         "titleBar.inactiveForeground": "#CDBFA8",
         "titleBar.border": "#3A352F",
         "editorGutter.addedBackground": "#2ea043",
