@@ -1,13 +1,14 @@
 ---
-title: Shipibo-Conibo
+title: El Camino del Kené
 folder: 1_trasfondo/credos
-description: Chamanismo amazónico, pueblos expatriados, lianas del pantano, sótanos Barrios.
+description: La religión chamánica amazónica (el kené, los ícaros, la medicina de las lianas) que los Shipibo-Conibo expatriados practican en Dársena. Es la fe; el pueblo que la carga es la facción homónima.
 entidad: credo
 alcance: publico
 estado: canon
 aliases:
-  - Shipibo-Conibo (credo)
-  - Los Cazadores de Pesadillas
+  - El Camino del Kené
+  - El Kené
+  - La Senda de los Ícaros
 tags: []
 related:
   - "[[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]"
