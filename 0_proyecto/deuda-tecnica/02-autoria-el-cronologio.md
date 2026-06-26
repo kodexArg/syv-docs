@@ -13,6 +13,9 @@ tags: []
 title: DT-002 · Autoría de El Cronologio — Anselmo vs Pedro (inversión)
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> La obra es ahora **Las Cronologías según los Archivistas** (`El Cronologio` queda como alias legado, el nombre que le dio Anselmo). Ficha nueva [[3_personajes/principales/anselmo-quiroga|Anselmo Quiroga]] (fundador savant, †en su centenario); [[3_personajes/principales/pedro-de-los-santos|Pedro]] = continuador/compilador. Dispositivo *diálogo de epígrafes y márgenes* explícito + margen nuevo de Pedro en el hito 2029. Fechas coherentes (cuerpo 2173 / glosas 2177-78). Verificado. Traza abajo.
+
 > [!danger] Escalado — contradicción canónica de raíz
 > ¿Quién escribió *El Cronologio*? El corpus sostiene **dos respuestas mutuamente excluyentes, ambas en `estado: canon`**. Afecta a la voz narradora de todo `1_trasfondo` (epígrafes de los hitos), a la ficha de personaje principal y al codex. Es la deuda de mayor alcance del relevamiento.
 
