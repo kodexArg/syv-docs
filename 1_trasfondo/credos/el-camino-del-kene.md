@@ -23,6 +23,12 @@ ubicaciones:
   - "[[tuberias]]"
 ---
 
+> [!info] La fe y el pueblo
+> <mark style="background:#a5d8ff">**El Camino del Kené** es la *religión*: la cosmovisión chamánica que los pueblos amazónicos expatriados trajeron a Dársena —el kené como mapa del espíritu, los ícaros, la medicina de las lianas—. No debe confundirse con quienes la cargan: el **pueblo** que la practica, con su comunidad, su economía del reino fungi y los secretos que guarda, es una entidad aparte, los [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo]]. Esta entrada describe la fe; aquella, a los fieles.</mark>
+
+> [!note] Por qué la fe es pública y el pueblo no
+> <mark style="background:#a5d8ff">El Camino del Kené es de lectura abierta (`alcance: publico`): sus ícaros, su medicina y su arte geométrico son sabidos y tolerados en los Barrios del Muro. Lo que se guarda en secreto no es la fe, sino lo que *son* algunos de sus chamanes —el don del hongo—; ese secreto vive con el pueblo, en la [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|ficha de facción]], marcada `secreto`. La fe se reza a la vista; el don se esconde. No es una contradicción de alcance: son dos entidades, no dos versiones de una.</mark>
+
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Neutral-ignorada (mientras sean discretos)
 **Área de influencia:** Intramuros local (Barrios del Muro, Tuberías) / Extramuros disperso (pantanos del Riachuelo, norte argentino, Amazonía)
