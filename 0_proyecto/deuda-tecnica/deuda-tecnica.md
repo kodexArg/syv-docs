@@ -82,17 +82,15 @@ Escenario: <replica el error, o descríbelo semánticamente>
 
 Cada finding vive en su propia tarjeta `NN-slug.md` en esta carpeta. Acá va el índice; el detalle (BDD incluido) está en cada archivo. Variantes del mismo tema (DT-NNNb, DT-NNNc) se agregan en modo APPEND dentro de su tarjeta.
 
-| Estado | ID | Tarjeta | Tags |
-|---|---|---|---|
-| `ABIERTO` | DT-001 | [[0_proyecto/deuda-tecnica/01-anatema-mecanico\|Anatema Mecánico — homónimo, alcance y metadato]] | `#deuda/nombres` `#deuda/incongruencia` `#deuda/spoiler` `#deuda/metadato` |
-| `ABIERTO` | DT-002 | [[0_proyecto/deuda-tecnica/02-autoria-el-cronologio\|Autoría de El Cronologio — Anselmo vs Pedro]] | `#deuda/incongruencia` `#deuda/fechas` `#deuda/nombres` |
-| `ABIERTO` | DT-003 | [[0_proyecto/deuda-tecnica/03-shipibo-conibo\|Shipibo-Conibo — credo vs facción]] | `#deuda/nombres` `#deuda/incongruencia` `#deuda/spoiler` |
-| `ABIERTO` | DT-004 | [[0_proyecto/deuda-tecnica/04-el-caso-del-archivista-homonimo\|El Caso del Archivista — homónimo y puntero stale]] | `#deuda/nombres` `#deuda/duplicado` `#deuda/incongruencia` `#deuda/prosa` |
-| `ABIERTO` | DT-005 | [[0_proyecto/deuda-tecnica/05-folder-frontmatter-vs-ruta\|folder ≠ ruta en block_de_notas]] | `#deuda/metadato` `#deuda/estructura` |
-| `ABIERTO` | DT-006 | [[0_proyecto/deuda-tecnica/06-related-malformado-cecilia\|related malformado (Cecilia Torres)]] | `#deuda/metadato` `#deuda/relacion` |
-| `ABIERTO` | DT-007 | [[0_proyecto/deuda-tecnica/07-enlace-roto-confederacion\|Enlace roto — Confederación Argentina]] | `#deuda/enlace-roto` |
-| `ABIERTO` | DT-008 | [[0_proyecto/deuda-tecnica/08-fantasma-indice-template\|Fantasma de índice — template-deuda-tecnica]] | `#deuda/estructura` |
-| `ABIERTO` | DT-009 | [[0_proyecto/deuda-tecnica/09-seguridad-nacional-darsena-vs-dns\|Seguridad Nacional Dársena vs DNS]] | `#deuda/incongruencia` `#deuda/incompleto` |
+- `ABIERTO` · **DT-001** — [[0_proyecto/deuda-tecnica/01-anatema-mecanico|Anatema Mecánico — homónimo, alcance y metadato]] · `#deuda/nombres` `#deuda/incongruencia` `#deuda/spoiler` `#deuda/metadato`
+- `ABIERTO` · **DT-002** — [[0_proyecto/deuda-tecnica/02-autoria-el-cronologio|Autoría de El Cronologio — Anselmo vs Pedro]] · `#deuda/incongruencia` `#deuda/fechas` `#deuda/nombres`
+- `ABIERTO` · **DT-003** — [[0_proyecto/deuda-tecnica/03-shipibo-conibo|Shipibo-Conibo — credo vs facción]] · `#deuda/nombres` `#deuda/incongruencia` `#deuda/spoiler`
+- `ABIERTO` · **DT-004** — [[0_proyecto/deuda-tecnica/04-el-caso-del-archivista-homonimo|El Caso del Archivista — homónimo y puntero stale]] · `#deuda/nombres` `#deuda/duplicado` `#deuda/incongruencia` `#deuda/prosa`
+- `ABIERTO` · **DT-005** — [[0_proyecto/deuda-tecnica/05-folder-frontmatter-vs-ruta|folder ≠ ruta en block_de_notas]] · `#deuda/metadato` `#deuda/estructura`
+- `ABIERTO` · **DT-006** — [[0_proyecto/deuda-tecnica/06-related-malformado-cecilia|related malformado (Cecilia Torres)]] · `#deuda/metadato` `#deuda/relacion`
+- `ABIERTO` · **DT-007** — [[0_proyecto/deuda-tecnica/07-enlace-roto-confederacion|Enlace roto — Confederación Argentina]] · `#deuda/enlace-roto`
+- `ABIERTO` · **DT-008** — [[0_proyecto/deuda-tecnica/08-fantasma-indice-template|Fantasma de índice — template-deuda-tecnica]] · `#deuda/estructura`
+- `ABIERTO` · **DT-009** — [[0_proyecto/deuda-tecnica/09-seguridad-nacional-darsena-vs-dns|Seguridad Nacional Dársena vs DNS]] · `#deuda/incongruencia` `#deuda/incompleto`
 
 > [!note] DT-001 estaba inline acá como ejemplo sembrado
 > Se promovió a su propia tarjeta [[0_proyecto/deuda-tecnica/01-anatema-mecanico|01-anatema-mecanico]] (con sus variantes DT-001b/c). **No se borró nada**: la traza vive completa en la tarjeta.
