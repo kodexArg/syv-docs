@@ -1,6 +1,6 @@
 ---
-description: Registro vivo de errores e incongruencias del corpus SyV, anotados como
-  escenarios Gherkin.
+description: 'Manual y registro vivo de deuda técnica del corpus SyV: cada incidencia
+  con estado, título, referencia y un escenario BDD/Gherkin.'
 folder: 0_proyecto/deuda-tecnica
 related:
 - '[[0_proyecto/0_proyecto|Proyecto]]'
@@ -9,52 +9,45 @@ tags: []
 title: Deuda Técnica
 ---
 
-Registro vivo de **deuda técnica** del corpus: errores, incongruencias y roturas que se descubren mientras el universo crece. Este archivo **no corrige, documenta**. Crece hacia abajo: cada hallazgo se suma como un escenario nuevo y nunca se reescribe lo anterior.
-
-Cada incidencia es un **escenario [Gherkin](https://cucumber.io/docs/gherkin/)** — una línea por hecho — para que se lea sola: `Dado` el estado canónico, `Cuando` aparece el disparador, `Entonces` se ve la contradicción.
+**Manual + registro vivo** de la deuda técnica del corpus: errores, incongruencias y roturas que se descubren mientras el universo crece. Este archivo **no corrige, describe el problema**. Arriba, cómo se usa; bajo la línea, las incidencias se suman hacia abajo a medida que aparecen.
 
 > [!info] Cómo se anota una incidencia
-> - Un **`Escenario`** por error, con id correlativo `DT-NNN`.
-> - **`Dado`** = la verdad canónica o dónde vive · **`Cuando`** = qué dispara el conflicto · **`Entonces`** = la contradicción observable.
-> - Las **etiquetas `@…`** sobre el escenario fijan *estado · categoría · severidad* (ver leyenda).
-> - La gestión va en comentarios `#` (**afecta · detectado · propuesta**). Ojo: los `[[wikilinks]]` **no** enlazan dentro de un bloque de código, así que ahí van **rutas**, no wikilinks.
-> - **No se borra nada**: una incidencia cerrada pasa a `@resuelto` o `@descartado` y conserva su traza.
+> Siempre en este orden:
+> 1. **ESTADO** — lo primero y lo más importante.
+> 2. **Título** — corto e inequívoco (con id `DT-NNN`).
+> 3. **Referencia de archivo** — al menos una, como `[[wikilink]]`.
+> 4. **BDD** — un `Escenario` que **replica** el error (`Dado` / `Cuando` / `Entonces`) o lo **describe** de forma semántica.
+>
+> Acá **describimos el problema, no la solución**. Y **no se borra nada**: una incidencia cerrada pasa a `RESUELTO` o `DESCARTADO` y conserva su traza.
 
-## Leyenda de etiquetas
+## Estados
 
-| Dimensión | Valores |
+| Estado | Significado |
 |---|---|
-| **Estado** | `@abierto` · `@en-revision` · `@resuelto` · `@descartado` |
-| **Categoría** | `@fechas` · `@nombres` · `@incongruencia` · `@enlace-roto` · `@huerfano` · `@spoiler` · `@metadato` |
-| **Severidad** | `@critico` · `@alto` · `@medio` · `@bajo` |
+| `ABIERTO` | Detectada, sin resolver. |
+| `EN-REVISION` | En análisis o discusión. |
+| `RESUELTO` | Corregida — se conserva la traza. |
+| `DESCARTADO` | No era un error, o no se corrige. |
 
-## Registro de incidencias
+## Plantilla
 
-```gherkin
-# language: es
-@abierto @nombres @medio
-Escenario: DT-001 — Dos entidades comparten el basename "walter"
-  Dado el personaje en 2_atlas/darsena/walter.md
-  Y el relato homónimo en 4_diegesis/relatos/walter.md
-  Cuando una nota enlaza con [[walter]] sin ruta
-  Entonces el wikilink resuelve a un archivo de forma no determinista
-  Y el grafo puede conectar la entidad equivocada
-  # afecta: 2_atlas/darsena/walter.md, 4_diegesis/relatos/walter.md
-  # detectado: 2026-06-25 · regla naming-and-links
-  # propuesta: renombrar el relato a walter-relato.md o enlazar con ruta completa
-```
+Copiá este bloque por cada hallazgo:
 
-## Plantilla (copiar para cada hallazgo nuevo)
+````markdown
+### `ABIERTO` · DT-NNN — <título corto e inequívoco>
+**Afecta:** [[ruta/al/archivo]]
 
 ```gherkin
 # language: es
-@abierto @categoria @severidad
-Escenario: DT-NNN — <título corto e inequívoco de la incidencia>
-  Dado <el hecho canónico, o el lugar donde vive la verdad>
-  Y <segundo hecho relevante, si aplica>
-  Cuando <la condición que dispara el conflicto>
-  Entonces <la contradicción observable / lo que se rompe>
-  # afecta: <ruta>, <ruta>...
-  # detectado: <YYYY-MM-DD> · <quién o qué regla lo halló>
-  # propuesta: <corrección sugerida en una línea>
+Escenario: <replica el error, o descríbelo semánticamente>
+  Dado <la verdad canónica, o el lugar donde vive>
+  Cuando <el disparador del conflicto>
+  Entonces <la contradicción observable>
 ```
+````
+
+---
+
+## Incidencias
+
+%% La primera incidencia va acá, bajo la línea. Copiá la plantilla de arriba. %%
