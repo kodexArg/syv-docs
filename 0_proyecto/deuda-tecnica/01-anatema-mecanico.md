@@ -11,6 +11,9 @@ tags: []
 title: DT-001 · Anatema Mecánico — homónimo, alcance y metadato
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> Atlas renombrado a **La Vida bajo el Anatema Mecánico** (redactado: vida cotidiana, lo prohibido, efectos limitantes); codex reforzado con `estado: canon` y un callout que vuelve canónica la separación **doctrina (secreto) ↔ vida (público)** → la contradicción de alcance se disuelve por diferenciación. Verificado adversarialmente. Se conserva la traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **Anatema Mecánico**. Una tarjeta, varias variantes del mismo tema en modo APPEND.
 
