@@ -13,7 +13,7 @@ related:
   - "[[iglesia]]"
   - "[[inquisicion]]"
   - "[[guarani]]"
-  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]"
+  - "[[1_trasfondo/credos/el-camino-del-kene|El Camino del Kené]]"
   - "[[san-la-muerte]]"
   - "[[iglesia-maradoniana]]"
   - "[[hijos-del-pantano]]"
