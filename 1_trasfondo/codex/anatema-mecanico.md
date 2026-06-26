@@ -431,7 +431,7 @@ Si QIAs supervivientes existen, el Anatema no es "prohibición preventiva", sino
 
 ### Contexto Legal y Técnico
 - [[constitucion-argentina|Constitución de la Confederación Argentina]] - Ley 0: Fundamentación legal del Anatema
-- [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Estado técnico de lo permitido vs. prohibido
+- [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|La Vida bajo el Anatema Mecánico]] - Cómo el Anatema moldea la vida cotidiana: lo permitido, lo prohibido y la cultura material del límite
 
 ### Entidades Ejecutoras
 - [[inquisicion|La Santa Inquisición Argentina (SIA)]] - Brazo ejecutor del Anatema
