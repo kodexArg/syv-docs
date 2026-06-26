@@ -1,46 +1,52 @@
 ---
-title: Hermano Archivista Pedro de los Santos
-folder: 3_personajes/principales
-description: Cronista-narrador recurrente del trasfondo de SyV. Hermano Archivista del Scriptorium de Criptoanálisis de Dársena, autor de El Cronologio. Escribe desde 2177-2178.
-entidad: personaje
 alcance: publico
-estado: canon
-nombre: Hermano Archivista Pedro de los Santos
 aliases:
-  - Pedro de los Santos
-  - Hermano Archivista Pedro de los Santos
-  - Hermano Pedro
-  - el Archivista
-facciones:
-  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]"
-ubicaciones:
-  - "[[darsena|Ciudad Dársena]]"
-related:
-  - "[[1_trasfondo/codex/las-cronologias]]"
-  - "[[1_trasfondo/cronologia|Cronología]]"
-  - "[[2029-las-profecias-del-mercado]]"
-  - "[[2031-la-fragmentacion-de-argentina]]"
-  - "[[2034-a-cielo-abierto]]"
-  - "[[2035-nacimiento-de-las-qia]]"
-  - "[[2039-el-meteorito-de-buenos-aires]]"
-  - "[[2039-la-larga-noche]]"
-  - "[[2061-el-gran-silencio]]"
+- Pedro de los Santos
+- Hermano Archivista Pedro de los Santos
+- Hermano Pedro
+- el Archivista
 apariciones:
-  - "[[2029-las-profecias-del-mercado]]"
-  - "[[2031-la-fragmentacion-de-argentina]]"
-  - "[[2034-a-cielo-abierto]]"
-  - "[[2035-nacimiento-de-las-qia]]"
-  - "[[1_trasfondo/cronologia|Cronología]]"
-  - "[[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]"
+- '[[2029-las-profecias-del-mercado]]'
+- '[[2031-la-fragmentacion-de-argentina]]'
+- '[[2034-a-cielo-abierto]]'
+- '[[2035-nacimiento-de-las-qia]]'
+- '[[1_trasfondo/cronologia|Cronología]]'
+- '[[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]'
+description: Cronista-narrador recurrente del trasfondo de SyV. Hermano Archivista
+  del Scriptorium de Criptoanálisis de Dársena, continuador y compilador de Las Cronologías
+  según los Archivistas (obra fundada por Anselmo Quiroga). Escribe desde 2177-2178.
+entidad: personaje
+estado: canon
+facciones:
+- '[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]'
+folder: 3_personajes/principales
+nombre: Hermano Archivista Pedro de los Santos
+related:
+- '[[las-cronologias]]'
+- '[[anselmo-quiroga]]'
+- '[[1_trasfondo/cronologia|Cronología]]'
+- '[[2029-las-profecias-del-mercado]]'
+- '[[2031-la-fragmentacion-de-argentina]]'
+- '[[2034-a-cielo-abierto]]'
+- '[[2035-nacimiento-de-las-qia]]'
+- '[[2039-el-meteorito-de-buenos-aires]]'
+- '[[2039-la-larga-noche]]'
+- '[[2061-el-gran-silencio]]'
 spoilers:
-  - "Pedro sabe más de lo que consigna: en el epígrafe de 2061 hay una fisura que sugiere conocimiento directo de eventos que ningún archivista debería poder datar con tanta precisión."
+- 'Pedro sabe más de lo que consigna: en el epígrafe de 2061 hay una fisura que sugiere
+  conocimiento directo de eventos que ningún archivista debería poder datar con tanta
+  precisión.'
 tags: []
+title: Hermano Archivista Pedro de los Santos
+ubicaciones:
+- '[[darsena|Ciudad Dársena]]'
 ---
+
 ## Hermano Archivista Pedro de los Santos
 
 Anciano. Scriptorium de Criptoanálisis, Ciudad Dársena. Escribe en los años 2177–2178.
 
-Cronista-narrador recurrente de todos los hitos del trasfondo y de [[1_trasfondo/cronologia|La Cronología]]. Voce del [[1_trasfondo/codex/las-cronologias|El Cronologio]].
+Cronista-narrador recurrente de todos los hitos del trasfondo y de [[1_trasfondo/cronologia|La Cronología]]. <mark style="background:#ffd8a8">Continuador y compilador de [[las-cronologias|Las Cronologías según los Archivistas]], la obra que su maestro [[anselmo-quiroga|Anselmo Quiroga]] fundó como *El Cronologio*.</mark>
 
 ## Aspecto
 
@@ -52,11 +58,11 @@ Hombre de edad avanzada, oriundo de las sierras cordobesas, que pasó los últim
 
 Hermano Archivista de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]], responsable del **Scriptorium de Criptoanálisis** — el taller donde los hermanos escribas y amanuenses copian, descifran y registran documentos recuperados de los dos siglos anteriores. Su función técnica es la **datación**: asignar a cada fragmento de material arqueológico su *data crónica* (la fecha) y su *data tópica* (el lugar de origen), las dos mitades de la cláusula de datación que ancla todo documento al tiempo y al espacio.
 
-Es el autor de [[1_trasfondo/codex/las-cronologias|El Cronologio]], el gran crónica-gacetero que ordena dos siglos de historia recuperada. La [[1_trasfondo/cronologia|Cronología]] es su columna vertebral; cada hito, un capítulo. El scriptorium donde trabaja es la clase académica de Dársena — los escribas y archivistas forman un estrato reconocido, el ~5% letrado que sostiene la memoria institucional de la Iglesia.
+<mark style="background:#ffd8a8">No es el autor único de [[las-cronologias|Las Cronologías]] sino su continuador: heredó de [[anselmo-quiroga|Anselmo Quiroga]] el material, el método y el cargo, y le dio al fin forma de libro —compilando, cosiendo unas entradas con otras y glosando al margen lo que su maestro ya había asentado—. Pocas entradas son enteramente suyas.</mark> La [[1_trasfondo/cronologia|Cronología]] es su columna vertebral; cada hito, un capítulo. El scriptorium donde trabaja es la clase académica de Dársena — los escribas y archivistas forman un estrato reconocido, el ~5% letrado que sostiene la memoria institucional de la Iglesia.
 
 Su colaborador más cercano: **el hermano Tomás Ferreyra, criptógrafo**, encargado de descifrar los textos que ningún ojo piadoso podría leer de otro modo.
 
-La línea de archivistas de su oficio no comienza con él. Su predecesor, **el Hermano Anselmo Quiroga**, es la voz de los epígrafes más tempranos del corpus (circa 2029); Pedro heredó no solo el cargo sino el método y la vocación de esa misma memoria total que define la línea.
+La línea de archivistas de su oficio no comienza con él. Su predecesor y maestro, **el [[anselmo-quiroga|Hermano Anselmo Quiroga]]**, fundó la obra y es la voz de los epígrafes más tempranos del corpus (fechados hacia 2173); <mark style="background:#ffd8a8">cuando Anselmo murió, cumplido ya su centenario, Pedro heredó no solo el cargo sino el método y la vocación de esa misma memoria total que define la línea —y la tarea de cerrar lo que el maestro había dejado abierto.</mark>
 
 ### Personalidad
 
@@ -74,7 +80,7 @@ La clave de su voz como escritor: **la irritabilidad y la visión solo asoman en
 <!-- 📖 (Conocimiento Público) -->
 Oriundo de **Córdoba** — ciudad de ejércitos y sierras, de horizontes anchos — Pedro fue destinado en sus últimos años al scriptorium de [[darsena|Ciudad Dársena]], capital naval y eclesiástica. La ciudad más densa del mundo conocido para un hombre criado en la apertura del interior. Hay en sus notas de campo una frase sobre la pared de Pellegrini en Rosario — *"peregriné hasta ella ya viejo"* — que es el único indicio de un viaje largo fuera de sus dos ciudades.
 
-Su obra entera, [[1_trasfondo/codex/las-cronologias|El Cronologio]], es el intento de convertir dos siglos de fragmentos dispersos — legajos rescatados, fondos incompletos, signaturas dudosas, *terminus post quem* y *ante quem* inferidos de evidencia colateral — en una crónica coherente. El trabajo de *paleografía*, *diplomática* y *codicología* que sostiene cada asiento no aparece en el texto publicado: está en los cuadernos del scriptorium, en el *cuadro de clasificación* del fondo, en los regresos al *inventario* de materiales sospechosos.
+Su obra de continuador, [[las-cronologias|Las Cronologías]], es el intento de convertir dos siglos de fragmentos dispersos — legajos rescatados, fondos incompletos, signaturas dudosas, *terminus post quem* y *ante quem* inferidos de evidencia colateral — en una crónica coherente. El trabajo de *paleografía*, *diplomática* y *codicología* que sostiene cada asiento no aparece en el texto publicado: está en los cuadernos del scriptorium, en el *cuadro de clasificación* del fondo, en los regresos al *inventario* de materiales sospechosos.
 <!-- /📖 -->
 
 <!-- 🔐 (Conocimiento Especializado) -->
@@ -83,9 +89,9 @@ La fisura en el epígrafe de 2061 es real y deliberada. Pedro registra el Gran S
 
 ## Conexiones Importantes
 
-- **[[1_trasfondo/codex/las-cronologias|El Cronologio]]**: su obra de vida; crónica-gacetero de dos siglos de historia recuperada
-- **[[1_trasfondo/cronologia|La Cronología]]**: la espina dorsal del Cronologio, año por año desde 2020 hasta 2178
+- **[[las-cronologias|Las Cronologías según los Archivistas]]**: la obra que continuó y compiló; crónica-gacetero de dos siglos de historia recuperada, fundada por Anselmo como *El Cronologio*
+- **[[1_trasfondo/cronologia|La Cronología]]**: la espina dorsal de Las Cronologías, año por año desde 2020 hasta 2178
 - **Hermano Tomás Ferreyra** (mencionado en corpus): criptógrafo del scriptorium, su colaborador más cercano
-- **Hermano Anselmo Quiroga** (predecesor): la voz de los epígrafes más antiguos; mismo don, mismo oficio — la línea de archivistas con memoria total es tradición de la orden, no anomalía
+- **[[anselmo-quiroga|Hermano Anselmo Quiroga]]** (maestro y predecesor): fundador de la obra y voz de los epígrafes más antiguos; mismo don, mismo oficio — la línea de archivistas con memoria total es tradición de la orden, no anomalía
 - **[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]**: la institución que lo contiene, lo financia y lo gestiona
 - **[[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]]**: relato donde su voz de archivista enmarca la historia
