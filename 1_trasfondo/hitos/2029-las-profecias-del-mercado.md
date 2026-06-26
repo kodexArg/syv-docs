@@ -36,6 +36,9 @@ tags: []
 >
 > **—Hermano Archivista Anselmo Quiroga.** A 13 días del mes de diciembre del año 2173, fiesta de Santa Lucía, virgen y mártir._
 
+> [!quote] Al margen, de otra mano y de otro año
+> <mark style="background:#a5d8ff">Copié esta entrada de mi maestro sin enmendarle una línea, que no me corresponde. Solo me permito una nota: Anselmo quemó el original —«lo que no debe decirse, nunca jamás será contado»— con la misma frialdad con que databa una carta. Yo, que heredé su celda y su don, no sé todavía si lo envidio o lo lloro: él tuvo el temple de destruir; a mí me tiembla la mano sobre cada papel. Quede esto por prueba de que dos archivistas pueden mirar la misma ceniza y no ver lo mismo. —P. de los S., cuatro años después.</mark>
+
 ---
 El boom del veintinueve se repitió perfectamente, hasta en lo impredecible.
 
