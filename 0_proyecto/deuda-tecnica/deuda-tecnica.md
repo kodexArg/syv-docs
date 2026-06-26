@@ -9,7 +9,7 @@ tags: []
 title: Deuda Técnica
 ---
 
-**Manual + registro vivo** de la deuda técnica del corpus: errores, incongruencias y roturas que se descubren mientras el universo crece. Este archivo **no corrige, describe el problema**. Arriba está el manual (tags, estados, plantilla); bajo la línea, las incidencias se suman hacia abajo a medida que aparecen.
+**Manual + registro vivo** de la deuda técnica del corpus: errores, incongruencias y roturas que se descubren mientras el universo crece. Este archivo **no corrige, describe el problema**. Arriba está el manual (tags, estados, plantilla); abajo, el **tablero de escalado** y el **índice de tarjetas**. Cada incidencia vive en su propia tarjeta `NN-slug.md` dentro de esta carpeta; este archivo **no las repite: escala e indiza**.
 
 ## Tags
 
