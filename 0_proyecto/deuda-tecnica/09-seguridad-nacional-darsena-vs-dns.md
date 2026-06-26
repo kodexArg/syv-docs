@@ -5,7 +5,7 @@ description: El relato sitúa a Damián en un «edificio de Seguridad Nacional»
 folder: 0_proyecto/deuda-tecnica
 related:
 - '[[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]]'
-- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista
+- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista
   (notas)]]'
 - '[[0_proyecto/deuda-tecnica/deuda-tecnica|Deuda Técnica]]'
 tags: []
@@ -18,7 +18,7 @@ title: DT-009 · «Seguridad Nacional» en Dársena vs Dirección Nacional de Se
 
 ### `ABIERTO` · DT-009 — La institución de Seguridad en Dársena no está reconciliada con la DNS
 #deuda/incongruencia #deuda/incompleto
-**Afecta:** [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]] · [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista (notas)]]
+**Afecta:** [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]] · [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista (notas)]]
 
 ```gherkin
 # language: es

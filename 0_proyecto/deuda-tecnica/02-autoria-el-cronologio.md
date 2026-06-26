@@ -48,7 +48,7 @@ Escenario: Distintos hitos firman su epígrafe con distinto archivista y distint
 
 ### `ABIERTO` · DT-002c — El apellido «Quiroga» está reutilizado en dos personajes sin relación
 #deuda/nombres
-**Afecta:** [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]] (menciona a Anselmo Quiroga) · [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista (notas)]]
+**Afecta:** [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]] (menciona a Anselmo Quiroga) · [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista (notas)]]
 
 ```gherkin
 # language: es

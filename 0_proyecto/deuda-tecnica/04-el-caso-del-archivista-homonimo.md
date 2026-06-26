@@ -5,7 +5,7 @@ description: Dos relatos homónimos «el-caso-del-archivista» (notas vs canóni
 folder: 0_proyecto/deuda-tecnica
 related:
 - '[[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]]'
-- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista
+- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista
   (notas)]]'
 - '[[0_proyecto/deuda-tecnica/deuda-tecnica|Deuda Técnica]]'
 tags: []
@@ -17,7 +17,7 @@ title: DT-004 · El Caso del Archivista — basename duplicado y puntero stale
 
 ### `ABIERTO` · DT-004 — El basename «el-caso-del-archivista» está duplicado
 #deuda/nombres #deuda/duplicado
-**Afecta:** [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]] · [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista (notas)]]
+**Afecta:** [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]] · [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista (notas)]]
 
 ```gherkin
 # language: es
@@ -32,7 +32,7 @@ Escenario: Notas y relato canónico comparten basename
 
 ### `ABIERTO` · DT-004b — El block de notas dice que el canónico está «vaciado», pero ya tiene prosa
 #deuda/incongruencia #deuda/prosa
-**Afecta:** [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista (notas)]] · [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]]
+**Afecta:** [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista (notas)]] · [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista (relato)]]
 
 ```gherkin
 # language: es

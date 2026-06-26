@@ -5,7 +5,7 @@ folder: 0_proyecto/deuda-tecnica
 related:
 - '[[4_diegesis/relatos/block_de_notas/el-fuego-que-cayo-sobre-el-norte|El Fuego que
   Cayó sobre el Norte]]'
-- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista
+- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista
   (notas)]]'
 - '[[0_proyecto/deuda-tecnica/deuda-tecnica|Deuda Técnica]]'
 tags: []
@@ -31,7 +31,7 @@ Escenario: El frontmatter folder no refleja el subdirectorio real
 
 ### `ABIERTO` · DT-005b — «El Caso del Archivista (notas)» repite el mismo desajuste de folder
 #deuda/metadato #deuda/estructura
-**Afecta:** [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista|El Caso del Archivista (notas)]]
+**Afecta:** [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista (notas)]]
 
 ```gherkin
 # language: es

@@ -72,19 +72,9 @@ a { color: var(--orange-500); text-decoration: none; border-bottom: 1.5px solid 
 a:hover { color: var(--orange-400); border-bottom-color: var(--orange-400); }
 hr { border: none; border-top: var(--hairline); margin: 2.5em 0; }
 
-/* --- wikilinks (extensión local _tools/vscode-wikilinks) --- */
-/* Muestran solo el texto visible, con un color sutil. No son links. */
-.wikilink {
-  color: var(--teal-300);
-  cursor: help;
-  border-bottom: 1.5px solid rgba(124,196,200,0.4);
-  transition: color 0.12s ease, text-shadow 0.12s ease, border-bottom-color 0.12s ease;
-}
-.wikilink:hover {
-  color: var(--teal-500);
-  border-bottom-color: var(--teal-500);
-  text-shadow: 0 0 6px rgba(79,166,171,0.25);
-}
+/* El estilo de los wikilinks (.wikilink) lo provee la extensión global
+   "Wikilinks Preview" (~/.local/share/codium-extensions/vscode-wikilinks),
+   inyectado vía contributes.markdown.previewStyles. No se define acá. */
 
 /* --- listas --- */
 ul, ol { padding-left: 1.4em; }
