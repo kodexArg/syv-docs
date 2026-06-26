@@ -15,6 +15,7 @@ related:
   - "[[inquisicion]]"
   - "[[arpistas]]"
   - "[[gremio-de-comercio]]"
+  - "[[teniente-coronel-gobernador]]"
 ubicaciones:
   - "[[darsena]]"
 spoilers:
