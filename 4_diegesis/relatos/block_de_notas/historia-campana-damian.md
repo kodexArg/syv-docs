@@ -1,6 +1,6 @@
 ---
 title: La Cosecha de los Cinco
-folder: 4_diegesis/relatos
+folder: 4_diegesis/relatos/block_de_notas
 description: Damián DiConte investiga cinco asesinatos rituales en las Torres Hidropónicas que revelan la presencia de fuerzas oscuras en Ciudad Dársena
 entidad: relato
 alcance: secreto
