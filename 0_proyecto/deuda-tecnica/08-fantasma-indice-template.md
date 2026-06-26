@@ -8,6 +8,9 @@ tags: []
 title: DT-008 · Fantasma de índice — template-deuda-tecnica.md
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> Fantasma del template purgado por round-trip (write+delete) tras fallar `reindex` y `delete` directos; índice y disco reconciliados, sin huérfanos espurios. Verificado. Traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **desync índice ↔ disco** (tooling, no contenido del corpus).
 
