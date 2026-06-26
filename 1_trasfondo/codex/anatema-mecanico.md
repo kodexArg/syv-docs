@@ -26,6 +26,11 @@ tags: []
 
 ---
 
+> [!info] Fuente doctrinal — canónica
+> <mark style="background:#a5d8ff">Esta entrada es la **fuente de verdad** del Anatema Mecánico: su teología, su historia y los secretos que la Confederación no confiesa en público —de ahí su `alcance: secreto`—. Su contraparte abierta, **cómo el Anatema moldea la vida cotidiana** (qué prohíbe, qué tolera, cómo se vive con ello), vive en [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|La Vida bajo el Anatema Mecánico]]. No son dos versiones en pugna del mismo concepto: son la **doctrina** (aquí, con sus secretos) y la **vida** (allá, pública). Por eso una es secreta y la otra abierta; lo que aquí se reserva, allá no aparece.</mark>
+
+---
+
 ## Preámbulo Histórico
 
 El "Anatema Mecánico" es la prohibición más universal y categórica jamás decretada. Promulgado el 13 de marzo de 2061 —apenas 24 horas después del Gran Silencio— por poderes religiosos y militares de prácticamente todas las naciones sobrevivientes, representa el mayor consenso global de la era post-catastrófica:
