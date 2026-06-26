@@ -39,6 +39,6 @@
     "markdown.preview.lineHeight": 1.6,
     "markdown.preview.breaks": false,
     "markdown.styles": [
-        "./preview.css"
+        ".vscode/preview.css"
     ]
 }
