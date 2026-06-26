@@ -9,11 +9,16 @@ estado: canon
 fecha: 2031
 fecha_exacta: 2031-10-11
 region: Argentina
-aliases: '["Fragmentación de Argentina", "Día de las Veintitrés Banderas", "La
-  Fragmentación de la Argentina"]'
-related: '["[[videla-iv]]", "[[fuerzas-armadas]]",
-  "[[2039-el-meteorito-de-buenos-aires]]", "[[pedro-de-los-santos]]",
-  "[[el-cronologio]]"]'
+aliases:
+  - Fragmentación de Argentina
+  - Día de las Veintitrés Banderas
+  - La Fragmentación de la Argentina
+related:
+  - "[[videla-iv]]"
+  - "[[fuerzas-armadas]]"
+  - "[[2039-el-meteorito-de-buenos-aires]]"
+  - "[[pedro-de-los-santos]]"
+  - "[[1_trasfondo/codex/las-cronologias|El Cronologio]]"
 tags: []
 ---
 ## La Fragmentación de Argentina (2031)
