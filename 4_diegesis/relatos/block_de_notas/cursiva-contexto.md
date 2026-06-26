@@ -1,6 +1,6 @@
 ---
 title: Cursiva Contexto
-folder: 4_diegesis/relatos
+folder: 4_diegesis/relatos/block_de_notas
 description: Contexto narrativo y guía de voces para el relato Cursiva.
 entidad: relato
 alcance: secreto
