@@ -12,7 +12,9 @@ tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
-related: '["[[inquisicion]]", "[[guardianes-de-la-memoria]]"]'
+related:
+  - "[[inquisicion]]"
+  - "[[guardianes-de-la-memoria]]"
 spoilers:
   - Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro.
 ---
