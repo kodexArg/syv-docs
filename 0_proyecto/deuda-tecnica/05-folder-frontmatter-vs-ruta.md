@@ -12,6 +12,9 @@ tags: []
 title: DT-005 · El campo `folder` no coincide con la ruta real (block_de_notas)
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> Campo `folder` corregido a la ruta real (`4_diegesis/relatos/block_de_notas`) en **las 2 notas citadas + 5 hermanas** de la misma carpeta que arrastraban idéntico defecto. Verificado. Traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **`folder` declarado ≠ ruta real** en el subdirectorio `block_de_notas`.
 
