@@ -9,6 +9,9 @@ tags: []
 title: DT-007 · Enlace roto en Cronología — «Confederación Argentina»
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> Enlace de «Confederación Argentina» reparado como self-link de ruta completa con fragmento; `broken_link_count: 0` confirmado. Verificado. Traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **único enlace roto** reportado por el índice (`broken_link_count: 1`).
 
