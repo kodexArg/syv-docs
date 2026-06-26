@@ -10,6 +10,9 @@ tags: []
 title: DT-003 · Shipibo-Conibo — ¿credo o facción? homónimo + alcance
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> Credo renombrado a la religión **[[1_trasfondo/credos/el-camino-del-kene|El Camino del Kené]]**, enlazado en ambos sentidos con el pueblo (facción). Alcance reconciliado: la fe es pública, el pueblo y su secreto fúngico son secretos → **dos entidades, no una contradicción**. 3 enlaces colgantes (guaraní, umbanda, artefactos) reparados. Verificado. Traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **Shipibo-Conibo**. Misma entidad, dos clasificaciones y dos alcances.
 
