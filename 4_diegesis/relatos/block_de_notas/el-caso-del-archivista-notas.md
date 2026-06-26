@@ -11,7 +11,7 @@ aliases:
 related:
   - "[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]"
   - "[[damian-diconte|Damián DiConte]]"
-  - "[[el-cronologio|El Cronologio]]"
+  - "[[1_trasfondo/codex/las-cronologias|El Cronologio]]"
   - "[[1_trasfondo/cronologia|Cronología]]"
   - "[[5_aventuras/poseidos/poseidos|Los Poseídos]]"
 facciones:
