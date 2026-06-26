@@ -12,6 +12,9 @@ tags: []
 title: DT-004 · El Caso del Archivista — basename duplicado y puntero stale
 ---
 
+> [!success] RESUELTO · 2026-06-26 (rename)
+> Nota de notas renombrada a basename único `el-caso-del-archivista-notas.md` (sin colisión con el relato canónico). Contenido intacto —solo rename, como pediste (WIP)—. Verificado. Traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **El Caso del Archivista** — convivencia del relato canónico y su block de notas.
 
