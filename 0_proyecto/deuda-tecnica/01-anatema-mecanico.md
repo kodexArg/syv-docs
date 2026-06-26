@@ -4,7 +4,7 @@ description: El concepto «Anatema Mecánico» vive en dos notas homónimas con 
 folder: 0_proyecto/deuda-tecnica
 related:
 - '[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (codex)]]'
-- '[[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (atlas)]]'
+- '[[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Anatema Mecánico (atlas)]]'
 - '[[1_trasfondo/cronologia|Cronología]]'
 - '[[0_proyecto/deuda-tecnica/deuda-tecnica|Deuda Técnica]]'
 tags: []
@@ -16,7 +16,7 @@ title: DT-001 · Anatema Mecánico — homónimo, alcance y metadato
 
 ### `ABIERTO` · DT-001 — El basename «anatema-mecanico» está duplicado y se enlaza sin ruta
 #deuda/nombres
-**Afecta:** [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (codex)]] · [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (atlas)]] · enlace ambiguo en [[1_trasfondo/cronologia|Cronología]]
+**Afecta:** [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (codex)]] · [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Anatema Mecánico (atlas)]] · enlace ambiguo en [[1_trasfondo/cronologia|Cronología]]
 
 ```gherkin
 # language: es
@@ -31,7 +31,7 @@ Escenario: Un wikilink sin ruta resuelve a una de dos notas homónimas
 
 ### `ABIERTO` · DT-001b — Las dos notas homónimas declaran un `alcance` contradictorio
 #deuda/incongruencia #deuda/spoiler
-**Afecta:** [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (codex)]] · [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (atlas)]]
+**Afecta:** [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (codex)]] · [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Anatema Mecánico (atlas)]]
 
 ```gherkin
 # language: es

@@ -15,7 +15,7 @@ related:
   - "[[2061-el-gran-silencio]]"
   - "[[2048-el-fin-de-los-secretos]]"
   - "[[2039-el-meteorito-de-buenos-aires]]"
-  - "[[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (tech)]]"
+  - "[[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Anatema Mecánico (tech)]]"
 spoilers:
   - "La SIA consulta el Oráculo de la Bestia (corpus QIA) que oficialmente prohíbe; dos reactores de fusión automatizados bajo Dársena violan el espíritu del Anatema."
 tags: []
@@ -425,7 +425,7 @@ Si QIAs supervivientes existen, el Anatema no es "prohibición preventiva", sino
 
 ### Contexto Legal y Técnico
 - [[constitucion-argentina|Constitución de la Confederación Argentina]] - Ley 0: Fundamentación legal del Anatema
-- [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Estado técnico de lo permitido vs. prohibido
+- [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Estado técnico de lo permitido vs. prohibido
 
 ### Entidades Ejecutoras
 - [[inquisicion|La Santa Inquisición Argentina (SIA)]] - Brazo ejecutor del Anatema

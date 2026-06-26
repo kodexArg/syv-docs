@@ -135,5 +135,5 @@ Paradójicamente, el sistema de baterías de arena y sal (tecnología civil much
 
 - [[procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia de cobre OFHC
 - [[electricidad|Electricidad y Energía]] - Estándar de 48V en la red confederada
-- [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Contexto de restricción tecnológica
+- [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Contexto de restricción tecnológica
 - [[los-rezagos|Los Rezagos]] - Prohibición de silicio nanométrico que estas celdas impiden reactivar

@@ -99,5 +99,5 @@ El mundo de 2178 es un mundo de metalurgia, calor y flujos magnéticos, donde el
 - [[celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]] - Fundamentación del límite de 48V
 - [[procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia estratégica de cobre OFHC
 - [[electricidad|Electricidad y Energía]] - Infraestructura de distribución de Rezagos
-- [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Marco legal y doctrinal
+- [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Marco legal y doctrinal
 - [[computacion-y-datos|Computación y Gestión de Datos]] - Prohibiciones de silicio nanométrico
