@@ -7,7 +7,7 @@ description: Relato del Hermano Archivista Pedro de los Santos (2178) sobre el
   Nodo Sur), sus consecuencias y el exilio de la Iglesia desde Italia.
 entidad: relato
 estado: canon
-folder: 4_diegesis/relatos
+folder: 4_diegesis/relatos/block_de_notas
 related:
   - "[[2031-la-fragmentacion-de-argentina]]"
   - "[[cronologia]]"
