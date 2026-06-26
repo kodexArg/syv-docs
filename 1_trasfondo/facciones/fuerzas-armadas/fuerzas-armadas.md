@@ -33,7 +33,7 @@ En la cúspide de la estructura se encuentra el "Comando Nacional", responsable 
 
 ## Ramas Militares
 
-- "Ejército Argentino": Responsable de las operaciones terrestres, desde la defensa de las fronteras hasta el control de los territorios interiores. Se divide en un Comando de Operaciones Terrestres, una división de Inteligencia y Estrategia, un Comando Logístico y la Academia Militar que forma a sus oficiales.
+- "Ejército Argentino": Responsable de las operaciones terrestres, desde la defensa de las fronteras hasta el control de los territorios interiores. Se divide en un Comando de Operaciones Terrestres, la División de Inteligencia y Estrategia —el temido "Ojo que Todo lo Ve"—, un Comando Logístico y la Academia Militar que forma a sus oficiales.
 
 - "Fuerza Aérea Argentina": Controla el dominio aéreo del territorio, vigilando los cielos contra cualquier incursión no autorizada. Opera a través de su Comando de Operaciones Aéreas y la Dirección de Vigilancia y Control del Espacio Aéreo.
 
