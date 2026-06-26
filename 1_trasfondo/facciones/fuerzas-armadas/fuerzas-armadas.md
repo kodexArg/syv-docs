@@ -21,6 +21,7 @@ ubicaciones:
 spoilers:
   - "Existen pactos secretos con facciones teóricamente enemigas (Gremio de Comercio, contrabandistas) para obtener recursos y tecnología."
   - "La DNS colabora de forma encubierta con la Inquisición en operaciones de represión que nunca salen a la luz."
+  - "El Cuerpo de Vigías (penetración profunda de la División de Inteligencia y Estrategia, 'El Ojo que Todo lo Ve') es la herramienta predilecta de la facción del Teniente Coronel Gobernador; los expedientes que el Ojo oculta al Alto Mando sostienen su conspiración."
 ---
 # Fuerzas Armadas
 
