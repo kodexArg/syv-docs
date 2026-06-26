@@ -1,6 +1,6 @@
 ---
 title: La Llegada del Sabueso
-folder: 4_diegesis/relatos
+folder: 4_diegesis/relatos/block_de_notas
 description: Introducción narrativa del Detective Damián DiConte a Ciudad Dársena y su primer encuentro con la Inquisición.
 entidad: relato
 alcance: publico
