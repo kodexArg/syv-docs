@@ -11,7 +11,7 @@ aliases:
   - Los Hongeros
 tags: []
 related:
-  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo (credo)]]"
+  - "[[1_trasfondo/credos/el-camino-del-kene|El Camino del Kené (su religión)]]"
   - "[[kuna-mbarete]]"
   - "[[traficantes-de-almas]]"
   - "[[refugiados-y-parias]]"
