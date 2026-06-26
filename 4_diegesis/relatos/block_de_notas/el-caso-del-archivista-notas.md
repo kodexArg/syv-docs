@@ -1,6 +1,6 @@
 ---
 title: El Caso del Archivista — block de notas
-folder: 4_diegesis/relatos
+folder: 4_diegesis/relatos/block_de_notas
 description: 'Archivo de trabajo de El Caso del Archivista (Damián DiConte / El Sabueso investiga el asesinato del Hermano Archivista Pedro de los Santos). Guarda el borrador previo completo, la brújula de spoilers, las notas de escenas y el esquema propuesto, para reescribir el relato desde cero sin perder contenido.'
 entidad: relato
 alcance: secreto
