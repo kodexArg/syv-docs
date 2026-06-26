@@ -259,7 +259,7 @@ Pasaron más de tres años moviendo los bloques, en los que vivió un destacamen
 
 Para cuando la Basílica fue finalmente reconstruida, en el 2120, ya nadie recordaba ni de dónde venía ni qué era la Argentina.
 
-Comenzaban los años anárquicos, y faltaría mucho más para que la [[#2161-2178: La Confederación Argentina|Confederación Argentina]] naciera.
+Comenzaban los años anárquicos, y faltaría mucho más para que la [[1_trasfondo/cronologia#2161-2178: La Confederación Argentina|Confederación Argentina]] naciera.
 
 ## 2161-2178: La Confederación Argentina
 
