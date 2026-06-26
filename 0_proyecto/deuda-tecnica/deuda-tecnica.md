@@ -72,15 +72,17 @@ Escenario: <replica el error, o descríbelo semánticamente>
 
 ## Incidencias
 
-### `ABIERTO` · DT-001 — La Gran Guerra Global está sin desarrollar en la Cronología
-#deuda/incompleto
-**Afecta:** [[1_trasfondo/cronologia|Cronología]] — secciones «2036-2039: Preludio a la Gran Guerra Global» y «2039-2047: La Gran Guerra Global»
+### `ABIERTO` · DT-001 — El basename «anatema-mecanico» está duplicado y se enlaza sin ruta
+#deuda/nombres
+**Afecta:** [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (codex)]] · [[2_atlas/tecnologia-y-ciencia/anatema-mecanico|Anatema Mecánico (atlas)]] · enlace ambiguo en [[1_trasfondo/cronologia|Cronología]]
 
 ```gherkin
 # language: es
-Escenario: El corazón bélico del canon es un marcador de relleno
-  Dado que la Cronología es la columna vertebral del canon (2020 → 2178)
-  Y que esas dos secciones sólo contienen el texto "[Sección a desarrollar]"
-  Cuando un relato, hito o ficha necesita anclar un hecho entre 2036 y 2047
-  Entonces no hay canon donde apoyarse y se arriesga inventar incongruencias
+Escenario: Un wikilink sin ruta resuelve a una de dos notas homónimas
+  Dado que existe 1_trasfondo/codex/anatema-mecanico.md
+  Y que existe 2_atlas/tecnologia-y-ciencia/anatema-mecanico.md
+  Y que la Cronología enlaza con [[anatema-mecanico]] sin ruta
+  Cuando Obsidian resuelve ese wikilink
+  Entonces apunta a una sola de las dos notas de forma no determinista
+  Y el grafo puede conectar la entidad equivocada
 ```
