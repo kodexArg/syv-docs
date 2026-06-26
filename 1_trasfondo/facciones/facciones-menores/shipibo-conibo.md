@@ -25,6 +25,9 @@ spoilers:
   - "La simbiosis es irreversible y reduce la esperanza de vida a 15-25 años; la iniciación tiene 40% de mortalidad."
 ---
 
+> [!info] El pueblo y su fe
+> <mark style="background:#a5d8ff">Esta entrada describe al **pueblo** Shipibo-Conibo —su comunidad, su economía del reino fungi y su secreto—. Su religión, el chamanismo del kené, vive aparte en [[1_trasfondo/credos/el-camino-del-kene|El Camino del Kené]] (de lectura pública). Aquí se guarda lo que el pueblo no confiesa.</mark>
+
 En las profundidades de las Tuberías de Ciudad Dársena, donde la humedad constante y la oscuridad perpetua crean el ambiente perfecto para el cultivo de hongos, habita una comunidad que muchos consideran una curiosidad antropológica del mundo post-Colapso: los Shipibo-Conibo.
 
 No son guerreros. No son místicos iluminados. Son, en esencia, los jardineros y farmacéuticos del submundo. Los reyes del reino fungi.
