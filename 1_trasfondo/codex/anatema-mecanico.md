@@ -4,6 +4,7 @@ folder: 1_trasfondo/codex
 description: Prohibición universal de tecnología digital (2061-2178), teología, aplicación confederada.
 entidad: concepto
 alcance: secreto
+estado: canon
 aliases:
   - Anatema Mecánico
 related:
