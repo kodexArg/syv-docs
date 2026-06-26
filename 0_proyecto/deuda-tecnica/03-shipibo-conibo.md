@@ -3,7 +3,7 @@ description: Dos notas homónimas «shipibo-conibo» clasifican a la misma entid
   credo y como facción, con alcance contradictorio y ambas en canon.
 folder: 0_proyecto/deuda-tecnica
 related:
-- '[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo (credo)]]'
+- '[[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo (credo)]]'
 - '[[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]'
 - '[[0_proyecto/deuda-tecnica/deuda-tecnica|Deuda Técnica]]'
 tags: []
@@ -15,7 +15,7 @@ title: DT-003 · Shipibo-Conibo — ¿credo o facción? homónimo + alcance
 
 ### `ABIERTO` · DT-003 — «shipibo-conibo» existe como credo y como facción a la vez
 #deuda/nombres #deuda/incongruencia
-**Afecta:** [[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo (credo)]] · [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]
+**Afecta:** [[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo (credo)]] · [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]
 
 ```gherkin
 # language: es
@@ -30,7 +30,7 @@ Escenario: La misma entidad tiene dos fichas homónimas con entidad distinta
 
 ### `ABIERTO` · DT-003b — Las dos fichas declaran `alcance` contradictorio
 #deuda/spoiler
-**Afecta:** [[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo (credo)]] · [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]
+**Afecta:** [[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo (credo)]] · [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]
 
 ```gherkin
 # language: es

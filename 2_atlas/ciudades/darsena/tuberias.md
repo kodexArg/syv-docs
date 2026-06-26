@@ -13,7 +13,7 @@ related:
   - "[[resistencia-subterranea]]"
   - "[[los-criptografos]]"
   - "[[traficantes-de-almas]]"
-  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]"
+  - "[[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo]]"
   - "[[refugiados-y-parias]]"
 ubicaciones:
   - "[[darsena]]"
@@ -47,7 +47,7 @@ La población es diversa y resiliente, incluyendo:
 -   **Ladrones y Contrabandistas**: Diversos grupos que controlan partes de las Tuberías, gestionando el flujo de mercancías ilegales y operando en las sombras.
 -   **[[traficantes-de-almas|Traficantes de Almas]]**: Criminales que se aprovechan de los más desesperados, esclavizándolos o vendiéndolos.
 -   **[[los-criptografos|Criptógrafos]] y Arqueólogos Saqueadores**: Hackers y buscadores de tecnología prohibida que operan desde la relativa seguridad del subsuelo.
--   **[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]] y Cazadores de Pesadillas**: Comunidades tribales que mantienen sus costumbres ancestrales en los confines más profundos y ocultos.
+-   **[[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo]] y Cazadores de Pesadillas**: Comunidades tribales que mantienen sus costumbres ancestrales en los confines más profundos y ocultos.
 
 ## Lugares de Interés
 

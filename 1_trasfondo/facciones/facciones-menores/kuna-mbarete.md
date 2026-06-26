@@ -13,7 +13,7 @@ tags: []
 related:
   - "[[inquisicion]]"
   - "[[arpistas]]"
-  - "[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]"
+  - "[[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo]]"
 ubicaciones:
   - "[[darsena]]"
   - "[[tuberias]]"
@@ -172,7 +172,7 @@ Las Kuña Mbareté no son simples asesinas; son guardianas de una cosmogonía de
 
 5.  **La Única Alianza - Afinidades Culturales en las Tuberías**: Las Kuña Mbareté contemporáneas (generación 2178) mantienen relaciones con solo un grupo en todo el territorio de la Confederación:
 
-    - Los [[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]: Comunidad de chamanes amazónicos refugiados en las profundidades de las Tuberías de Ciudad Dársena, conocidos también como "Los Cazadores de Pesadillas" por sus rituales de sanación psicológica. Son los reyes del reino fungi: controlan el 70% del cultivo de hongos en las Tuberías, desde variedades alimenticias hasta psicoactivos potentes. Las Yarará reconocen en ellos un teko similar al suyo, una conexión ancestral con lo sagrado que sobrevivió al Colapso. Sin embargo, no son sus protectores. Los Shipibo-Conibo no saben nada de la historia de las Kuña Mbareté, ni del linaje de Arapy, ni de la cosmogonía del Ména. La relación se basa puramente en afinidades culturales y un respeto profundo mutuo.
+    - Los [[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo]]: Comunidad de chamanes amazónicos refugiados en las profundidades de las Tuberías de Ciudad Dársena, conocidos también como "Los Cazadores de Pesadillas" por sus rituales de sanación psicológica. Son los reyes del reino fungi: controlan el 70% del cultivo de hongos en las Tuberías, desde variedades alimenticias hasta psicoactivos potentes. Las Yarará reconocen en ellos un teko similar al suyo, una conexión ancestral con lo sagrado que sobrevivió al Colapso. Sin embargo, no son sus protectores. Los Shipibo-Conibo no saben nada de la historia de las Kuña Mbareté, ni del linaje de Arapy, ni de la cosmogonía del Ména. La relación se basa puramente en afinidades culturales y un respeto profundo mutuo.
 
     Cuando las Yarará han saltado en defensa de los chamanes —generalmente contra incursiones de la DNS o ataques de narcotraficantes locales— siempre ha terminado en baños de sangre. Esa es la manera de actuar de las Yarará: no negocian, no disuaden, no capturan. Extirpan. Los Shipibo-Conibo agradecen la intervención, pero también la temen, porque saben que cuando las Yarará aparecen, la muerte llega con ellas.
 

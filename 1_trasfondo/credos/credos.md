@@ -27,7 +27,7 @@ En los Barrios del Muro, la Religión va en plural. Pero esa pluralidad es contr
 ### Credos Proscritos
 - **[[umbanda|Umbanda]]** - Fe sincrética afroamericana, dominante en Barrios del Muro
 - **[[san-la-muerte|San La Muerte]]** - Culto del litoral, santo de los condenados
-- **[[1_trasfondo/credos/shipibo-conibo|Shipibo-Conibo]]** - Chamanismo amazónico expatriado
+- **[[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo]]** - Chamanismo amazónico expatriado
 - **[[guarani|Guaraní]]** - Misticismo indígena del nordeste
 - **[[ancestros-del-silencio|Ancestros del Silencio]]** - Culto a los mártires del Gran Silencio
 
