@@ -41,6 +41,18 @@ En la cúspide de la estructura se encuentra el "Comando Nacional", responsable 
     - La Dirección de Aduanas y Puertos Consagrados (DGAPC)[^aduanas], que regula férreamente el comercio internacional e inspecciona todos los cargamentos en busca de contrabando y tecnología prohibida.
     - La "Prefectura Naval", que actúa como policía marítima y cuenta con la unidad de élite "Albatros" para operaciones especiales en entornos marítimos y fluviales.
 
+## División de Inteligencia y Estrategia
+
+Llamada por la tropa "El Ojo que Todo lo Ve", la División de Inteligencia y Estrategia es el órgano del Ejército Argentino dedicado a la planificación de campaña, la evaluación del enemigo y la inteligencia militar. Mientras la DNS vigila al ciudadano y la [[inquisicion|SIA]] custodia la herejía, el Ojo mira hacia afuera —y, cuando le conviene, hacia adentro de la propia oficialidad—. Su materia no es la ley ni el dogma, sino la ventaja: saber antes, saber más, y saber lo que el adversario cree secreto.
+
+Se organiza en tres cuerpos:
+
+- "Estado Mayor de Estrategia": planifica campañas, juega la guerra sobre el mapa y redacta las doctrinas que la Academia Militar enseña. Es el cerebro frío de la rama.
+- "Inteligencia de Campo y Análisis": recolecta y cruza información —desertores, prisioneros, mensajeros interceptados, rumores de puerto— para componer el cuadro de situación que el Alto Mando exige.
+- "Cuerpo de Vigías": los operativos de penetración profunda. Entrenados para vivir años bajo identidad ajena en territorio enemigo o en las ciudades-estado rivales, infiltran cúpulas, "leen" a sus objetivos y, cuando la orden baja, eliminan a quien el Ojo señala como pieza de alto valor. No persiguen criminales —de eso se ocupan los detectives de la DNS—; persiguen ventaja. Su lema, heredado de la liturgia castrense, es _Vigilate_: "Velad".
+
+Información secreta (no exponer a jugadores): El Ojo es la herramienta que la facción radical del [[teniente-coronel-gobernador|Teniente Coronel Gobernador]] aprendió a usar mejor que nadie. Un Vigía bien colocado dentro de una curia, una guarnición o una familia rival vale más que un regimiento, y los expedientes que el Ojo no entrega al Alto Mando son los que sostienen el verdadero poder de su conspiración. La [[inquisicion|SIA]] desconfía de la rama por instinto: un aparato que escucha todo es, por definición, un aparato capaz de escuchar también a la Iglesia.
+
 ## Dirección Nacional de Seguridad (DNS)
 
 Conocida como "El Escudo del Justo", la "Dirección Nacional de Seguridad (DNS)" es la principal agencia de seguridad interna y el rostro más visible y represivo del Estado en la vida cotidiana. Su misión es mantener el orden público según la Ley Divina, reprimir el crimen (considerado pecado) y ejercer una vigilancia exhaustiva sobre la ciudadanía.
