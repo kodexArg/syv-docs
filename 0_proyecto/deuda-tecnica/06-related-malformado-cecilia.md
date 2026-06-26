@@ -9,6 +9,9 @@ tags: []
 title: DT-006 · `related` malformado en Hermana Cecilia Torres (string en vez de lista)
 ---
 
+> [!success] RESUELTO · 2026-06-26
+> El `related` de Cecilia ahora es lista YAML de wikilinks (genera aristas). De paso se detectó y corrigió el mismo bug en `aliases`/`related` del hito **2031-la-fragmentacion**. Verificado. Traza abajo.
+
 > [!info] Tarjeta de deuda técnica
 > Tema: **relación que no enlaza** por frontmatter mal tipado.
 
