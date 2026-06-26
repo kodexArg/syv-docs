@@ -16,7 +16,7 @@ facciones:
 ubicaciones:
   - "[[darsena|Ciudad Dársena]]"
 related:
-  - "[[el-cronologio]]"
+  - "[[1_trasfondo/codex/las-cronologias]]"
   - "[[1_trasfondo/cronologia|Cronología]]"
   - "[[2029-las-profecias-del-mercado]]"
   - "[[2031-la-fragmentacion-de-argentina]]"
@@ -40,7 +40,7 @@ tags: []
 
 Anciano. Scriptorium de Criptoanálisis, Ciudad Dársena. Escribe en los años 2177–2178.
 
-Cronista-narrador recurrente de todos los hitos del trasfondo y de [[1_trasfondo/cronologia|La Cronología]]. Voce del [[el-cronologio|El Cronologio]].
+Cronista-narrador recurrente de todos los hitos del trasfondo y de [[1_trasfondo/cronologia|La Cronología]]. Voce del [[1_trasfondo/codex/las-cronologias|El Cronologio]].
 
 ## Aspecto
 
@@ -52,7 +52,7 @@ Hombre de edad avanzada, oriundo de las sierras cordobesas, que pasó los últim
 
 Hermano Archivista de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]], responsable del **Scriptorium de Criptoanálisis** — el taller donde los hermanos escribas y amanuenses copian, descifran y registran documentos recuperados de los dos siglos anteriores. Su función técnica es la **datación**: asignar a cada fragmento de material arqueológico su *data crónica* (la fecha) y su *data tópica* (el lugar de origen), las dos mitades de la cláusula de datación que ancla todo documento al tiempo y al espacio.
 
-Es el autor de [[el-cronologio|El Cronologio]], el gran crónica-gacetero que ordena dos siglos de historia recuperada. La [[1_trasfondo/cronologia|Cronología]] es su columna vertebral; cada hito, un capítulo. El scriptorium donde trabaja es la clase académica de Dársena — los escribas y archivistas forman un estrato reconocido, el ~5% letrado que sostiene la memoria institucional de la Iglesia.
+Es el autor de [[1_trasfondo/codex/las-cronologias|El Cronologio]], el gran crónica-gacetero que ordena dos siglos de historia recuperada. La [[1_trasfondo/cronologia|Cronología]] es su columna vertebral; cada hito, un capítulo. El scriptorium donde trabaja es la clase académica de Dársena — los escribas y archivistas forman un estrato reconocido, el ~5% letrado que sostiene la memoria institucional de la Iglesia.
 
 Su colaborador más cercano: **el hermano Tomás Ferreyra, criptógrafo**, encargado de descifrar los textos que ningún ojo piadoso podría leer de otro modo.
 
@@ -74,7 +74,7 @@ La clave de su voz como escritor: **la irritabilidad y la visión solo asoman en
 <!-- 📖 (Conocimiento Público) -->
 Oriundo de **Córdoba** — ciudad de ejércitos y sierras, de horizontes anchos — Pedro fue destinado en sus últimos años al scriptorium de [[darsena|Ciudad Dársena]], capital naval y eclesiástica. La ciudad más densa del mundo conocido para un hombre criado en la apertura del interior. Hay en sus notas de campo una frase sobre la pared de Pellegrini en Rosario — *"peregriné hasta ella ya viejo"* — que es el único indicio de un viaje largo fuera de sus dos ciudades.
 
-Su obra entera, [[el-cronologio|El Cronologio]], es el intento de convertir dos siglos de fragmentos dispersos — legajos rescatados, fondos incompletos, signaturas dudosas, *terminus post quem* y *ante quem* inferidos de evidencia colateral — en una crónica coherente. El trabajo de *paleografía*, *diplomática* y *codicología* que sostiene cada asiento no aparece en el texto publicado: está en los cuadernos del scriptorium, en el *cuadro de clasificación* del fondo, en los regresos al *inventario* de materiales sospechosos.
+Su obra entera, [[1_trasfondo/codex/las-cronologias|El Cronologio]], es el intento de convertir dos siglos de fragmentos dispersos — legajos rescatados, fondos incompletos, signaturas dudosas, *terminus post quem* y *ante quem* inferidos de evidencia colateral — en una crónica coherente. El trabajo de *paleografía*, *diplomática* y *codicología* que sostiene cada asiento no aparece en el texto publicado: está en los cuadernos del scriptorium, en el *cuadro de clasificación* del fondo, en los regresos al *inventario* de materiales sospechosos.
 <!-- /📖 -->
 
 <!-- 🔐 (Conocimiento Especializado) -->
@@ -83,7 +83,7 @@ La fisura en el epígrafe de 2061 es real y deliberada. Pedro registra el Gran S
 
 ## Conexiones Importantes
 
-- **[[el-cronologio|El Cronologio]]**: su obra de vida; crónica-gacetero de dos siglos de historia recuperada
+- **[[1_trasfondo/codex/las-cronologias|El Cronologio]]**: su obra de vida; crónica-gacetero de dos siglos de historia recuperada
 - **[[1_trasfondo/cronologia|La Cronología]]**: la espina dorsal del Cronologio, año por año desde 2020 hasta 2178
 - **Hermano Tomás Ferreyra** (mencionado en corpus): criptógrafo del scriptorium, su colaborador más cercano
 - **Hermano Anselmo Quiroga** (predecesor): la voz de los epígrafes más antiguos; mismo don, mismo oficio — la línea de archivistas con memoria total es tradición de la orden, no anomalía

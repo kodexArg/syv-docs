@@ -71,6 +71,6 @@ El fin del mundo no nos tomó por sorpresa; simplemente elegimos mirar hacia otr
 
 ---
 
-*Edición y copia de mi puño de esta entrada del [[el-cronologio|Cronologio]] del Hermano Archivista Anselmo Quiroga, asentada en el Archivo de Dársena, a XXI días del mes de noviembre del Año del Señor de dos mil ciento setenta y siete, vísperas de la Presentación de Nuestra Señora.*
+*Edición y copia de mi puño de esta entrada del [[1_trasfondo/codex/las-cronologias|Cronologio]] del Hermano Archivista Anselmo Quiroga, asentada en el Archivo de Dársena, a XXI días del mes de noviembre del Año del Señor de dos mil ciento setenta y siete, vísperas de la Presentación de Nuestra Señora.*
 
 *—Hermano Archivista Pedro de los Santos*

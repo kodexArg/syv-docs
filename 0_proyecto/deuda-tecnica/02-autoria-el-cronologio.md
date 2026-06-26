@@ -4,7 +4,7 @@ description: El corpus afirma a la vez que El Cronologio lo escribió Pedro de l
   canónica de raíz.
 folder: 0_proyecto/deuda-tecnica
 related:
-- '[[1_trasfondo/codex/el-cronologio|El Cronologio]]'
+- '[[1_trasfondo/codex/las-cronologias|El Cronologio]]'
 - '[[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]]'
 - '[[1_trasfondo/cronologia|Cronología]]'
 - '[[1_trasfondo/hitos/2029-las-profecias-del-mercado|Profecías del Mercado (2029)]]'
@@ -18,7 +18,7 @@ title: DT-002 · Autoría de El Cronologio — Anselmo vs Pedro (inversión)
 
 ### `ABIERTO` · DT-002 — Pedro es «autor de El Cronologio» y a la vez su mero copista
 #deuda/incongruencia
-**Afecta:** [[1_trasfondo/codex/el-cronologio|El Cronologio]] · [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]] · [[1_trasfondo/hitos/2029-las-profecias-del-mercado|Profecías del Mercado (2029)]]
+**Afecta:** [[1_trasfondo/codex/las-cronologias|El Cronologio]] · [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]] · [[1_trasfondo/hitos/2029-las-profecias-del-mercado|Profecías del Mercado (2029)]]
 
 ```gherkin
 # language: es
