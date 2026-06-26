@@ -33,7 +33,7 @@ ubicaciones:
 **Relación con la Iglesia:** Neutral-ignorada (mientras sean discretos)
 **Área de influencia:** Intramuros local (Barrios del Muro, Tuberías) / Extramuros disperso (pantanos del Riachuelo, norte argentino, Amazonía)
 **Seguidores estimados:** Intramuros (Ciudad Dársena), unos pocos cientos / Extramuros (más allá del Muro), incalculable
-**Facción asociada:** Shipibo-Conibo (comunidad étnica minoritaria)
+**Pueblo que lo practica:** [[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo]] (comunidad étnica minoritaria)
 
 ## Pueblo del Río Perdido
 
