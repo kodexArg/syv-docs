@@ -10,6 +10,9 @@
 /* Fuentes LOCALES (sin red): Nunito ya instalada en el sistema; para mono se usa
    DM Mono si existe, si no CaskaydiaCove Nerd Font Mono (instalada) -> ui-monospace. */
 
+/* Fuente de lectura del cuerpo: IBM Plex Sans (@import debe ir antes de toda regla) */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap');
+
 :root {
   --ink-1000: #0C0B09;
   --ink-900:  #141210;
@@ -28,6 +31,7 @@
   --sage-300: #a9c49e;
   --bad: #d9694e;
   --font-sans: 'Nunito', system-ui, sans-serif;
+  --font-reading: 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
   --font-mono: 'DM Mono', 'CaskaydiaCove Nerd Font Mono', ui-monospace, monospace;
   --hairline: 1.5px solid var(--ink-600);
 }
@@ -38,9 +42,9 @@ body {
   color: var(--cream-100);
   font-family: var(--font-sans);
   font-weight: 400;
-  line-height: 1.6;
-  letter-spacing: 0.01em;
-  font-size: 16px;
+  line-height: 1.7;
+  letter-spacing: 0.025em;
+  font-size: 1.22rem;
   padding: 16px 20px 40px;
   /* glow naranja off-center detrás del texto */
   background-image: radial-gradient(58% 36% at 82% 6%,
@@ -53,19 +57,25 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-sans);
   font-weight: 800;
   line-height: 1.1;
-  letter-spacing: -0.02em;
   color: var(--cream-100);
   text-transform: lowercase;
   margin: 1.6em 0 0.5em;
 }
-h1 { font-size: 2.4rem; color: var(--orange-500); margin-top: 0; }
-h2 { font-size: 1.8rem; border-bottom: var(--hairline); padding-bottom: 0.25em; }
-h3 { font-size: 1.35rem; }
+h1 { font-size: 3rem; color: var(--orange-500); margin-top: 0; }
+h2 { font-size: 2rem; border-bottom: var(--hairline); padding-bottom: 0.25em; }
+h3 { font-size: 1.5rem; }
 h4 { font-size: 1.1rem; font-weight: 500; color: var(--warm-200); }
 h5, h6 { font-size: 0.95rem; font-weight: 500; color: var(--ink-500); text-transform: uppercase; letter-spacing: 0.12em; font-family: var(--font-mono); }
 
 /* --- cuerpo --- */
 p, li { color: var(--warm-200); }
+p {
+  font-family: var(--font-reading);
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
 strong { color: var(--cream-100); font-weight: 800; }
 em { color: var(--cream-100); }
 a { color: var(--orange-500); text-decoration: none; border-bottom: 1.5px solid rgba(255,140,66,0.35); }

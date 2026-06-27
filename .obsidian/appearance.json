@@ -1,4 +1,7 @@
 {
   "nativeMenus": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "presentation-orange"
+  ]
 }
