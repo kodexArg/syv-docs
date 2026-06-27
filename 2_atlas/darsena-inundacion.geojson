@@ -1,0 +1,6 @@
+{
+  "type": "FeatureCollection",
+  "name": "darsena-inundacion",
+  "_nota": "Vaciado a pedido. Lista para empezar de cero las capas que tapan el fondo real (agua, muro, etiquetas). GeoJSON usa [long, lat].",
+  "features": []
+}
