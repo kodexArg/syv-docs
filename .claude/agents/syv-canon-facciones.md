@@ -1,1 +1,0 @@
-../../.agents/harness/agents/syv-canon-facciones.md
