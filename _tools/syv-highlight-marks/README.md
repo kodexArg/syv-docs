@@ -1,31 +1,41 @@
-# syv-obsidian-highlight — engine
+# syv-highlight-marks — engine
 
-Backend for the `/syv-obsidian-highlight` command. Reads the Highlightr `<mark>`
-spans that kodex paints **live** in Obsidian and turns them into a worklist; then
-applies the resolved prose back to disk.
+Backend for the `/syv-highlight-marks` command. Reads **any** `<mark>` span
+(typically painted **live** in Obsidian with the Highlightr plugin, but not
+limited to it) and turns them into a worklist; then applies the resolved
+prose back to disk.
 
 ## The mark format (two protocols, combined)
 
 ```
 <mark style="background: #RRGGBBAA;">TEXTO {nota de kodex}</mark>
+<mark class="hltr-red">TEXTO {nota de kodex}</mark>
+<mark>TEXTO {nota de kodex}</mark>
 ```
 
-- **Color** (hex, alpha = last 2 digits ignored) → **severity / action**.
-- Optional **`{...}` brace** inside → the **specific instruction**.
+- **Color** (hex, alpha = last 2 digits ignored), when present → **severity /
+  action** via nearest-palette classification. This applies uniformly to any
+  hex, known or unknown — not a special case.
+- **No resolvable hex** (bare `<mark>` or `class`-only) → defaults to
+  **medium severity** (`yellow` / `refactor-moderate`).
+- Optional **`{...}` brace** inside → the **specific instruction**, and it
+  **always overrides** the color/default.
 - A **closed** mark is pending work. An **unclosed** `<mark>` = kodex is still
   typing → never matched (the regex requires `</mark>`), so the loop never fights
   live typing.
 
-| Color | Hex | Action (`action`) |
+| Color / case | Hex | Action (`action`) |
 |---|---|---|
-| 🔴 red | `#FF5582` | `rewrite-total` — reescritura total / suplir lo que falta |
-| 🟠 orange | `#FFB86C` | `refactor-strong` |
-| 🟡 yellow | `#FFF3A3` | `refactor-moderate` |
-| ⚪ gray | `#CACFD9` | `flow` — flujo / typo (lo nombra el `{brace}`) |
-| 🟢 green | `#BBFABB` | `approve` — no tocar el texto, solo quitar la marca |
+| 🔴 red | `#FF5582` (or nearest) | `rewrite-total` — reescritura total / suplir lo que falta |
+| 🟠 orange | `#FFB86C` (or nearest) | `refactor-strong` |
+| 🟡 yellow / **bare or class-only mark (default)** | `#FFF3A3` / no hex | `refactor-moderate` |
+| ⚪ gray | `#CACFD9` (or nearest) | `flow` — flujo / typo (lo nombra el `{brace}`) |
+| 🟢 green | `#BBFABB` (or nearest) | `approve` — no tocar el texto, solo quitar la marca |
 
 Color is classified by **nearest palette colour in RGB** (robust to alpha and to
-6- or 8-digit hex), not by class name.
+6- or 8-digit hex, and to unknown/custom hex values — general behaviour, not an
+exception), not by class name. The palette (`PALETTE`/`ACTION` in
+`highlight.py`) is the overridable default table.
 
 ## CLI
 

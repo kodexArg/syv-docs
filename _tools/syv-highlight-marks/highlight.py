@@ -1,13 +1,23 @@
 #!/usr/bin/env python3
-"""Engine for /syv-obsidian-highlight — scan & apply Highlightr <mark> spans.
+"""Engine for /syv-highlight-marks — scan & apply <mark> spans (any mark).
 
-The corpus is marked live in Obsidian with the Highlightr plugin. A mark is:
+The corpus is marked live in Obsidian, usually with the Highlightr plugin,
+but this engine resolves **any** `<mark>…</mark>`:
 
     <mark style="background: #RRGGBBAA;">TEXTO {nota de kodex}</mark>
+    <mark class="hltr-red">TEXTO {nota de kodex}</mark>
+    <mark>TEXTO {nota de kodex}</mark>
 
 Two protocols, combined:
-  * the COLOR (hex, alpha ignored) encodes the SEVERITY / action, and
-  * an optional `{...}` brace inside encodes the SPECIFIC instruction.
+  * the COLOR (hex, alpha ignored), when present, encodes the SEVERITY /
+    action via **nearest palette colour** (robust to unknown/custom hex —
+    general behaviour, not an exception path); and
+  * an optional `{...}` brace inside encodes the SPECIFIC instruction, which
+    always wins over the color-derived default.
+
+A bare `<mark>` or a `class`-only mark (no resolvable hex) has no color to
+classify, so it defaults to **medium severity** (`yellow` / refactor
+moderado) unless the `{nota}` says otherwise.
 
 Closed marks are pending work; an UNCLOSED `<mark>` means kodex is still
 typing — this engine never sees it (the regex requires `</mark>`).
@@ -52,10 +62,13 @@ ACTION: dict[str, str] = {
     "green": "approve",           # aprobado → solo quitar la marca
 }
 SEVERITY = {"red": 5, "orange": 4, "yellow": 3, "gray": 2, "green": 1}
+DEFAULT_COLOR = "yellow"  # bare/class-only <mark>, no resolvable hex → medium
 
-# Tolerant to spacing and to 6- or 8-digit hex.
+# Matches ANY closed <mark>, capturing an optional hex from `background:#…`
+# if present. Tolerant to spacing, 6- or 8-digit hex, and to marks with no
+# style at all (bare `<mark>` or `class="..."` only — group(1) is None).
 MARK_RE = re.compile(
-    r"<mark\b[^>]*?background\s*:\s*#([0-9A-Fa-f]{6})(?:[0-9A-Fa-f]{2})?[^>]*>(.*?)</mark>",
+    r"<mark\b(?:[^>]*?background\s*:\s*#([0-9A-Fa-f]{6})(?:[0-9A-Fa-f]{2})?)?[^>]*>(.*?)</mark>",
     re.DOTALL,
 )
 BRACE_RE = re.compile(r"\{([^{}]*)\}")
@@ -95,8 +108,12 @@ def scan(folder: Path, root: Path) -> list[dict]:
         except (OSError, UnicodeDecodeError):
             continue
         for m in MARK_RE.finditer(text):
-            hex6, inner = m.group(1).upper(), m.group(2)
-            color = classify(hex6)
+            hex6, inner = m.group(1), m.group(2)
+            if hex6:
+                hex6 = hex6.upper()
+                color = classify(hex6)
+            else:
+                color = DEFAULT_COLOR  # bare/class-only mark → medium default
             notes = [n.strip() for n in BRACE_RE.findall(inner)]
             prose = BRACE_RE.sub("", inner).strip()
             work.append(
