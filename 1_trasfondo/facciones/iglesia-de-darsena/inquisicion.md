@@ -29,6 +29,12 @@ El modus operandi de la SIA es el terror y la vigilancia. A través de una vasta
 
 La organización está compuesta por un cuerpo de Inquisidores implacables, Censores que reescriben la historia y Archivistas que custodian los secretos más oscuros. Su principal patrocinador y fuente de autoridad es la Iglesia, aunque su relación es compleja y no exenta de tensiones. Son enemigos declarados de todos los cultos proscritos y facciones tecnófilas como los [[arpistas|Arpistas]][^arpistas], a quienes cazan sin piedad.
 
+## Identidad visual
+
+A un Cirujano del Alma lo reconocés antes de verlo. Se anuncia en la manera en que la calle se abre, en los ojos que buscan el empedrado, en el murmullo de los muelles que cae de golpe a silencio. Vienen de negro —un negro sin brillo, que traga el neón en vez de devolverlo—, y esa sombra vertical avanza con la lentitud de quien nunca tuvo que apurarse. El incienso los precede: un olor dulzón y frío, de sacristía y de formol, que se te queda pegado a la garganta mucho después de que doblaron la esquina.
+
+La seña que los delata es litúrgica. Un destello de metal a la altura del pecho, la insignia que no hace falta leer para entender. Los guantes impecables en una ciudad de herrumbre y humedad. Y sobre todo el gesto —la mano que se alza, apenas, y bendice y condena en el mismo movimiento—. Donde pasan queda el frío del confesionario. Y el miedo.
+
 Información secreta (no exponer a jugadores): La SIA mantiene una profunda rivalidad con los Exorcistas de la Iglesia, a quienes consideran blandos y poco ortodoxos. Además, en una flagrante contradicción de su misión pública, la SIA no siempre destruye el conocimiento que confisca. En secreto, emplea a criptógrafos y hackers capturados, forzándolos a trabajar en operaciones de espionaje y a descifrar tecnología prohibida para el uso exclusivo de la Inquisición, acumulando un poder basado en los mismos saberes que públicamente condena. Sus propias instalaciones —el Faro, sus búnkeres subterráneos— están construidas con cemento-plástico de grado militar, un compuesto químicamente avanzado que presentan al mundo como simple piedra.
 
 ---
