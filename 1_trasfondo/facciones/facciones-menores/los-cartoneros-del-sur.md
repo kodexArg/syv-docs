@@ -25,3 +25,7 @@ Su trabajo más recordado es el compendio de [[2029-las-profecias-del-mercado|«
 ## Menciones conocidas
 
 - Compiladores del compendio de «Las Profecías del Mercado» (2059). Ver [[2029-las-profecias-del-mercado|Profecías del Mercado]].
+
+## Identidad
+
+- [Identidad visual de Los Cartoneros del Sur (reporte, 2026-07-05)](file:///home/kodex/Documents/syv-reporte/identidad-cartoneros-del-sur-20260705.html)
