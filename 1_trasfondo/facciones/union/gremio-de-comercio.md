@@ -26,6 +26,14 @@ Aunque formalmente es una entidad oficial, el Gremio opera en una zona gris. Sus
 
 Su relación con los poderes fácticos es pragmática y tensa. Mientras que la [[inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia] los persigue por actividades consideradas heréticas o ilícitas, como el contrabando de artefactos, colaboran con sectores de las [[fuerzas-armadas|Fuerzas Armadas]][^ffaa] en el tráfico de recursos estratégicos.
 
+## Identidad
+
+Todo el mundo es comerciante en Ciudad Dársena, por donde el continente civilizado se conecta con los barcos que vienen del otro lado del mar. Distinguir a un comerciante es distinguir a un ciudadano de Dársena. Quizá podría decirse que ser comerciante es estar a la moda.
+
+### Sello
+
+- Los comerciantes tienen una cédula, que podrían presentar si se les requiere.
+
 Información secreta (no exponer a jugadores): La línea que separa al Gremio de las organizaciones criminales es prácticamente inexistente. Mantienen acuerdos secretos con contrabandistas y facciones como los [[canales-ocultos|Canales Ocultos]][^canales] para el intercambio de favores e información. Peor aún, algunos de sus líderes más prominentes actúan como informantes dobles para la DNS o incluso para la SIA, vendiendo a sus competidores o a socios desafortunados a cambio de inmunidad y una mayor porción del mercado.
 
 ---
