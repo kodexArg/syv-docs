@@ -31,7 +31,7 @@ La organización está compuesta por un cuerpo de Inquisidores implacables, Cens
 
 ## Identidad visual
 
-A un Cirujano del Alma lo reconocés antes de verlo. Se anuncia en la manera en que la calle se abre, en los ojos que buscan el empedrado, en el murmullo de los muelles que cae de golpe a silencio. Vienen de negro —un negro sin brillo, que traga el neón en vez de devolverlo—, y esa sombra vertical avanza con la lentitud de quien nunca tuvo que apurarse. El incienso los precede: un olor dulzón y frío, de sacristía y de formol, que se te queda pegado a la garganta mucho después de que doblaron la esquina.
+A un Cirujano del Alma lo reconocés antes de verlo. Se anuncia en la manera en que la calle se abre, en los ojos que buscan el empedrado, en el murmullo de los muelles que cae de golpe a silencio. Vienen de negro —un negro mate, que traga el neón en vez de devolverlo—, y esa sombra vertical avanza con la lentitud de quien manda el tiempo. El incienso los precede: un olor dulzón y frío, de sacristía y de formol, que se te queda pegado a la garganta mucho después de que doblaron la esquina.
 
 La seña que los delata es litúrgica. Un destello de metal a la altura del pecho, la insignia que no hace falta leer para entender. Los guantes impecables en una ciudad de herrumbre y humedad. Y sobre todo el gesto —la mano que se alza, apenas, y bendice y condena en el mismo movimiento—. Donde pasan queda el frío del confesionario. Y el miedo.
 
