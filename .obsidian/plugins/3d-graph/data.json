@@ -1,0 +1,40 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "1_trasfondo",
+        "color": "#754343"
+      },
+      {
+        "query": "2_atlas",
+        "color": "#4400ff"
+      },
+      {
+        "query": "3_personajes",
+        "color": "#00b3ff"
+      },
+      {
+        "query": "4_diegesis",
+        "color": "#04ff00"
+      },
+      {
+        "query": "5_aventuras",
+        "color": "#fe62f9"
+      },
+      {
+        "query": "0_proyecto",
+        "color": "#ffc800"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 5,
+    "linkThickness": 1,
+    "particleSize": 1,
+    "particleCount": 11
+  }
+}
