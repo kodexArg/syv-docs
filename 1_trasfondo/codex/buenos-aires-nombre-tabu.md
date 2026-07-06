@@ -14,6 +14,8 @@ related:
 - '[[darsena]]'
 - '[[2039-el-meteorito-de-buenos-aires]]'
 - '[[anatema-mecanico]]'
+- '[[salvajes]]'
+- '[[fuera-del-muro]]'
 tags: []
 title: El Nombre Prohibido
 ---
