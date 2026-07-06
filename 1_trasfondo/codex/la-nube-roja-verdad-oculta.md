@@ -17,6 +17,7 @@ related:
 - '[[anatema-mecanico|Anatema Mecánico]]'
 - '[[2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]]'
 - '[[2039-la-larga-noche]]'
+- '[[buenos-aires-nombre-tabu|El Nombre Prohibido]]'
 - '[[darsena|Ciudad Dársena]]'
 spoilers:
 - La Nube Roja no es partícula estratosférica sino un organismo vivo de ingeniería
