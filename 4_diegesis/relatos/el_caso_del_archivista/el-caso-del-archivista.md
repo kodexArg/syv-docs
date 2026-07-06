@@ -25,7 +25,7 @@ La reescritura definitiva, por capítulos. Cada capítulo tiene dos archivos: `c
 ## Capítulos
 
 1. [[cap-01-el-sabueso|Damián, el Sabueso]] — *a dictar* · guía: [[cap-01-el-sabueso-prd|PRD]]
-2. [[cap-02-el-archivista|El Archivista]] — *a dictar* · guía: [[cap-02-el-archivista-prd|PRD]]
+2. [[4_diegesis/relatos/el_caso_del_archivista/cap-03-el-archivista|El Archivista]] — *a dictar* · guía: [[cap-02-el-archivista-prd|PRD]]
 
 ## Material de trabajo
 
