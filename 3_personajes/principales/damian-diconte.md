@@ -36,7 +36,7 @@ ubicaciones:
 
 ## Damián DiConte, El Sabueso
 
-**Edad**: Veterano. Rondaba los 55 cuando huyó de Córdoba (2176); se acerca a los sesenta para los días de [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]], y parece aún más viejo.
+**Edad**: Veterano. Rondaba los 55 cuando huyó de Córdoba (2176); se acerca a los sesenta para los días de [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]], y parece aún más viejo.
 **Lugar**: Dársena (fugitivo de Córdoba)
 
 Subcomisario de Investigaciones Especiales (Córdoba) · instalado años después en una oficina del Ministerio de Defensa / Seguridad de Dársena, al servicio de la Iglesia.
