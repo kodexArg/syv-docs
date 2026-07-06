@@ -19,6 +19,7 @@ Canon vivo, alimentado por las marcas de kodex sobre prosa generada (protocolo `
 ## ✂️ Quita
 
 - **«Una llama,» como referencia al amanecer** (cap-01-cursiva, 2026-07-05, marca roja): metáfora críptica *antes* del referente. kodex quiere la referencia al sol **simple y directa** («Sale el sol:») y que la imagen —el fantasma dorado— llegue después, como glosa, no como enigma.
+- **Apertura «Es el año 2178.» + elegía abstracta del mundo roto** (cap-01-cursiva, 2026-07-06, marca roja sobre los tres párrafos completos): la declaración de fecha en seco seguida de enumeración elegíaca sin referente concreto («mapas que mienten, radios que callan…») no convenció como puerta del libro, aun bien ejecutada. Pendiente de reemplazo informado por el estudio de aperturas distópicas (Neuromancer, Dick, Asimov, Orwell, Huxley, Bradbury, Herbert, Atwood) — anclar época y mundo con otra técnica.
 
 ## ✅ Resultó
 
