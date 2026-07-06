@@ -1,6 +1,17 @@
 # Changelog
 
 ## [Unreleased]
+- group: relato-archivista-arquitectura-prds-capitulos
+  priority: high
+  commit: pending
+  changes:
+    - feat(relatos): nuevo PRD global el-caso-del-archivista-prd.md — arquitectura agnóstica a capítulos, sequencia de eventos (día vacío de Sofía, carta de ayuda vs. misión santa, llegada de Damián por aire desde ojos de Sofía, aduana, El Faro)
+    - feat(relatos): cap-01-el-sabueso-prd.md — PRD del capítulo 1, separado de la prosa (referencia al relato «Cursiva» como punto de partida de la historia)
+    - feat(relatos): cap-02-el-archivista-prd.md — PRD del capítulo 2 (el caso comienza, 7º piso de Seguridad Nacional, la excusa de la historia del mundo)
+    - feat(relatos): cap-02-el-archivista.md creado vacío — archivo de prosa para capítulo 2
+    - refactor(relatos): cap-01-el-sabueso.md vaciado — prosa limpia, guía vive en -prd
+    - refactor(relatos): hub el-caso-del-archivista.md — wikilink de capítulo 1 redirigido a cap-01-el-sabueso-prd
+
 - group: relato-archivista-reestructurado-capitulos
   priority: high
   commit: b0d38b0

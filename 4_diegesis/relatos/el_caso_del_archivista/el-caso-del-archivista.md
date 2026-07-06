@@ -23,7 +23,7 @@ La reescritura definitiva, por capítulos. La brújula de la historia (spoilers,
 
 ## Capítulos
 
-1. [[4_diegesis/relatos/el_caso_del_archivista/cap-01-el-sabueso|Damián, el Sabueso]] — *a dictar*
+1. [[4_diegesis/relatos/el_caso_del_archivista/cap-01-el-sabueso-prd|Damián, el Sabueso]] — *a dictar*
 
 ## Material de trabajo
 
