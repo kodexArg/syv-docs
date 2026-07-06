@@ -27,3 +27,4 @@ Canon vivo, alimentado por las marcas de kodex sobre prosa generada (protocolo `
 ## Notas de proceso
 
 - Párrafo introductorio: situar al lector geográficamente (qué lugar era, qué es ahora) sin aburrir — la orientación es clave y va temprano.
+- **«Buenos Aires» es nombre tabú en la voz in-mundo** (diálogo, prédica, prosa diegética): evocar por imagen — «la ciudad al pie del meteorito», el bastión sobre las ruinas. Ver [[buenos-aires-nombre-tabu]]. El aparato historiográfico (hitos, atlas) sí puede nombrarla como dato de archivo.
