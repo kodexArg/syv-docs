@@ -59,7 +59,7 @@ Tras el silencio de 2047 (fin de guerras por agotamiento), la atmósfera no "se 
 Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). Pero post-2047, la ciudad se convirtió en **cámara de niebla permanente**:
 - Niebla que antes era intermitente ahora es casi constante
 - Lluvia fina diaria con variaciones mínimas estacionalmente
-- La concentración local de partículas de la Nube Roja (mayor en zonas costeras y de alta humedad) redujo la radiación solar, bajando las temperaturas drásticamente
+- La concentración local de la Nube Roja (que el velo se congrega y se espesa sobre las zonas costeras y de alta humedad, atraído por ellas) redujo la radiación solar, bajando las temperaturas drásticamente; y ese mismo velo, al espesarse sobre la ciudad, alimenta la niebla desde arriba con un polvo finísimo que desciende sin cesar
 - Corrosión acelerada: metales se oxidan en meses, madera se pudre en años
 - Enfermedades respiratorias endémicas, agravadas por el frío húmedo constante
 - La "Niebla Perpetua" se volvió literalmente perpetua
