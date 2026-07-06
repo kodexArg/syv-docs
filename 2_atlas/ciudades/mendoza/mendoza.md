@@ -165,6 +165,9 @@ Mendoza no usa dinero formalmente; opera por **trueque ponderado**:
 - Exporta vino a Dársena (recibe manufacturas, permisos comerciales)
 - Comercio local es economía de supervivencia (dinero colonial sin validez)
 
+### **La Ruta 40: la arteria y el contrabando**
+La [[confederacion-argentina|Ruta 40]] se ha mantenido como la única arteria que marca el pulso del comercio terrestre de largo aliento, la cuerda tendida al pie de la cordillera por donde suben y bajan los bienes que ningún barco lleva. Y el paso pasa por Mendoza. El paso mendocino está envuelto en disputas permanentes, y eso lo convierte, más que en un camino, en una **zona de contrabando**: la Comandancia cobra su diezmo a lo que cruza y hace la vista gorda con lo que le rinde. Los [[caudillos-del-norte|Caudillos del Norte]] comercian con los señores del sur —los del [[ejercito-rojo|Ejército Rojo]] y su órbita— únicamente a través de esta arteria; cuando un fardo del norte llega al sur, o del sur al norte, casi con seguridad cruzó el cuello de piedra de Mendoza y pagó su peaje. Es la posición que le da a la ciudad su verdadero poder de negociación: quien controla el paso no controla la franja, pero le aprieta la garganta.
+
 ### **Desigualdad de Acumulación**
 - **Top 1% (terratenientes)**: Controla 80% de tierra, acumula excedentes, vive en opulencia
 - **Class media (comerciantes, oficiales)**: Estable pero precaria, dependiente de decisiones de arriba
