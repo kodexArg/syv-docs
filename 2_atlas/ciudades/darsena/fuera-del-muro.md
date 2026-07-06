@@ -14,6 +14,9 @@ related:
   - "[[los-criptografos]]"
   - "[[iglesia]]"
   - "[[resistencia-subterranea]]"
+  - "[[salvajes]]"
+  - "[[franja-de-alsina]]"
+  - "[[ejercito-rojo]]"
 ubicaciones:
   - "[[darsena]]"
 ---
