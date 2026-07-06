@@ -18,6 +18,7 @@ related:
   - "[[los-criptografos]]"
   - "[[masones]]"
   - "[[traficantes-de-almas]]"
+  - "[[buenos-aires-nombre-tabu]]"
 ubicaciones:
   - "[[zona-militar-eclesiastica]]"
   - "[[microcentro]]"
