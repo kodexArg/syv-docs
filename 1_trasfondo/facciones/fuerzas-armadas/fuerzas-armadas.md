@@ -16,6 +16,8 @@ related:
   - "[[arpistas]]"
   - "[[gremio-de-comercio]]"
   - "[[teniente-coronel-gobernador]]"
+  - "[[ejercito-rojo]]"
+  - "[[franja-de-alsina]]"
 ubicaciones:
   - "[[darsena]]"
 spoilers:
