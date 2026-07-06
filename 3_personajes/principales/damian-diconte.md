@@ -116,7 +116,7 @@ El hombre cuya vida se rompió por una caja que tuvo que abandonar recibe, ahora
 - **Inquisidora Sofía**: Su "comité de bienvenida" en Dársena; una relación tensa de respeto y sospecha mutua.
 - **Teniente Coronel Gobernador de Córdoba**: El arquitecto de su desgracia y su principal antagonista en la sombra.
 - **El Contacto Anónimo**: La voz que le salvó la vida en Córdoba; Damián aún intenta averiguar quién fue.
-- **[[pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]**: la víctima de [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]]; su reverso cognitivo — memoria total de nombres contra memoria nula.
+- **[[pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]**: la víctima de [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]; su reverso cognitivo — memoria total de nombres contra memoria nula.
 - **[[paco-el-puntero|Paco el Puntero]] (Fallecido)**: Damián llegó a tener roces con la red de Paco poco después de llegar, antes de la muerte del puntero.
 
 ## Referencias
