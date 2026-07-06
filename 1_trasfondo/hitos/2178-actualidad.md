@@ -163,6 +163,31 @@ Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide
 #### Integración Cultural
 - Fomento de la diversidad y la identidad regional.
 
+## Las Fronteras Inmediatas de la Confederación
+
+De todo lo escrito arriba dudo, porque el Gran Silencio de 2061 nos dejó sordos para el mundo lejano. Mas de lo que sigue dudo menos: son nuestras fronteras inmediatas, y con ellas hay contacto —de plomo y de comercio—, de modo que las escaramuzas de la Armada y el tráfico de la Ruta 40 nos traen de ellas noticia más firme que cualquier rumor de ultramar. Las cifras que doy provienen del testimonio de capitanes y navegantes; las consigno como cifras, y hedgeo sólo mi certeza, no el número.
+
+### El Sur: el Ejército Rojo
+
+- Bajo la mitad meridional del viejo territorio se extiende el [[ejercito-rojo|Ejército Rojo]]: un crisol de pueblos —tribus, feudos con su peonada, comunidades anarquistas auto-organizadas— que se define como «un comunismo con características regionales».
+- No controla realmente nada: lo desgarran luchas internas muy serias. Pero algunos bastiones aguantan sólidos, como **Bahía Blanca** con su comunismo regional, y hacia la cordillera resisten feudos y comunas.
+- Su capacidad real es naval, heredada de la flota de Puerto Belgrano; su principal obstáculo en el sur es justamente la Confederación, y sus rutas de navegación son una lucha constante por esquivar a nuestra Armada.
+- La [[2080-la-decada-de-los-bumers|Década de los Bumers]] repobló **La Patagonia**, donde hoy —según los navegantes— viven más de cien millones de personas.
+
+### La Zona Muerta
+
+- Entre el Rojo y nosotros no hay paz firmada. El conflicto tiene su tierra de nadie donde antes corría la [[franja-de-alsina|Franja de Alsina]]: conflictos frecuentes, tráfico que fluye, y una regla simple —de este lado la presencia militar de Dársena se impone; del otro, los disparos.
+
+### El Norte: los Salvajes y los Caudillos
+
+- Al norte, un corte en lo que fue territorio argentino guarda el dominio de los [[salvajes|Salvajes]] —«Salvajes del Norte» los llama Córdoba—: más de ciento cincuenta millones de habitantes, aunque los salteños, en rigor, viven mejor que cualquier confederado.
+- Ese norte lo gobiernan los [[caudillos-del-norte|Caudillos del Norte]] junto a las tribus afroindias, herederos de la vieja tradición caudillista.
+
+### La Franja y la Arteria
+
+- Entre ambos vecindarios inmensos, la [[confederacion-argentina|Confederación]] es apenas una franja: la banda central de la vieja bandera, con el sol en Córdoba.
+- Su único pulso de comercio terrestre de largo aliento es la **Ruta 40**, que cruza el paso disputado de [[mendoza|Mendoza]] —zona de contrabando—, por donde los Caudillos del Norte comercian con el sur.
+
 ---
 
 *Y aquí debo soltar la pluma, no porque la historia se acabe, sino porque la historia que cuento es la única que todavía no terminó de escribirse. Las páginas anteriores de esta crónica las copié con la certeza del que mira hacia atrás; esta la dejo abierta, como una puerta sin trancar, para que la complete quien venga después de mí. Si Dios me presta vida, yo mismo iré asentando año a año lo que el mundo nos depare. Si no, que otro hermano tome la tinta donde yo la dejo. El pasado ya está dicho; el presente apenas balbucea.*
