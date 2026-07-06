@@ -252,6 +252,12 @@ Durante la "Desconexión Total (2062-2110)", cada comunidad argentina se reinven
 ---
 
 
+### 2080-2089: La Década de los Bumers (hito)
+
+En pleno corazón de la Edad Oscura, mientras los libros ardían para calentar las manos, el continente volvió a llenarse de niños. La posguerra había puesto a media humanidad en los caminos, y pasado el terror de las máquinas las familias volvieron a tener hijos, muchos: un segundo Bum de los Bebés que en el sur cayó como una crecida. No fue un milagro contra la miseria sino un fruto de ella —migración y vientre a la vez—, tal como una generación antes la población de las ciudades supervivientes se había triplicado en cinco años hacia 2056. De esta década salió la demografía que hoy define nuestras fronteras: los más de cien millones de La Patagonia y el dominio inmenso del norte nacieron, casi todos, en estos años.
+
+*Ver hito completo: [[2080-la-decada-de-los-bumers]]*
+
 ### 2082-2120: La Cruzada y el Traslado de la Basílica
 
 En plena Edad Oscura, mientras Argentina se replegaba sobre sí misma, la Iglesia emprendió la empresa más temeraria de aquellos años. La Santa Sede ya operaba en Dársena desde su traslado institucional de 2054; lo que faltaba era la piedra. Por eso la Iglesia ordenó el traslado físico de las ruinas de la [[2_atlas/ciudades/darsena/basilica-de-san-pedro|Basílica de San Pedro]] desde el Vaticano y su posterior reconstrucción en la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]] de [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]. La obra ocupó el período comprendido entre los años 2082 y 2120. No fue comercio ni intercambio: en plena Desconexión Total, fue la única empresa transoceánica que Argentina sostuvo, una cruzada sagrada por encima de toda regla de aislamiento, costeada como acto de fe y no de mercado.
