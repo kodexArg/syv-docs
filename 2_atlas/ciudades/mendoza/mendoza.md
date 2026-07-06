@@ -146,7 +146,7 @@ En superficie, Mendoza es estable: autosustentable, gobernada militarmente, sin 
 
 2. **Resentimiento de clase**: Los peones no hablan abiertamente (represión militar lo impide), pero el resentimiento es palpable. Sabotajes ocasionales de cosechas, incendios de campos "accidentales," deserción de trabajadores.
 
-3. **Vigilancia de frontera**: La Comandancia usa su especialización en contraespionaje para justificar control doméstico extremo. Todo disidente es potencial "agente chileno."
+3. **Vigilancia de frontera**: La Comandancia usa su especialización en contraespionaje para justificar control doméstico extremo. Todo disidente es potencial "agente chileno." Pero la Comandancia vigila ahora dos frentes: al viejo espectro chileno se le sumó, por el sur, el olor de la agitación del [[ejercito-rojo|Ejército Rojo]] que sube por la Ruta 40. Los rumores del "despertar" en las favelas rurales ya no huelen sólo a Chile; huelen también a rojo. Que la resistencia campesina tenga raíces de clase propias, hondas y locales, no le impide a la Comandancia sospechar que alguien, desde el sur, le sopla las brasas.
 
 4. **Crisis migrante silenciosa**: Trabajadores rurales continúan migrando a otras ciudades, causando despoblamiento rural. Pero la Comandancia intenta restringir movimiento mediante "permisos de tránsito."
 
