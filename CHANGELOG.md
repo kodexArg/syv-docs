@@ -1,9 +1,21 @@
 # Changelog
 
 ## [Unreleased]
+- group: relato-archivista-refactor-frontmatter-cierre
+  priority: critical
+  commit: 55fdea9
+  changes:
+    - refactor(relatos): frontmatter canónico de los seis archivos de «El Caso del Archivista» — entidad/alcance/estado cerrados
+    - refactor(relatos): las tres PRDs (el-caso-del-archivista-prd, cap-01-el-sabueso-prd, cap-02-el-archivista-prd) llevan entidad:guia, alcance:secreto, estado:borrador, aliases exhaustivos, wikilinks de relaciones y spoilers marcados
+    - feat(relatos): cap-01-el-sabueso-prd con wikilink a [[4_diegesis/relatos/cursiva|Cursiva]] (punto de partida de la historia)
+    - feat(relatos): cap-02-el-archivista-prd con wikilink a [[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]; spoiler: «El Archivista asesinado fue el segundo»
+    - refactor(relatos): los dos archivos de prosa (cap-01-el-sabueso.md, cap-02-el-archivista.md) llevan entidad:relato, H1 con título de capítulo, related apuntando a su PRD
+    - refactor(relatos): hub el-caso-del-archivista.md — listado de capítulos con prosa + PRD lado a lado; PRD global agregado a frontmatter y «Material de trabajo»
+    - docs(infraestructura): cierre de infraestructura de relatos — lista canónica lista para escribir prosa
+
 - group: relato-archivista-arquitectura-prds-capitulos
   priority: high
-  commit: pending
+  commit: bb2a42b
   changes:
     - feat(relatos): nuevo PRD global el-caso-del-archivista-prd.md — arquitectura agnóstica a capítulos, sequencia de eventos (día vacío de Sofía, carta de ayuda vs. misión santa, llegada de Damián por aire desde ojos de Sofía, aduana, El Faro)
     - feat(relatos): cap-01-el-sabueso-prd.md — PRD del capítulo 1, separado de la prosa (referencia al relato «Cursiva» como punto de partida de la historia)
