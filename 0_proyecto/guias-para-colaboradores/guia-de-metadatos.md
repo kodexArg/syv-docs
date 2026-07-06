@@ -85,7 +85,7 @@ apariciones:
 
 ### Desambiguación de basenames
 
-El vault raíz `/home/kodex/Dev/SyV` contiene basenames duplicados (p. ej. existe `walter.md` como personaje **y** como relato; hay varios `index.md`). Cuando un slug es ambiguo:
+El vault raíz `/home/kodex/SyV` contiene basenames duplicados (p. ej. existe `walter.md` como personaje **y** como relato; hay varios `index.md`). Cuando un slug es ambiguo:
 
 - Preferí un **nombre de archivo único** al crear (`walter` personaje, `walter-relato` el relato), o
 - Usá **wikilink con path** cuando haga falta: `[[4_diegesis/relatos/walter|Walter (relato)]]`.

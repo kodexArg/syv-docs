@@ -84,7 +84,7 @@ so filesystem edits there are fine even with the MCP down.
 
 ## Vault horizon
 
-The Obsidian MCP sees the whole `~/Dev/SyV/` vault (syv-docs is a subfolder; siblings
+The Obsidian MCP sees the whole `~/SyV/` vault (syv-docs is a subfolder; siblings
 `syv-pj`, `kdx-pj-api`). Paths from the MCP are vault-relative.
 
 ## The corpus MCP — `markdown-vault-syv` (PRIMARY, the SSOT)
@@ -153,7 +153,7 @@ Authority: `../.claude/rules/` (one contract per file) + the corpus SSOT
 
 Not the first option. Reserve `mcp__obsidian-syv__*` for what `markdown-vault-syv`
 does not cover: the live Obsidian graph cascade, UI commands, and cross-checking
-backlinks/wikilinks in the running app. Its horizon is the whole `~/Dev/SyV/` vault
+backlinks/wikilinks in the running app. Its horizon is the whole `~/SyV/` vault
 (siblings `syv-pj`, `syv-pj-api`), so it is also the way to glance at sibling repos.
 
 - **Read/UI**: `vault_read`, `vault_list`, `vault_get_document_map`, `search_simple`,
