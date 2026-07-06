@@ -2,8 +2,8 @@
 alcance: secreto
 aliases:
 - El Archivista — PRD
-- El Caso del Archivista — PRD capítulo 2
-description: 'PRD del capítulo dos de El Caso del Archivista — el asesinato se introduce
+- El Caso del Archivista — PRD capítulo 3
+description: 'PRD del capítulo tres de El Caso del Archivista — el asesinato se introduce
   como caso, el equipo dispar se instala en el séptimo piso de Seguridad Nacional,
   y arranca la gran excusa: contar la historia del mundo.'
 entidad: guia
@@ -14,7 +14,7 @@ folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[el-caso-del-archivista|El Caso del Archivista]]'
 - '[[el-caso-del-archivista-prd|PRD de la historia]]'
-- '[[cap-02-el-archivista|El Archivista (capítulo)]]'
+- '[[cap-03-el-archivista|El Archivista (capítulo)]]'
 - '[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los
   Santos]]'
 - '[[damian-diconte|Damián DiConte]]'
