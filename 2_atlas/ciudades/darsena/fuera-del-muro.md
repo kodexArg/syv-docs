@@ -46,6 +46,8 @@ El límite sur de Dársena donde comienzan Los Pantanos. Esta zona es físicamen
 
 Se cree que existen rutas comerciales clandestinas que conectan Los Pantanos con zonas internas de Dársena a través de sistemas de drenaje y canales abandonados, operadas por la [[resistencia-subterranea|Resistencia Subterránea]] y traficantes independientes. El control territorial es prácticamente inexistente, convirtiéndola en zona neutra de facto para encuentros entre facciones proscritas.
 
+Más allá de las marismas, donde el fango cede al firme, empieza otra cosa. Ahí arranca la zona muerta de la [[franja-de-alsina|Franja de Alsina]]: el sur profundo tampoco está dominado por nadie, pero la diferencia con el borde inmediato es de sangre. En la orilla de los pantanos la Guardia se limita a mirar, y la pasividad basta porque nadie se acerca. Un tramo más al sur, ya en la franja, la presencia militar de Dársena siempre se impone —planta bandera, patrulla, hace valer la ley—; y del otro lado de esa línea, en las tierras que trepan hacia el [[ejercito-rojo|Ejército Rojo]], lo que espera son los disparos. El silencio es de los pantanos. Los tiros, de la franja.
+
 ### **El Exterior Más Lejano (Este y Oeste)**
 Más allá de la DMZ, el Río de la Plata y Los Pantanos se extiende territorio salvaje y poco explorado. La información es escasa, pero se conocen fragmentos:
 
