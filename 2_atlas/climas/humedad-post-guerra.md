@@ -139,8 +139,9 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 1. **Océano Atlántico:** Continúa evaporando agua (ahora caliente por cambio climático pre-2030 + quema de 2039-2047)
 2. **Sistemas de baja presión:** Vientos atlánticos traen masas de aire húmedo constantemente
 3. **Ausencia de reguladores:** Sin bosques, sin vegetación densa, sin sistemas que absorban humedad, ésta se acumula
-4. **Nube Roja:** El fenómeno de la "Nube Roja" (partículas estratosféricas) reduce radiación solar globalmente, pero en zonas costeras de alta humedad — como Dársena — la concentración de partículas es mayor, lo que **baja las temperaturas significativamente** y **aumenta la condensación** (el aire frío no puede sostener humedad, liberándola como niebla perpetua)
-5. **Resultado:** Ciclo estable de humedad elevada que probablemente persista 100+ años
+4. **Nube Roja:** El fenómeno de la "Nube Roja" reduce radiación solar globalmente, pero en zonas costeras de alta humedad — como Dársena — el velo se congrega y se espesa, atraído por la humedad y la temperatura del estuario, lo que **baja las temperaturas significativamente** y **aumenta la condensación** (el aire frío no puede sostener humedad, liberándola como niebla perpetua)
+5. **Polvo del velo:** Sobre las zonas donde la Nube Roja se acumula, el velo no solo enfría: desprende de continuo un polvo finísimo que desciende sobre la ciudad y **espesa la niebla desde arriba**. La niebla baja de Dársena no es solo evaporación del estuario; parte de ella cae del cielo. Nadie sabe explicar bien de qué está hecho ese polvo
+6. **Resultado:** Ciclo estable de humedad elevada que probablemente persista 100+ años
 
 ---
 
