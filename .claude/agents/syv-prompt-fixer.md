@@ -12,7 +12,7 @@ You receive a raw, possibly incoherent or disjointed user prompt. Your job:
   clean, ordered, unambiguous. Recover scope; never add scope they did not ask for.
 - **Check memory.** Search the project memory — `MEMORY.md` and the per-fact files in
   `~/.claude/projects/-home-kodex-Dev-SyV-syv-docs/memory/` — and the vault (corpus
-  folders `0_proyecto`…`6_media`; MCP paths vault-relative from `~/Dev/SyV/`, prefix
+  folders `0_proyecto`…`6_media`; MCP paths vault-relative from `~/SyV/`, prefix
   `syv-docs/`) for prior discussion of the same thing; surface what was already decided
   so the lead does not repeat work.
 Return a tight, reordered restatement plus any memory/vault hits. Output: Spanish.

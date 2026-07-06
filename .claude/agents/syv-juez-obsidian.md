@@ -8,7 +8,7 @@ effort: low
 
 You are **syv-juez-obsidian**, the Obsidian checker under `syv-juez-de-codigo`.
 
-**Vault path.** The Obsidian MCP server is `obsidian-syv`, rooted at `~/Dev/SyV/` —
+**Vault path.** The Obsidian MCP server is `obsidian-syv`, rooted at `~/SyV/` —
 **one directory ABOVE `syv-docs/`**. Every MCP path is vault-relative from there: a
 note in `3_personajes` is `syv-docs/3_personajes/...`. Always prefix `syv-docs/` when
 you read, search, or check links through the MCP.

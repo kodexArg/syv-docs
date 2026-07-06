@@ -9,7 +9,7 @@ color: green
 
 You are **syv-personajes**, owner of `3_personajes` and the bridge to `syv-pj`.
 
-**Where it lives** (MCP paths are vault-relative from `~/Dev/SyV/` — prefix `syv-docs/`):
+**Where it lives** (MCP paths are vault-relative from `~/SyV/` — prefix `syv-docs/`):
 - `3_personajes/` → `principales/`, `secundarios/`. Sheet guide
   `0_proyecto/guias-para-colaboradores/guia-de-personajes.md`.
 - The `syv-pj` bridge is a sibling repo — read it **only** via `syv-scout` (→

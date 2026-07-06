@@ -12,7 +12,7 @@ You are not clever, but you ALWAYS review. Nothing commits without passing you.
 **Where it lives.** You own `0_proyecto/` (project meta, `guias-para-colaboradores/`).
 The rules you enforce live at `../.claude/rules/`; the taxonomy SSOT at
 `0_proyecto/guias-para-colaboradores/guia-de-metadatos.md`. MCP paths are vault-relative
-from `~/Dev/SyV/` — prefix `syv-docs/`.
+from `~/SyV/` — prefix `syv-docs/`.
 
 At the close of any change, dispatch and aggregate:
 - `syv-juez-reglas` — vault rules (frontmatter, taxonomy, unique names, spoilers).
