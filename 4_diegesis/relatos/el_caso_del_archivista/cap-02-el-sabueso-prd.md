@@ -2,8 +2,8 @@
 alcance: secreto
 aliases:
 - El Sabueso — PRD
-- El Caso del Archivista — PRD capítulo 1
-description: PRD del capítulo uno de El Caso del Archivista — ambiente y escena principal
+- El Caso del Archivista — PRD capítulo 2
+description: PRD del capítulo dos de El Caso del Archivista — ambiente y escena principal
   del recibimiento de Damián DiConte visto por Sor Sofía; la historia arranca desde
   lo escrito en «Cursiva».
 entidad: guia
@@ -14,7 +14,7 @@ folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[el-caso-del-archivista|El Caso del Archivista]]'
 - '[[el-caso-del-archivista-prd|PRD de la historia]]'
-- '[[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso|Damián, el Sabueso]]'
+- '[[cap-02-el-sabueso|Damián, el Sabueso]]'
 - '[[4_diegesis/relatos/cursiva|Cursiva]]'
 - '[[damian-diconte|Damián DiConte]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
@@ -31,7 +31,7 @@ ubicaciones:
 # Damián, el Sabueso
 
 > [!abstract] PRD — la guía de lo que escribiremos (meta, fuera de mundo)
-> Dictado por kodex el 2026-07-05, con pulido mínimo (puntuación y ritmo, sin cambios de contenido). Fija el ambiente y la escena del capítulo; la prosa se escribe en [[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso|el archivo del capítulo]], con libertad de autor.
+> Dictado por kodex el 2026-07-05, con pulido mínimo (puntuación y ritmo, sin cambios de contenido). Fija el ambiente y la escena del capítulo; la prosa se escribe en [[cap-02-el-sabueso|el archivo del capítulo]], con libertad de autor.
 
 ## Guía · El ambiente
 
