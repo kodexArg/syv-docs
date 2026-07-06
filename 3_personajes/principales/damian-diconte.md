@@ -14,7 +14,7 @@ nombre: Damián DiConte
 related:
 - '[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los
   Santos]]'
-- '[[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista]]'
+- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]]'
 - '[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]'
 - '[[5_aventuras/poseidos/poseidos|Los Poseídos]]'
 spoilers:
@@ -36,7 +36,7 @@ ubicaciones:
 
 ## Damián DiConte, El Sabueso
 
-**Edad**: Veterano. Rondaba los 55 cuando huyó de Córdoba (2176); se acerca a los sesenta para los días de [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista]], y parece aún más viejo.
+**Edad**: Veterano. Rondaba los 55 cuando huyó de Córdoba (2176); se acerca a los sesenta para los días de [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]], y parece aún más viejo.
 **Lugar**: Dársena (fugitivo de Córdoba)
 
 Subcomisario de Investigaciones Especiales (Córdoba) · instalado años después en una oficina del Ministerio de Defensa / Seguridad de Dársena, al servicio de la Iglesia.
@@ -105,7 +105,7 @@ Ahora en Dársena, Damián sabe que no está a salvo. La [[inquisicion|Inquisici
 
 Pasados los años, ya resueltos [[5_aventuras/poseidos/poseidos|Los Poseídos]] y algunas otras aventuras, **eclesiásticos de primera línea** terminaron de acomodar a Damián donde nadie lo quería: una oficina amplia, despejes por encima de su rango, en el Ministerio de Defensa / Seguridad de Dársena. Es un privilegio que la Iglesia viene ejerciendo sobre él desde hace años.
 
-Y la elección escuece, porque es muy particular: la Iglesia no pone a uno de *los suyos* para sus casos más sensibles, sino que se fía de un investigador con problemas de adicciones, cordobés, ajeno a todo. Eso resulta insultante para los policías del departamento de seguridad —que ven a un extraño, un cordobés jubilado, pasar por encima de su autoridad—, irrita a los militares, celosos de su jurisdicción, y desconcierta al clero darsenero, que debe responder a un desconocido que no es parte de ellos. Ese roce es el hilo que envuelve [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista]].
+Y la elección escuece, porque es muy particular: la Iglesia no pone a uno de *los suyos* para sus casos más sensibles, sino que se fía de un investigador con problemas de adicciones, cordobés, ajeno a todo. Eso resulta insultante para los policías del departamento de seguridad —que ven a un extraño, un cordobés jubilado, pasar por encima de su autoridad—, irrita a los militares, celosos de su jurisdicción, y desconcierta al clero darsenero, que debe responder a un desconocido que no es parte de ellos. Ese roce es el hilo que envuelve [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]].
 
 El hombre cuya vida se rompió por una caja que tuvo que abandonar recibe, ahora, otra caja — esta vez con su nombre.
 
@@ -116,7 +116,7 @@ El hombre cuya vida se rompió por una caja que tuvo que abandonar recibe, ahora
 - **Inquisidora Sofía**: Su "comité de bienvenida" en Dársena; una relación tensa de respeto y sospecha mutua.
 - **Teniente Coronel Gobernador de Córdoba**: El arquitecto de su desgracia y su principal antagonista en la sombra.
 - **El Contacto Anónimo**: La voz que le salvó la vida en Córdoba; Damián aún intenta averiguar quién fue.
-- **[[pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]**: la víctima de [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista]]; su reverso cognitivo — memoria total de nombres contra memoria nula.
+- **[[pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]**: la víctima de [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]]; su reverso cognitivo — memoria total de nombres contra memoria nula.
 - **[[paco-el-puntero|Paco el Puntero]] (Fallecido)**: Damián llegó a tener roces con la red de Paco poco después de llegar, antes de la muerte del puntero.
 
 ## Referencias

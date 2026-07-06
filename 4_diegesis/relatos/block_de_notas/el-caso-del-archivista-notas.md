@@ -31,7 +31,7 @@ tags: []
 ---
 
 > [!info] Qué es este archivo
-> Archivo de trabajo de **El Caso del Archivista**. kodex no quedó conforme con el rumbo del borrador ni con los spoilers, y decidió **reescribir el relato desde cero**. Acá se guarda **todo** lo que había, sin perder nada: el borrador de prosa, la brújula de spoilers, las notas de escenas y el esquema propuesto. «Todo esto va a pasar más o menos así» — sirve de cantera para la nueva versión. El relato canónico vive en [[4_diegesis/relatos/el-caso-del-archivista|El Caso del Archivista]] (vaciado para reescribir).
+> Archivo de trabajo de **El Caso del Archivista**. kodex no quedó conforme con el rumbo del borrador ni con los spoilers, y decidió **reescribir el relato desde cero**. Acá se guarda **todo** lo que había, sin perder nada: el borrador de prosa, la brújula de spoilers, las notas de escenas y el esquema propuesto. «Todo esto va a pasar más o menos así» — sirve de cantera para la nueva versión. El relato canónico vive en [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]] (vaciado para reescribir).
 
 ---
 
