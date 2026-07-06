@@ -73,7 +73,7 @@ No hay estrellas en Dársena. La niebla y la nubosidad perpetua bloquean toda lu
 
 - **Fuera del muro**: La noche cambia radicalmente. Al alejarse del estuario, la niebla se disipa y la nubosidad se adelgaza. En las Tierras Baldías, al oeste, los cielos nocturnos son dramáticamente más claros. Quienes nacieron en Dársena y ven estrellas por primera vez fuera del muro describen la experiencia como revelación religiosa o terror — un cielo que de pronto tiene profundidad, que no es techo sino abismo.
 
-> **Nota técnica (2178):** La tendencia global de enfriamiento, apenas perceptible en el registro de décadas, preocupa a los escasos científicos que monitorean el clima. Los modelos sugieren que, de mantenerse la concentración actual de la Nube Roja, las temperaturas medias podrían descender otros 3-5°C en el próximo siglo — un umbral que algunos denominan "el inicio de una era de hielo artificial". La preocupación no ha llegado al público ni a las instituciones.
+> **Nota técnica (2178):** La tendencia global de enfriamiento, apenas perceptible en el registro de décadas, preocupa a los escasos científicos que monitorean el clima. Los modelos sugieren que, de mantenerse la concentración actual de la Nube Roja, las temperaturas medias podrían descender otros 3-5°C en el próximo siglo — un umbral que algunos denominan "el inicio de una era de hielo artificial". El velo, lejos de disiparse con los años, se espesa despacio y sin pausa, como si tuviera voluntad propia de crecer. La preocupación no ha llegado al público ni a las instituciones — y los poquísimos que sospechan la causa verdadera de ese espesamiento callan por miedo a la hoguera.
 
 ## Córdoba (Interior, Sierras Pampeanas)
 
