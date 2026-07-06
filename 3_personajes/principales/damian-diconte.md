@@ -14,7 +14,7 @@ nombre: Damián DiConte
 related:
 - '[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los
   Santos]]'
-- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista]]'
+- '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
 - '[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]'
 - '[[5_aventuras/poseidos/poseidos|Los Poseídos]]'
 spoilers:
