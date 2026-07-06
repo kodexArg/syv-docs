@@ -1,6 +1,19 @@
 # Changelog
 
 ## [Unreleased]
+- group: relato-archivista-reestructurado-capitulos
+  priority: high
+  commit: b0d38b0
+  changes:
+    - feat(relatos): reestructuración de «El Caso del Archivista» — patrón hub/capítulos; creada carpeta 4_diegesis/relatos/el_caso_del_archivista/
+    - feat(relatos): nuevo hub canónico 4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista.md — mantiene slug original, aloja capítulos
+    - feat(relatos): primer capítulo 4_diegesis/relatos/el_caso_del_archivista/cap-01-el-sabueso.md — PRD desde POV de Sor Sofía, ambiance + escena principal (prosa pending)
+    - feat(relatos): segunda escena 4_diegesis/relatos/el_caso_del_archivista/damian-el-sabueso.md — Damián Diconte en el rol de sabueso, backlinks consolidadas
+    - refactor(archivo): movido borrador anterior → 4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador.md (frontmatter retitulado; prosa preservada; estado borrador)
+    - fix(personajes): repuntadas wikilinks en 3_personajes/principales/damian-diconte.md — (4 referencias) apuntadas al hub canónico
+    - fix(deuda-tecnica): repuntadas wikilinks en 0_proyecto/deuda-tecnica/09-seguridad-nacional-darsena-vs-dns.md — (2 referencias) al hub canónico
+    - fix(notas): repuntada wikilink en 4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas.md — (1 referencia) al hub canónico
+
 - group: canon-meteorito-buenos-aires-2039
   priority: high
   commit: 3af3788
