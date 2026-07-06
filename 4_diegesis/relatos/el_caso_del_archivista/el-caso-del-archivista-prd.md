@@ -1,3 +1,34 @@
+---
+alcance: secreto
+aliases:
+- El Caso del Archivista — PRD
+- PRD del Caso del Archivista
+description: 'PRD de la historia completa, agnóstico a capítulos: la secuencia de
+  hechos de El Caso del Archivista. Material de planificación de kodex, meta y fuera
+  de mundo.'
+entidad: guia
+estado: borrador
+folder: 4_diegesis/relatos/el_caso_del_archivista
+related:
+- '[[el-caso-del-archivista|El Caso del Archivista]]'
+- '[[cap-01-el-sabueso-prd|PRD del capítulo 1]]'
+- '[[cap-02-el-archivista-prd|PRD del capítulo 2]]'
+- '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
+- '[[damian-diconte|Damián DiConte]]'
+- '[[3_personajes/principales/padre-rafa|Padre Rafa]]'
+- '[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]'
+- '[[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]'
+spoilers:
+- La carta de ayuda crítica llega yuxtapuesta a la misión santa; el lector conoce
+  solo uno de los dos eventos.
+- El Padre Rafa intuye el conflicto interior de Sofía.
+tags: []
+title: El Caso del Archivista — PRD
+ubicaciones:
+- '[[darsena|Ciudad Dársena]]'
+- '[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]'
+---
+
 PRD es un término que por estos días se me hace familiar. Lo que aquí quiero dejar definido es cómo se suceden los hecho para que vayamos pensando la historia. Esto es agnóstico a los capítulos
 
 
