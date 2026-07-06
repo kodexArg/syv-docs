@@ -4,7 +4,7 @@ description: El relato sitúa a Damián en un «edificio de Seguridad Nacional»
   la institución con el canon.
 folder: 0_proyecto/deuda-tecnica
 related:
-- '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|El Caso del Archivista (relato)]]'
+- '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista (relato)]]'
 - '[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista
   (notas)]]'
 - '[[0_proyecto/deuda-tecnica/deuda-tecnica|Deuda Técnica]]'
