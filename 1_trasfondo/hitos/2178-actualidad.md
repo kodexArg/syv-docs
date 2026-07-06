@@ -9,6 +9,12 @@ aliases:
   - Actualidad 2178
 related:
   - "[[anatema-mecanico]]"
+  - "[[confederacion-argentina]]"
+  - "[[ejercito-rojo]]"
+  - "[[salvajes]]"
+  - "[[caudillos-del-norte]]"
+  - "[[franja-de-alsina]]"
+  - "[[2080-la-decada-de-los-bumers]]"
 tags: []
 ---
 ## Año 2178: Actualidad
