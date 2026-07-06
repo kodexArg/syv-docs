@@ -17,7 +17,7 @@ ubicaciones:
 ---
 # El Clima en la Confederación Argentina (2178)
 
-El planeta Tierra en 2178 opera bajo un nuevo régimen climático. Una intervención a gran escala con la "Nube Roja" (partículas estratosféricas reflectantes) ha atenuado los picos de calentamiento extremo, pero ha provocado un oscurecimiento global parcial. Las partículas imprimen a toda la luz una sutil tendencia al naranja — apenas perceptible durante el día, más evidente al amanecer y al atardecer, cuyos tonos cálidos duran un poco más de lo natural. El celeste profundo del mediodía es más breve y más pálido de lo que era antes del despliegue. La luz solar, en general, es más difusa.
+El planeta Tierra en 2178 opera bajo un nuevo régimen climático. Una intervención a gran escala durante los años de la Gran Guerra — cuando flotas de aviones sembraron los cielos con aerosoles como último recurso contra el calentamiento — dio origen al velo que hoy llamamos la "Nube Roja". Se lo tiene por un manto de partículas estratosféricas reflectantes, sembrado y luego permanente; el mundo lo acepta así, sin recordar el cielo de antes. Ese velo ha atenuado los picos de calentamiento extremo, pero ha provocado un oscurecimiento global parcial. Las partículas imprimen a toda la luz una sutil tendencia al naranja — apenas perceptible durante el día, más evidente al amanecer y al atardecer, cuyos tonos cálidos duran un poco más de lo natural. El celeste profundo del mediodía es más breve y más pálido de lo que era antes del despliegue. La luz solar, en general, es más difusa.
 
 ## Ciudad Dársena — "La Ciudad de las Nubes"
 
