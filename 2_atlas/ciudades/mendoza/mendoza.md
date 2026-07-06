@@ -41,7 +41,7 @@ La estructura de poder en Mendoza se asienta sobre una **Comandancia Militar que
 
 ### **Comandancia Militar (3% de población)**
 - Encargada de defensa territorial, vigilancia de fronteras, contraespionaje
-- Reporta directamente al Ejército Argentino en Córdoba, pero goza de autonomía significativa
+- Reporta directamente al Ejército Argentino en Córdoba **sobre el papel**; en los hechos, Mendoza no está realmente dentro de la [[confederacion-argentina|Confederación]] —entra y sale del pacto sólo para lo que le conviene—. La cadena de mando existe en los formularios; la lealtad, apenas en la conveniencia
 - Especialización única: **Inteligencia y Espionaje**
 - Control de las comunicaciones (Torre de Señales andina), monitoreo de movimientos en frontera chilena
 - Reclutamiento selectivo entre clases medias urbanas
