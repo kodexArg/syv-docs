@@ -10,6 +10,12 @@ aliases:
   - Ciudad Mendoza
 region: Mendoza
 tags: []
+related:
+  - "[[confederacion-argentina]]"
+  - "[[ejercito-rojo]]"
+  - "[[caudillos-del-norte]]"
+  - "[[san-luis]]"
+  - "[[2031-la-fragmentacion-de-argentina]]"
 ubicaciones:
   - "[[universidad-de-cuyo]]"
 ---
