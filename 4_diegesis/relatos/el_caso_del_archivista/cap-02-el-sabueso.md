@@ -2,8 +2,8 @@
 alcance: secreto
 aliases:
 - Damián, el Sabueso
-- El Caso del Archivista — capítulo 1
-description: Capítulo uno de El Caso del Archivista — prosa. El recibimiento de Damián
+- El Caso del Archivista — capítulo 2
+description: Capítulo dos de El Caso del Archivista — prosa. El recibimiento de Damián
   DiConte desde los ojos de Sor Sofía; la guía vive en el PRD del capítulo.
 entidad: relato
 estado: borrador
@@ -12,7 +12,7 @@ facciones:
 folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[el-caso-del-archivista|El Caso del Archivista]]'
-- '[[cap-01-el-sabueso-prd|PRD del capítulo]]'
+- '[[cap-02-el-sabueso-prd|PRD del capítulo]]'
 - '[[4_diegesis/relatos/cursiva|Cursiva]]'
 - '[[damian-diconte|Damián DiConte]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
@@ -25,4 +25,4 @@ ubicaciones:
 
 # Damián, el Sabueso
 
-%% prosa del capítulo uno — pendiente de dictado; guía en [[cap-01-el-sabueso-prd|el PRD del capítulo]] %%
+%% prosa del capítulo dos — pendiente de dictado; guía en [[cap-02-el-sabueso-prd|el PRD del capítulo]] %%
