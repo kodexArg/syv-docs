@@ -35,6 +35,7 @@ Cuando hay que referirse a la ciudad vieja, se la rodea. Nunca se la nombra de f
 
 - **«la ciudad al pie del meteorito»** — la más común; la ubica por la herida.
 - **«el bastión que la humanidad levantó de las ruinas»** — la evoca por lo que se construyó, no por lo que se perdió.
+- **«Las Ruinas»** — el rodeo más llano y cotidiano: no la ciudad viva ni el lago que fue herida, sino el cascoterío seco que la rodea, la huella de escombros que se puede pisar. Es como el habla de [[darsena|Dársena]] señala el desierto de ruinas del oeste sin nombrarlo; ahí, entre los cascotes, rondan los [[salvajes|Salvajes]].
 - **«la que el hielo borró»**, **«la capital del mundo muerto»**, **«lo que hubo antes del cráter»** — variantes de rodeo, todas orientadas al meteorito y a la fundación.
 
 El [[anatema-mecanico|Anatema Mecánico]] silencia la técnica del Viejo Mundo; el tabú del nombre silencia su capital. Son dos caras de la misma amnesia consagrada: lo que no se nombra, no vuelve.
