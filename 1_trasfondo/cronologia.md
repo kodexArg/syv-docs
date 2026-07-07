@@ -19,6 +19,7 @@ related:
   - "[[2031-la-fragmentacion-de-argentina]]"
   - "[[2035-nacimiento-de-las-qia]]"
   - "[[2039-el-meteorito-de-buenos-aires]]"
+  - "[[2057-el-pico-y-la-caida]]"
   - "[[2080-la-decada-de-los-bumers]]"
 tags: []
 ---
