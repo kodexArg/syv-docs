@@ -1,94 +1,127 @@
 ---
-title: Clima 2178
-folder: 2_atlas/climas
-description: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
-entidad: concepto
 alcance: publico
-estado: canon
 aliases:
-  - Clima 2178
-  - La Nube Roja
-  - Niebla Perpetua
+- Clima 2178
+- La Nube Roja
+- El Velo
+- Cielo Enrojecido
+description: 'El Clima en 2178 - Un mundo caliente bajo un velo que lo templa: monotonía,
+  humedad creciente y niebla que rodea Dársena.'
+entidad: concepto
+estado: canon
+folder: 2_atlas/climas
 tags: []
+title: Clima 2178
 ubicaciones:
-  - "[[darsena]]"
-  - "[[capital]]"
-  - "[[mendoza]]"
+- '[[darsena]]'
+- '[[capital]]'
+- '[[mendoza]]'
 ---
+
 # El Clima en la Confederación Argentina (2178)
 
-El planeta Tierra en 2178 opera bajo un nuevo régimen climático. Una intervención a gran escala durante los años de la Gran Guerra — cuando flotas de aviones sembraron los cielos con aerosoles como último recurso contra el calentamiento — dio origen al velo que hoy llamamos la "Nube Roja". Se lo tiene por un manto de partículas estratosféricas reflectantes, sembrado y luego permanente; el mundo lo acepta así, sin recordar el cielo de antes. Ese velo ha atenuado los picos de calentamiento extremo, pero ha provocado un oscurecimiento global parcial. Las partículas imprimen a toda la luz una sutil tendencia al naranja — apenas perceptible durante el día, más evidente al amanecer y al atardecer, cuyos tonos cálidos duran un poco más de lo natural. El celeste profundo del mediodía es más breve y más pálido de lo que era antes del despliegue. La luz solar, en general, es más difusa.
+El planeta Tierra en 2178 opera bajo un régimen climático de dos caras que conviene entender juntas, porque una sin la otra engaña.
+
+La primera cara es el **calor**. En los siglos previos al colapso el clima se desbocó: el mundo se fue recalentando sin freno, camino de un umbral que habría vuelto la tierra invivible. Ese calor de fondo **no desapareció**. Sigue ahí, debajo de todo. La Confederación entera vive sobre un mundo caliente.
+
+La segunda cara es el **velo** que hoy se llama la "Nube Roja". Es un manto tenue de partículas que cubre el cielo y atenúa parte de la luz del sol antes de que toque la tierra. Se lo tiene por un fenómeno del clima —natural o heredado del colapso, según a quién se pregunte—, y el mundo lo acepta así, sin recordar el cielo de antes. Lo que hace el velo es simple y decisivo: **le pone un techo al calor**. No lo revierte —el mundo sigue caliente— pero lo mantiene por debajo del punto que mataría las cosechas y a los hombres. Sin el velo, la Argentina sería un horno a cielo abierto. Con él, es un mundo caluroso pero vivible.
+
+## Un mundo quieto y aletargado
+
+El velo trajo, además del techo, una calma extraña. A medida que se espesó, el clima de todo el planeta se volvió **monótono y aletargado**:
+
+- **Los vientos amainaron.** Los grandes empujes de aire de antaño se apagaron. La atmósfera se mueve cada vez menos; hay una quietud pesada en el aire de casi toda la Confederación.
+- **La variación térmica colapsó.** El termómetro dejó de saltar. Se difuminaron los extremos del día y de la noche, y se borraron las estaciones marcadas. Ya no hay veranos altos ni inviernos hondos: hay un temple parejo que apenas se corre unos grados de una punta del año a la otra.
+
+El resultado es un mundo sin sobresaltos, húmedo y quieto, aletargado bajo su propio techo. En Argentina se siente con claridad: el aire no sopla, el año no cambia demasiado, los días se parecen entre sí.
+
+## El agua que sube
+
+Al calor y la quietud se suma un tercer hecho, cada vez más visible: **el agua.** El nivel de las aguas es alto y sigue creciendo. El Río de la Plata sube año tras año, la napa asciende por debajo, y los espejos de agua y la humedad han aumentado drásticamente — no solo en la comarca de Dársena, donde el fenómeno es extremo, sino en **toda Argentina**. Ese exceso de agua es la causa mayor de la humedad y de la niebla que definen buena parte del territorio. Donde hay más agua, hay más bruma; y agua, ahora, hay en todas partes.
+
+## La luz enrojecida
+
+El velo imprime a la luz una tendencia sutil al rojo. No es una nube roja colgada del cielo —no hay objeto que ver—; es un **tono**: la escena entera se corre apenas hacia el rojo, casi imperceptible durante el día. Se nota sobre todo con **las primeras luces del amanecer** y en los atardeceres, cuyos rojos se encienden con fuerza. Esto ocurre **en todo el planeta**, donde quiera que haya velo, no solo en Dársena. El celeste profundo del mediodía es más breve y más pálido que antes; la luz, en general, es más difusa.
 
 ## Ciudad Dársena — "La Ciudad de las Nubes"
 
-La Nube Roja no se distribuye uniformemente sobre la superficie terrestre. Existen zonas de acumulación natural donde el velo se congrega y se espesa: franjas costeras con grandes masas de agua, regiones de humedad extrema, estuarios. Ciudad Dársena reúne todos estos factores, y algo en su humedad y su temperatura parece atraer al velo hacia su cielo como ningún otro punto de la latitud. La concentración de la Nube Roja sobre la ciudad y sus alrededores es sensiblemente mayor que en otras regiones, lo que reduce drásticamente la radiación solar que alcanza la superficie. Córdoba, seca y sin esa atracción, corre varios grados más caliente: sobre ella el velo es más ralo.
+El velo no se reparte parejo sobre la tierra. Se acumula sobre las grandes masas de agua: franjas costeras, estuarios, regiones anegadas. [[darsena|Ciudad Dársena]], asentada sobre su estuario y rodeada de agua por casi todos lados, reúne más velo sobre su comarca que ningún otro punto de la latitud. Esa sombra de más hace de Dársena un **oasis templado** dentro de una Argentina recalentada: mientras el interior seco arde, sobre el agua de Dársena se apila el techo más espeso, y la ciudad queda fresca en comparación.
 
-El resultado es una ciudad fría y perpetuamente nublada. La temperatura media anual ronda los **13°C** — considerablemente inferior a la de Córdoba o Fuerte San Martín en latitudes similares. La muralla de 20 metros que rodea la ciudad y la densa vegetación de la Isla Oriental actúan como trampa atmosférica: la niebla que entra no sale, y se acumula en los barrios bajos como un líquido pesado. Los habitantes la llaman "La Ciudad de las Nubes" porque, la mayoría de los días, vivir en Dársena es vivir dentro de una nube.
+"Fresca" no quiere decir "fría". El viejo registro que daba a Dársena una media de 13°C era de otro mundo, de cuando aún se creía que el velo enfriaba de veras. El equilibrio real es otro:
 
-La subida sostenida del nivel del Río de la Plata ha obligado a la ciudad a elevarse progresivamente, pero la humedad del estuario sigue alimentando una niebla advectiva densa y persistente, de tonos blancos y grisáceos.
+> [!info] Temperatura de Dársena (2178)
+> Media anual en torno a los **18–19°C**, con **amplitud diaria y estacional mínima**. Templada, húmeda, monótona. No hay inviernos que calen los huesos ni veranos altos: verano e invierno son casi indistinguibles en el termómetro. Lo que cambia entre estaciones no es el calor sino la **densidad de la niebla y la calidad de la luz**.
 
-- **Verano (Diciembre - Febrero)**:
-    - **Temperatura**: Entre 14-22°C. Los días más cálidos apenas superan los 22°C, pero la humedad extrema (80-100%) genera una sensación de frío pegajoso que no permite secarse.
-    - **Precipitación**: Tormentas eléctricas frecuentes y aguaceros que lavan temporalmente las partículas suspendidas, aclarando el cielo por horas antes de que la niebla regrese.
-    - **Visibilidad**: Habitualmente por debajo de los 200 metros. En días de niebla suave, hasta 300-500 metros.
-    - **Notas**: La constante humedad provoca corrosión acelerada en el metal e hinchazón en la madera. La ropa nunca termina de secarse.
+La subida sostenida del Río de la Plata ha obligado a la ciudad a elevarse, pero la humedad del estuario alimenta una bruma constante. Los habitantes la llaman "La Ciudad de las Nubes" — aunque, como se verá, la nube más espesa no está adentro sino alrededor.
 
-- **Invierno (Junio - Agosto)**:
-    - **Temperatura**: Entre 0-8°C. El frío húmedo penetra cualquier abrigo y cala los huesos.
-    - **Precipitación**: Lloviznas constantes y lluvia fina son la norma. En incursiones de aire polar intenso, cae aguanieve o nieve húmeda que se derrite al tocar el suelo encharcado.
-    - **Visibilidad**: Frecuentemente por debajo de los 50 metros durante días enteros, creando un entorno desorientador y claustrofóbico donde se pierde toda referencia espacial.
-    - **Notas**: La crueldad del invierno de Dársena no es el frío en sí — otras ciudades son más frías — sino la humedad que lo vuelve inescapable. No hay fuego que seque el aire. No hay abrigo que no se empape.
+### Las estaciones — una monotonía templada
 
-### La Niebla: Densidades y Lluvia
+Las estaciones de Dársena casi no se distinguen por el termómetro. Se distinguen por la niebla y la luz.
 
-La niebla de Dársena es siempre blanca o grisácea — masa de agua pura del estuario, sin color propio. Lo que varía es su densidad, que fluctúa entre tres estados:
+- **Verano (Diciembre – Febrero)**:
+    - **Temperatura**: En torno a **18–20°C**, con máximos que rara vez pasan de 22°C. La humedad (80–100%) da una sensación pegajosa y tibia, nunca calor seco.
+    - **Precipitación**: Lloviznas casi diarias; alguna tormenta ocasional que lava por horas el aire antes de que la bruma vuelva.
+    - **Luz**: Días algo más largos y claros; la niebla tiende a levantarse antes por la mañana.
+    - **Notas**: La humedad perpetua corroe el metal e hincha la madera. La ropa nunca termina de secarse.
 
-- **Niebla densa**: La peor. Visibilidad inferior a 50 metros, a veces inferior a 20. Se arrastra a nivel de calle, lame los muros, llena los callejones. El sonido se amortigua y las voces parecen llegar de todas partes. Empapa la ropa en minutos y se mete en los pulmones como si se respirara agua. Común en invierno y en las madrugadas de cualquier estación.
+- **Invierno (Junio – Agosto)**:
+    - **Temperatura**: En torno a **17–18°C**. La diferencia con el verano es de apenas un grado o dos: no hay frío que cale los huesos, solo una **humedad tibia y perpetua** un poco más densa. El viejo "frío húmedo de 0 a 8°C" pertenece a un canon corregido: ya no aplica.
+    - **Precipitación**: Llovizna fina casi continua; el aire está más cargado de agua que en verano, pero no más frío de manera sensible.
+    - **Luz**: Días grises, la niebla se disipa más tarde o no se disipa; menos horas de luz clara.
+    - **Notas**: El rigor del invierno de Dársena no es el frío —no lo hay— sino la **humedad**, que se espesa y no da tregua. No hay fuego que seque el aire.
 
-- **Niebla media**: El estado más frecuente. Visibilidad entre 50 y 200 metros. El mundo existe en un radio limitado — se distinguen los edificios cercanos, las siluetas de los transeúntes, los faroles. Más allá, todo se disuelve en gris blancuzco. La ciudad funciona con normalidad bajo esta niebla; es el paisaje cotidiano de Dársena.
+### La niebla: dónde está de veras
 
-- **Niebla suave**: Los "días buenos". Visibilidad de varios cientos de metros, a veces más. La niebla se adelgaza lo suficiente para distinguir el cielo — gris claro, a veces blanquecino. Desde las alturas se intuye el horizonte. La tendencia cálida de la luz, siempre presente pero normalmente invisible bajo la niebla, se hace más notoria en estos días.
+Aquí hay que corregir una creencia arraigada, porque el mapa de la niebla es al revés de lo que se pensaba. **La niebla es mucho más fuerte afuera del muro que adentro.** Dársena no encierra la niebla: está **rodeada** por ella.
 
-- **La Sábana**: Niebla baja y pesada que se acumula dentro de la muralla, especialmente al amanecer. Se comporta como un líquido: llena primero las calles más bajas, luego sube. En las mañanas más densas, solo las cúpulas de la Basílica y las Torres Hidropónicas asoman por encima de la capa blanca. Los barrios del muro quedan sumergidos.
+El velo y la humedad se ceban sobre el **agua** que envuelve a la ciudad —el estuario, el mar, el Pantano anegado del sur—, no sobre la piedra seca y elevada del interior murado. Por eso la bruma se apila afuera, contra la cara externa del muro, y deja adentro un aire relativamente más claro.
 
-- **Llovizna perpetua**: No es niebla propiamente, sino la precipitación por defecto de Dársena — una lluvia tan fina que no cae sino que flota, en suspensión entre el cielo y el suelo. Moja sin mojar. Empapa sin llover. Es el estado atmosférico "neutro" de la ciudad: si no llueve fuerte y no hay niebla densa, hay llovizna. A veces coexiste con cualquiera de los tres niveles de niebla.
+- **El muro como rompeolas.** La muralla de 20 metros no atrapa la niebla: la **aparta**. Funciona como un rompeolas contra la bruma del agua que rodea la ciudad. Dársena intramuros es un **ojo de claridad relativa** —seca y elevada— dentro de un anillo de niebla que se apila afuera.
+- **El Pantano (sur).** El peor foco de todos. Sobre el agua estancada que anegó los viejos barrios del sur, la niebla es un infierno impenetrable: la visibilidad **rara vez supera los cinco metros**. Es la bruma más densa de toda la comarca.
+- **Las Ruinas (oeste).** Tierra seca, no niebla. El cascoterío árido de la DMZ no tiene agua que alimente bruma: es un páramo de escombros, "un lugar para romperse un tobillo". Es el tercer régimen — seco por falta de agua, no por altura.
+- **Adentro, al amanecer.** Con todo, la ciudad no está limpia. De noche, y sobre todo **al amanecer**, la poca niebla que se cuela por sobre el muro o se genera dentro se estanca en los barrios bajos antes de que el día la disipe. En esas horas, vivir en Dársena "es como vivir dentro de una nube". Son las dos cosas a la vez, en dos niveles: el muro bloquea la enorme niebla **externa** (mucha menos importada), y a la vez estanca la **poca interna** hasta que amanece.
 
-### Cómo Luce el Día
+### Densidades de la niebla (interior)
 
-La luz diurna en Dársena es difusa, sin dirección, sin sombras definidas. El sol nunca se ve como disco — solo como un resplandor blanquecino detrás de capas de niebla. No hay "amanecer" visible desde la calle; hay un lento aclararse del gris, como si alguien subiera gradualmente la intensidad de una lámpara detrás de una sábana húmeda.
+Dentro del muro, lo que se ve es la fracción menor de la bruma, y aun así fluctúa:
 
-- **A nivel de calle** (primeros 3-4 pisos): Penumbra perpetua. La luz es gris uniforme, sin dirección. No hay sombras porque la luz llega refractada desde todas las direcciones. En los barrios del muro, donde los edificios de cincuenta metros bloquean todo, hay zonas donde no se distingue el día de la noche sin reloj.
+- **La Sábana (amanecer)**: El estado más notorio. Niebla baja que se cuela o se genera de noche y se acumula en las calles bajas hasta que el día la levanta. Se comporta como un líquido: llena primero los callejones, luego sube. En las mañanas más densas solo las cúpulas y las Torres Hidropónicas asoman.
+- **Niebla media**: Visibilidad de 100 a algunos cientos de metros. Frecuente por la mañana; se adelgaza al avanzar el día.
+- **Aire claro (mediodía y tarde)**: Lo habitual una vez disipada la Sábana. El interior murado, seco y elevado, respira un aire mucho más limpio que el anillo de bruma que lo rodea. Desde las alturas se ve, afuera, el mar de niebla apilado contra el muro.
+- **Llovizna perpetua**: No es niebla sino la precipitación por defecto de Dársena — una lluvia tan fina que flota. Moja sin llover. Es el estado "neutro" de la ciudad.
 
-- **A media altura** (pisos 5-10): La niebla se adelgaza. El gris adquiere textura — se distinguen capas, corrientes, remolinos lentos de vapor. La luz es suficiente para leer sin vela. En días de niebla suave, se intuye la posición del sol como mancha blanca difusa.
+La niebla es siempre blanca o grisácea: masa de agua del estuario y del aire húmedo, sin color propio. Lo que la tiñe apenas, en las acumulaciones y con las primeras luces, es la tendencia roja de la luz, no la niebla misma.
 
-- **En las alturas** (terrazas, campanarios, cúpulas): Más luz, más cielo. En días de niebla suave se distingue un cielo gris claro, a veces blanquecino. Abajo, la ciudad desaparece en un mar de algodón gris-blanco del que emergen torres y cruces como mástiles de barcos hundidos.
+### Cómo luce el día
 
-### Cómo Luce la Noche
+La luz diurna en Dársena es difusa, sin sombras marcadas, sobre todo a primera hora bajo la Sábana. Disipada la niebla matinal, el interior murado recibe una luz gris clara, más franca que la del anillo brumoso de afuera.
 
-No hay estrellas en Dársena. La niebla y la nubosidad perpetua bloquean toda luz celeste. La luna, cuando está llena, se adivina como un halo difuso — nunca como disco.
+- **A nivel de calle**: Al amanecer, penumbra bajo la Sábana. Avanzado el día, luz gris pareja; en los barrios del muro, donde los edificios altos tapan todo, hay rincones de penumbra perpetua.
+- **En las alturas** (terrazas, campanarios): Más luz y más cielo. Disipada la Sábana, se distingue un cielo gris claro con su tinte apenas rojizo, sobre todo al alba. Abajo y **afuera**, el anillo de niebla se extiende como un mar de algodón contra la muralla.
 
-- **A nivel de calle**: Oscuridad densa. Las fuentes de luz artificial — lámparas de gas, velas, las escasas luminarias eléctricas — generan halos cortos en la niebla. Un farol de gas ilumina un radio de 3-4 metros; más allá, nada. Caminar de noche en Dársena es caminar de isla de luz en isla de luz, con tramos de ceguera total entre ellas.
+En las acumulaciones más densas de humedad de la comarca, con las primeras luces, el enrojecimiento del cielo se intensifica, y por momentos hasta el suelo mojado toma un **tono oxidado**, como de herrumbre. Es un efecto de luz, no una nube visible.
 
-- **En las alturas**: Un resplandor tenue y cálido sube desde la ciudad — la luz de miles de faroles de gas, velas y fogones reflejada por la niebla misma. Las noches de Dársena no son negras; tienen un brillo apagado, como si la ciudad ardiera permanentemente bajo las nubes. Desde el mar, dicen los marineros, Dársena de noche parece un incendio distante que nunca se apaga.
+### Cómo luce la noche
 
-- **Fuera del muro**: La noche cambia radicalmente. Al alejarse del estuario, la niebla se disipa y la nubosidad se adelgaza. En las Tierras Baldías, al oeste, los cielos nocturnos son dramáticamente más claros. Quienes nacieron en Dársena y ven estrellas por primera vez fuera del muro describen la experiencia como revelación religiosa o terror — un cielo que de pronto tiene profundidad, que no es techo sino abismo.
+No hay estrellas sobre Dársena: el velo y la humedad las tapan. La luna llena se adivina como un halo difuso.
 
-> **Nota técnica (2178):** La tendencia global de enfriamiento, apenas perceptible en el registro de décadas, preocupa a los escasos científicos que monitorean el clima. Los modelos sugieren que, de mantenerse la concentración actual de la Nube Roja, las temperaturas medias podrían descender otros 3-5°C en el próximo siglo — un umbral que algunos denominan "el inicio de una era de hielo artificial". El velo, lejos de disiparse con los años, se espesa despacio y sin pausa, como si tuviera voluntad propia de crecer. La preocupación no ha llegado al público ni a las instituciones — y los poquísimos que sospechan la causa verdadera de ese espesamiento callan por miedo a la hoguera.
+- **A nivel de calle**: Oscuridad; las luces de gas hacen halos cortos en el aire húmedo.
+- **En las alturas**: Un resplandor tenue y cálido sube de la ciudad, reflejado por la humedad. Desde el mar, dicen los marineros, Dársena de noche parece un incendio distante que nunca se apaga.
+- **Fuera del muro (oeste, tierra seca)**: Al alejarse del agua, hacia las Ruinas, la humedad cae y el cielo se adelgaza. En las Tierras Baldías del oeste los cielos nocturnos son mucho más claros, y quienes nacieron en Dársena y ven estrellas por primera vez lo describen como revelación o terror.
 
 ## Córdoba (Interior, Sierras Pampeanas)
 
-El clima de Córdoba es continental y más seco que el de Dársena.
+Córdoba es el contrapunto de Dársena, y explica mejor que nada el mapa del velo. Lejos de toda agua grande, sobre ella el velo es **ralo**: poca sombra, poco techo. Por eso el calor global se siente ahí sin atenuar. Córdoba corre **calurosa y húmeda** — el calor de fondo del mundo, casi crudo, más el agua que subió en toda Argentina.
 
-- **Verano (Diciembre - Febrero)**:
-    - **Temperatura**: Caluroso, 25-35°C, con picos que pueden superar los 40°C.
-    - **Precipitación**: Principalmente en forma de tormentas eléctricas, a veces violentas con granizo y ráfagas de viento.
-- **Invierno (Junio - Agosto)**:
-    - **Temperatura**: Fresco durante el día y frío por la noche, entre 0-15°C. Las heladas nocturnas son comunes.
-    - **Precipitación**: Escasa, con predominio de días soleados pero fríos.
+- **Temperatura**: Calurosa el año entero, con la misma monotonía que rige el planeta: menos estaciones marcadas que antaño, pero un temple alto y sostenido, muy por encima del de Dársena. Los días más duros pasan holgados los 30°C.
+- **Humedad**: Alta y creciente. Córdoba, que fue seca, es hoy calurosa y húmeda a la vez — la peor combinación. Tiene mucho que decir sobre el aumento de agua y humedad en toda la Confederación: es donde el calor con agua se vuelve más asfixiante.
+- **Precipitación**: Tormentas, a veces violentas, dentro de la nueva quietud general del aire.
 
-## Región de Mendoza (Cuyo - Árido Andino)
+El gradiente es claro: **Dársena, oasis templado sobre el agua; Córdoba, calurosa bajo un velo ralo.** No es que el sol castigue más a Córdoba, sino que Dársena tiene encima un techo que Córdoba no tiene.
 
-El clima es árido a semiárido, fuertemente influenciado por la Cordillera de los Andes. El suministro de agua de los ríos es extremadamente errático debido a la deglaciación. El viento Zonda, un fenómeno cálido, seco y polvoriento, es recurrente y se ha intensificado.
+## Región de Mendoza (Cuyo — Árido Andino)
+
+El clima de Mendoza es árido a semiárido, dominado por la Cordillera. El agua de los ríos es errática por la deglaciación. En la quietud general del planeta —con los vientos apagados en casi todas partes— Mendoza guarda una **excepción orográfica**: el **viento Zonda**, fenómeno cálido y seco que nace del choque del aire contra los Andes, **persiste** por su origen local en la montaña, aunque la circulación general del aire se haya aletargado. No es que el Zonda haya arreciado contra la corriente del mundo; es que es un fenómeno **de la cordillera**, no de los grandes vientos planetarios, y sobrevive por eso donde los demás vientos callaron. Es el último gran viento de una tierra que, por lo demás, también se aquietó.
 
 - **Uspallata (Valle Alto Andino, ~2000 msnm)**:
-    - **Verano**: Días templados (15-28°C) con noches frescas a frías (5-10°C). La amplitud térmica diaria es marcada.
+    - Días templados con noches frescas; conserva algo más de amplitud térmica que las tierras bajas, por la altura andina.
