@@ -20,11 +20,14 @@ related:
   - "[[los-hackers]]"
   - "[[fuerzas-armadas]]"
   - "[[gremio-de-comercio]]"
+  - "[[1_trasfondo/codex/la-nube-roja-verdad-oculta|La Nube Roja (verdad oculta)]]"
+  - "[[anatema-mecanico]]"
 spoilers:
   - "Objetivo oculto: preparar el conocimiento tecnológico para la próxima civilización tras un colapso futuro."
   - "Mantienen el Pacto de las Sombras con la Hermandad de San Jerónimo el Traductor dentro de la Iglesia."
   - "Operan un mercado negro de metales por las Tuberías para fabricar PIAs no homologados."
   - "Rumor del Repositorio Omega: artefactos Código Negro jamás neutralizados, preservados intactos."
+  - "Operación Coral del Cielo: amparan en secreto a los microbiólogos herejes que sostienen que el velo que enfría el mundo es una forma de vida; guardan sus notas por si la tesis fuera cierta."
 ---
 
 ## Identificación Básica
