@@ -29,9 +29,15 @@ spoilers:
   revirtió el calor, solo le puso un techo. Sin el velo el mundo sería invivible.
 - El polvo de sus cadáveres se suma al velo y a la humedad que rodea Dársena; se congrega
   sobre el agua, no sobre la piedra seca de la ciudad.
-- 'Se multiplican apenas más rápido de lo necesario: en siglos el velo podría espesarse
-  hacia una noche perpetua, y el Anatema prohíbe las herramientas con que se lo podría
-  entender o podar.'
+- 'El organismo es longevo (vive siglos, muere por accidente, no de vejez) y de reproducción
+  vegetativa apenas positiva: por eso alcanzó densidad de techo climático en los pocos años
+  que van de su siembra (2057) al clima ya asentado, y por eso —a plazo de siglos— el velo
+  podría espesarse hacia una noche perpetua, con el Anatema vedando las herramientas para
+  entenderlo o podarlo.'
+- 'La siembra real del velo fue en 2057, en el pico biotecnológico de la Guerra (hito El Pico
+  y la Caída); pero es verdad de mundo, no dato poseído: los herejes que saben del velo vivo
+  solo conjeturan su origen —uno acierta la fecha sin poder probarla, otros la yerran (rumor
+  belga, meteorito, "siempre estuvo")—. La verdad es para quien la espera.'
 tags: []
 title: La Nube Roja — Verdad Oculta
 ubicaciones:
