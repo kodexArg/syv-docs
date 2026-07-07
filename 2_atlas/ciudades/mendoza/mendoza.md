@@ -78,7 +78,7 @@ La estructura de poder en Mendoza se asienta sobre una **Comandancia Militar que
 ### **Por qué Mendoza es autosustentable**
 Mendoza produce alimentos y vino en cantidades que la hacen económicamente independiente:
 
-- **Agricultura post-2047**: La humedad aumentada (20% más que 2030) transformó ligeramente el régimen de lluvias. El **Viento Zonda** (viento andino tradicional) ahora carga más vapor de agua antes de cruzar los Andes.
+- **Agricultura post-2047**: La humedad aumentada (20% más que 2030) transformó ligeramente el régimen de lluvias. El **Viento Zonda** (viento andino tradicional) es hoy la gran excepción del aire cordillerano: mientras los grandes vientos del planeta se apagaron bajo el clima aletargado, el Zonda **persiste** por ser un fenómeno orográfico local —nace del choque del aire contra los Andes, no de la circulación general—, y sobrevive por eso donde los demás vientos callaron. Carga algo más de vapor de agua antes de cruzar los Andes que en el mundo viejo.
 - **Ríos cordilleranos**: Menos nieve en cimas = más escurrimiento de agua líquida = más disponibilidad durante estaciones críticas
 - **Viticultura**: Las bodegas históricas prosperan; nuevas plantaciones se expanden
 - **Resultado**: Mendoza puede alimentar a sus 2 millones sin depender de importaciones
