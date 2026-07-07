@@ -73,7 +73,7 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 **Humedad relativa promedio:** 65-75%
 **Cambio desde 2030:** +25%
 
-[[2_atlas/ciudades/cordoba/capital|Córdoba]] era seca antes. Ahora es calurosa Y húmeda—la peor combinación:
+[[2_atlas/ciudades/cordoba/capital|Córdoba]] era seca antes. Ahora es calurosa Y húmeda—la peor combinación, y el contrapunto exacto de Dársena. Lejos de toda agua grande, sobre Córdoba el velo es **ralo**: poca sombra, poco techo, de modo que el calor de fondo del mundo se siente ahí casi crudo. Córdoba tiene mucho que decir sobre el aumento de agua y humedad en toda Argentina: es donde el calor con agua se vuelve más asfixiante.
 - Verano: 28-40°C + 70% humedad = sensación térmica >45°C
 - El aire pegajoso hace que el trabajo sea extenuante
 - La evaporación del sudor se ralentiza (cuerpo no se enfría eficientemente)
