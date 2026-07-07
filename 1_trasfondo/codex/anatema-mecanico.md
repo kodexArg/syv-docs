@@ -15,6 +15,7 @@ related:
   - "[[constitucion-argentina]]"
   - "[[2061-el-gran-silencio]]"
   - "[[2048-el-fin-de-los-secretos]]"
+  - "[[2057-el-pico-y-la-caida]]"
   - "[[2039-el-meteorito-de-buenos-aires]]"
   - "[[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Anatema Mecánico (tech)]]"
 spoilers:
