@@ -175,7 +175,8 @@ Muchos murmuran que el velo **bajó del cielo con el hielo** — que vino en el 
 
 - [[2_atlas/climas/clima-2178|Clima 2178]] — la cara pública: el temple monótono, la niebla que rodea, la luz apenas roja
 - [[2_atlas/climas/humedad-post-guerra|Humedad Post-Guerra]] — el agua que sube y la humedad que el velo alimenta
-- [[anatema-mecanico|Anatema Mecánico]] — la prohibición que ciega a quienes podrían comprenderlo
+- [[2057-el-pico-y-la-caida|El Pico y la Caída]] — el año de la siembra verdadera: la cumbre biotecnológica de la que nació el velo (verdad de mundo, conjetura fracturada para los herejes)
+- [[anatema-mecanico|Anatema Mecánico]] — la prohibición que ciega a quienes podrían comprenderlo; su "segundo pecado" (la veda de la carne) nace del mismo 2057
 - [[arpistas|Los Arpistas]] — la red que ampara a los pocos que saben
 - [[2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]] — el hielo que el rumor confunde con su origen
 
