@@ -108,7 +108,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 -   **Alimentación**: Inseguridad alimentaria crónica. Comen descartes de mercados, "sopa de hueso" de carnicerías, alimentos robados. Hambre es condición normal.
 -   **Salud**: Catastrófica. Tasa de tuberculosis 40%. Micosis pulmonar 45%. Dermatitis fúngica crónica 60%. Esperanza de vida 42-45 años (vs 60+ en clases media).
 -   **Poder**: Ninguno. Control mediante represión visible (patrullas SIA, Guardia Civil) y clandestina (informantes, delaciones).
--   **Realidad de la humedad**: La niebla perpetua de Dársena que otros ven como "mágica" o "divina" es para pobres una maldición. Aire húmedo todo el tiempo favorece hongos. Viviendas húmedas todo el tiempo favorecen enfermedades. No hay escape.
+-   **Realidad de la humedad**: La humedad perpetua de Dársena —la Sábana del amanecer, la llovizna que flota, el aire siempre cargado de agua— que otros ven como "mágica" o "divina" es para los pobres una maldición. Aire húmedo todo el tiempo favorece los hongos. Viviendas que no secan nunca favorecen la enfermedad. El calor templado no alivia: solo hace que el agua no se congele, que la podredumbre no pare jamás. No hay escape.
 
 ## Impacto de la Humedad Post-Guerra en Clases Sociales
 
