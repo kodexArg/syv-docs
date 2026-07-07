@@ -131,13 +131,15 @@ Lo que sí es propio de Dársena es que, sobre su cinturón de agua, la **humeda
 
 Los que saben son herejes de hecho, porque estudiar esto es rozar lo que el [[anatema-mecanico|Anatema Mecánico]] veda. Y aquí está la crueldad perfecta de su condena: **no pueden medir lo que estudian.** La criatura vive en las capas altas del aire, exactamente donde su tecnología —mutilada por el Anatema— tiene prohibido llegar. Saben que hay vida y no pueden tocarla. Es la forma más pura de la impotencia: la verdad al alcance de la vista y fuera del alcance de la mano.
 
-## De dónde salió — no se sabe
+## De dónde salió — la verdad es para quien la espera
 
-Sobre el origen, conviene ser sobrio y honesto: **no se sabe.**
+Sobre el origen hay que decir algo delicado, y pido al lector que me siga con cuidado, porque aquí la verdad y lo que los hombres pueden saber de ella **no coinciden.**
 
-La verdad central no es de dónde vino sino qué es: una forma de vida que habita el aire y enfría el mundo. Su procedencia es incierta, y quien diga lo contrario adorna.
+Hay una verdad de mundo, y la anoto porque este archivo mío la roza sin que sus protagonistas la posean: el velo fue **sembrado en el año de la cumbre biotecnológica, en 2057** —el año que la crónica llama [[2057-el-pico-y-la-caida|El Pico y la Caída]]—, cuando la mano del hombre, con la matemática infinita de la Bestia por herramienta, editaba la vida como quien escribe. De aquella misma fiebre que engendró las pestes y los hombres deformados salió, callada, esta forma de vida aérea. Lo mejor y lo peor de aquel año vinieron de la misma mano. **Esa es la verdad.**
 
-Corren, eso sí, **conjeturas**, y las anoto como lo que son —rumores al fondo, ninguno probado—. Algunos herejes murmuran que fue **fabricada** por la mano del hombre en los años de la Guerra, cuando flotas de aviones sembraron los cielos de aerosoles para enfriar un planeta que se moría; que sobre ese andamio artificial de partículas y vapor una forma de vida prendió, arraigó y se volvió permanente. De esa conjetura sale el viejo rumor de un laboratorio **belga** perdido — un nombre de país que ya casi nadie recuerda, y que corre entre los herejes como una posibilidad más, no como un hecho. Otros la creen natural, un ser que siempre estuvo y que la Guerra apenas despertó. No tengo modo de zanjarlo, y no fingiré que lo tengo. Lo cierto y lo sobrio es esto: **está vivo, enfría el mundo, y de dónde salió es un misterio que la ciencia prohibida no nos deja resolver.**
+Pero —y aquí está el nudo— **nadie que hoy sepa del velo vivo posee esa verdad con certeza.** Entre el puñado de herejes que sabe que el cielo está vivo, el origen sigue **fracturado en conjeturas**, y ninguna se puede probar. Alguno de ellos **acierta** —murmura que el velo nació en el pico biotecnológico de la Guerra, y le pega—, pero no tiene cómo demostrarlo: sin instrumentos, sin poder subir a medir lo que estudia, su acierto vale ante los demás exactamente lo mismo que un error. La verdad, a falta de prueba, no pesa más que la mentira. Los otros **yerran**, o aciertan a medias: unos repiten el viejo rumor de un laboratorio **belga** perdido —un nombre de país que ya casi nadie recuerda—, que confunde la siembra con un accidente de aerosoles de enfriamiento; otros lo creen caído del cielo con el hielo del meteorito; otros, natural, un ser que **siempre estuvo** y que la Guerra apenas despertó.
+
+Y así queda: la fecha real duerme **latente** en este archivo —el que herede estas páginas junto a la crónica de 2057 podrá atar los cabos que sus contemporáneos no ataron—, pero ningún personaje de nuestro tiempo la sostiene con certeza. La verdad está ahí, entera, y sin embargo es de nadie. Es, como dice el refrán que me repito estas noches, **para quien la espera** — y ninguno de los que hoy conjeturan ha sabido, todavía, esperarla.
 
 ## La espada de Damocles
 
