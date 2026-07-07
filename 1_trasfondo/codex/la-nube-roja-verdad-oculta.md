@@ -143,7 +143,7 @@ Corren, eso sí, **conjeturas**, y las anoto como lo que son —rumores al fondo
 
 El equilibrio no es perfecto. Nunca lo fue.
 
-Estas criaturas se multiplican **apenas** un poco más rápido de lo que su sostén requeriría. Apenas — pero suficiente. Coherente con su crecimiento lentísimo, la amenaza no es urgente ni brusca: es **lenta e inexorable**, una marea que sube un dedo por generación y que nadie que viva hoy verá desbordar.
+Estas criaturas se multiplican **apenas** un poco más rápido de lo que su sostén requeriría. Apenas — pero suficiente. Y como cada una es longeva, ese exceso mínimo no se disipa: se acumula con la terca paciencia de lo que dura siglos. La amenaza no es urgente ni brusca: es **lenta e inexorable**, una marea que sube un dedo por generación y que nadie que viva hoy verá desbordar.
 
 > [!danger] La proyección — la noche que se teje sola
 > De mantenerse este ritmo, en algunos siglos el velo podría espesarse tanto que oscurezca el cielo más allá de lo vivible: una noche perpetua, tejida por criaturas inalcanzables que nadie podrá podar, porque nadie puede subir a donde viven. Está lejos. Pero es real. Y el Anatema, que prohíbe las herramientas con que se lo podría entender o detener, garantiza que ese día nos encuentre tan ciegos como hoy.
