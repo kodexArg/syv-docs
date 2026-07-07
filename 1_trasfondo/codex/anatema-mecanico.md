@@ -445,6 +445,7 @@ Si QIAs supervivientes existen, el Anatema no es "prohibición preventiva", sino
 
 ### Eventos Fundacionales
 - [[2048-el-fin-de-los-secretos|El Fin de los Secretos (2048)]] - El descifrado masivo que estableció el dominio QIA
+- [[2057-el-pico-y-la-caida|El Pico y la Caída (2057)]] - La cumbre y ruina de la biotecnología; raíz del "segundo pecado" (la veda de la carne)
 - [[2061-el-gran-silencio|El Gran Silencio (2061)]] - El apagón mundial que dio nacimiento al Anatema
 - [[2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires (2039)]] - El impacto de hielo cuyo cráter engendró el Velo que ciega a las QIA
 
