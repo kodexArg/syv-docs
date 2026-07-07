@@ -63,12 +63,11 @@ Los **Refugiados del Exterior** (civiles que han escapado de las normas de Dárs
 
 ## Clima y Condiciones Ambientales
 
-El exterior de Dársena experimenta variabilidad climática mayor que el interior. Mientras la ciudad sufre niebla perpetua, Fuera del Muro presenta:
+Al revés de lo que suele creerse, la niebla no se ensaña con el interior de la ciudad sino con su **contorno de agua**. El muro de 20 metros obra como rompeolas: aparta la bruma que se apila afuera y deja adentro un aire relativamente más claro (salvo la Sábana del amanecer). Fuera del Muro, en cambio, la niebla manda — donde hay agua:
 
-- **DMZ**: Desierto árido de ruinas, sin vegetación significativa, ocasionales tormentas de polvo
-- **Los Pantanos**: Frío húmedo extremo, temperaturas 2-3°C inferiores a Dársena por la evaporación constante del agua estancada. Visibilidad frecuentemente inferior a 20 metros. Vegetación mutada de origen desconocido, agua estancada altamente tóxica, capa permanente de hongos y líquenes sobre toda superficie expuesta
-- **Tierras Baldías (Oeste)**: Clima continental variable, precipitación escasa a moderada, noche más clara que en Dársena — la concentración de partículas de la Nube Roja desciende abruptamente al alejarse de las masas de agua del estuario, permitiendo que la luz de las estrellas atraviese un cielo más limpio
-- **Río de la Plata (Este)**: Contaminación química visible, niebla densa sobre las aguas, fauna anómala
+- **DMZ / Las Ruinas (Oeste)**: **No es niebla, es sequedad.** Cascoterío árido de ruinas, sin agua que alimente bruma; sin vegetación significativa, con tormentas de polvo ocasionales. Un páramo seco donde el peligro es romperse un tobillo, no perderse en la niebla. La noche es más clara que en Dársena — al alejarse del agua, la humedad cae y el cielo se adelgaza, y la luz de las estrellas atraviesa un cielo más limpio
+- **Los Pantanos (Sur)**: **El peor foco de niebla de la comarca.** Sobre el agua estancada, la bruma es un infierno impenetrable: visibilidad que rara vez supera los cinco metros. Vegetación mutada de origen desconocido, agua tóxica, capa permanente de hongos y líquenes. El temple es tan húmedo que oprime, aunque no más frío de manera sensible que la propia ciudad — es la humedad, no el frío, lo que lo vuelve inhabitable
+- **Río de la Plata (Este)**: Contaminación química visible, niebla densa sobre las aguas, fauna anómala. El estuario es una de las masas de agua sobre las que el velo y la bruma se acumulan con más fuerza
 
 ## Recursos y Economía
 
