@@ -24,7 +24,7 @@ related:
 
 En los años previos a 2039, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en [[2_atlas/ciudades/darsena/darsena|Dársena]]. Pero la [[2039-la-larga-noche|Gran Guerra Global]] (2039-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
 
-Lo que resultó fue una **saturación de humedad anómala y persistente** que permeó toda la franja confederal durante más de un siglo. No es el calentamiento global de antaño, sino algo más inmediato y cruel: un mundo más húmedo, más pegajoso, más opresivo. En las regiones cálidas del interior, la humedad asfixia; en las costas, penetra como un frío que no se puede secar.
+Lo que resultó fue una **saturación de humedad anómala y persistente** que permeó toda la franja confederal durante más de un siglo. Y esa humedad no vino sola: vino sobre un mundo que **ya venía recalentándose sin freno**. El calentamiento global de antaño no se revirtió — se le sumó el agua. El resultado es un mundo caliente **y** húmedo a la vez, más pegajoso y más opresivo que cualquiera de las dos cosas por separado. En el interior, el calor con humedad asfixia; en la costa de Dársena, el velo que se acumula sobre el estuario templa el aire —único oasis— pero la humedad no da tregua ni ahí.
 
 ---
 
