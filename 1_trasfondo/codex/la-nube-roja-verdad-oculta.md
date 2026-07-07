@@ -15,6 +15,7 @@ related:
 - '[[2_atlas/climas/clima-2178|Clima 2178]]'
 - '[[2_atlas/climas/humedad-post-guerra|Humedad Post-Guerra]]'
 - '[[anatema-mecanico|Anatema Mecánico]]'
+- '[[2057-el-pico-y-la-caida|El Pico y la Caída]]'
 - '[[2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]]'
 - '[[2039-la-larga-noche]]'
 - '[[buenos-aires-nombre-tabu|El Nombre Prohibido]]'
