@@ -234,6 +234,14 @@ El Anatema Mecánico prohíbe específicamente:
    - Criptografía cuántica
    - Teleportación de información
 
+5. **Alteración de la Carne** (el "segundo pecado", ver [[2057-el-pico-y-la-caida|El Pico y la Caída]]): Cualquier práctica que reescriba lo que Dios creó vivo:
+   - Edición o síntesis del genoma humano, animal o vegetal
+   - Diseño o cultivo de agentes patógenos (herencia de las pandemias de 2057)
+   - Quimeras, injertos y toda mejora deliberada del cuerpo o la mente por vía biológica
+   - Bancos de material genético editado y las herramientas para leerlo o escribirlo
+
+   La alteración genética es herejía de primer orden, castigada en la hoguera sin excepción, a la par de la mente de silicio.
+
 #### **PROHIBICIONES REGULADAS** (Vigilancia extrema, permisos eclesiásticos)
 
 5. **Computación Analógica Compleja**: Máquinas de calcular electromecánicas, PDAs, calculadoras avanzadas
