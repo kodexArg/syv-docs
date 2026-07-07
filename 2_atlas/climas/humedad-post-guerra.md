@@ -56,13 +56,13 @@ Tras el silencio de 2047 (fin de guerras por agotamiento), la atmósfera no "se 
 **Humedad relativa promedio:** 85-95%
 **Cambio desde 2030:** +20%
 
-Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). Pero post-2047, la ciudad se convirtió en **cámara de niebla permanente**:
-- Niebla que antes era intermitente ahora es casi constante
-- Lluvia fina diaria con variaciones mínimas estacionalmente
-- La concentración local de la Nube Roja (que el velo se congrega y se espesa sobre las zonas costeras y de alta humedad, atraído por ellas) redujo la radiación solar, bajando las temperaturas drásticamente; y ese mismo velo, al espesarse sobre la ciudad, alimenta la niebla desde arriba con un polvo finísimo que desciende sin cesar
+Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). Pero post-2047, la comarca se convirtió en **cinturón de niebla permanente**:
+- La niebla, antes intermitente, es hoy casi constante — pero se apila sobre el **agua que rodea** la ciudad (estuario, mar, Pantano anegado del sur), no en el interior murado. La bruma domina **afuera**; adentro es más rala, salvo la Sábana del amanecer
+- Lluvia fina diaria con variaciones estacionales mínimas
+- La concentración local del velo (que se congrega sobre las masas de agua, atraído por ellas) suma más sombra sobre la comarca de Dársena que en ningún otro punto de la latitud: por eso, dentro de una Argentina recalentada, Dársena es un **oasis templado** de media anual en torno a 18–19°C, en vez del horno que sería sin ese techo de más
 - Corrosión acelerada: metales se oxidan en meses, madera se pudre en años
-- Enfermedades respiratorias endémicas, agravadas por el frío húmedo constante
-- La "Niebla Perpetua" se volvió literalmente perpetua
+- Enfermedades respiratorias endémicas, por la humedad tibia y constante
+- La "Niebla Perpetua" se volvió literalmente perpetua — sobre todo en el anillo de agua que envuelve la ciudad
 
 **Impacto social:** La población de Dársena desarrolló una relación compleja con la humedad y el frío. Algunos consideran la niebla como protección (reduce visibilidad, ayuda contra vigilancia). Otros la ven como castigo divino (teoría religiosa de purificación). La subida del nivel del Río de la Plata ha obligado a la ciudad a elevarse progresivamente, pero los Pantanos al sur — donde el agua superó las viejas calles — son una Venecia de la podredumbre: ruinas anegadas cubiertas de vegetación mutada, hongos y líquenes, con condiciones aún peores que dentro de los muros.
 
