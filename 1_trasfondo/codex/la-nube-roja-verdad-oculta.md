@@ -166,7 +166,7 @@ No hay villano. Solo un calor que nos mataría, y una vida humilde en el cielo q
 
 Es preciso desmentir aquí una creencia que corre entre la gente sencilla, y desmentirla **sin borrarla**, porque el saber popular tiene su dignidad aunque yerre.
 
-Muchos murmuran que el velo **bajó del cielo con el hielo** — que vino en el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] que borró la vieja capital, o que nació de su cráter. Es falso. El meteorito fue agua congelada y nada más; su nube oscureció el cielo apenas tres o cuatro años y se disipó. El velo vivo es otra cosa, y su origen —ya lo dije— es incierto, pero desde luego no es esa piedra de hielo. El rumor sobrevive porque a la gente le consuela más un cielo caído de una herida visible que un cielo cuya causa nadie conoce. Lo dejo consignado como lo que es: **una creencia popular errónea**, no un hecho.
+Muchos murmuran que el velo **bajó del cielo con el hielo** — que vino en el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] que borró la vieja capital, o que nació de su cráter. Es falso. El meteorito fue agua congelada y nada más; su nube oscureció el cielo apenas tres o cuatro años y se disipó, y cayó además dieciocho años antes de la siembra verdadera. El velo vivo es otra cosa, y su cuna —lo he dicho más arriba— está en el fervor biotecnológico de 2057, no en esa piedra de hielo. El rumor del meteorito sobrevive porque a la gente le consuela más un cielo caído de una herida visible que un cielo tejido, en silencio, por la misma soberbia que editó la carne. Lo dejo consignado como una de las **conjeturas erradas** que corren entre quienes ignoran, o no sabrían probar, de dónde vino de veras el velo.
 
 ---
 
