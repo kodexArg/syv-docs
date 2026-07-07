@@ -616,6 +616,12 @@ Dentro de una Cámara Arpista:
 - **Método**: Comprador infiltrado asiste semanalmente
 - **Descubrimiento reciente**: Aumento de 300% en artefactos Código Rojo ofertados (¿nuevo proveedor?)
 
+**Operación Coral del Cielo** (Código Negro — máxima compartimentación):
+- **Objetivo**: Amparar y financiar en secreto a un puñado de microbiólogos herejes (apenas tres o cuatro en toda la Confederación) que sostienen una tesis imposible de probar: que el velo que atempera el mundo —lo que el vulgo llama la "Nube Roja"— no es partícula muerta sino una **forma de vida** que habita las capas altas del aire, y que sin ese techo vivo el planeta, recalentado sin freno, sería invivible
+- **Por qué a los Arpistas**: encaja de lleno en el Quinto Sello (Custodia Eterna). Si la tesis es cierta, es el conocimiento más importante que se podría legar a la próxima civilización — y también el más herético, porque estudiarlo roza de frente el [[anatema-mecanico|Anatema Mecánico]]: la criatura vive donde la ciencia mutilada tiene prohibido llegar, y medirla exigiría exactamente las herramientas vedadas
+- **Estado**: puramente teórico y sin pruebas. Los herejes no pueden alcanzar lo que estudian; los Arpistas se limitan a preservar sus notas cifradas en el Scriptorium y a garantizar que ninguna caiga en manos de la SIA. Ni siquiera los Archivistas Mayores creen del todo la tesis — la guardan por si acaso, que es la doctrina entera de la orden
+- **Riesgo**: si la SIA supiera que los Arpistas amparan a quienes afirman que "el cielo está vivo", sería herejía existencial, castigada con la hoguera para todos los implicados. El nombre de la operación jamás se pronuncia fuera de las duplas asignadas
+
 ### Casos y Operaciones Recientes
 
 **La Purga de San Martín (2176)**:
