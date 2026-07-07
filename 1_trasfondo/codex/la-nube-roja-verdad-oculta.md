@@ -100,7 +100,7 @@ El velo funciona igual. Cada criatura es efímera, casi nada — una vida breve 
 
 ## La lluvia de cadáveres
 
-Cuando estas criaturas mueren —y mueren de a millones, siempre, porque el arrecife se renueva sin descanso—, sus cuerpos **caen**. Descienden como un polvo finísimo, impalpable, una ceniza que no viene de ningún fuego.
+Cuando estas criaturas mueren —y aunque cada una viva siglos, son tantas que a cada hora alguna cae, casi siempre por accidente—, sus cuerpos **caen**. Descienden como un polvo finísimo, impalpable, una ceniza que no viene de ningún fuego.
 
 Ese polvo se suma a la humedad y a la bruma del mundo. No cae parejo: cae **donde el organismo se junta**, y el organismo se junta sobre el agua. Por eso el polvo de los muertos es una de las cosas que espesan el cinturón de niebla que rodea a Dársena — no porque la ciudad lo atraiga, sino porque el agua que la envuelve lo atrae. Cada mañana en que la bruma se apila contra el muro, en parte es un cielo que se muere despacio sobre el estuario para mantener el mundo por debajo del umbral que lo mataría.
 
