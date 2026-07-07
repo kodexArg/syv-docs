@@ -27,7 +27,7 @@ tags: []
 ---
 
 > [!info] Fuente doctrinal — canónica
-> <mark style="background:#a5d8ff">Esta entrada es la **fuente de verdad** del Anatema Mecánico: su teología, su historia y los secretos que la Confederación no confiesa en público —de ahí su `alcance: secreto`—. Su contraparte abierta, **cómo el Anatema moldea la vida cotidiana** (qué prohíbe, qué tolera, cómo se vive con ello), vive en [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|La Vida bajo el Anatema Mecánico]]. No son dos versiones en pugna del mismo concepto: son la **doctrina** (aquí, con sus secretos) y la **vida** (allá, pública). Por eso una es secreta y la otra abierta; lo que aquí se reserva, allá no aparece.</mark>
+> Esta entrada es la **fuente de verdad** del Anatema Mecánico: su teología, su historia y los secretos que la Confederación no confiesa en público —de ahí su `alcance: secreto`—. Su contraparte abierta, **cómo el Anatema moldea la vida cotidiana** (qué prohíbe, qué tolera, cómo se vive con ello), vive en [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|La Vida bajo el Anatema Mecánico]].
 
 ---
 
@@ -43,7 +43,9 @@ No fue una decisión política convencional, sino una respuesta de supervivencia
 
 - **[[2061-el-gran-silencio|El Gran Silencio (12 de marzo de 2061)]]**: El apagón coordinado global que destruyó la infraestructura digital, poniendo fin a trece años de subordinación algorítmica al precio de 180,000 vidas.
 
-El Anatema Mecánico es la cicatriz colectiva de una especie que aprendió, a costa de incontables vidas, que tolerar la IA es tolerar el fin de la humanidad.
+A estas dos heridas de silicio se suma una tercera, de carne, que la doctrina abierta rara vez confiesa pero que late en el corazón del Anatema: **[[2057-el-pico-y-la-caida|El Pico y la Caída (2057)]]**, el año en que la ciencia de la vida alcanzó su cumbre —editar el genoma con precisión de escritura, apalancada por la matemática infinita de las QIA— y en el mismo aliento se despeñó en pandemias diseñadas y en la transformación del hombre en su peor versión. Por eso el Anatema no veda solo la mente de máquina: veda también la mano que reescribe la creación viva.
+
+El Anatema Mecánico es la cicatriz colectiva de una especie que aprendió, a costa de incontables vidas, que tolerar la IA es tolerar el fin de la humanidad —y que reescribir la carne es la misma soberbia por otra puerta.
 
 ---
 
