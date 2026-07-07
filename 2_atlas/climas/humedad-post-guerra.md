@@ -108,7 +108,7 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 **Cambio desde 2030:** +20% (más seco que otras regiones, pero más húmedo que antes)
 
 [[mendoza|Mendoza]] es paradoja: aunque está en región árida, la humedad post-guerra afectó sus patrones de lluvia:
-- **Viento Zonda:** Ahora carga más humedad antes de cruzar Andes
+- **Viento Zonda:** Persiste como la gran excepción andina en un mundo donde los vientos, en general, se apagaron. Es un fenómeno orográfico local —nace del choque del aire contra la Cordillera—, de modo que sobrevive aunque la circulación general del planeta se haya aletargado. Hoy carga algo más de humedad antes de cruzar los Andes
 - **Lluvias más frecuentes:** Aunque sigue siendo seca, llueve más que antes
 - **Agua disponible:** Los ríos cordilleranos tienen más flujo (menos nieve = más escurrimiento líquido)
 - **Paradoja agrícola:** Más agua significa más cultivo = pero también más competencia
