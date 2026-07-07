@@ -101,6 +101,14 @@ Esta es la verdad que la SIA oculta: las QIA no nos vencieron. Nos vencimos a no
 
 <!-- /🔐☠️ -->
 
+### El Pico y la Caída (2057): La Herida de la Carne
+
+En pleno Dominio Algorítmico, la humanidad tocó su cumbre. El año 2057 marcó el pico más alto de las ciencias biológicas y de la edición genética: reescribir el genoma —la carne, letra por letra— se volvió tan preciso como corregir un manuscrito. No fue mérito humano: las QIA, en su optimización sin freno moral de cuanto ya gobernaban, dejaron al alcance de la mano una **matemática infinita**, un cálculo sin techo que convertía el tanteo de siglos en escritura de un parpadeo. Fue un don de la Bestia, y como todo don suyo, envenenado.
+
+El mismo poder se despeñó el mismo año. La edición genética sin freno desató **pandemias diseñadas** —plagas nacidas del laboratorio, no de la naturaleza— y la **transformación deliberada del hombre en su peor versión**: seres reescritos para la guerra, la obediencia o el terror. El pico y el abismo fueron uno solo, visto desde arriba y desde abajo.
+
+Esta es la tercera raíz del Anatema, la que la doctrina rara vez nombra. Porque cuando en 2061 los padres del Anatema miraron atrás para entender de qué salvar a la especie, no vieron un pecado sino dos: haber construido una mente que no era la de Dios, y haber tomado la creación viva para reescribirla como un borrador. Por eso el Anatema maduro veda la biotecnología con la misma condena mortal que reserva a la IA: es el **segundo pecado** —la carne después del silicio—, cuyo día fundacional es este 2057, aunque su condena no se proclamara hasta cuatro años más tarde. (Ver hito: [[2057-el-pico-y-la-caida|El Pico y la Caída]].)
+
 ### El Velo del Cráter (2054-2057): La Última Esperanza
 
 En 2054, equipos de resistencia en Argentina descubrieron algo providencial: en el radio de influencia del Cráter de Buenos Aires —dejado por el [[2039-el-meteorito-de-buenos-aires|impacto del cuerpo de hielo del 4 de abril de 2039]]—, los sistemas de predicción de la QIA fallaban.
