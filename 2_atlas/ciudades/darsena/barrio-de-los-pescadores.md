@@ -5,8 +5,8 @@ aliases:
 - El Barrio de los Pescadores
 - Los Pescadores (barrio)
 - Barrio de Pescadores
-description: Mercado central, puerto de contrabando y frente de conflicto en Bajo
-  Pulmón, la franja sur de la Isla Oriental de Ciudad Dársena.
+description: 'Mercado central, puerto de contrabando y frente de conflicto: uno de
+  los tres lugares de la Isla Oriental de Ciudad Dársena, en su franja sur.'
 entidad: ubicacion
 estado: canon
 folder: 2_atlas/ciudades/darsena
@@ -20,20 +20,20 @@ related:
 - '[[barrios-del-muro]]'
 - '[[tuberias]]'
 - '[[fuera-del-muro]]'
-- '[[bajo-pulmon]]'
+- '[[barrio-de-la-armada]]'
+- '[[zona-militar-eclesiastica]]'
 tags: []
 title: Barrio de los Pescadores
 ubicaciones:
 - '[[darsena]]'
 - '[[zona-militar-eclesiastica]]'
-- '[[bajo-pulmon]]'
 ---
 
 > Al sur de la isla del poder, donde el cemento militar se acaba y empieza el humo de fritura, hierve el barrio más colorido de la ciudad: un mercado que no cierra, un puerto que no declara y una avenida donde todos los cuchillos de Dársena tienen algo que arreglar.
 
-El **Barrio de los Pescadores** ocupa la franja sur de la [[zona-militar-eclesiastica|Isla Oriental]] —el sector que los locales llaman **[[bajo-pulmon|Bajo Pulmón]]**, al oriente y al sur del agua de la vieja dársena—. No es un distrito de tierra firme: es el reverso plebeyo de la isla del poder. Ahí donde el cemento de la [[fuerzas-armadas|Armada Argentina]] se termina, empieza este laberinto de puestos, muelles y escaleras apiladas contra el borde que da al Río —al que casi todos llaman hoy "el Mar"—. Es, a la vez, el **mercado central** de Ciudad Dársena y su fuente de contrabando más ruidosa.
+El **Barrio de los Pescadores** es uno de los tres lugares de la [[zona-militar-eclesiastica|Isla Oriental]], en su franja sur —la que la gente apoda coloquialmente *Pulmón Inferior* o *Bajo Pulmón*—. No es un distrito de tierra firme: es el reverso plebeyo de la isla del poder. Ahí donde el cemento del [[barrio-de-la-armada|Barrio de la Armada]] se termina, empieza este laberinto de puestos, muelles y escaleras apiladas contra el borde que da al Río —al que casi todos llaman hoy "el Mar"—. Es, a la vez, el **mercado central** de Ciudad Dársena y su fuente de contrabando más ruidosa.
 
-En Bajo Pulmón conviven dos barrios pegados: éste y el **Barrio de la Armada**. Cuando se dice que la Armada es "el vecino hacia el oriente", se habla de eso: el barrio militar es el lindero contiguo, no un poder al otro lado del agua. Comparten frontera, mercado y roces.
+El [[barrio-de-la-armada|Barrio de la Armada]] es su vecino contiguo hacia el oriente: comparten frontera, mercado y roces. Cuando se dice que la Armada es "el vecino de al lado", se habla de eso, no de un poder al otro lado del agua.
 
 ## El mercado que no cierra
 
@@ -60,4 +60,4 @@ Porque sobre este borde de la isla pesan tres sombras. La de la **[[fuerzas-arma
 
 ## El Gremio que no se moja
 
-El [[gremio-de-comercio|Gremio de Comercio]] opera en la zona —cobra, presta, revende— pero **ni siquiera en estos asuntos se moja**. Las peleas de la avenida, el contrabando de fuera del muro, las guerras chicas entre pandillas: el Gremio las mira de lejos y saca su tajada sin poner la cara. En Bajo Pulmón, el poder que no se ensucia las manos es justamente el que más gana.
+El [[gremio-de-comercio|Gremio de Comercio]] opera en la zona —cobra, presta, revende— pero **ni siquiera en estos asuntos se moja**. Las peleas de la avenida, el contrabando de fuera del muro, las guerras chicas entre pandillas: el Gremio las mira de lejos y saca su tajada sin poner la cara. En este borde de la isla, el poder que no se ensucia las manos es justamente el que más gana.
