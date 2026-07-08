@@ -3,16 +3,15 @@ alcance: publico
 aliases:
 - Barrio de la Armada
 - el Barrio de la Armada
-description: 'Barrio de los oficiales en Bajo Pulmón (Isla Oriental): sede de facto
-  del gobierno de Ciudad Dársena y emblema de discordia con el Ejército y la Fuerza
-  Aérea de Córdoba.'
+description: 'Barrio de los oficiales, uno de los tres lugares de la Isla Oriental:
+  sede de facto del gobierno de Ciudad Dársena y emblema de discordia con el Ejército
+  y la Fuerza Aérea de Córdoba.'
 entidad: ubicacion
 estado: canon
 folder: 2_atlas/ciudades/darsena
 related:
 - '[[fuerzas-armadas]]'
 - '[[iglesia]]'
-- '[[bajo-pulmon]]'
 - '[[barrio-de-los-pescadores]]'
 - '[[zona-militar-eclesiastica]]'
 - '[[cordoba]]'
@@ -22,12 +21,11 @@ title: Barrio de la Armada
 ubicaciones:
 - '[[darsena]]'
 - '[[zona-militar-eclesiastica]]'
-- '[[bajo-pulmon]]'
 ---
 
 > Aquí no vive tropa: vive el mando. Cada balcón del Barrio de la Armada es una oficina, y cada oficina, un pedazo del gobierno que la gran ciudad obedece sin saber de dónde le baja la orden.
 
-El **Barrio de la Armada** ocupa la porción de orden del [[bajo-pulmon|Bajo Pulmón]], la franja sur de la [[zona-militar-eclesiastica|Isla Oriental]], contiguo al bullicioso [[barrio-de-los-pescadores|Barrio de los Pescadores]]. Es el barrio de **todos los oficiales** de la [[fuerzas-armadas|Armada Argentina]]: cuarteles, dependencias, viviendas de mando y muelles interiores, todo con vista al Río que hoy llaman "el Mar".
+El **Barrio de la Armada** es uno de los tres lugares de la [[zona-militar-eclesiastica|Isla Oriental]], en su franja sur —la que la gente apoda coloquialmente *Pulmón Inferior* o *Bajo Pulmón*, por oposición a la Santa Sede de las alturas—, contiguo al bullicioso [[barrio-de-los-pescadores|Barrio de los Pescadores]]. Es el barrio de **todos los oficiales** de la [[fuerzas-armadas|Armada Argentina]]: cuarteles, dependencias, viviendas de mando y muelles, todo con vista al Río que hoy llaman "el Mar". Aquí se asientan la **Fortaleza de la Luz** y los **Muelles Interiores** de la isla.
 
 ## Las barracas-embajada
 
