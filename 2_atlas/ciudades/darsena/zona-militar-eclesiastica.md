@@ -62,7 +62,7 @@ Entre los árboles, aquí y allá, aparecen pequeñas dependencias: estructuras 
 
 ## Complejo Norte — la Santa Sede: La Basílica y la Universidad
 
-El norte y lo alto de la isla forman la **[[pulmon-superior|Santa Sede]]** —que la gente apoda *Pulmón Superior*—: los jardines de la Iglesia, lomas y médanos de pasto recorridos por un tranvía eléctrico a cronómetro. Hacia su borde sur se cierra la prohibida [[villa-de-los-oficiales|Villa de los Oficiales]]. Aquí se encuentra uno de los puntos religiosos más importantes del planeta.
+El norte y lo alto de la isla forman la **[[santa-sede|Santa Sede]]** —que la gente apoda *Pulmón Superior*—: los jardines de la Iglesia, lomas y médanos de pasto recorridos por un tranvía eléctrico a cronómetro. Hacia su borde sur se cierra la prohibida [[villa-de-los-oficiales|Villa de los Oficiales]]. Aquí se encuentra uno de los puntos religiosos más importantes del planeta.
 
 ### La Nueva Basílica de San Pedro
 
