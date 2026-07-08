@@ -4,9 +4,9 @@ aliases:
 - Barrio de los Pescadores
 - El Barrio de los Pescadores
 - Los Pescadores (barrio)
-- La Boca de la Dársena
-description: 'Distrito portuario y mercado central en la boca de la dársena: contrabando,
-  turismo barato, zonas rojas y el frente de conflicto más caliente de Ciudad Dársena.'
+- Barrio de Pescadores
+description: Mercado central, puerto de contrabando y frente de conflicto en Bajo
+  Pulmón, la franja sur de la Isla Oriental de Ciudad Dársena.
 entidad: ubicacion
 estado: canon
 folder: 2_atlas/ciudades/darsena
@@ -20,16 +20,20 @@ related:
 - '[[barrios-del-muro]]'
 - '[[tuberias]]'
 - '[[fuera-del-muro]]'
-- '[[zona-militar-eclesiastica]]'
+- '[[bajo-pulmon]]'
 tags: []
 title: Barrio de los Pescadores
 ubicaciones:
 - '[[darsena]]'
+- '[[zona-militar-eclesiastica]]'
+- '[[bajo-pulmon]]'
 ---
 
-> Donde la dársena se hace boca y el agua vieja se derrama contra la tierra firme, hierve el barrio más colorido de la ciudad: un mercado que no cierra, un puerto que no declara y una avenida donde todos los cuchillos de Dársena tienen algo que arreglar.
+> Al sur de la isla del poder, donde el cemento militar se acaba y empieza el humo de fritura, hierve el barrio más colorido de la ciudad: un mercado que no cierra, un puerto que no declara y una avenida donde todos los cuchillos de Dársena tienen algo que arreglar.
 
-El **Barrio de los Pescadores** ocupa la boca de la dársena —la garganta donde el canal de aguas oscuras se abre contra los barrios de tierra firme, frente a la salida al Río que casi todos llaman hoy "el Mar"—. Es, a la vez, el **mercado central** de Ciudad Dársena y su fuente de contrabando más ruidosa: un laberinto de puestos, muelles y escaleras apiladas contra el agua, del lado occidental del canal. Enfrente, cruzando la dársena hacia el oriente, se levanta la [[zona-militar-eclesiastica|Isla Oriental]]; desde acá, el barrio militar de la [[fuerzas-armadas|Armada Argentina]] es apenas "el vecino de enfrente", una silueta de grúas y muros al otro lado del agua.
+El **Barrio de los Pescadores** ocupa la franja sur de la [[zona-militar-eclesiastica|Isla Oriental]] —el sector que los locales llaman **[[bajo-pulmon|Bajo Pulmón]]**, al oriente y al sur del agua de la vieja dársena—. No es un distrito de tierra firme: es el reverso plebeyo de la isla del poder. Ahí donde el cemento de la [[fuerzas-armadas|Armada Argentina]] se termina, empieza este laberinto de puestos, muelles y escaleras apiladas contra el borde que da al Río —al que casi todos llaman hoy "el Mar"—. Es, a la vez, el **mercado central** de Ciudad Dársena y su fuente de contrabando más ruidosa.
+
+En Bajo Pulmón conviven dos barrios pegados: éste y el **Barrio de la Armada**. Cuando se dice que la Armada es "el vecino hacia el oriente", se habla de eso: el barrio militar es el lindero contiguo, no un poder al otro lado del agua. Comparten frontera, mercado y roces.
 
 ## El mercado que no cierra
 
@@ -37,7 +41,7 @@ A ras del agua, el barrio es un solo mercado sin techo: pescado fresco y salado,
 
 ### Los dos puertos
 
-Conviene no confundir los muelles. Sobre la [[zona-militar-eclesiastica|Isla Oriental]], pegados al barrio militar, están los **muelles interiores** del Gremio de Pescadores: modestos, controlados, hundidos en el tramo final de la dársena, tolerados a la sombra de la Armada. Pero los **mercantes y pescadores verdaderos** —los que viven en los pisos superiores de este barrio— no faenan ahí: salen por los **puertos de fuera del muro**, más allá de la muralla, donde el agua es abierta y la vigilancia, porosa. De ahí sale el pescado que llena el mercado, y de ahí sale también lo que nadie declara.
+Conviene no confundir los muelles. Pegados al Barrio de la Armada están los **muelles interiores** del Gremio de Pescadores: modestos, controlados, hundidos en el tramo final de la dársena, tolerados a la sombra de la Armada. Pero los **mercantes y pescadores verdaderos** —los que viven en los pisos superiores de este barrio— no faenan ahí: salen por los **puertos de fuera del muro**, más allá de la muralla, donde el agua es abierta y la vigilancia, porosa. De ahí sale el pescado que llena el mercado, y de ahí sale también lo que nadie declara.
 
 ## Arriba y abajo
 
@@ -52,8 +56,8 @@ Frente a la salida de la dársena corre la avenida donde se montan los **puestos
 - los propios **Pescadores**, que defienden el territorio y a los suyos;
 - las **pequeñas mafias** que intentan proliferar a la sombra de tres poderes mayores.
 
-Porque sobre la boca de la dársena pesan tres sombras. La de la **[[fuerzas-armadas|Armada]]**, el barrio vecino hacia el oriente. La de la [[direccion-nacional-de-seguridad|seguridad del Estado]] —la vigilancia nacional, secundada en la calle por la [[seguridad-urbana|Seguridad Urbana]]—, que cuida esta zona con celo por lo que significa: un boquete de contrabando a metros del corazón naval. Y la de los **Pescadores** mismos, que no dejan que nadie ajeno mande en su agua. Entre todas, el pescado sube de precio y la sangre baja al canal.
+Porque sobre este borde de la isla pesan tres sombras. La de la **[[fuerzas-armadas|Armada]]**, el barrio vecino y contiguo. La de la [[direccion-nacional-de-seguridad|seguridad del Estado]] —la vigilancia nacional, secundada en la calle por la [[seguridad-urbana|Seguridad Urbana]]—, que cuida esta zona con celo por lo que significa: un boquete de contrabando a metros del corazón naval. Y la de los **Pescadores** mismos, que no dejan que nadie ajeno mande en su agua. Entre todas, el pescado sube de precio y la sangre baja al canal.
 
 ## El Gremio que no se moja
 
-El [[gremio-de-comercio|Gremio de Comercio]] opera en la zona —cobra, presta, revende— pero **ni siquiera en estos asuntos se moja**. Las peleas de la avenida, el contrabando de fuera del muro, las guerras chicas entre pandillas: el Gremio las mira de lejos y saca su tajada sin poner la cara. En la boca de la dársena, el poder que no se ensucia las manos es justamente el que más gana.
+El [[gremio-de-comercio|Gremio de Comercio]] opera en la zona —cobra, presta, revende— pero **ni siquiera en estos asuntos se moja**. Las peleas de la avenida, el contrabando de fuera del muro, las guerras chicas entre pandillas: el Gremio las mira de lejos y saca su tajada sin poner la cara. En Bajo Pulmón, el poder que no se ensucia las manos es justamente el que más gana.
