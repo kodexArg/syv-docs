@@ -24,7 +24,7 @@ ubicaciones:
 
 > Un jardín sin nombre en los mapas y con un solo aviso en la boca de todos: no entres. A los graciosos que probaron les costó meses de picar piedra.
 
-La **Villa de los Oficiales** es un **parque reservado** al sur de la Santa Sede —el borde meridional del [[pulmon-superior|Pulmón Superior]], donde la Tierra Santa de la Iglesia linda con el poder militar del [[barrio-de-la-armada|Barrio de la Armada]]—. Es el retiro privilegiado de la alta oficialidad de la [[fuerzas-armadas|Armada]], oculto entre las dunas verdes de la isla.
+La **Villa de los Oficiales** es un **parque reservado** dentro de la [[pulmon-superior|Santa Sede]], hacia su borde sur —donde la Tierra Santa de la Iglesia linda con el poder militar del [[barrio-de-la-armada|Barrio de la Armada]]—. Es el retiro privilegiado de la alta oficialidad de la [[fuerzas-armadas|Armada]], oculto entre las dunas verdes de la isla.
 
 ## Entrar es crimen
 
