@@ -32,7 +32,7 @@ Sobre la calle Los Patos se encuentra el **Hospital de la Ciudad**, una estructu
 
 ## Barrio Sur: La Marina y los Pescadores
 
-Al sur de la isla se concentran los edificios militares de la [[fuerzas-armadas|Armada Argentina]], con vista al Río —al que la inmensa mayoría de los habitantes llama hoy en día "el Mar"—. Junto al barrio militar, pegado a él, se encuentra el barrio del **Gremio de Pescadores**, con sus puertos interiores que se adentran hacia el final de la dársena.
+Al sur de la isla se concentran los edificios militares de la [[fuerzas-armadas|Armada Argentina]], con vista al Río —al que la inmensa mayoría de los habitantes llama hoy en día "el Mar"—. Junto al barrio militar, pegado a él, se encuentra el enclave del **Gremio de Pescadores**, con sus puertos interiores que se adentran hacia el final de la dársena. Es una presencia modesta y controlada, tolerada a la sombra de la Armada: no debe confundirse con el bullicioso [[barrio-de-los-pescadores|Barrio de los Pescadores]], que hierve del otro lado del canal, en la boca de la dársena, y cuyos pescadores "verdaderos" faenan por los puertos de fuera del muro. Desde aquel barrio, esta isla militar es "el vecino de enfrente".
 
 ### Fortaleza de la Luz
 
