@@ -39,7 +39,7 @@ Correspondencia entre las regiones del mapa interactivo de [[darsena|Ciudad Dár
 | Barrios del Muro | `#080808` | **8.27 km²** | [[barrios-del-muro]] |
 | Centro de Dársena | `#FF6A1A` | **7.02 km²** | [[zona-centro]] · núcleo [[microcentro]] |
 | Zona Roja | `#641b1b` | **3.65 km²** | *sin ficha propia — candidata a canon* |
-| Santa Sede | `#f2ff42` | **3.33 km²** | [[zona-militar-eclesiastica\|Isla Oriental]] · sede [[basilica-de-san-pedro]] |
+| Santa Sede | `#f2ff42` | **3.33 km²** | [[santa-sede]] ([[zona-militar-eclesiastica\|Isla Oriental]]) · sede [[basilica-de-san-pedro]] |
 | Barrio de la Armada | `#71f9ac` | **1.43 km²** | parte de [[bajo-pulmon]] — *sin ficha propia* |
 | Barrio Norte | `#74ACDF` | **1.11 km²** | [[zona-residencial-alta-sociedad\|Barrios del Norte]] |
 | Barrio de los Pescadores | `#7a591f` | **0.99 km²** | [[barrio-de-los-pescadores]] |
