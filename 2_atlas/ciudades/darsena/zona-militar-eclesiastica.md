@@ -60,9 +60,9 @@ Un anillo de vías de tranvía recorre el perímetro del bosque, completando un 
 
 Entre los árboles, aquí y allá, aparecen pequeñas dependencias: estructuras sobrias, integradas con el ambiente, hogar de entre uno y diez individuos. Tanto así varían. Miles de religiosos al servicio de la Iglesia habitan dispersos en el bosque, en un aislamiento que parece sacado de otro siglo.
 
-## Complejo Norte — Santa Sede: La Basílica y la Universidad
+## Complejo Norte — la Santa Sede: La Basílica y la Universidad
 
-El norte y lo alto de la isla forman el **[[pulmon-superior|Pulmón Superior]]**, que nadie llama así: es la **Santa Sede**, los jardines de la Iglesia —lomas y médanos de pasto recorridos por un tranvía eléctrico a cronómetro—. Al sur de esa Tierra Santa se cierra la prohibida [[villa-de-los-oficiales|Villa de los Oficiales]]. Aquí se encuentra uno de los puntos religiosos más importantes del planeta.
+El norte y lo alto de la isla forman la **[[pulmon-superior|Santa Sede]]** —que la gente apoda *Pulmón Superior*—: los jardines de la Iglesia, lomas y médanos de pasto recorridos por un tranvía eléctrico a cronómetro. Hacia su borde sur se cierra la prohibida [[villa-de-los-oficiales|Villa de los Oficiales]]. Aquí se encuentra uno de los puntos religiosos más importantes del planeta.
 
 ### La Nueva Basílica de San Pedro
 
