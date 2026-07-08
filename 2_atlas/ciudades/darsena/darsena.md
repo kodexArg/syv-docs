@@ -25,6 +25,7 @@ ubicaciones:
   - "[[zona-residencial-alta-sociedad]]"
   - "[[barrios-del-muro]]"
   - "[[tuberias]]"
+  - "[[barrio-de-los-pescadores]]"
 ---
 
 > La capital de facto de la Confederación. Cinco millones de almas comprimidas entre el muro de 20 metros y el Río de la Plata contaminado, en un oasis templado que un cinturón de niebla rodea por todos lados.
