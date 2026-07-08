@@ -116,6 +116,7 @@ La única excepción está al este, sobre el borde que mira al Río de la Plata.
 - [[2031-la-fragmentacion-de-argentina]] — la nación ya estaba muerta cuando cayó el hielo
 - [[cronologia]] — la crónica completa, 2020-2178
 - [[qia-inteligencias-artificiales-cuanticas]] — las inteligencias que el golpe astilló en lugar de matar
+- [[lago-muerto]] — el lago que hoy llena el cráter, con su régimen de tabú y su única orilla habitada
 
 ---
 
