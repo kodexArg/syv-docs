@@ -40,7 +40,7 @@ Centro de operaciones militares avanzadas. Aquí se entrenan las unidades especi
 
 ### Muelles Interiores
 
-Punto clave para la logística militar y el comercio controlado por la élite. Controlados férreamente por el Comando Nacional, los muelles son un hervidero de actividad oficial, pero también un punto caliente para el contrabando de alto nivel, a menudo con la connivencia de oficiales corruptos. Los muelles de los pescadores, más modestos, ocupan el tramo final de la dársena.
+Punto clave para la logística militar y el comercio controlado por la élite. Controlados férreamente por el Comando Nacional, los muelles son un hervidero de actividad oficial, pero también un punto caliente para el contrabando de alto nivel, a menudo con la connivencia de oficiales corruptos. Los muelles de los pescadores, más modestos, ocupan el tramo final de la dársena; son los interiores del Gremio de Pescadores, distintos de los puertos de fuera del muro que usa el [[barrio-de-los-pescadores|Barrio de los Pescadores]].
 
 ## El Bosque
 
