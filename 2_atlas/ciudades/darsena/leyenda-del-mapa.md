@@ -51,5 +51,5 @@ Correspondencia entre las regiones del mapa interactivo de [[darsena|Ciudad Dár
 
 - La **Muralla** no aporta superficie: sus trazos son líneas (`fill: false`), no polígonos rellenos. Miden extensión, no área.
 - La **suma cruda** de las regiones (~26.7 km²) **no** es la huella real de la ciudad: los polígonos se solapan (barrios y distritos cayendo dentro del Centro o de los Barrios del Muro). La superficie efectiva requiere una unión geométrica, aún no calculada.
-- *Santa Sede* es el rótulo de trabajo del mapa para el asiento eclesiástico; en el canon corresponde a la [[zona-militar-eclesiastica|Isla Oriental]] y su [[basilica-de-san-pedro|Basílica-Fortaleza]].
-- Tres regiones (**Zona Roja**, **Barrio de la Armada**, **Zona Militar Norte**) todavía no tienen ficha propia en el Atlas; el mapa las delimita antes de que exista su entrada canónica.
+- *Santa Sede* es el rótulo del mapa para el asiento eclesiástico; en el canon es la [[santa-sede|Santa Sede]], uno de los tres lugares de la [[zona-militar-eclesiastica|Isla Oriental]] (junto al [[barrio-de-la-armada|Barrio de la Armada]] y al [[barrio-de-los-pescadores|Barrio de los Pescadores]]), y enmarca la [[basilica-de-san-pedro|Basílica-Fortaleza]].
+- Dos regiones (**Zona Roja** y **Zona Militar Norte**) todavía no tienen ficha propia en el Atlas; el mapa las delimita antes de que exista su entrada canónica.
