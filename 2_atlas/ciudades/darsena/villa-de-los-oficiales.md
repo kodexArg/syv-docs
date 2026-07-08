@@ -19,7 +19,7 @@ title: Villa de los Oficiales
 ubicaciones:
 - '[[darsena]]'
 - '[[zona-militar-eclesiastica]]'
-- '[[pulmon-superior]]'
+- '[[santa-sede]]'
 ---
 
 > Un jardín sin nombre en los mapas y con un solo aviso en la boca de todos: no entres. A los graciosos que probaron les costó meses de picar piedra.
