@@ -2,13 +2,12 @@
 alcance: publico
 aliases:
 - Santa Sede
+- Pulmón Superior
 - Tierra Santa
 - Jardines de la Iglesia
-- Pulmón Superior
-- el Pulmón Superior
-description: 'La franja norte y alta de la Isla Oriental de Ciudad Dársena: lomas
-  y jardines de la Iglesia que todos llaman ''Santa Sede''. Enmarca la Nueva Basílica
-  de San Pedro.'
+description: 'Uno de los tres lugares de la Isla Oriental de Ciudad Dársena: los jardines
+  de la Iglesia, apodados ''Pulmón Superior''. Enmarca la Nueva Basílica de San Pedro
+  y contiene la Villa de los Oficiales.'
 entidad: ubicacion
 estado: canon
 folder: 2_atlas/ciudades/darsena
@@ -18,15 +17,17 @@ related:
 - '[[basilica-de-san-pedro]]'
 - '[[villa-de-los-oficiales]]'
 tags: []
-title: Pulmón Superior
+title: Santa Sede
 ubicaciones:
 - '[[darsena]]'
 - '[[zona-militar-eclesiastica]]'
 ---
 
-> Médanos de pasto, parejos como canchas de golf, con un árbol allá y una puerta acá. Nadie lo llama Pulmón Superior: le dicen Santa Sede, y meditan como si el mundo no existiera.
+> Médanos de pasto, parejos como canchas de golf, con un árbol allá y una puerta acá. La gente le dice Santa Sede, y medita como si el mundo no existiera.
 
-El **Pulmón Superior** es toda la franja norte y alta de la [[zona-militar-eclesiastica|Isla Oriental]] —el terreno señalado como *Santa Sede* en los mapas de la ciudad—. Pero **nadie lo llama Pulmón Superior**: la gente le dice la **Santa Sede**; algún turista confundido, **Tierra Santa**; y con cariño, los **Jardines de la Iglesia**. Es el dominio verde del clero, y enmarca los grandes hitos eclesiásticos de la isla, empezando por la [[basilica-de-san-pedro|Nueva Basílica de San Pedro]].
+La **Santa Sede** es uno de los tres lugares de la [[zona-militar-eclesiastica|Isla Oriental]] —junto al [[barrio-de-la-armada|Barrio de la Armada]] y al [[barrio-de-los-pescadores|Barrio de los Pescadores]]—. Ocupa toda la franja norte y alta de la isla, el dominio verde del clero, y enmarca los grandes hitos eclesiásticos, empezando por la [[basilica-de-san-pedro|Nueva Basílica de San Pedro]] y la Universidad.
+
+Es su nombre propio, el que todos usan. La gente también la apoda **Pulmón Superior** —por lo alto y aireado de sus lomas—; algún turista confundido le dice **Tierra Santa**, y con cariño se la llama los **Jardines de la Iglesia**. Ninguno de esos apodos designa un contenedor administrativo: son solo maneras de nombrar este mismo lugar.
 
 ## Médanos de pasto
 
@@ -34,6 +35,8 @@ Son lomas y jardines perfectamente cuidados. Las casas se hunden a medio nivel d
 
 ## El tranvía a cronómetro
 
-Un **tranvía eléctrico especial** recorre una vía única a través del Pulmón Superior. Pasa **cada cuatro horas**, solo de día, y durante **exactamente cuarenta minutos** sus frenéticos vagones zigzaguean cargados por dunas y bosques, a cronómetro. Cumplido el plazo, se detiene: si no conseguiste asiento, caminás. La disciplina del reloj es tan absoluta como el silencio que respeta —**ninguna meditación se interrumpe, ni siquiera por el suave chillido de los tranvías**.
+Un **tranvía eléctrico especial** recorre una vía única a través de la Santa Sede. Pasa **cada cuatro horas**, solo de día, y durante **exactamente cuarenta minutos** sus frenéticos vagones zigzaguean cargados por dunas y bosques, a cronómetro. Cumplido el plazo, se detiene: si no conseguiste asiento, caminás. La disciplina del reloj es tan absoluta como el silencio que respeta —**ninguna meditación se interrumpe, ni siquiera por el suave chillido de los tranvías**.
 
-Al sur de esta Tierra Santa, cerrado y prohibido, se extiende el parque de la [[villa-de-los-oficiales|Villa de los Oficiales]].
+## La Villa de los Oficiales
+
+Dentro de la Santa Sede, hacia su borde sur, se cierra la [[villa-de-los-oficiales|Villa de los Oficiales]]: un parque reservado cuyo ingreso no autorizado se considera crimen, custodiado por los [[albatros|Albatros]]. Es el único punto de estos jardines donde la mansedumbre contemplativa cede a la guardia armada.
