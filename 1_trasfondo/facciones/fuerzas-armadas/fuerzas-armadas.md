@@ -43,7 +43,7 @@ En la cúspide de la estructura se encuentra el "Comando Nacional", responsable 
 
 - "Armada Argentina": Asegura el control de las aguas territoriales y las vitales rutas comerciales que llegan a Ciudad Dársena. Custodiar esas aguas significa, en los hechos, una campaña permanente contra las rutas de navegación del [[ejercito-rojo|Ejército Rojo]] del sur: para un capitán Rojo, esquivar a la Armada es una tarea sin fin, y para la Armada, hostigarlo es baja reconquista naval al amparo de la Ley II ([[constitucion-argentina|la marcha que no se detiene en el territorio cercenado]]). El Ejército Argentino, por su parte, monta guardia sobre el umbral meridional en la zona muerta de la [[franja-de-alsina|Franja de Alsina]], donde la presencia militar de Dársena se impone de este lado de la línea. Además de su Comando de Operaciones Navales, la Armada supervisa dos cuerpos cruciales:
     - La Dirección de Aduanas y Puertos Consagrados (DGAPC)[^aduanas], que regula férreamente el comercio internacional e inspecciona todos los cargamentos en busca de contrabando y tecnología prohibida.
-    - La "Prefectura Naval", que actúa como policía marítima y cuenta con la unidad de élite "Albatros" para operaciones especiales en entornos marítimos y fluviales.
+    - La "Prefectura Naval", que actúa como policía marítima y cuenta con la unidad de élite [[albatros|Albatros]] para operaciones especiales en entornos marítimos y fluviales. En tierra, los Albatros ejercen además de guardia real sobre el corazón de la Isla Oriental: custodian la [[2_atlas/ciudades/darsena/villa-de-los-oficiales|Villa de los Oficiales]] y la Santa Sede, hasta donde la [[inquisicion|SIA]] lo permite.
 
 ## División de Inteligencia y Estrategia
 
