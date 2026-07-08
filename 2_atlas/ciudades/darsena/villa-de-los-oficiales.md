@@ -9,7 +9,7 @@ entidad: ubicacion
 estado: canon
 folder: 2_atlas/ciudades/darsena
 related:
-- '[[pulmon-superior]]'
+- '[[santa-sede]]'
 - '[[barrio-de-la-armada]]'
 - '[[fuerzas-armadas]]'
 - '[[albatros]]'
