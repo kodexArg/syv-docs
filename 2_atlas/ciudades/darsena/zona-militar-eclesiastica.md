@@ -22,6 +22,13 @@ La Isla Oriental es todo el territorio al este de la antigua dársena de Buenos 
 
 Del lado occidental de la dársena, la calle San Martín es probablemente la más cosmopolita y llena de tiendas y extranjeros de toda la Confederación Argentina. Del lado oriental, la isla.
 
+> [!info] La isla, de norte a sur
+> - **[[pulmon-superior|Pulmón Superior]]** (norte/alto) — los jardines de la Iglesia que todos llaman *Santa Sede*: lomas, médanos de pasto, la Nueva Basílica de San Pedro y la Universidad.
+>     - **[[villa-de-los-oficiales|Villa de los Oficiales]]** — parque reservado al sur de la Santa Sede, custodiado por los [[albatros|Albatros]]; entrar es crimen.
+> - **[[bajo-pulmon|Bajo Pulmón]]** (sur) — la franja que baja al Mar, con dos barrios pegados:
+>     - **[[barrio-de-la-armada|Barrio de la Armada]]** — los oficiales y el gobierno de facto de la ciudad.
+>     - **[[barrio-de-los-pescadores|Barrio de los Pescadores]]** — mercado, contrabando y frente de conflicto.
+
 ## Calle Los Patos
 
 La única calle asfaltada de la Isla Oriental corre paralela a la vieja dársena, de norte a sur. Calle Los Patos es la columna vertebral administrativa de la isla: hoteles, hosterías y edificios administrativos bajos, todos vinculados al Clero, flanquean su recorrido. El contraste con San Martín es absoluto: donde al otro lado del agua hierve el comercio cosmopolita, Los Patos mantiene una sobriedad monástica.
