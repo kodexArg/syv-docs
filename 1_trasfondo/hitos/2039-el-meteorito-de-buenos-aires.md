@@ -17,6 +17,7 @@ related:
   - "[[2031-la-fragmentacion-de-argentina]]"
   - "[[cronologia]]"
   - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[lago-muerto]]"
 tags: []
 ---
 ## El Meteorito de Buenos Aires (4 de abril de 2039)
