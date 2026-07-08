@@ -281,5 +281,5 @@ El sistema se diseñó en 2031, durante los enjambres de drones. Nunca se actual
 - IDEOLÓGICO: [PERMITIDO] (crítica implícita a control religioso y desigualdad)
 - TRAUMA: [LEVE-MODERADO] (miseria, hacinamiento, enfermedades)
 - SCOPE: barrios-del-muro, darsena, ciudad-darsena
-- CANON_LOCK: 2025-12-28
+- CANON_LOCK: 2026-07-08 (addendum «Superficie y población (mapa)» + link a leyenda-del-mapa; prosa canónica original intacta desde 2025-12-28)
 -->
