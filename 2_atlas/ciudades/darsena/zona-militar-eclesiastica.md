@@ -36,11 +36,11 @@ La única calle asfaltada de la Isla Oriental corre paralela a la vieja dársena
 
 Sobre la calle Los Patos se encuentra el **Hospital de la Ciudad**, una estructura inmensa que atiende al personal eclesiástico y militar, y a los casos civiles que logran cruzar la dársena con los permisos correspondientes. Es el único hospital de la isla y uno de los más grandes de la Confederación.
 
-## Barrio Sur — Bajo Pulmón: La Marina y los Pescadores
+## Barrio Sur — el "Bajo Pulmón": La Marina y los Pescadores
 
-La franja sur de la isla se conoce coloquialmente como **[[bajo-pulmon|Bajo Pulmón]]**: la lengua de tierra —buena parte ganada al mar— que baja al oriente y al sur del agua de la dársena, hasta el borde que da a "el Mar". Allí conviven, pegados, dos barrios de temple opuesto.
+La franja sur de la isla se conoce coloquialmente como **Bajo Pulmón** (o *Pulmón Inferior*), por oposición a la Santa Sede de las alturas: la lengua de tierra —buena parte ganada al mar— que baja al oriente y al sur del agua de la dársena, hasta el borde que da a "el Mar". El apodo no designa un distrito: nombra el tramo donde conviven, pegados, dos de los tres lugares de la isla, de temple opuesto.
 
-De un lado se concentran los edificios militares de la [[fuerzas-armadas|Armada Argentina]] —el **Barrio de la Armada**—, con vista al Río y sus puertos interiores, que se adentran hacia el final de la dársena. Es una presencia de orden, tolerada por su propia fuerza. Del otro, contiguo y sin transición clara, hierve el bullicioso **[[barrio-de-los-pescadores|Barrio de los Pescadores]]**: mercado central, turismo barato y zonas rojas, cuyos pescadores "verdaderos" no faenan en los muelles interiores sino que salen por los **puertos de fuera del muro**, con todo el contrabando y el conflicto que eso arrastra. Desde el Barrio de los Pescadores, el Barrio de la Armada es "el vecino contiguo hacia el oriente".
+De un lado se concentran los edificios militares de la [[fuerzas-armadas|Armada Argentina]] —el **[[barrio-de-la-armada|Barrio de la Armada]]**—, con vista al Río y sus puertos interiores, que se adentran hacia el final de la dársena. Es una presencia de orden, tolerada por su propia fuerza. Del otro, contiguo y sin transición clara, hierve el bullicioso **[[barrio-de-los-pescadores|Barrio de los Pescadores]]**: mercado central, turismo barato y zonas rojas, cuyos pescadores "verdaderos" no faenan en los muelles interiores sino que salen por los **puertos de fuera del muro**, con todo el contrabando y el conflicto que eso arrastra. Desde el Barrio de los Pescadores, el Barrio de la Armada es "el vecino contiguo hacia el oriente".
 
 El viejo **Gremio de Pescadores**, modesto y controlado, es la cara tolerada de esa comunidad: sus puertos interiores viven a la sombra de la Armada, aparte del hervidero de fuera del muro.
 
