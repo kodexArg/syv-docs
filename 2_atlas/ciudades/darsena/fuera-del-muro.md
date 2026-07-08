@@ -17,6 +17,9 @@ related:
   - "[[salvajes]]"
   - "[[franja-de-alsina]]"
   - "[[ejercito-rojo]]"
+  - "[[el-pantano]]"
+  - "[[lago-muerto]]"
+  - "[[dmz]]"
 ubicaciones:
   - "[[darsena]]"
 ---
