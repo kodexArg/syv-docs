@@ -15,7 +15,7 @@ related:
 - '[[iglesia]]'
 - '[[inquisicion]]'
 - '[[villa-de-los-oficiales]]'
-- '[[pulmon-superior]]'
+- '[[santa-sede]]'
 - '[[zona-militar-eclesiastica]]'
 tags: []
 title: Albatros
