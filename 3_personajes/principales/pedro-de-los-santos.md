@@ -46,7 +46,7 @@ ubicaciones:
 
 Anciano. Scriptorium de Criptoanálisis, Ciudad Dársena. Escribe en los años 2177–2178.
 
-Cronista-narrador recurrente de todos los hitos del trasfondo y de [[1_trasfondo/cronologia|La Cronología]]. <mark style="background:#ffd8a8">Continuador y compilador de [[las-cronologias|Las Cronologías según los Archivistas]], la obra que su maestro [[anselmo-quiroga|Anselmo Quiroga]] fundó como *El Cronologio*.</mark>
+Cronista-narrador recurrente de todos los hitos del trasfondo y de [[1_trasfondo/cronologia|La Cronología]]. Continuador y compilador de [[las-cronologias|Las Cronologías según los Archivistas]], la obra que su maestro [[anselmo-quiroga|Anselmo Quiroga]] fundó como *El Cronologio*.
 
 ## Aspecto
 
@@ -58,11 +58,11 @@ Hombre de edad avanzada, oriundo de las sierras cordobesas, que pasó los últim
 
 Hermano Archivista de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]], responsable del **Scriptorium de Criptoanálisis** — el taller donde los hermanos escribas y amanuenses copian, descifran y registran documentos recuperados de los dos siglos anteriores. Su función técnica es la **datación**: asignar a cada fragmento de material arqueológico su *data crónica* (la fecha) y su *data tópica* (el lugar de origen), las dos mitades de la cláusula de datación que ancla todo documento al tiempo y al espacio.
 
-<mark style="background:#ffd8a8">No es el autor único de [[las-cronologias|Las Cronologías]] sino su continuador: heredó de [[anselmo-quiroga|Anselmo Quiroga]] el material, el método y el cargo, y le dio al fin forma de libro —compilando, cosiendo unas entradas con otras y glosando al margen lo que su maestro ya había asentado—. Pocas entradas son enteramente suyas.</mark> La [[1_trasfondo/cronologia|Cronología]] es su columna vertebral; cada hito, un capítulo. El scriptorium donde trabaja es la clase académica de Dársena — los escribas y archivistas forman un estrato reconocido, el ~5% letrado que sostiene la memoria institucional de la Iglesia.
+No es el autor único de [[las-cronologias|Las Cronologías]] sino su continuador: heredó de [[anselmo-quiroga|Anselmo Quiroga]] el material, el método y el cargo, y le dio al fin forma de libro —compilando, cosiendo entradas y glosando al margen lo que su maestro ya había asentado—. Pocas son enteramente suyas. La [[1_trasfondo/cronologia|Cronología]] es su columna vertebral; cada hito, un capítulo. El scriptorium donde trabaja es la clase académica de Dársena — los escribas y archivistas forman un estrato reconocido, el ~5% letrado que sostiene la memoria institucional de la Iglesia.
 
 Su colaborador más cercano: **el hermano Tomás Ferreyra, criptógrafo**, encargado de descifrar los textos que ningún ojo piadoso podría leer de otro modo.
 
-La línea de archivistas de su oficio no comienza con él. Su predecesor y maestro, **el [[anselmo-quiroga|Hermano Anselmo Quiroga]]**, fundó la obra y es la voz de los epígrafes más tempranos del corpus (fechados hacia 2173); <mark style="background:#ffd8a8">cuando Anselmo murió, cumplido ya su centenario, Pedro heredó no solo el cargo sino el método y la vocación de esa misma memoria total que define la línea —y la tarea de cerrar lo que el maestro había dejado abierto.</mark>
+La línea de archivistas de su oficio no comienza con él. Su predecesor y maestro, **el [[anselmo-quiroga|Hermano Anselmo Quiroga]]**, fundó la obra y es la voz de los epígrafes más tempranos del corpus (fechados hacia 2173); cuando Anselmo murió, cumplido ya su centenario, Pedro heredó no solo el cargo sino el método y la vocación de esa memoria total que define la línea —y la tarea de cerrar lo que el maestro dejó abierto.
 
 ### Personalidad
 

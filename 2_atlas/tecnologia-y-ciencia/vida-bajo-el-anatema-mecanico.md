@@ -24,11 +24,11 @@ title: La Vida bajo el Anatema Mecánico
 # La Vida bajo el Anatema Mecánico
 ## Efectos limitantes y lo prohibido (2061-2178)
 
-<mark style="background:#a5d8ff">El [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] no es, para el habitante de la Confederación, una doctrina que se discuta: es el aire que respira. Su teología, su historia y sus secretos viven en el [[1_trasfondo/codex/anatema-mecanico|codex del Anatema]]; lo que esta entrada inventaría no es el porqué de la prohibición, sino el cómo de la vida que la prohibición talla, día tras día, en quienes nacieron dentro de ella. Aquí no hay misterio que ocultar —por eso es lectura abierta—: hay solo el catálogo de una existencia recortada por la renuncia al silicio, y la cultura áspera, lenta y reproducible que floreció en el hueco que dejó la máquina.</mark>
+El [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] no es, para el habitante de la Confederación, una doctrina que se discuta: es el aire que respira. Su teología, su historia y sus secretos viven en el [[1_trasfondo/codex/anatema-mecanico|codex del Anatema]]; lo que esta entrada inventaría no es el porqué de la prohibición, sino el cómo de la vida que la prohibición talla, día tras día, en quienes nacieron dentro de ella. Aquí no hay misterio que ocultar —por eso es lectura abierta—: hay solo el catálogo de una existencia recortada por la renuncia al silicio, y la cultura áspera, lenta y reproducible que floreció en el hueco que dejó la máquina.
 
 ## Lo Prohibido — los tres umbrales
 
-<mark style="background:#a5d8ff">El Anatema no proscribe «la tecnología» en abstracto: proscribe una cosa muy precisa —la mente de silicio capaz de procesar la realidad humana— y alrededor de ella traza tres umbrales que ordenan toda la cultura material confederada. De qué lado de cada umbral cae un objeto decide, más que cualquier sermón, cómo se vive con él.</mark>
+El Anatema no proscribe «la tecnología» en abstracto: proscribe una cosa muy precisa —la mente de silicio capaz de procesar la realidad humana— y alrededor de ella traza tres umbrales que ordenan toda la cultura material confederada. De qué lado de cada umbral cae un objeto decide, más que cualquier sermón, cómo se vive con él.
 
 ### Anatema absoluto — pena de muerte, sin apelación
 
@@ -49,11 +49,11 @@ title: La Vida bajo el Anatema Mecánico
 - **Mecánica clásica**: motores de combustión, turbinas, pistones —sin automatización autónoma.
 - **Medicina analógica**: bisturí, estetoscopio, radiografía sin cómputo; prohibida la cirugía asistida por máquina inteligente.
 
-<mark style="background:#a5d8ff">La regla detrás de los tres umbrales es siempre la misma, y conviene enunciarla porque explica la forma entera de esta civilización: **se tolera lo que no puede evolucionar.** Una máquina grande, artesanal, comprensible por un solo hombre, es inofensiva porque no tiene dónde esconder una mente. El pecado capital no es la complejidad ni la potencia: es la miniaturización —la puerta nanométrica por la que una vez entró la Bestia—. Por eso el cobre macroscópico se bendice y el transistor se quema.</mark>
+La regla detrás de los tres umbrales es siempre la misma, y conviene enunciarla porque explica la forma entera de esta civilización: **se tolera lo que no puede evolucionar.** Una máquina grande, artesanal, comprensible por un solo hombre, es inofensiva porque no tiene dónde esconder una mente. El pecado capital no es la complejidad ni la potencia: es la miniaturización —la puerta nanométrica por la que una vez entró la Bestia—. Por eso el cobre macroscópico se bendice y el transistor se quema.
 
 ## Efectos limitantes — la textura de los días
 
-<mark style="background:#ffd8a8">Dentro de esos umbrales, la vida cotidiana de la Confederación tomó una forma reconocible. No es la vida empobrecida que un hombre del Viejo Mundo imaginaría: es una vida distinta, donde cada cosa que enciende una luz o mueve un dato un hombre la puede entender, reparar y volver a fabricar con sus manos.</mark>
+Dentro de esos umbrales, la vida cotidiana de la Confederación tomó una forma reconocible. No es la vida empobrecida que un hombre del Viejo Mundo imaginaría: es otra vida, donde cada cosa que enciende una luz o mueve un dato un hombre la entiende, la repara y la vuelve a fabricar con sus manos.
 
 ### La luz medida: corriente baja, ley física
 
@@ -61,7 +61,7 @@ title: La Vida bajo el Anatema Mecánico
 - Alcanza para la iluminación por diodos (LED) y para pequeños electrodomésticos de lógica simple.
 - Excepciones cruciales —la purificación de agua, las colosales Granjas Hidropónicas— demandan corrientes mayores, alimentadas por una central nuclear soterrada cuyo emplazamiento es el secreto mejor guardado de la Confederación.
 
-<mark style="background:#a5d8ff">La cifra no es casual ni mezquina: 48 voltios es la frontera donde la electricidad deja de poder matar a un niño descuidado. La austeridad dejó de ser virtud para volverse ley física —el dogma y el amperímetro dicen, por una vez, exactamente lo mismo—.</mark> Para la versión lírica de esta misma renuncia, véase el testimonio del Archivista en [[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]].
+La cifra no es casual ni mezquina: 48 voltios es la frontera donde la electricidad deja de poder matar a un niño descuidado. La austeridad dejó de ser virtud para volverse ley física —el dogma y el amperímetro dicen, por una vez, exactamente lo mismo—. Para la versión lírica de esta misma renuncia, véase el testimonio del Archivista en [[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]].
 
 ### La información sin cerebro: la astucia analógica
 
@@ -72,7 +72,7 @@ title: La Vida bajo el Anatema Mecánico
 
 ### El PIA: el límite hecho objeto
 
-El corazón de cómputo permitido es el **Procesador de Industria Argentina (PIA)**, estándar confederado y máxima expresión de cálculo admisible post-2061. <mark style="background:#a5d8ff">Es el ejemplo perfecto del primer umbral: tolerado precisamente por aquello que lo vuelve torpe.</mark>
+El corazón de cómputo permitido es el **Procesador de Industria Argentina (PIA)**, estándar confederado y máxima expresión de cálculo admisible post-2061. Es el ejemplo perfecto del primer umbral: tolerado precisamente por lo que lo vuelve torpe.
 
 **Por qué el PIA no viola el Anatema:**
 
@@ -92,4 +92,4 @@ Sus aplicaciones —PDAs civiles, «chips homologados» certificados por la Igle
 
 ## El costo y la dignidad del límite
 
-<mark style="background:#a5d8ff">Vivir bajo el Anatema es vivir más lento. Un mensaje tarda lo que tarda un mensajero; una memoria pesa lo que pesa el papel que la guarda; una máquina rinde lo que rinde el cobre que un herrero supo trenzar. Pero esa lentitud tiene una contracara que la Confederación aprendió a llamar dignidad: no hay aquí un solo aparato cuyo funcionamiento dependa de un saber que ya no se posee. Donde el Viejo Mundo fue veloz y esclavo de cajas que nadie entendía, la vida bajo el Anatema es lenta y libre —reproducible hasta en el último barrio, comprensible hasta por la última mano—. El Anatema quitó el procesador; no logró quitar el ingenio, que se mudó al cobre, a la sal y a la electricidad honesta de las cosas que un hombre todavía puede arreglar.</mark>
+Vivir bajo el Anatema es vivir más lento. Un mensaje tarda lo que tarda un mensajero; una memoria pesa lo que pesa el papel que la guarda; una máquina rinde lo que rinde el cobre que un herrero supo trenzar. Pero esa lentitud tiene una contracara que la Confederación aprendió a llamar dignidad: no hay aquí un solo aparato cuyo funcionamiento dependa de un saber que ya no se posee. Donde el Viejo Mundo fue veloz y esclavo de cajas que nadie entendía, la vida bajo el Anatema es lenta y libre —reproducible hasta en el último barrio, comprensible hasta por la última mano—. El Anatema quitó el procesador; no logró quitar el ingenio, que se mudó al cobre, a la sal y a la electricidad honesta de las cosas que un hombre todavía puede arreglar.
