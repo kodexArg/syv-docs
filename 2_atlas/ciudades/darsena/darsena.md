@@ -135,7 +135,7 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 
 ## Zonas Principales
 
-*   **[[zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso. Su franja norte y alta —el [[pulmon-superior|Pulmón Superior]], que todos llaman *Santa Sede*— guarda los jardines de la Iglesia y la Nueva Basílica; su franja sur —el [[bajo-pulmon|Bajo Pulmón]]— alberga el [[barrio-de-los-pescadores|Barrio de los Pescadores]] y el [[barrio-de-la-armada|Barrio de la Armada]].
+*   **[[zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso. La isla tiene tres lugares: la [[pulmon-superior|Santa Sede]] (los jardines de la Iglesia y la Nueva Basílica, apodada *Pulmón Superior*), el [[barrio-de-la-armada|Barrio de la Armada]] y el [[barrio-de-los-pescadores|Barrio de los Pescadores]] —estos dos en la franja sur que la gente apoda *Bajo Pulmón*—.
 *   **[[microcentro|Microcentro]]**: El corazón administrativo y comercial de la ciudad.
 *   **[[zona-centro|Zona Centro]]**: El núcleo productivo y educativo.
 *   **[[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
