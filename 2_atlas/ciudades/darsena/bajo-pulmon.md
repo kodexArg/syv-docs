@@ -27,6 +27,6 @@ ubicaciones:
 En Bajo Pulmón conviven, pegados, **dos barrios** de temple opuesto:
 
 - El **[[barrio-de-los-pescadores|Barrio de los Pescadores]]**: mercado central, contrabando por los puertos de fuera del muro, turismo barato, zonas rojas y el frente de conflicto más caliente de Dársena. El reverso plebeyo y colorido de la isla.
-- El **Barrio de la Armada**: los cuarteles, muelles y dependencias de la [[fuerzas-armadas|Armada Argentina]] en el sur de la isla, con sus muelles interiores y su vigilancia férrea.
+- El **[[barrio-de-la-armada|Barrio de la Armada]]**: los cuarteles, muelles y dependencias de la [[fuerzas-armadas|Armada Argentina]] en el sur de la isla —barrio de todos los oficiales y sede de facto del gobierno de la ciudad—, con sus muelles interiores y su vigilancia férrea.
 
 La frontera entre ambos es porosa y disputada: el cemento militar se termina y, sin transición clara, empieza el humo de las frituras. Esa costura —barrio de orden contra barrio de mercado— es lo que hace de Bajo Pulmón un lugar tenso, donde el poder naval y el contrabando comparten la misma orilla.
