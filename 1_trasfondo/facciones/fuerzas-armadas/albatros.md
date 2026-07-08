@@ -31,7 +31,7 @@ Los **Albatros** son la unidad de élite de la [[fuerzas-armadas|Armada Argentin
 Los Albatros visten **uniforme militar completo y útil en todo momento** —nada de ornamento ceremonial vacío: su porte de gala es también su porte de combate—. Su cometido en tierra es doble:
 
 - **Custodian la [[villa-de-los-oficiales|Villa de los Oficiales]]**, el parque reservado al sur de la Santa Sede cuyo ingreso no autorizado se paga con trabajos forzados. Son ellos quienes hacen valer esa frontera invisible.
-- **Atienden las operaciones de custodia de la Santa Sede** —el [[pulmon-superior|Pulmón Superior]]—, hasta donde la [[inquisicion|Sagrada Inquisición Argentina]] lo permite.
+- **Atienden las operaciones de custodia de la [[pulmon-superior|Santa Sede]]** (apodada *Pulmón Superior*), hasta donde la [[inquisicion|Sagrada Inquisición Argentina]] lo permite.
 
 ## Tensión con la Inquisición
 
