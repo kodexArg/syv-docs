@@ -141,3 +141,11 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 *   **[[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
 *   **[[barrios-del-muro|Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
 *   **[[tuberias|Las Tuberías]]**: La ciudad subterránea, un mundo aparte.
+
+## Superficie y población por zona (mapa)
+
+El reparto espacial de los **5 000 000 de almas** por zona —superficie en km², población y densidad de cada distrito— vive en la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada del mapa interactivo `syv-map`. En síntesis: el complejo del Muro concentra el **70 % (3,5 M)** —[[barrios-del-muro|Barrios del Muro]] 2,1 M y su núcleo comprimido, la **Zona Roja**, 1,4 M a 383 000 hab/km²—; el [[zona-centro|Centro]] ronda los 980 000; y el gradiente cae hacia los jardines secos del [[zona-residencial-alta-sociedad|Barrio Norte]] (30 000). Las zonas exteriores —[[dmz|la DMZ (ZDM)]], [[el-pantano|El Pantano]] y el [[lago-muerto|Lago Muerto]]— quedan fuera del reparto (población permanente ~0).
+
+## Ver también
+
+- [[leyenda-del-mapa|Leyenda del Mapa de Dársena]] — superficie, población y densidad por zona.
