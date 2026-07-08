@@ -135,7 +135,7 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 
 ## Zonas Principales
 
-*   **[[zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso.
+*   **[[zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso. Su franja sur —el [[bajo-pulmon|Bajo Pulmón]]— alberga el [[barrio-de-los-pescadores|Barrio de los Pescadores]] y el Barrio de la Armada.
 *   **[[microcentro|Microcentro]]**: El corazón administrativo y comercial de la ciudad.
 *   **[[zona-centro|Zona Centro]]**: El núcleo productivo y educativo.
 *   **[[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
