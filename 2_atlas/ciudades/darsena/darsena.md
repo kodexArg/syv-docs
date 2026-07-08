@@ -141,4 +141,3 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 *   **[[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
 *   **[[barrios-del-muro|Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
 *   **[[tuberias|Las Tuberías]]**: La ciudad subterránea, un mundo aparte.
-*   **[[barrio-de-los-pescadores|Barrio de los Pescadores]]**: Mercado central, puerto de contrabando y frente de conflicto en la boca de la dársena.
