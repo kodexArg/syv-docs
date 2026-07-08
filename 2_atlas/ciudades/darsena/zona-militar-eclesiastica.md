@@ -24,7 +24,7 @@ Del lado occidental de la dársena, la calle San Martín es probablemente la má
 
 > [!info] Los tres lugares de la isla
 > La Isla Oriental tiene **tres lugares directos**, hermanos entre sí. Los apodos "Pulmón Superior" (la Santa Sede, arriba) y "Pulmón Inferior" o "Bajo Pulmón" (la franja sur que baja al Mar) son solo cómo la gente reconoce las zonas, no divisiones administrativas ni contenedores.
-> - **[[pulmon-superior|Santa Sede]]** *(apodo: Pulmón Superior)* — los jardines de la Iglesia: lomas, médanos de pasto, la Nueva Basílica de San Pedro y la Universidad. Contiene la [[villa-de-los-oficiales|Villa de los Oficiales]], parque reservado custodiado por los [[albatros|Albatros]] (entrar es crimen).
+> - **[[santa-sede|Santa Sede]]** *(apodo: Pulmón Superior)* — los jardines de la Iglesia: lomas, médanos de pasto, la Nueva Basílica de San Pedro y la Universidad. Contiene la [[villa-de-los-oficiales|Villa de los Oficiales]], parque reservado custodiado por los [[albatros|Albatros]] (entrar es crimen).
 > - **[[barrio-de-la-armada|Barrio de la Armada]]** *(franja sur)* — los oficiales, la Fortaleza de la Luz, los Muelles Interiores y el gobierno de facto de la ciudad.
 > - **[[barrio-de-los-pescadores|Barrio de los Pescadores]]** *(franja sur)* — mercado, contrabando y frente de conflicto.
 
