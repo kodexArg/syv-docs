@@ -114,7 +114,7 @@ Porque ese arribo trae un problema que lo precede al bajar del avión de carga. 
 
 > ¿qué se hace con el héroe de un hecho que nos avergüenza tanto, que nunca haremos público lo que sucedió?
 
-Ese arribo eufórico de 2178 **es** su entrada de exilio a Dársena. [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]] ocurre años después, cuando la euforia ya se apagó y la Iglesia lo ha instalado para sus casos sensibles.
+Ese arribo eufórico de 2178 **es** su entrada de exilio a Dársena, y [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]] será su **primer caso** en la ciudad —prácticamente encimado al arribo, no un asunto de años después—: el Sabueso baja del avión y el muerto del Archivo ya lo está esperando.
 
 <!-- /🔐 -->
 
