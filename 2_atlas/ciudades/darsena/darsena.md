@@ -27,7 +27,7 @@ ubicaciones:
   - "[[tuberias]]"
 ---
 
-> La capital de facto de la Confederación. Cinco millones de almas comprimidas entre el muro de 20 metros y el Río de la Plata contaminado, en un oasis templado que un cinturón de niebla rodea por todos lados.
+> La capital de facto de la Confederación. El censo oficial cuenta cinco millones de almas; en verdad son doce millones y medio las que se comprimen entre el muro de 20 metros y el Río de la Plata contaminado, en un oasis templado que un cinturón de niebla rodea por todos lados.
 >
 > Aquí gobierna la alianza entre la Iglesia y la Armada: la Nueva Basílica de San Pedro reconstruida piedra por piedra desde Roma, el puerto que controla todo el comercio internacional, los barrios del muro donde la pobreza extrema respira humedad al 95%. Dársena es el corazón del poder y también el escenario de todas las contradicciones del mundo post-anatema.
 
