@@ -18,7 +18,6 @@ related:
 - '[[teniente-coronel-gobernador]]'
 - '[[2178-el-escandalo-de-cordoba]]'
 - '[[campos-de-reeducacion]]'
-- '[[sectas-demonologas]]'
 tags: []
 title: Campos de Reeducación de Córdoba
 ubicaciones:
