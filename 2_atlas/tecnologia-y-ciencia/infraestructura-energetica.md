@@ -81,7 +81,7 @@ El Departamento de Red Eléctrica opera con un sistema estricto de compartimenta
 **Conocimiento**:
 - Comprenden funcionamiento básico de Nodos (son distribuidores de voltaje)
 - Entienden arquitectura de red (qué sector está conectado a dónde)
-- **CONOCEN UBICACIÓN**: Generadores primarios están directamente bajo las dos Torres Hidropónicas
+- **CONOCEN LA UBICACIÓN REAL**: los generadores NO están bajo las Torres (ése es el error que cree la ciudad), sino bajo el extremo norte de la [[zona-militar-eclesiastica|Isla Oriental]], enterrados más profundo que el río
 - Capacidad de calcular consumo y detectar sobrecargas
 - Prohibido hablar sobre lo que saben con Nivel 1
 
