@@ -83,7 +83,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 -   **Riesgos**: Perseguidos por SIA si se descubre que preservan tecnología prohibida. Muchos tienen doble vida clandestina.
 
 ### **Clase Marina (~10% de población)**
--   **Estimado**: 500.000 personas
+-   **Estimado**: 1.250.000 personas (10 % de 12,5 M)
 -   **Composición**: Marineros, capitanes, astilleros, trabajadores de puerto, pescadores. Desde almirantes hasta grumetes.
 -   **Vivienda**: Alojamientos navales (estructurados, drenados), casas en barrios cercanos al puerto (más húmedas que ideal).
 -   **Alimentación**: Regulada militarmente (raciones), acceso a proteína de pescado.
