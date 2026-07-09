@@ -406,7 +406,7 @@ Es la escala industrial de los **TAPs** que ya construyen las bandas de los [[ba
 
 ## Baterías
 
-Las [[baterias|baterías]] son **pesadas, utilísimas y están prohibidas por peligrosas**. Acumulan el hilito de potencia a cuentagotas para soltarlo de una sola vez, y por eso son la pieza que vuelve viable el contrabando y el alto consumo puntual donde la tarjeta no alcanza. Los [[barrios-del-muro|Barrios del Muro]] están llenos de ellas. El **[[fuerzas-armadas|Ejército]]** abusa de ellas sin recato y mantiene una **zona de alta recarga** propia dentro de la zona militar.
+Las [[baterias|baterías]] son **pesadas, utilísimas y están formalmente prohibidas, pero se usan en todos lados**. El objeto —arena y sal— no es tóxico ni explosivo: lo peligroso y prohibido es **lo que permiten hacer, la descarga de alta potencia**. Acumulan el hilito de potencia a cuentagotas para soltarlo de una sola vez, y por eso son la pieza que vuelve viable el contrabando y el alto consumo puntual donde la tarjeta no alcanza. Los [[barrios-del-muro|Barrios del Muro]] están llenos de ellas, igual que los tranvías y los hogares acomodados; el **[[fuerzas-armadas|Ejército]]** abusa de ellas sin recato y mantiene una **zona de alta recarga** propia dentro de la zona militar. La prohibición, entonces, es más **gancho legal** que barrera: se aplica de forma selectiva, a plena luz para la casta y como ruina para el pobre al que se le encuentra una.
 
 ## Vehículos y transporte
 
