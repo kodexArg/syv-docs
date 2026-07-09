@@ -64,6 +64,6 @@ No se lo puede premiar sin contar lo que hizo, y lo que hizo no se puede contar.
 
 ## Ver también
 
-- [[teniente-coronel-gobernador|Coronel Mendoza Reyes]] — el gobernador caído y su conspiración de fondo.
+- [[teniente-coronel-gobernador|Coronel Santiago Mendoza]] — el gobernador caído y su conspiración de fondo.
 - [[damian-diconte|Damián DiConte]] — su arribo de exilio a Dársena arranca aquí.
 - [[casa-verde|Casa Verde]] · [[campos-de-reeducacion-cordoba|Campos de Córdoba]] · [[cronologia|Cronología]].
