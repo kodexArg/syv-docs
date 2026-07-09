@@ -41,7 +41,7 @@ La población sabe que existe una red eléctrica que funciona. Sabe que alguien 
 
 **Responsabilidades**:
 - Mantenimiento de la rejilla eléctrica pre-guerra (Nodos subterráneos)
-- Custodia de los reactores de fusión nuclear bajo Torres Hidropónicas
+- Custodia de los reactores de fusión nuclear («La Máquina») bajo la Isla Oriental
 - Distribución eléctrica 48V DC a toda Dársena (12,5 millones de personas)
 - Gestión de sistema de alarma analógica
 - Investigación de anomalías energéticas
