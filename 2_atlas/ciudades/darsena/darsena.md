@@ -42,7 +42,7 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 -   **2040-2050**: Comienza la reconstrucción y un período de reclusión. En 2082-2120, las ruinas de la Basílica de San Pedro son trasladadas desde el Vaticano y reconstruidas, estableciendo a Dársena como el nuevo centro del poder eclesiástico.
 -   **2050-2060**: La aparición de la Inteligencia Artificial Quiescente (QAI) pone fin a la era tecnológica. En Dársena nace la Sagrada Inquisición Argentina (SIA) como brazo armado de la Iglesia contra la herejía científica. La ciudad-estado se declara autónoma.
 -   **2060-2070**: Se construyen las [[torres-hidroponicas|Torres Hidropónicas]] para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
--   **2070-2100**: La ciudad experimenta una explosión demográfica por las migraciones, que culmina con el cierre de fronteras y la promulgación de la "Ley de Sangre" para prohibir la inmigración. La DMZ al otro lado del muro es despejada por la fuerza.
+-   **2070-2100**: La presión demográfica se vuelve innegable —no por obra nueva, sino porque la masa que el censo nunca contó (Muro y Tuberías) ya desborda la ciudad—; el Estado responde con el cierre de fronteras y la promulgación de la "Ley de Sangre" para prohibir la inmigración. La DMZ al otro lado del muro es despejada por la fuerza.
 -   **2100-2170**: Dársena se consolida como la capital de la Confederación, una potencia comercial y un centro de peregrinación mundial, manteniendo su dominio a través del control religioso y naval.
 
 ## Gobierno y Sociedad
