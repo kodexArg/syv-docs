@@ -35,28 +35,31 @@ ubicaciones:
 Findings del mapa interactivo de [[darsena|Ciudad Dársena]] **y sus alrededores**: cada polígono con su **color canónico**, su **superficie**, y —donde aplica— su **población** y **densidad**. Áreas geodésicas (proyección equirectangular sobre latitud media; error < 1 % a escala urbana) medidas sobre la geometría del mapa.
 
 > [!info] Procedencia y estado
-> Derivada de la herramienta `syv-map` (sandbox de polígonos MapLibre, coordenadas WGS84 reales sobre el área de la antigua dársena porteña). Geometría **en construcción**: las superficies son las actuales y pueden moverse al ajustar bordes. Los **colores se mantienen** como paleta de referencia. La **población** deriva del ancla canónica de 5 000 000 de almas (ver [[darsena]]) repartida por densidad; es modelo `propuesta`, no cifra ratificada por zona.
+> Derivada de la herramienta `syv-map` (sandbox de polígonos MapLibre, coordenadas WGS84 reales sobre el área de la antigua dársena porteña). Geometría **en construcción**: las superficies son las actuales y pueden moverse al ajustar bordes. Los **colores se mantienen** como paleta de referencia. La **población** deriva del ancla canónica de 12 500 000 de almas reales en la ciudad (censo oficial del Estado: 5 000 000 — ver el desdoble en [[darsena]]) repartida por densidad; es modelo `propuesta`, no cifra ratificada por zona.
+
+<!-- syv-map: esta leyenda debe poder ocultarse/mostrarse con un botón toggle en el mapa interactivo (pendiente en la app, no en este documento). -->
 
 ## Regiones de la ciudad — superficie, población y densidad
 
-Reparto de los **5 000 000 de almas** canónicos de Dársena. Ancla dura: el complejo del Muro concentra el **70 % (3,5 M)**; el gradiente va de la humedad podrida a los jardines secos.
+Reparto de los **12 500 000 de almas** reales de Dársena (el censo oficial del Estado declara **5 000 000**; ver el desdoble en [[darsena]]). Ancla dura: los [[barrios-del-muro|Barrios del Muro]] concentran el **75 % (9,375 M)**; el gradiente va de la humedad podrida a los jardines secos.
 
 | Región (rótulo del mapa) | Color | km² | Población | % ciudad | hab/km² | Entidad canónica |
 |---|---|---:|---:|---:|---:|---|
-| Zona Roja *(la más densa)* | `#641b1b` | 3.65 | 1 400 000 | 28 % | 383 000 | núcleo comprimido de [[barrios-del-muro]] — *sin ficha propia* |
-| Barrios del Muro | `#080808` | 8.27 | 2 100 000 | 42 % | 254 000 | [[barrios-del-muro]] |
-| Centro de Dársena | `#FF6A1A` | 7.02 | 980 000 | 19,6 % | 140 000 | [[zona-centro]] · núcleo [[microcentro]] |
-| Barrio de Pescadores | `#32287b` | 0.99 | 170 000 | 3,4 % | 173 000 | [[barrio-de-los-pescadores]] (Gremio de Pesca) |
-| Santa Sede | `#f2ff42` | 3.33 | 160 000 | 3,2 % | 48 000 | [[santa-sede]] ([[zona-militar-eclesiastica\|Isla Oriental]]) · [[basilica-de-san-pedro]] |
-| Barrio de la Armada | `#71f9ac` | 1.43 | 110 000 | 2,2 % | 77 000 | [[barrio-de-la-armada]] |
-| Zona Militar Norte | `ForestGreen` | 0.86 | 50 000 | 1,0 % | 58 000 | guarnición de [[fuerzas-armadas]] — *sin ficha propia* |
-| Barrio Norte *(élite)* | `#74ACDF` | 1.11 | 30 000 | 0,6 % | 27 000 | [[zona-residencial-alta-sociedad\|Barrios del Norte]] |
+| Barrios del Muro | `#080808` | 5.73 | 9 375 000 | 75 % | 1 635 000 | [[barrios-del-muro]] |
+| Centro de Dársena | `#FF6A1A` | 4.74 | 2 900 000 | 23,2 % | 611 500 | [[zona-centro]] · núcleo [[microcentro]] |
+| Barrio de la Armada | `#71f9ac` | 1.36 | 200 000 | 1,6 % | 147 300 | [[barrio-de-la-armada]] |
+| Barrio de Pescadores | `#32287b` | 1.01 | 16 000 | 0,13 % | 15 800 | [[barrio-de-los-pescadores]] (Gremio de Pesca) |
+| Barrio Norte *(élite)* | `#74ACDF` | 0.48 | 6 600 | 0,05 % | 13 850 | [[zona-residencial-alta-sociedad\|Barrios del Norte]] |
+| Santa Sede | `#f2ff42` | 3.35 | 882 | 0,007 % | 263 | [[santa-sede]] ([[zona-militar-eclesiastica\|Isla Oriental]]) · [[basilica-de-san-pedro]] |
+| Zona Militar Norte | `ForestGreen` | 0.68 | 100 | ~0 % | 147 | guarnición urbana de [[fuerzas-armadas]] — *sin ficha propia* |
 | Muralla | `DarkBlue` | *línea* | — | — | — | el muro perimetral (Muro Norte / Sur / de Barrio Norte) |
-| **Total ciudad** | | **~26.6** | **5 000 000** | 100 % | | |
+| **Total ciudad** | | **~17.35** | **12 500 000** | 100 % | | |
+
+> Las [[tuberias|Tuberías]] (~500 000, subsuelo) son un **subconjunto** de los Barrios del Muro —población off-censo que no suma aparte—. Sobre el río, ~10 000 almas viven a bordo de la flota (~1000 barcos de la clase «Dársena»), fuera del reparto de superficie.
 
 ## Alrededores — las zonas exteriores
 
-Los polígonos de afuera del muro son **órdenes de magnitud más grandes** que los distritos urbanos y de población permanente **~0** (Salvajes dispersos, barcazas, refugiados de paso). No entran en el reparto de los 5 M.
+Los polígonos de afuera del muro son **órdenes de magnitud más grandes** que los distritos urbanos y de población permanente **~0** (Salvajes dispersos, barcazas, refugiados de paso). No entran en el reparto de los 12,5 M de la ciudad. (El **territorio** administrado por Dársena suma ~15 M si se cuentan los Campos de Reeducación del norte y el ejército de tierra del cinturón — ver [[darsena]].)
 
 | Zona | Color | km² | Ubicación | Población | Entidad canónica |
 |---|---|---:|---|---:|---|
@@ -74,13 +77,13 @@ El **Cuerpo de Hielo (2039)** se dibuja como cinco anillos concéntricos, un gru
 
 ## Modelo de población y densidad
 
-- **Ancla canónica:** 5 000 000 de almas ([[darsena]]); el complejo del Muro (Zona Roja + Barrios del Muro = 11,9 km²) sostiene el **70 % = 3,5 M**, con Zona Roja como el punto más denso.
-- **¿Es habitable esa densidad?** Sí, pero solo como *warren vertical* tipo Kowloon. Medido en **habitación neta por persona** (descontando muros, escaleras y usos no residenciales), a **6–8 pisos** de altura media Zona Roja da **~5–7 m²/persona** — nivel conventillo/Kowloon: escuálido pero históricamente real, y aún **~1/5 del récord** de hacinamiento humano (Kowloon Walled City, ~3,7 m²/p). A baja altura (2–3 pisos) cae por debajo del mínimo de un campo de refugiados: el canon **obliga** a que el Muro sea vertical.
+- **Ancla canónica:** 12 500 000 de almas reales en la ciudad ([[darsena]]) —frente al censo oficial de 5 000 000—; los [[barrios-del-muro|Barrios del Muro]] (5,73 km²) sostienen el **75 % = 9,375 M** a **~1 635 000 hab/km²**.
+- **¿Es habitable esa densidad?** Sí: es el corazón mismo del universo, un *warren vertical* llevado al extremo. El promedio del Muro (~1,635 M/km²) **iguala y supera** el récord histórico de hacinamiento humano —Kowloon Walled City, ~1,255 M/km²— pero sostenido no sobre una manzana sino sobre **220 veces** esa superficie. El gradiente interno lo explica: el **sur del Muro** trepa a **~4 M/km²** (monobloques de hasta 100 pisos, mediana 40–50), mientras la **franja pegada al muro**, capada a los 20 m de altura del propio muro, baja a **~1 M/km²**. No es realismo de conventillo: es una colmena vertical extrema, coherente con una ciudad que niega su propio tamaño.
 - **El cuello de botella no es el espacio sino el servicio** (agua, cloaca, aire): coherente con la mortalidad canónica (tuberculosis 40 %, micosis 45 %, esperanza de vida 42–45).
 
 ## Notas de lectura y reconciliación
 
 - La **Muralla** no aporta superficie: sus trazos son líneas (`fill: false`).
-- La **suma cruda** de la ciudad (~26.7 km²) ≈ su huella real (unión 26.6 km²): los polígonos urbanos **no** se solapan (Zona Roja está dibujada *adyacente* a Barrios del Muro, no anidada). Sumando los alrededores, el mundo mapeado ronda **~530 km²**.
-- **Tensión con la prosa:** el complejo del Muro mide 11,9 km² en el mapa contra los *«cinco kilómetros cuadrados»* de [[barrios-del-muro]]. Se respetó el ancla de 3,5 M sobre el área del mapa → densidad ~294 k/km² (la mitad de brutal que los ~700 k/km² que implicaría la prosa). Pendiente: reconciliar el polígono o la prosa.
-- **Sin ficha propia todavía:** Zona Roja, Zona Militar Norte, y las tres zonas exteriores (ZDM, El Pantano como entrada dedicada, Lago Muerto). El mapa las delimita antes de su entrada canónica.
+- La **suma cruda** de la ciudad (~17.35 km²) es su huella real: los polígonos urbanos **no** se solapan. Sumando los alrededores, el mundo mapeado ronda **~523 km²**.
+- **Prosa reconciliada:** los Barrios del Muro miden **5,73 km²** en el mapa, en línea con los *«cinco kilómetros cuadrados»* de [[barrios-del-muro]] (la nota de reconciliación prosa/mapa antes pendiente queda **resuelta**). Sobre esa superficie, el ancla real de 9,375 M da **~1 635 000 hab/km²**.
+- **Sin ficha propia todavía:** Zona Militar Norte y las tres zonas exteriores (ZDM, El Pantano como entrada dedicada, Lago Muerto). El mapa las delimita antes de su entrada canónica.
