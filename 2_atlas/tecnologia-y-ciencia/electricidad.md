@@ -71,6 +71,8 @@ A pesar de sus limitaciones, son **ampliamente usadas** porque la economía post
 - **Vehículos militares urbanos:** Incluso Fuerzas Armadas prefieren eléctrico en ciudades por bajo costo operativo
 - **Respaldo doméstico:** Familias acomodadas tienen bancos de baterías para cortes de red
 
+Conviene un matiz: el material —arena y sal— no es tóxico ni explosivo, y su uso es de hecho **omnipresente**, pero el acumulador no es *plenamente legal*. Sobre su capacidad de **descarga de alta potencia** pesa una **prohibición nominal** que se aplica de forma selectiva; la élite y el Estado las usan a plena luz mientras al pobre la sola tenencia puede hundirlo (ver [[baterias|Baterías]]).
+
 ## Seguridad Energética y Vigilancia
 
 Para información completa sobre sistemas de vigilancia, detección de anomalías, TAPs eléctricos clandestinos, "La Bestia" y protocolos de respuesta de la [[inquisicion|SIA]]:
