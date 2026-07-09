@@ -4,10 +4,11 @@ aliases:
 - Baterías
 - Batería
 - Acumuladores
-description: 'Acumuladores pesados de arena y sal, objeto común, seguro y legal, ubicuos
-  en los Barrios del Muro: guardan el hilito de la red a cuentagotas para soltarlo de
-  golpe. Lo vigilado no es el objeto sino esa descarga de alta potencia, ligada al
-  contrabando de energía y a los vehículos eléctricos.'
+description: 'Acumuladores pesados de arena y sal, ni tóxicos ni explosivos, formalmente
+  prohibidos pero omnipresentes: guardan el hilito de la red a cuentagotas para soltarlo
+  de golpe. La prohibición pesa sobre esa descarga de alta potencia y se aplica selectivamente
+  —gancho legal contra los sin poder—, mientras Estado, Ejército y élite las usan a plena
+  luz. Ligados al contrabando de energía y a los vehículos eléctricos.'
 entidad: objeto
 estado: propuesta
 folder: 2_atlas/tecnologia-y-ciencia
