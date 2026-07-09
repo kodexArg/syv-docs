@@ -157,7 +157,7 @@ No hubo obra nueva que explique el salto: la ciudad siempre fue esta. Lo que cam
 Más allá del perímetro urbano, el territorio que Dársena administra suma **~15 000 000** de personas:
 
 -   **12 500 000** — la ciudad propiamente dicha (reparto de arriba).
--   **2 000 000** — los internos de los **Campos de Reeducación**, tendidos al **norte** del muro. *(Sin ficha canónica todavía; se los nombra acá como ancla.)*
+-   **2 000 000** — los internos de los [[campos-de-reeducacion|Campos de Reeducación]], tendidos al **norte** del muro, en la Zona del Cráter que rodea el [[lago-muerto|Lago Muerto]].
 -   **500 000** — el **ejército de tierra** acantonado en el cinturón, distinto de la Armada y distinto también de la guarnición urbana de la **Zona Militar Norte** (~100 efectivos). *(El grueso del Ejército conserva su sede en Córdoba; esta es la fuerza terrestre destacada en el territorio de Dársena.)*
 
 Sobre el **Río de la Plata**, además, viven ~**10 000 almas a bordo** de una flota de cerca de **1000 barcos** de la clase «Dársena». Todo lo que entra o sale por agua —incluidos los pescadores locales— pasa por la Dársena: el puerto es el único ojo de la aguja de la ciudad.
