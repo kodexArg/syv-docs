@@ -269,7 +269,7 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 - Sin reactores = sin electricidad
 - Sin reactores = sin agua desalinizada
 - Pérdida simultánea = colapso de ciudad en **semanas**
-- 12,5 millones de personas: sin agua mueren en 3 días; sin comida (Torres usan 60% electricidad) mueren en 30 días. Y el agua ya vive al borde: cualquier merma de la ración empuja a los estratos bajos al desastre antes que ninguna otra falla.
+- 12,5 millones de personas: sin agua mueren en 3 días; sin comida (Torres usan 60% electricidad) mueren en 30 días. La fragilidad no es una ración diaria al borde del hambre —el servicio abastece bien al nivel del suelo—: es que **todo cuelga de «La Máquina»**. Si el reactor falla, se cortan a la vez el agua y la electricidad; y la barrera de cada día no es cuánta agua hay, sino a qué altura logra subir.
 
 ### El cuello de botella eléctrico: los conductores
 
