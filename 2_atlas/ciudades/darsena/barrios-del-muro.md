@@ -43,6 +43,20 @@ La Iglesia tiene sus capillas en los pisos bajos, sus parroquias más arriba, su
 
 El sistema funciona porque nadie tiene poder absoluto y todos necesitan que el equilibrio no se rompa.
 
+## El Edificio como Ecosistema
+
+Cada bloque es un mundo cerrado. No un edificio: un ecosistema completo —su propia economía, su propia agua, su propia ley— y casi siempre bajo el puño de una sola banda que lo administra como territorio. En la Zona Roja esto es la regla: un edificio, una banda, un rey de concreto que cobra en cada palier.
+
+Los negocios existen. La calle miente.
+
+No hay vidrieras, no hay carteles, no hay comercio visible desde la vereda, y el turista del Microcentro jura que acá no se vende nada. Se equivoca. El comercio vive **puertas adentro** —tras los portones, en los patios interiores, en las terrazas, en pisos intermedios enteros dedicados a la venta. Y es **legal**: algún leguleyo de la Curia redactó la letra que lo justifica, y la policía de **Seguridad Nacional** se empeña en hacerla cumplir. Comprar y vender está permitido; mostrarlo a la calle, no.
+
+Hay luz y hay calor, pero no hay agua.
+
+Cada edificio recibe **electricidad ilimitada de muy baja intensidad** —suficiente para cocinar, calentarse y alumbrar, jamás para una máquina seria—, un chorro constante y débil que nunca se corta. El agua es la otra historia: escasea de raíz, se raciona por turnos, se sube en bidones piso por piso. Un vecino puede tener la lámpara encendida toda la noche y la canilla seca toda la semana.
+
+Los edificios más cercanos al Centro son casi indistinguibles de los del propio Centro. Misma mole, misma altura, misma piedra. Los delata el descuido —la humedad sin reparar, el óxido, la basura en el palier— y la ausencia de negocios legales a la vista. Cuanto más al sur y más contra el Muro, más se despega la máscara.
+
 ## Arquitectura Defensiva
 
 Los edificios de los Barrios del Muro son construcciones monumentales diseñadas para la supervivencia. Inmensos en altura y anchura, algunos alcanzan hasta cincuenta metros de lado, creando manzanas enteras que son fortalezas en sí mismas. Esta arquitectura abarca casi un siglo de evolución defensiva, desde los primeros bloques de emergencia hasta las torres modernas.
