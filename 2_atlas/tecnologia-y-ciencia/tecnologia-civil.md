@@ -41,7 +41,7 @@ Aunque los **motores de combustión interna no están prohibidos** por el [[1_tr
 
 ## Sistema de Purificación de Agua
 
-El suministro de agua potable para los cinco millones de habitantes de Dársena es uno de los mayores desafíos de ingeniería de la ciudad. El agua se extrae de fuentes externas altamente contaminadas y se trata mediante un proceso innovador.
+El suministro de agua potable para los doce millones y medio de habitantes de Dársena es el mayor desafío —jamás resuelto— de la ciudad: el cuello de botella estructural del que depende todo lo demás. La ración oficial es mísera y no alcanza para nadie; la población la completa con cosecha de humedad, recolección de lluvia y fuentes abiertas contaminadas. Lo poco que se potabiliza a gran escala se extrae de fuentes externas altamente contaminadas y se trata mediante un proceso innovador.
 
 -   **Purificación por Catálisis Electroquímica**: Este es el método principal de purificación a gran escala. El proceso funciona de la siguiente manera:
     1.  El agua contaminada se bombea a grandes tanques de reacción.
