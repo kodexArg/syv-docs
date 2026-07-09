@@ -54,7 +54,7 @@ En los Barrios del Muro, la Religión va en plural. Pero esa pluralidad es contr
 - Iglesia Maradoniana (hegemónica: 3.75M seguidores)
 - Umbanda (dominante: 1.5M seguidores, fragmentada en ritos)
 - San La Muerte (sectores criminales)
-- La Compañía (popular: 70K devotos)
+- La Compañía (popular: 175K devotos)
 - Hermandades Católicas Menores
 - Todos los credos proscritos operan aquí
 
