@@ -17,7 +17,7 @@ En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: est
 
 ## Red Eléctrica Pública
 
-El sistema eléctrico doméstico y de servicios públicos está diseñado para ser seguro y de bajo consumo. La red distribuye **corriente continua (CC) a 48V con un límite de 10A por hogar**. Esta limitación está pensada para minimizar el riesgo de accidentes por electrocución y para fomentar un uso austero de la energía, en línea con los dogmas de la Iglesia.
+El sistema eléctrico doméstico y de servicios públicos está diseñado para ser seguro y de bajo consumo. La red distribuye **corriente continua (CC) a 48V**. Los **10A por hogar (480 W)** no son el techo sino el **piso garantizado**: el **techo** es de **20A (960 W)**, fijado por el sistema de tarjetas a razón de **240 W por persona** (ver [[infraestructura-energetica|Infraestructura Energética]]). Esta limitación está pensada para minimizar el riesgo de accidentes por electrocución y para fomentar un uso austero de la energía, en línea con los dogmas de la Iglesia.
 
 La red pública alimenta la iluminación de la ciudad, basada en eficientes redes de LEDs a 3V, y otros servicios básicos. Sin embargo, ciertos procesos industriales autorizados, como la purificación de agua, requieren corrientes mucho más altas y se conectan a subestaciones especiales.
 
