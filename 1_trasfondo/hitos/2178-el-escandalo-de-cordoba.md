@@ -21,7 +21,6 @@ related:
 - '[[cordoba]]'
 - '[[direccion-nacional-de-seguridad]]'
 - '[[salvajes]]'
-- '[[sectas-demonologas]]'
 - '[[cronologia]]'
 - '[[2178-actualidad]]'
 spoilers:
