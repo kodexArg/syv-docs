@@ -300,5 +300,5 @@ El sistema se diseñó en 2031, durante los enjambres de drones. Nunca se actual
 - IDEOLÓGICO: [PERMITIDO] (crítica implícita a control religioso y desigualdad)
 - TRAUMA: [LEVE-MODERADO] (miseria, hacinamiento, enfermedades)
 - SCOPE: barrios-del-muro, darsena, ciudad-darsena
-- CANON_LOCK: 2026-07-08 (addendum «Superficie y población (mapa)» + link a leyenda-del-mapa; prosa canónica original intacta desde 2025-12-28)
+- CANON_LOCK: 2026-07-08 (reconciliación demográfica: 5,73 km² · 9,375 M · 75 % · densidad media ~1.635.000 hab/km²; gradiente vertical sur ~4M / mayoría ~1,8M / franja-muralla ~1M por km²; comercio legal puertas adentro; electricidad ilimitada de baja intensidad / agua escasa; edificio = ecosistema dominado por banda. El salto 3,5 M→9,375 M es reconocimiento del subconteo estatal, no obra nueva. Retirados los 11,9 km² stale y la nota de reconciliación prosa/mapa —resuelta. Prosa canónica original intacta desde 2025-12-28)
 -->
