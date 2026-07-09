@@ -14,7 +14,7 @@ related:
 - '[[2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]'
 - '[[casa-verde|Casa Verde]]'
 - '[[campos-de-reeducacion-cordoba|Campos de Reeducación de Córdoba]]'
-- '[[teniente-coronel-gobernador|Coronel Santiago Mendoza Reyes]]'
+- '[[teniente-coronel-gobernador|Coronel Santiago Mendoza]]'
 - '[[direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]]'
 - '[[4_diegesis/relatos/block_de_notas/damian|Damián, El Sabueso]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del
