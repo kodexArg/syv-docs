@@ -41,7 +41,9 @@ A ras del agua, el barrio es un solo mercado sin techo: pescado fresco y salado,
 
 ### Los dos puertos
 
-Conviene no confundir los muelles. Pegados al Barrio de la Armada están los **muelles interiores** del Gremio de Pescadores: modestos, controlados, hundidos en el tramo final de la dársena, tolerados a la sombra de la Armada. Pero los **mercantes y pescadores verdaderos** —los que viven en los pisos superiores de este barrio— no faenan ahí: salen por los **puertos de fuera del muro**, más allá de la muralla, donde el agua es abierta y la vigilancia, porosa. De ahí sale el pescado que llena el mercado, y de ahí sale también lo que nadie declara.
+Conviene no confundir los muelles. Pegados al Barrio de la Armada están los **muelles interiores** del Gremio de Pescadores: modestos, controlados, hundidos en el tramo final de la dársena, tolerados a la sombra de la Armada. Pero los **mercantes y pescadores verdaderos** —los que viven en los pisos superiores de este barrio— faenan lejos, en las aguas abiertas de [[fuera-del-muro|Fuera del Muro]], más allá de la muralla, donde el pescado abunda y la vigilancia es porosa. Y sin embargo, para *tocar tierra* en la ciudad no hay más que un camino: toda esa flota —la que declara y la que no— termina enfilando por la boca de **la Dársena**, el único punto por donde un barco puede descargar en Ciudad Dársena. Es esa convergencia forzada la que hace del barrio, a la vez, el mercado central y el mayor boquete de contrabando de la ciudad: todos pasan por el mismo cuello, y en ese cuello la vigilancia se compra.
+
+**Un cuello, mil barcos.** Por la boca de la Dársena pasa *toda* la navegación de la comarca: se estiman cerca de **mil barcos** faenando o comerciando en el Río de la Plata —al que hoy casi todos llaman "el Mar"—, entre pesqueros, mercantes y los grandes cargueros de contenedores **clase «Dársena»**, así llamados porque marcan el **tamaño máximo** que la boca del puerto admite. Ninguno toca tierra en la ciudad sin enfilar antes por este barrio.
 
 ## Arriba y abajo
 
