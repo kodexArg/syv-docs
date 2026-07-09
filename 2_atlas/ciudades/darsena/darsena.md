@@ -165,3 +165,5 @@ Sobre el **Río de la Plata**, además, viven ~**10 000 almas a bordo** de una f
 ## Ver también
 
 - [[leyenda-del-mapa|Leyenda del Mapa de Dársena]] — superficie, población y densidad por zona.
+- [[campos-de-reeducacion|Campos de Reeducación (Dársena)]] — los ~2 M de internos del cinturón norte, en la Zona del Cráter.
+- [[piratas-del-plata|Piratas del Plata]] — la piratería y el turismo oculto marítimo sobre el Río de la Plata.
