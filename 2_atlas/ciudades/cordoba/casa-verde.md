@@ -29,4 +29,4 @@ La **Casa Verde** es la sede central del gobierno militar de la Confederación e
 
 ## El escritorio
 
-En 2178, tras su escritorio de la Casa Verde, el **gobernador militar de Córdoba** —el [[teniente-coronel-gobernador|Coronel Santiago Mendoza Reyes]]— **se voló los sesos**. Fue el punto final del [[2178-el-escandalo-de-cordoba|escándalo de Córdoba]], y desde entonces ese despacho es un lugar marcado: el sitio donde cayó la quinta persona más poderosa de la nación. El eco no se le escapa a nadie en la ciudad: un palacio de gobierno que hereda de la Casa Rosada la costumbre de ser escenario de finales.
+En 2178, tras su escritorio de la Casa Verde, el **gobernador militar de Córdoba** —el [[teniente-coronel-gobernador|Coronel Santiago Mendoza]]— **se voló los sesos**. Fue el punto final del [[2178-el-escandalo-de-cordoba|escándalo de Córdoba]], y desde entonces ese despacho es un lugar marcado: el sitio donde cayó la quinta persona más poderosa de la nación. El eco no se le escapa a nadie en la ciudad: un palacio de gobierno que hereda de la Casa Rosada la costumbre de ser escenario de finales.
