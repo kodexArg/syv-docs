@@ -58,6 +58,12 @@ Frente a la salida de la dársena corre la avenida donde se montan los **puestos
 
 Porque sobre este borde de la isla pesan tres sombras. La de la **[[fuerzas-armadas|Armada]]**, el barrio vecino y contiguo. La de la [[direccion-nacional-de-seguridad|seguridad del Estado]] —la vigilancia nacional, secundada en la calle por la [[seguridad-urbana|Seguridad Urbana]]—, que cuida esta zona con celo por lo que significa: un boquete de contrabando a metros del corazón naval. Y la de los **Pescadores** mismos, que no dejan que nadie ajeno mande en su agua. Entre todas, el pescado sube de precio y la sangre baja al canal.
 
+## Turismo gastronómico
+
+Hay un turismo que viene por una sola cosa: **comer de verdad**. En una ciudad que sobrevive con la pasta procesada de las [[torres-hidroponicas|Torres Hidropónicas]], el pescado fresco, las verduras y los hongos silvestres de este barrio son un lujo escaso —**comida de origen natural**, apreciada por los propios darsenos antes que por nadie—. Los puestos y los restaurantes de humo y fritura de la avenida son postal obligada del [[extranjeros-y-apatridas|turista gastronómico]]; el olor del puerto —salmuera, aceite quemado, brasa— es su reclamo y su marca.
+
+Pegado a esa fiesta del gusto, y al sur, contra el **Muro Sur**, hay otra oferta que la ciudad prefiere no nombrar: la **Zona Roja** del barrio, el turismo sexual escondido que se mueve entre los sótanos y los tugurios del nivel del agua, bien tapado bajo el bullicio del mercado. Se lo tolera callado; ver [[barrios-del-muro|Barrios del Muro]] y [[extranjeros-y-apatridas|Extranjeros y Apátridas]].
+
 ## El Gremio que no se moja
 
 El [[gremio-de-comercio|Gremio de Comercio]] opera en la zona —cobra, presta, revende— pero **ni siquiera en estos asuntos se moja**. Las peleas de la avenida, el contrabando de fuera del muro, las guerras chicas entre pandillas: el Gremio las mira de lejos y saca su tajada sin poner la cara. En este borde de la isla, el poder que no se ensucia las manos es justamente el que más gana.
