@@ -14,7 +14,7 @@ related:
 ubicaciones:
   - "[[darsena]]"
 ---
-Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena, hogar de 50.000 personas. Protegida por muros internos y patrullas de seguridad privadas, esta zona es el hogar de la élite de la Confederación. Se caracteriza por sus edificaciones bajas de dos plantas con jardines en las azoteas y servicios de alta calidad, un lujo impensable en el resto de la ciudad.
+Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena, hogar de apenas **6.600 personas**: la élite de la Confederación y nadie más. Protegida por muros internos y patrullas de seguridad privadas, es la zona menos apretada de toda Dársena —una densidad de unos **13.850 habitantes por km²**, ridícula para esta ciudad—. Aquí las familias, de unas cinco personas, ocupan **dúplex de dos y tres plantas** con **jardines propios**, a razón de unos **50 m² por persona**: un derroche de espacio impensable en el resto de la urbe, donde ese mismo metraje alberga a decenas.
 
 ## Lugares de Interés
 
