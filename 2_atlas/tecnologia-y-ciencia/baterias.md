@@ -29,9 +29,11 @@ ubicaciones:
 
 Las baterías son, en Dársena, un objeto contradictorio: **pesadas, utilísimas, formalmente prohibidas y a la vez omnipresentes**. El objeto en sí —arena y sal (ver [[electricidad|Electricidad]])— no es tóxico ni explosivo; lo prohibido y peligroso es lo **instrumental**. En una ciudad donde la fuente eléctrica es virtualmente infinita pero el **cable es el cuello de botella** (ver [[infraestructura-energetica|Infraestructura Energética]]), la batería resuelve el problema por la fuerza: **acumula el hilito de potencia que da la red a cuentagotas y lo suelta de golpe**, donde y cuando la tarjeta del hogar jamás alcanzaría. Esa **descarga de alta potencia** es lo prohibido —y lo que igual usa todo el mundo.
 
-## Por qué están prohibidas
+## Por qué están prohibidas (y por qué las usa todo el mundo igual)
 
-Almacenar energía es almacenar peligro. Una batería cargada es un depósito de potencia que puede descargarse de un solo golpe —incendio, electrocución, arma improvisada—, y toda electricidad arrastra de por sí la mancha del [[anatema-mecanico|Anatema Mecánico]]: nunca es del todo una cosa buena. Concentrarla en un aparato transportable la vuelve doblemente sospechosa a ojos de la [[inquisicion|SIA]]. De ahí su estatus **ilegal**, pese a su utilidad evidente.
+Lo que la ley persigue no es el acumulador —arena y sal, inofensivo en sí— sino la **descarga de alta potencia**: acumular el hilito y soltarlo de golpe es lo que habilita lo prohibido —**armas, la picana, saltarse el límite de las tarjetas, alimentar tecnología vedada**—. Y toda electricidad arrastra de por sí la mancha del [[anatema-mecanico|Anatema Mecánico]]: concentrar ese pulso en un aparato transportable roza la carga satánica y la vuelve doblemente sospechosa a ojos de la [[inquisicion|SIA]].
+
+Pero la prohibición es **de jure**; el uso es **de facto y universal**. La misma capacidad late en los tranvías, en la zona de recarga del [[fuerzas-armadas|Ejército]], en los hogares acomodados y en el Muro entero. La norma no se aplica pareja: es el **gancho legal** que [[direccion-nacional-de-seguridad|Seguridad Nacional]] usa cuando quiere caerle a alguien. El Estado y la élite las usan a plena luz; al pobre la sola tenencia lo hunde. Esa hipocresía —no el peligro físico— es el verdadero filo de la ley.
 
 ## Dónde viven
 
