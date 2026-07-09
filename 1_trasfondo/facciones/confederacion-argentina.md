@@ -58,7 +58,7 @@ Al sur, la frontera es agua y pólvora. La franja termina, más o menos, en la [
 
 ## Información secreta (no exponer a jugadores)
 
-La retórica de la reconquista de la Ley II sostiene la moral pero enmascara una aritmética que el Alto Mando conoce y calla: la franja no puede recuperar «cada palmo» porque los vecinos que la cercan la superan en población por órdenes de magnitud —más de cien millones al sur, más de ciento cincuenta al norte, contra los apenas cuarenta y pico de la Confederación entera—. La expansión real es imposible; la doctrina la mantiene viva como llama, no como plan. Los pactos de conveniencia con Mendoza y el contrabando tolerado en la Ruta 40 son la prueba práctica de que la franja negocia su supervivencia mucho más de lo que la conquista.
+La retórica de la reconquista de la Ley II sostiene la moral pero enmascara una aritmética que el Alto Mando conoce y calla: la franja no puede recuperar «cada palmo» porque los vecinos que la cercan la superan en población por órdenes de magnitud —más de cien millones al sur, más de ciento cincuenta al norte, contra los apenas cincuenta y pico de la Confederación entera—. La expansión real es imposible; la doctrina la mantiene viva como llama, no como plan. Los pactos de conveniencia con Mendoza y el contrabando tolerado en la Ruta 40 son la prueba práctica de que la franja negocia su supervivencia mucho más de lo que la conquista.
 
 ---
 
