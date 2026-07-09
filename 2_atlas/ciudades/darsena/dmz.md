@@ -49,7 +49,7 @@ Al revés del sur ahogado, la DMZ es un páramo **seco**. Cascoterío árido sin
 
 ## Superficie y ubicación (mapa)
 
-Según la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], la DMZ ocupa **~279,5 km²** al oeste, sobre Las Ruinas, a unos 10 km del centro — la zona exterior más extensa del mundo mapeado. Población permanente **~0**: no entra en el reparto de los 5 000 000 de almas de la ciudad.
+Según la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], la DMZ ocupa **~279,5 km²** al oeste, sobre Las Ruinas, a unos 10 km del centro — la zona exterior más extensa del mundo mapeado. Población permanente **~0**: no entra en el reparto de los 12 500 000 de almas de la ciudad.
 
 ## Ver también
 
