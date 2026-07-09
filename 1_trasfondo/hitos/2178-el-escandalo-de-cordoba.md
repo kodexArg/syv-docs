@@ -37,7 +37,7 @@ title: El Escándalo de Córdoba
 
 ## El Escándalo de Córdoba (2178)
 
-Empezó por una denuncia: la **dureza de algunos de los [[campos-de-reeducacion-cordoba|Campos de Reeducación de Córdoba]]** —los campos de salvajes al norte y al sur de la megalópolis— fue por fin dicha en voz alta. Lo que asomó detrás de esa denuncia fue mucho peor que crueldad administrativa: una **corrupción y unas cosas oscuras sin precedente** —se llegó a hablar hasta de sectas demonólogas— que alcanzaban a lo más alto del poder cordobés.
+Empezó por una denuncia: la **dureza de algunos de los [[campos-de-reeducacion-cordoba|Campos de Reeducación de Córdoba]]** —los campos de salvajes al norte y al sur de la megalópolis— fue por fin dicha en voz alta. Lo que asomó detrás de esa denuncia fue mucho peor que crueldad administrativa: una **corrupción y unas cosas oscuras sin precedente**, con vínculos que corrían de los campos de salvajes a **sectas demonólogas**, y que alcanzaban a lo más alto del poder cordobés.
 
 ## La caída del gobernador
 
@@ -45,10 +45,7 @@ En el centro estaba el **gobernador militar de la ciudad de Córdoba**, el [[ten
 
 ## Córdoba se reorganiza
 
-Muerto el gobernador, el cargo no se hereda: Córdoba reorganiza su gobierno militar en un **Triunvirato de Córdoba**. Ese triunvirato local reemplaza el *puesto* de Gobernador Militar de la ciudad —el que ocupaba Santiago Mendoza— y queda **muy por debajo del [[videla-iv|Comandante en Jefe Videla IV]]**: la dinastía Videla no cae, se blinda repartiendo entre tres el mando que un solo hombre corrompió.
-
-> [!note] Dos triunviratos, no confundir
-> El **Triunvirato de Córdoba** es local y menor. No debe confundirse con el verdadero triunvirato apex de la Confederación —**Videla IV, Monseñor Miguel y el Papa**—, el poder absoluto sobre todo (el tercer vértice es, en rigor, toda la Inquisición, representada en la práctica por Monseñor Miguel; y ese poder absoluto, en la práctica, nunca llegó a imponerse del todo). El ranking de arriba encierra esa cúpula: Papa, Monseñor Miguel y Videla IV son la cima de la nación.
+Muerto el gobernador, el cargo no se hereda: Córdoba reorganiza su gobierno militar en un **Triunvirato**. El Triunvirato reemplaza el *puesto* de Gobernador Militar de la ciudad —el que ocupaba Mendoza—, siempre **bajo el [[videla-iv|Comandante en Jefe Videla IV]]**; la dinastía Videla no cae, se blinda repartiendo entre tres el mando que un solo hombre corrompió. Conviene no confundir este Triunvirato **local** de Córdoba con el que de veras gobierna la Confederación entera —**el Papa, Monseñor Miguel y el propio Videla IV**, poder absoluto sobre todo—, muy por encima de la ciudad y de su gobernador caído.
 
 <!-- 🔐 (SPOILER — no exponer) -->
 
