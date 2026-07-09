@@ -40,7 +40,7 @@ Su nombre viene de hábitat: el Riachuelo y pantanos mutados que rodean Dársena
 La doctrina es nihilista con barniz ecológico:
 
 **1. Humanidad es cáncer.**
-No metafóricamente. Literalmente. Crecimiento poblacional es tumor que consume planeta hasta matarlo. Las ciudades son metástasis. La industria es toxina. La única cura es reducción radical: de 5 millones en Dársena a 500,000. De 8 mil millones globales pre-colapso a 800 millones. El 90% debe morir o dejar de nacer.
+No metafóricamente. Literalmente. Crecimiento poblacional es tumor que consume planeta hasta matarlo. Las ciudades son metástasis. La industria es toxina. La única cura es reducción radical: de doce millones y medio en Dársena a un millón y cuarto. De 8 mil millones globales pre-colapso a 800 millones. El 90% debe morir o dejar de nacer.
 
 **2. Tecnología es herejía, incluso la permitida.**
 El [[anatema-mecanico|Anatema]] prohibió computadoras pero permitió electricidad, mecánica compleja, Torres Hidropónicas. Los Hijos argumentan que eso no basta. Toda tecnología post-neolítica es corrupción. Deben regresar a cazadores-recolectores. Agricultura es el pecado original: cultivar tierra destruye ecosistemas, crea excedentes que permiten crecimiento demográfico.
