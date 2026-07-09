@@ -21,7 +21,7 @@ Los Barrios del Muro son el distrito más grande de Ciudad Dársena. Cinco kiló
 
 El hacinamiento tiene la densidad de un archivo comprimido: familias, clanes, bandas, todo mezclado en un sistema de compresión humana que nunca detona porque el equilibrio se sostiene sobre reglas propias, no sobre la ley escrita de la Curia.
 
-Algunos habitantes —menos de cincuenta mil en total, repartidos en bandas ocultas que operan en connivencia con clanes establecidos— viven bajo la clasificación de "Salvajes" según la **Ley X: De la Ciudadanía y la Barbarie**. Son una rareza, tolerados por gracia del Estado mientras permanezcan invisibles, vigilados por **Seguridad Nacional** cuando emergen, evangelizados por la Iglesia cuando se dejan encontrar. Pero la inmensa mayoría está gobernada en la práctica por jerarquías que la burocracia oficial no registra ni entiende.
+Algunos habitantes —menos de cincuenta mil en total, repartidos en bandas ocultas que operan en connivencia con clanes establecidos— viven bajo la clasificación de "Salvajes" según la **Ley X: De la Ciudadanía y la Barbarie**. Son una rareza, tolerados por gracia del Estado mientras permanezcan invisibles, vigilados por **[[direccion-nacional-de-seguridad|Seguridad Nacional]]** cuando emergen, evangelizados por la Iglesia cuando se dejan encontrar. Pero la inmensa mayoría está gobernada en la práctica por jerarquías que la burocracia oficial no registra ni entiende.
 
 ## La Oscuridad Vertical
 
