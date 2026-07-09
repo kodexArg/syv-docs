@@ -27,6 +27,15 @@ tags: []
 
 Comandante militar urbano de facto, oficial de seguridad interna y perseguidor de la herejía detectada por el detective DiConte
 
+## La Caída de 2178 (Casa Verde)
+
+En 2178, todo el edificio de su poder se derrumbó de golpe. Una **denuncia de la dureza de los [[campos-de-reeducacion-cordoba|Campos de Reeducación de Córdoba]]** —los campos de trabajo esclavo de salvajes— abrió una investigación que fue destapando, capa por capa, una corrupción sin precedente y una trama oscura que llegaba hasta él: abuso sistemático de los campos, y vínculos con **[[sectas-demonologas|sectas demonólogas]]** que eran la deriva podrida de sus propios conventos y entrenamientos religiosos militares clandestinos. Fue el **[[2178-el-escandalo-de-cordoba|escándalo de Córdoba]]**.
+
+Acorralado, Mendoza Reyes **se voló los sesos detrás de su escritorio**, en la **[[casa-verde|Casa Verde]]**, sede del gobierno militar cordobés. Con su muerte cayó el hombre que era, en ese momento, **la quinta persona más poderosa de toda la nación, después del Papa, de Monseñor Miguel, el Comandante en Jefe Videla IV y la Reverenda Madre: el gobernador militar de la ciudad de Córdoba**. El cargo no se heredó: Córdoba lo reemplazó por un **Triunvirato**, siempre bajo [[videla-iv|Videla IV]].
+
+> [!note] Relación con su plan generacional
+> Esta caída de 2178 **resuelve por lo trágico** las fases especulativas descritas más abajo (la conjura para cogobernar o reemplazar a Videla hacia 2180-2185): la conspiración no llegó a esa fase — se desmoronó antes, con su arquitecto muerto. Quien realmente cerró el entramado fue [[damian-diconte|Damián DiConte]] (ver spoilers).
+
 ## Aspecto
 
 Hombre delgado de semblante severo, con rasgos aristocráticos que sugieren linaje militar de generaciones. Uniforme siempre impecable, pero a diferencia de Videla IV, su uniforme incluye insignias religiosas discretas (medallón de cruz distorsionada bajo la túnica, bordados con símbolos que mezclan militarismo e iconografía eclesiástica). Cabello castaño con canas en las sienes, ojos oscuros que transmiten fervor ideológico más que mera inteligencia táctica.
