@@ -17,7 +17,7 @@ ubicaciones:
   - "[[darsena]]"
   - "[[microcentro]]"
 ---
-La Zona Centro es el motor de Ciudad [[darsena|Dársena]], un distrito dedicado a la producción de alimentos, la educación controlada y el transporte. Junto con el [[microcentro|Microcentro]], forma una gran área de 5 km² donde 300.000 residentes permanentes se mezclan con más de un millón de trabajadores diarios. Aquí, la innovación está permitida, pero siempre bajo la estricta vigilancia de la Iglesia y el Estado. La arquitectura es funcional y monumental, dominada por las gigantescas torres que alimentan a la metrópolis.
+La Zona Centro es el motor de Ciudad [[darsena|Dársena]], un distrito dedicado a la producción de alimentos, la educación controlada y el transporte. Junto con el [[microcentro|Microcentro]], forma el corazón denso de la metrópolis: en las horas pico roza los **2.900.000 ocupantes**, cerca de 900.000 residentes permanentes mezclados con uno a dos millones de trabajadores y visitantes temporales que suben cada día a las torres, los mercados y las dependencias del Estado. Aquí, la innovación está permitida, pero siempre bajo la estricta vigilancia de la Iglesia y el Estado. La arquitectura es funcional y monumental, dominada por las gigantescas torres que alimentan a la metrópolis.
 
 ## Lugares de Interés
 
