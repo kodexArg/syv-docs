@@ -268,6 +268,14 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 - Pérdida simultánea = colapso de ciudad en **semanas**
 - 12,5 millones de personas: sin agua mueren en 3 días; sin comida (Torres usan 60% electricidad) mueren en 30 días. Y el agua ya vive al borde: cualquier merma de la ración empuja a los estratos bajos al desastre antes que ninguna otra falla.
 
+### El cuello de botella eléctrico: los conductores
+
+Si la fuente es infinita, **el límite real de la electricidad de Dársena es el cable**. La escasez eléctrica de la ciudad no es escasez de generación: es **escasez de conductor**.
+
+- Los conductores se fabrican **casi exclusivamente con material recolectado en las Tierras Baldías** ([[dmz|Zona Desmilitarizada]] y [[fuera-del-muro|Fuera del Muro]]): cobre y metal recuperado de las ruinas del exterior
+- Un **ejército de electricistas estatales** los tiende, los repara y los vigila sin descanso; su trabajo invisible es lo que decide cuánta potencia llega a cada barrio
+- Toda restricción de potencia —cada tarjeta apretada, cada barrio a media luz— es, en el fondo, **falta de cobre, no falta de reactor**
+
 ### El Problema: Irreproducibilidad Total
 
 <!-- 🔐☠️ (Ministerio de Infraestructura, SIA, Sumo Pontífice) -->
