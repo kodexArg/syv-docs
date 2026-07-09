@@ -17,6 +17,7 @@ related:
 spoilers:
   - "Su verdadera conspiración para crear una junta militar-religiosa que subordine a Videla IV."
   - "La razón de la persecución de Damián DiConte."
+  - "En 2178 cae por el escándalo de Córdoba y se suicida en la Casa Verde; fue DiConte quien descubrió en privado el entramado y quien verdaderamente puso fin a la vida de ese monstruo, hecho que nunca se hará público."
 tags: []
 ---
 ## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
