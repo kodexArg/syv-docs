@@ -135,7 +135,7 @@ Cuando las festividades cruzan líneas que escandalizan incluso a una Iglesia ac
 
 Ceremonias donde se mezcla sexo, drogas y fervor religioso en proporciones que la Curia considera demoníacas.
 
-Los Censores de la Iglesia mapean estas celebraciones, infiltran las redes, arrestan a los líderes más visibles. Las redadas son ejemplares. Los arrestados desaparecen en los Campos de Reeducación de la Zona del Cráter o son desterrados a trabajos forzados en los campos de cultivo de Córdoba.
+Los Censores de la Iglesia mapean estas celebraciones, infiltran las redes, arrestan a los líderes más visibles. Las redadas son ejemplares. Los arrestados desaparecen en los [[campos-de-reeducacion|Campos de Reeducación de la Zona del Cráter]] o son desterrados a trabajos forzados en los campos de cultivo de [[cordoba|Córdoba]].
 
 El mensaje es claro: adorá lo que quieras, pero callado, discreto, sin orgullos.
 
