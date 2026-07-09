@@ -247,7 +247,7 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 - Calor residual de reacciones nucleares es capturado en intercambiadores térmicos
 - Agua que regresa de Torres Hidropónicas (después de riego) se canaliza a plantas de ósmosis térmica
 - Proceso de ósmosis térmica usa energía térmica (no eléctrica) para eliminar salinidad del agua
-- Agua desalinizada es distribuida a población (9 millones litros/día estimado)
+- El agua desalinizada apenas cubre una **ración oficial mísera** —del orden de 9 millones de litros al día para toda Dársena, una gota por cabeza que no alcanza—. **El agua, no la electricidad, es el verdadero cuello de botella de la ciudad**: la población completa la ración con cosecha de humedad, recolección de lluvia y fuentes abiertas contaminadas. La desalinización nuclear es el piso, nunca el techo, del abastecimiento.
 
 **Dependencia existencial**:
 - Sin reactores = sin electricidad
