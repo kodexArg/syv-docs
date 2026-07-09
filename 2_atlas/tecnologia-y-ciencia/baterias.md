@@ -4,9 +4,10 @@ aliases:
 - Baterías
 - Batería
 - Acumuladores
-description: 'Acumuladores pesados y prohibidos por peligrosos, ubicuos en los Barrios
-  del Muro: guardan el hilito de la red a cuentagotas para soltarlo de golpe. Ligados
-  al contrabando de energía y a los vehículos eléctricos.'
+description: 'Acumuladores pesados de arena y sal, objeto común, seguro y legal, ubicuos
+  en los Barrios del Muro: guardan el hilito de la red a cuentagotas para soltarlo de
+  golpe. Lo vigilado no es el objeto sino esa descarga de alta potencia, ligada al
+  contrabando de energía y a los vehículos eléctricos.'
 entidad: objeto
 estado: propuesta
 folder: 2_atlas/tecnologia-y-ciencia
