@@ -17,7 +17,7 @@ ubicaciones:
   - "[[darsena]]"
   - "[[tuberias]]"
 ---
-Los Barrios del Muro son el distrito más grande de Ciudad Dársena. Cinco kilómetros cuadrados de concreto apilado en vertical albergan tres millones y medio de almas—el setenta por ciento de la población total de la ciudad. Rodeados por el muro al oeste y al sur, estos barrios viven en el límite físico de la civilización conocida: al oeste se extienden las Tierras Baldías de la DMZ, áridas y letales bajo los francotiradores; al sur, el laberinto verde de Los Pantanos, marismas anegadas donde nadie se atreve a entrar.
+Los Barrios del Muro son el distrito más grande de Ciudad Dársena. Cinco kilómetros cuadrados de concreto apilado en vertical albergan nueve millones trescientas setenta y cinco mil almas—el setenta y cinco por ciento de la población total de la ciudad. Rodeados por el muro al oeste y al sur, estos barrios viven en el límite físico de la civilización conocida: al oeste se extienden las Tierras Baldías de la DMZ, áridas y letales bajo los francotiradores; al sur, el laberinto verde de Los Pantanos, marismas anegadas donde nadie se atreve a entrar.
 
 El hacinamiento tiene la densidad de un archivo comprimido: familias, clanes, bandas, todo mezclado en un sistema de compresión humana que nunca detona porque el equilibrio se sostiene sobre reglas propias, no sobre la ley escrita de la Curia.
 
