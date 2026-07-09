@@ -250,9 +250,11 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 ### Función Dual: Electricidad + Desalinización
 
 **Generación eléctrica**:
-- Potencia total: Clasificada, pero estimada en 38-63 megavatios (suficiente para los 12,5M habitantes)
-- Salida: 48V CC (voltaje natural de salida de reactores)
-- Distribución a Nodos: A través de cables de cobre bajo superficie
+- **Consumo típico actual**: estimado en 38-63 megavatios. **No es el techo**: es lo que la ciudad usa hoy, no lo que «La Máquina» puede dar
+- **Límite virtualmente infinito**: bien distribuida, «La Máquina» podría entregar varias veces el flujo que consumen los 12,5 M de habitantes —del orden del **doble de toda la Confederación Argentina** junta—
+- Lo único que se sabe de su límite: las **vibraciones de «La Máquina»** anuncian que el sobreesfuerzo sostenido puede **acortar su vida útil**. Los técnicos rituales las leen —una lectura a medio camino entre el sacerdote y el sismólogo— y ajustan la carga por ellas, nunca por falta de fuente
+- Salida: 48 V CC (voltaje natural de salida de los reactores)
+- Distribución a Nodos: a través de conductores bajo superficie
 
 **Desalinización de agua**:
 - Calor residual de reacciones nucleares es capturado en intercambiadores térmicos
