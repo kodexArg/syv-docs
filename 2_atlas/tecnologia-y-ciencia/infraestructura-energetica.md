@@ -239,7 +239,7 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 ### Función Dual: Electricidad + Desalinización
 
 **Generación eléctrica**:
-- Potencia total: Clasificada, pero estimada en 15-25 megavatios (suficiente para 5M habitantes)
+- Potencia total: Clasificada, pero estimada en 38-63 megavatios (suficiente para los 12,5M habitantes)
 - Salida: 48V CC (voltaje natural de salida de reactores)
 - Distribución a Nodos: A través de cables de cobre bajo superficie
 
