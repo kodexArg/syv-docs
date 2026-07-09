@@ -60,7 +60,7 @@ Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
 
 ## Estructura de Clases Sociales
 
-La sociedad de Dársena está profundamente estratificada, aunque nominalmente igualitaria en género según la **Ley VIII: De la Equidad**. Mientras la élite vive protegida bajo arquitectura resistente a la **humedad perpetua**, los pobres sufren enfermedades respiratorias crónicas en estructuras que se pudren. La humedad post-guerra no es adversario externo neutral; es filtro de clase que perpetúa desigualdad.
+La sociedad de Dársena está profundamente estratificada, aunque nominalmente igualitaria en género según la **Ley VIII: De la Equidad**. Mientras la élite vive protegida bajo arquitectura resistente a la **humedad perpetua**, los pobres sufren enfermedades respiratorias crónicas en estructuras que se pudren. La humedad post-guerra no es adversario externo neutral; es filtro de clase que perpetúa desigualdad. Los estimados por clase se calculan sobre la población **real** de 12 500 000 de almas —no sobre los 5 000 000 del censo oficial (ver «El desdoble censal»)—.
 
 ### **Clase Clerical (~8% de población)**
 -   **Estimado**: 400.000 personas
