@@ -29,6 +29,9 @@ spoilers:
   a uno de los suyos — insulto a policía, militares y clero.
 - Su investigación sobre la conspiración del Ejército en la Iglesia y los motivos
   de su huida a Dársena.
+- En 2178 fue él quien descubrió en privado el entramado del gobernador de Córdoba
+  y quien verdaderamente puso fin a la vida de ese monstruo; llega a Dársena mareado
+  de euforia, héroe de un hecho vergonzoso que nunca se hará público.
 tags: []
 title: Damián DiConte
 ubicaciones:
