@@ -105,7 +105,7 @@ En las acumulaciones más densas de humedad de la comarca, con las primeras luce
 
 No hay estrellas sobre Dársena: el velo y la humedad las tapan. La luna llena se adivina como un halo difuso.
 
-- **A nivel de calle**: Oscuridad; las luces de gas hacen halos cortos en el aire húmedo.
+- **A nivel de calle**: Oscuridad; las luces de aceite hacen halos cortos en el aire húmedo.
 - **En las alturas**: Un resplandor tenue y cálido sube de la ciudad, reflejado por la humedad. Desde el mar, dicen los marineros, Dársena de noche parece un incendio distante que nunca se apaga.
 - **Fuera del muro (oeste, tierra seca)**: Al alejarse del agua, hacia las Ruinas, la humedad cae y el cielo se adelgaza. En las Tierras Baldías del oeste los cielos nocturnos son mucho más claros, y quienes nacieron en Dársena y ven estrellas por primera vez lo describen como revelación o terror.
 
