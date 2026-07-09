@@ -73,7 +73,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 -   **Conflictos internos**: Tensión entre ala progresista (Arpistas infiltrados) y ala tradicionalista (Inquisición pura).
 
 ### **Clase Académica (~5% de población)**
--   **Estimado**: 250.000 personas
+-   **Estimado**: 625.000 personas (5 % de 12,5 M)
 -   **Composición**: Maestros, escribas, archivistas, médicos, ingenieros electromecánicos, historiadores. Muchos son **Arpistas** (preservadores de conocimiento antiguo).
 -   **Vivienda**: Viviendas modestas pero estruturadas, frecuentemente anexas a bibliotecas/escuelas/hospitales.
 -   **Alimentación**: Suficiente, a través de salarios estatales.
