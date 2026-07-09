@@ -284,6 +284,8 @@ Hoy, cinco ciudades sostienen este cielo de plomo:
 
 Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo. Monseñor Miguel, el Gran Inquisidor, vigila desde las sombras, mientras el General [[videla-iv|Videla IV]] gobierna con mano de hierro. La economía es un trueque glorificado, y el control social es absoluto. Vivimos bajo la lluvia perpetua, vigilados por patrullas y por el miedo a que las máquinas regresen.
 
+Y aun este equilibrio de hierro se cuartea por dentro. Mientras cierro esta crónica, este mismo año de 2178, me llega de Córdoba una noticia que la Confederación preferiría que yo no asentara: el gobernador militar de la capital cayó en desgracia y se quitó la vida en su propia sede, arrastrado por un escándalo cuyo fondo —corrupción, campos de salvajes, cosas más oscuras aún— nadie hará público jamás. Lo consigno apenas como puntero, sin nombres que no me toca escribir; el que quiera leer lo poco que se puede decir, que vaya al hito [[2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]. Que quede constancia de que la podredumbre no vino de afuera, de los Salvajes ni del Rojo, sino de adentro, de lo más alto de nuestra propia casa.
+
 ---
 
 ## Epílogo: Dársena 2178
