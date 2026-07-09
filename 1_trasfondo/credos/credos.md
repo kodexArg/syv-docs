@@ -51,7 +51,7 @@ En los Barrios del Muro, la Religión va en plural. Pero esa pluralidad es contr
 - Peronismo (enquistado en poder)
 
 ### Barrios del Muro y Tuberías
-- Iglesia Maradoniana (hegemónica: 1.5M seguidores)
+- Iglesia Maradoniana (hegemónica: 3.75M seguidores)
 - Umbanda (dominante: 600K seguidores, fragmentada en ritos)
 - San La Muerte (sectores criminales)
 - La Compañía (popular: 70K devotos)
