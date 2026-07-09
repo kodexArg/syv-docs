@@ -41,6 +41,10 @@ Almacenar energía es almacenar peligro. Una batería cargada es un depósito de
 
 El [[fuerzas-armadas|Ejército]] **abusa de las baterías sin recato** —lo que la ciudad tiene prohibido, la casta militar lo tiene como norma— y mantiene una **zona de alta recarga** propia dentro de la zona militar, alimentada de los nodos de alto consumo reservados a la fuerza. Es uno de los muchos privilegios eléctricos que separan al uniforme del ciudadano de a pie.
 
+## No confundir: química tolerada vs. descarga prohibida
+
+Lo que la ley persigue no es *toda* acumulación de energía, sino la **descarga de alta potencia**. La química rudimentaria de **arena y sal** —lenta, pesada, de baja densidad— es tolerada para usos mansos: bancos bajo los tranvías, respaldo doméstico de familias acomodadas (ver [[electricidad|Electricidad → Baterías y Almacenamiento]]). Lo **prohibido y peligroso** es la batería configurada para **acumular a cuentagotas y soltar de golpe**: ese pulso brutal es el que sirve al arma, al contrabando y al alto consumo clandestino, y el que llena los [[barrios-del-muro|Barrios del Muro]]. La frontera no es el material: es la capacidad de golpe.
+
 ## Referencias Cruzadas
 
 - [[infraestructura-energetica|Infraestructura Energética de Dársena]] — «La Máquina», tarjetas, conductores y contrabando
