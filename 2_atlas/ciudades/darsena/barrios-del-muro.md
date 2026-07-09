@@ -13,6 +13,7 @@ related:
   - "[[resistencia-subterranea]]"
   - "[[inquisicion]]"
   - "[[traficantes-de-almas]]"
+  - "[[baterias]]"
 ubicaciones:
   - "[[darsena]]"
   - "[[tuberias]]"
