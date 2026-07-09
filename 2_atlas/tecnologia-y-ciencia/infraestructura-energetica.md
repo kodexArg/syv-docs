@@ -415,6 +415,20 @@ Las [[baterias|baterías]] son **pesadas, utilísimas y están formalmente prohi
 
 Dársena casi no tiene vehículos privados. Los pocos que circulan tienden a ser eléctricos, y el **transporte público es eléctrico sin excepción** —los tranvías a la cabeza—. El vehículo eléctrico depende, como todo lo de alto consumo, de [[baterias|baterías]] para alejarse del cable.
 
+## Combustibles y energía doméstica
+
+**No existe el gas.** De ningún tipo: ni gas de red, ni envasado, ni garrafa. En Dársena nadie cocina ni se calienta a gas porque el gas, sencillamente, no está —nunca se lo nombra ni como servicio ni como mercadería.
+
+**El petróleo y los combustibles líquidos sí existen, y se comercian** —gasoil, nafta y derivados—, pero van casi todos, en cantidades inmensas, a las [[fuerzas-armadas|Fuerzas Armadas]]. De facto, el combustible líquido es **monopolio militar**: lo que se filtra al circuito civil es marginal.
+
+Por eso **se cocina y se calienta de muchísimas formas, la electricidad incluida.** Quien tiene cupo de tarjetas —o una [[baterias|batería]]— cocina eléctrico; muchísimos cocinan con fuego (leña, carbón, braseros, alambiques); otros con **barras químicas**. La regla es la diversidad: ninguna forma domina, cada hogar arma la suya con lo que consigue.
+
+Las **barras químicas** son el caso extremo. Arden como troncos y **no las apaga nada** —ni agua, ni ahogo, ni tiempo—: una vez encendidas, se consumen hasta el final. De ahí el peligro. Están **prohibidas por física, no por moral**: en un monobloque de decenas de pisos con miles de personas, una barra descontrolada puede **vaciar una torre entera**. Aun así se usan por todos lados —mismo patrón que las [[baterias|baterías]]: prohibidas de jure, ubicuas de facto—, porque no hay alternativa barata para comer caliente.
+
+En algunas terrazas hay **generación eólica marginal**: molinetes que aportan poco, un chorrito extra donde el viento pega.
+
+**Cada energía tiene su carga teológica**: el **agua es sagrada**, la **electricidad satánica** (mancha del [[anatema-mecanico|Anatema Mecánico]]), el **fuego tolerado** —viejo y humano, sin pecado— y la **barra química prohibida** por puro peligro material. Ver también [[sistemas-energeticos|Sistemas Energéticos]] para la división civil vs. militar del almacenamiento.
+
 ## Nodos públicos de alto consumo
 
 Ciertos lugares reciben un **extra importante de electricidad** y quedan marcados —en los registros del Ministerio y en la cabeza de la gente— como **puntos de riesgo, técnico y espiritual** a la vez:
