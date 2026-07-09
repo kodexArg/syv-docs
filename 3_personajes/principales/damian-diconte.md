@@ -101,6 +101,18 @@ Ahora en Dársena, Damián sabe que no está a salvo. La [[inquisicion|Inquisici
 
 <!-- /🔐 -->
 
+<!-- 🔐 (DM) — 2178: el arribo del héroe imposible -->
+
+Lo que empezó como huida en 2176 se cerró recién en **2178**, cuando el entramado entero cayó y con él su gobernador. Fue Damián **quien descubrió en privado el entramado y quien verdaderamente puso fin a la vida de ese monstruo** —el gobernador militar de Córdoba, en el [[2178-el-escandalo-de-cordoba|escándalo de Córdoba]]—. Y llegó a Dársena ese año, bajo la lluvia, **mareado de euforia**: la euforia rara y peligrosa del hombre que resolvió lo irresoluble y no puede contárselo a nadie.
+
+Porque ese arribo trae un problema que lo precede al bajar del avión de carga. Damián es el héroe de un hecho vergonzoso que la Confederación jamás hará público — y un héroe así no se puede premiar sin contar lo que hizo. La [[direccion-nacional-de-seguridad|DNS]] y el Ejército se quedan con la pregunta:
+
+> ¿qué se hace con el héroe de un hecho que nos avergüenza tanto, que nunca haremos público lo que sucedió?
+
+Ese arribo eufórico de 2178 **es** su entrada de exilio a Dársena. [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]] ocurre años después, cuando la euforia ya se apagó y la Iglesia lo ha instalado para sus casos sensibles.
+
+<!-- /🔐 -->
+
 <!-- 🔐 (DM) — años después: la instalación en Dársena -->
 
 Pasados los años, ya resueltos [[5_aventuras/poseidos/poseidos|Los Poseídos]] y algunas otras aventuras, **eclesiásticos de primera línea** terminaron de acomodar a Damián donde nadie lo quería: una oficina amplia, despejes por encima de su rango, en el Ministerio de Defensa / Seguridad de Dársena. Es un privilegio que la Iglesia viene ejerciendo sobre él desde hace años.
