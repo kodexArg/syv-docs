@@ -430,3 +430,4 @@ Cada uno de estos nodos concentra potencia suficiente para atraer tanto al contr
 - [[celdas-radionuclidos|Celdas de Radionúclidos]] - Tecnología militar alternativa
 - [[iglesia|Iglesia de Dársena]] - Supervisión del Ministerio
 - [[inquisicion|Sagrada Inquisición Argentina]] - Vigilancia de anomalías
+- [[baterias|Baterías]] - Acumulación prohibida de energía, contrabando y vehículos eléctricos
