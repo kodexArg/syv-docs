@@ -163,6 +163,10 @@ El tufo a mierda y a libertad es real.
 
 Ambos.
 
+## La Zona Roja y el turismo escondido
+
+El núcleo más comprimido del complejo, la **Zona Roja**, es también donde vive la oferta que la ciudad niega: el **turismo sexual**, bien escondido de los propios turistas. Contra el **Muro Sur**, entre tugurios y sótanos, se mueve un comercio de carne que la Curia no admite y la SIA sólo persigue cuando el exceso escandaliza. No se lo anuncia ni se lo señala: el [[extranjeros-y-apatridas|turista]] que lo busca lo encuentra por boca de puntero, nunca por cartel. Es el reverso del turismo gastronómico y religioso —comparte muro y clientela con la Zona Roja del [[barrio-de-los-pescadores|Barrio de los Pescadores]]—, y como aquél, prospera exactamente por permanecer invisible.
+
 ## Superficie y población (mapa)
 
 El mapa interactivo ([[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada de `syv-map`) asigna al **complejo del Muro** —Barrios del Muro más su núcleo comprimido, la **Zona Roja**— una superficie de **11,9 km²** y una población de **3,5 M** (el 70 % de la ciudad), con la Zona Roja como el punto más denso: 1,4 M a 383 000 hab/km².
