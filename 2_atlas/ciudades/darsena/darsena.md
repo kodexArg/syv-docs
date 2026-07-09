@@ -102,7 +102,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 -   **Vulnerabilidad**: Clase más frágil—un desastre (enfermedad, desempleo) los empuja a pobreza extrema.
 
 ### **Pobreza Extrema / Marginales (~50% de población)**
--   **Estimado**: 2.500.000 personas
+-   **Estimado**: 6.250.000 personas (50 % de 12,5 M)
 -   **Composición**: Habitantes de [[barrios-del-muro|Barrios del Muro]], [[tuberias|Las Tuberías]], refugiados, sin ciudadanía formal. Trabajadores precarios, mendigos, criminales, disidentes políticos.
 -   **Vivienda**: Chabolas de lona, cartón, madera podrida. Ubicadas en zonas de máxima humedad (alrededor del río, en tuberías subterráneas). Estructuras que literalmente se pudren con los años.
 -   **Alimentación**: Inseguridad alimentaria crónica. Comen descartes de mercados, "sopa de hueso" de carnicerías, alimentos robados. Hambre es condición normal.
