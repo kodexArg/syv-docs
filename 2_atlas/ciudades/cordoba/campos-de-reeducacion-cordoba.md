@@ -30,7 +30,7 @@ En Córdoba, **millones de salvajes son explotados en los Campos de Reeducación
 
 ## La denuncia
 
-La **dureza de algunos de estos campos fue denunciada recientemente**, y esa denuncia fue la chispa del **[[2178-el-escandalo-de-cordoba|escándalo de Córdoba de 2178]]**: detrás del trabajo esclavo asomaron una corrupción sin precedente y vínculos oscuros que alcanzaron al propio gobernador militar, el [[teniente-coronel-gobernador|Coronel Santiago Mendoza]].
+La **dureza de algunos de estos campos fue denunciada recientemente**, y esa denuncia fue la chispa del **[[2178-el-escandalo-de-cordoba|escándalo de Córdoba de 2178]]**: detrás del trabajo esclavo asomaron una corrupción sin precedente y vínculos oscuros —entre ellos, sectas demonólogas— que alcanzaron al propio gobernador militar, el [[teniente-coronel-gobernador|Coronel Santiago Mendoza]].
 
 ## No confundir
 
