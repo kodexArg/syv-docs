@@ -27,7 +27,7 @@ ubicaciones:
 
 # Baterías
 
-Las baterías son, en Dársena, un objeto contradictorio: **pesadas, utilísimas y prohibidas por peligrosas**. En una ciudad donde la fuente eléctrica es virtualmente infinita pero el **cable es el cuello de botella** (ver [[infraestructura-energetica|Infraestructura Energética]]), la batería es la pieza que resuelve el problema por la fuerza: **acumula el hilito de potencia que da la red a cuentagotas y lo suelta de golpe**, donde y cuando la tarjeta del hogar jamás alcanzaría.
+Las baterías son, en Dársena, un objeto contradictorio: **pesadas, utilísimas, formalmente prohibidas y a la vez omnipresentes**. El objeto en sí —arena y sal (ver [[electricidad|Electricidad]])— no es tóxico ni explosivo; lo prohibido y peligroso es lo **instrumental**. En una ciudad donde la fuente eléctrica es virtualmente infinita pero el **cable es el cuello de botella** (ver [[infraestructura-energetica|Infraestructura Energética]]), la batería resuelve el problema por la fuerza: **acumula el hilito de potencia que da la red a cuentagotas y lo suelta de golpe**, donde y cuando la tarjeta del hogar jamás alcanzaría. Esa **descarga de alta potencia** es lo prohibido —y lo que igual usa todo el mundo.
 
 ## Por qué están prohibidas
 
