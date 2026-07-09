@@ -171,7 +171,7 @@ Hay violencia: ajustes de cuentas entre bandas, palizas en callejones, desaparec
 
 La Sagrada Inquisición Argentina interviene cuando puede. Seguridad Nacional arresta cuando tiene recursos. Pero el sistema es demasiado grande, demasiado complejo, demasiado necesario para el funcionamiento de Dársena como para desmontarlo de raíz.
 
-Los Barrios del Muro no son ni el infierno que describe la propaganda de la Curia ni el paraíso libertario que romantiza la [[resistencia-subterranea|Resistencia Subterránea]]. Son un organismo. Una ciudad dentro de la ciudad. Tres millones y medio de personas viviendo en un equilibrio inestable que, por ahora, no colapsa.
+Los Barrios del Muro no son ni el infierno que describe la propaganda de la Curia ni el paraíso libertario que romantiza la [[resistencia-subterranea|Resistencia Subterránea]]. Son un organismo. Una ciudad dentro de la ciudad. Nueve millones trescientas setenta y cinco mil personas viviendo en un equilibrio inestable que, por ahora, no colapsa.
 
 El tufo a mierda y a libertad es real.
 
