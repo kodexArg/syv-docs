@@ -146,6 +146,22 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 
 El reparto espacial de los **12 500 000 de almas** reales por zona —superficie en km², población y densidad de cada distrito— vive en la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada del mapa interactivo `syv-map`. En síntesis: los [[barrios-del-muro|Barrios del Muro]] concentran el **75 % (9 375 000)** sobre 5,73 km² —una densidad de ~1 635 000 hab/km² que iguala y supera el récord histórico de Kowloon—; el [[zona-centro|Centro]] ronda los **2 900 000** (incluye 1–2 M de residentes temporales); y el gradiente cae hacia el [[barrio-de-la-armada|Barrio de la Armada]] (200 000), el [[barrio-de-los-pescadores|Barrio de Pescadores]] (16 000), los jardines secos del [[zona-residencial-alta-sociedad|Barrio Norte]] (6 600) y la [[santa-sede|Santa Sede]] (882 —la misma población que el Vaticano real). La guarnición urbana de la Zona Militar Norte apenas suma un centenar de efectivos. Las [[tuberias|Tuberías]] (~500 000) son un subconjunto subterráneo y off-censo del Muro. Las zonas exteriores —[[dmz|la DMZ (ZDM)]], [[el-pantano|El Pantano]] y el [[lago-muerto|Lago Muerto]]— quedan fuera del reparto (población permanente ~0).
 
+## El desdoble censal: cinco millones oficiales, doce millones y medio reales
+
+Durante décadas, el Estado de la Confederación declaró **5 000 000** de habitantes en Ciudad Dársena. Esa cifra —repetida en la liturgia oficial, en los edictos y en la propaganda— es el **censo de los registrados**: los ciudadanos con papeles, los que el aparato quiere ver. La población **real** siempre fue de **12 500 000** almas. La diferencia —siete millones y medio— son los **no contados**: el gentío de los [[barrios-del-muro|Barrios del Muro]] y los habitantes off-censo de las [[tuberias|Tuberías]], nacidos, muertos y hacinados sin que ninguna planilla los reconozca.
+
+No hubo obra nueva que explique el salto: la ciudad siempre fue esta. Lo que cambió no es la piedra sino la contabilidad —y el Estado prefiere la mentira redonda de «cinco millones» al vértigo de admitir el doble y medio. Donde una fuente hable con voz oficial del Estado, «cinco millones» es la cifra que dirá; donde hable el atlas o la crónica, la verdad es doce millones y medio.
+
+## El territorio: la ciudad y su cinturón
+
+Más allá del perímetro urbano, el territorio que Dársena administra suma **~15 000 000** de personas:
+
+-   **12 500 000** — la ciudad propiamente dicha (reparto de arriba).
+-   **2 000 000** — los internos de los **Campos de Reeducación**, tendidos al **norte** del muro. *(Sin ficha canónica todavía; se los nombra acá como ancla.)*
+-   **500 000** — el **ejército de tierra** acantonado en el cinturón, distinto de la Armada y distinto también de la guarnición urbana de la **Zona Militar Norte** (~100 efectivos). *(El grueso del Ejército conserva su sede en Córdoba; esta es la fuerza terrestre destacada en el territorio de Dársena.)*
+
+Sobre el **Río de la Plata**, además, viven ~**10 000 almas a bordo** de una flota de cerca de **1000 barcos** de la clase «Dársena». Todo lo que entra o sale por agua —incluidos los pescadores locales— pasa por la Dársena: el puerto es el único ojo de la aguja de la ciudad.
+
 ## Ver también
 
 - [[leyenda-del-mapa|Leyenda del Mapa de Dársena]] — superficie, población y densidad por zona.
