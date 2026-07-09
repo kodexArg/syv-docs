@@ -33,6 +33,10 @@ Es su nombre propio, el que todos usan. La gente también la apoda **Pulmón Sup
 
 Son lomas y jardines perfectamente cuidados. Las casas se hunden a medio nivel del suelo, semienterradas en las dunas, como bungalows de pasto: **casas como médanos, médanos como canchas de golf, verdes, parejos, con un árbol allí y una puerta allá, sendas por todos lados**. El efecto es el de un paisaje que respira despacio, hecho para el retiro y la contemplación.
 
+## Un puñado de habitantes
+
+Pese a su extensión, la Santa Sede es el lugar menos poblado de la isla: apenas unas **882 almas** —el clero residente, los custodios y su servicio—, sin un solo edificio en altura. Todo aquí se hunde en el pasto; nada se levanta sobre las dunas.
+
 ## El tranvía a cronómetro
 
 Un **tranvía eléctrico especial** recorre una vía única a través de la Santa Sede. Pasa **cada cuatro horas**, solo de día, y durante **exactamente cuarenta minutos** sus frenéticos vagones zigzaguean cargados por dunas y bosques, a cronómetro. Cumplido el plazo, se detiene: si no conseguiste asiento, caminás. La disciplina del reloj es tan absoluta como el silencio que respeta —**ninguna meditación se interrumpe, ni siquiera por el suave chillido de los tranvías**.
