@@ -253,7 +253,7 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 - Sin reactores = sin electricidad
 - Sin reactores = sin agua desalinizada
 - Pérdida simultánea = colapso de ciudad en **semanas**
-- 5 millones de personas: sin agua mueren en 3 días; sin comida (Torres usan 60% electricidad) mueren en 30 días
+- 12,5 millones de personas: sin agua mueren en 3 días; sin comida (Torres usan 60% electricidad) mueren en 30 días. Y el agua ya vive al borde: cualquier merma de la ración empuja a los estratos bajos al desastre antes que ninguna otra falla.
 
 ### El Problema: Irreproducibilidad Total
 
