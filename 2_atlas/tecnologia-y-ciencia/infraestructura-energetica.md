@@ -392,6 +392,36 @@ Lo que alimenta la paranoia de "La Bestia" en las Torres es específico: estas i
 
 ---
 
+## La carga satánica de la electricidad (Anatema Mecánico)
+
+La electricidad **nunca es del todo una cosa buena**: arrastra la mancha del [[anatema-mecanico|Anatema Mecánico]]. Se tolera porque la ciudad no vive sin ella, pero jamás se celebra. Usarla en un arma —y peor aún como **picana**— no es apenas ilegal: es un **crimen aberrante**, herejía en su forma más obscena. Por eso las **muertes por electricidad son raras y «complejas»**, cargadas de un peso ritual que ninguna otra muerte tiene.
+
+Esto le da a la vigilancia obsesiva de «La Bestia» su verdadera lógica: no es antirrobo, es **horror religioso**. Cada anomalía de consumo se persigue como se perseguiría una profanación.
+
+## Contrabando de energía
+
+El contrabando eléctrico es **enorme e imposible de rastrear**. Nadie conserva ya el mapa completo de todos los hilos vivos que corren bajo la ciudad: la rejilla pre-guerra es más vieja que cualquier archivo que la describa. Alguien **encuentra un hilo vivo** —casi siempre por las malas, cavando o muriendo— y lo aprovecha, a veces durante años, hasta que lo cazan los técnicos de red o [[direccion-nacional-de-seguridad|Seguridad Nacional]].
+
+Es la escala industrial de los **TAPs** que ya construyen las bandas de los [[barrios-del-muro|Barrios del Muro]]: del pinchazo puntual a redes clandestinas enteras alimentadas de un caño olvidado. Buena parte de esa energía robada se guarda en [[baterias|baterías]] para soltarla de golpe.
+
+## Baterías
+
+Las [[baterias|baterías]] son **pesadas, utilísimas y están prohibidas por peligrosas**. Acumulan el hilito de potencia a cuentagotas para soltarlo de una sola vez, y por eso son la pieza que vuelve viable el contrabando y el alto consumo puntual donde la tarjeta no alcanza. Los [[barrios-del-muro|Barrios del Muro]] están llenos de ellas. El **[[fuerzas-armadas|Ejército]]** abusa de ellas sin recato y mantiene una **zona de alta recarga** propia dentro de la zona militar.
+
+## Vehículos y transporte
+
+Dársena casi no tiene vehículos privados. Los pocos que circulan tienden a ser eléctricos, y el **transporte público es eléctrico sin excepción** —los tranvías a la cabeza—. El vehículo eléctrico depende, como todo lo de alto consumo, de [[baterias|baterías]] para alejarse del cable.
+
+## Nodos públicos de alto consumo
+
+Ciertos lugares reciben un **extra importante de electricidad** y quedan marcados —en los registros del Ministerio y en la cabeza de la gente— como **puntos de riesgo, técnico y espiritual** a la vez:
+
+- Los **baños públicos** y los baños de la **Plaza de Barrio Norte**
+- La **marina**
+- Y, por encima de todos, el **Club de Oficiales**, donde se autorizan rarísimos partidos nocturnos con luz eléctrica: un lujo obsceno, puro alarde de la casta militar sobre una ciudad a media luz
+
+Cada uno de estos nodos concentra potencia suficiente para atraer tanto al contrabandista como al censor de la [[inquisicion|SIA]].
+
 ## Referencias Cruzadas
 
 - [[electricidad|Electricidad]] - Red pública 48V DC y vigilancia básica
