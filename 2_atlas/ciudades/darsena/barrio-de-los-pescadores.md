@@ -35,6 +35,10 @@ El **Barrio de los Pescadores** es uno de los tres lugares de la [[zona-militar-
 
 El [[barrio-de-la-armada|Barrio de la Armada]] es su vecino contiguo hacia el oriente: comparten frontera, mercado y roces. Cuando se dice que la Armada es "el vecino de al lado", se habla de eso, no de un poder al otro lado del agua.
 
+## Densidad
+
+Apretados entre el agua y el cemento de la Armada, unos **16.000 habitantes** se amontonan en los pisos de este barrio: una densidad extrema, del orden de la de los 23 barrios centrales de la vieja Tokio, con familias apiladas sobre puestos y puestos apilados sobre muelles.
+
 ## El mercado que no cierra
 
 A ras del agua, el barrio es un solo mercado sin techo: pescado fresco y salado, puestos de comida de toda laya —humo de fritura, ollas que no paran—, telas, chatarra útil, lo que caiga de un cajón. Buena parte de esa mercadería no pasó por la [[aduana-nacional|Aduana]]. El contrabando aquí no es un secreto sino una economía: entra y sale por los **puertos de fuera del muro**, los que dan a las aguas abiertas de [[fuera-del-muro|Fuera del Muro]], y es —no es novedad para nadie— una de las fuentes de contrabando que más peleas da y más conflictos ha causado en la ciudad. Las redes de [[canales-ocultos|Canales Ocultos]] mueven aquí buena parte de su carga.
