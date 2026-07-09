@@ -58,6 +58,8 @@ Cada edificio recibe **electricidad ilimitada de muy baja intensidad** —sufici
 
 La sed es cuestión de altura. La red pública sube con bomba chica, de presión baja: llega con holgura a la planta baja y a los primeros pisos, pero no trepa los cuarenta, ochenta, cien pisos de los monobloques. Cuanto más alto vivís, menos agua te llega, hasta que arriba de todo no llega nada. Los de los pisos altos bajan a los puntos públicos a llenar bidones y los cargan por la escalera a pulmón, o bombean el agua con potencia robada de la red o con [[baterias|batería]] prohibida: el que puede pagar el robo sube agua, el que no acarrea baldes.
 
+Y si el agua es la obsesión de todos los días, el **fuego es la pesadilla**. Se cocina con barras químicas que, una vez encendidas, no las apaga nada —ni agua, ni ahogo, ni tiempo—: arden hasta consumirse solas. En una vertical hacinada de miles de personas, un solo accidente puede incinerar una torre entera antes de que nadie llegue a bajar. El incendio es al Muro lo que el naufragio a un barco: la muerte que todos llevan puesta sin nombrarla.
+
 Los edificios más cercanos al Centro son casi indistinguibles de los del propio Centro. Misma mole, misma altura, misma piedra. Los delata el descuido —la humedad sin reparar, el óxido, la basura en el palier— y la ausencia de negocios legales a la vista. Cuanto más al sur y más contra el Muro, más se despega la máscara.
 
 ## Arquitectura Defensiva
