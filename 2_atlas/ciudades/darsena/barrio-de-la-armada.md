@@ -31,6 +31,10 @@ El **Barrio de la Armada** es uno de los tres lugares de la [[zona-militar-ecles
 
 Entre sus edificios se cuentan **barracas especiales** que no responden a la Armada, y que funcionan en la práctica como **embajadas** de las otras dos ramas: una del **Ejército Argentino** y otra de la **Fuerza Aérea Argentina**, ambas con su sede de poder en [[cordoba|Córdoba]]. Son presencias vigiladas, medio diplomáticas y medio recelosas: la manera en que las ramas rivales meten un pie en la ciudad naval sin ceder autoridad.
 
+## Población y traza
+
+Bajo su fachada de mando, el Barrio de la Armada es también una ciudad densa: unos **200.000 habitantes** —oficiales, familias, personal y tropa administrativa— apiñados en edificios **medianos, de unos cinco pisos**, que llenan la franja sur de la isla. La densidad ronda los **147.300 habitantes por km²**: mucho para un barrio de gobierno, aunque apenas una fracción del hacinamiento que hierve al lado, en los Pescadores.
+
 ## Gobierno de facto
 
 A fines prácticos, el Barrio de la Armada opera como el **gobierno central de Ciudad Dársena**. Sus designios no se ejecutan aquí sino que se derraman por la gran ciudad, en oficinas estatales repartidas por todos los distritos. Esto no contradice la autoridad suprema que el Ejército reclama desde Córdoba: la encarna en su tensión. La Armada es "guardián de Dársena" y gobierna la ciudad en los hechos; el Ejército es "autoridad suprema" de la [[confederacion-argentina|Confederación]] y lo resiente. Por eso el barrio es, además de un centro de poder, un **emblema y un fuerte signo de discordia** entre las ramas.
