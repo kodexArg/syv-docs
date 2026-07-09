@@ -172,7 +172,7 @@ Dársena está dividida en **9 sectores principales**, cada uno alimentado desde
 2. **Microcentro** (Gobierno): 20A @ 48V
 3. **Zona Centro** (Producción/Torres): 48V @ variable (máximo 40A en picos)
 4. **Barrio Norte** (Elite): 10A @ 48V × 500 hogares
-5-9. **Barrios del Muro** (Sectores 1-5): 10A @ 48V × 700,000 hogares total
+5-9. **Barrios del Muro** (Sectores 1-5): 10A @ 48V × ~2.340.000 hogares total (~468.000 hogares por sector; los ~9,375 M de habitantes del Muro a razón de 4 por hogar)
 
 Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislarse sin afectar resto de ciudad (teóricamente; nunca se ha hecho).
 
