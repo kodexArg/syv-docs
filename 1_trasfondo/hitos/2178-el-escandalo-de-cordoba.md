@@ -3,7 +3,7 @@ alcance: publico
 aliases:
 - El Escándalo de Córdoba
 - El Escándalo de Córdoba (2178)
-- La Caída de Mendoza Reyes
+- La Caída de Santiago Mendoza
 description: '2178: la denuncia de la dureza de los campos de salvajes destapa la
   corrupción del gobernador militar de Córdoba, que se pega un tiro en la Casa Verde;
   Córdoba pasa a un Triunvirato y DiConte llega a Dársena.'
