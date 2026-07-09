@@ -195,30 +195,30 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 
 <!-- 🔐 (Ministerio de Infraestructura, Ingeniería) -->
 
-**Localización**:
-- Directamente bajo las dos **Torres Hidropónicas**
-- Profundidad: Más de 100 metros bajo nivel de superficie
-- Más profundos que cualquier otro punto de Dársena
-- Cámaras subterráneas del tamaño de las Torres mismas (200+ metros de profundidad total)
+> [!warning] Mito vs. verdad
+> **Lo que la ciudad cree**: que los generadores están *directamente bajo las dos Torres Hidropónicas* —una simetría teológica cómoda, el motor debajo del sistema que hace la comida—. Es el error común, repetido incluso por técnicos de bajo nivel.
+> **La verdad**: ambas plantas —el complejo que los custodios llaman **«La Máquina»**— están enterradas bajo la [[zona-militar-eclesiastica|Isla Oriental]], en su **extremo norte**, muy profundo, **más hondo que el propio río**. Torres y generadores están *próximos*, pero **separados por la Zona Militar Norte** (guarnición del [[fuerzas-armadas|Ejército]], sin ficha propia).
 
-**Acceso**:
-- Herméticamente sellado (una sola entrada, vigilada constantemente)
-- Compuerta de acero reforzado con mecanismos de bloqueo analógicos
-- Personal seleccionado (máximo 5 técnicos Nivel 1 autorizados a servicio de mantenimiento básico)
-- Ningún técnico Nivel 1 sabe lo que hay adentro
-- Solo Nivel 2+ pueden acceder al interior de cámaras de reactores
+**Localización real**:
+- Bajo el extremo norte de la [[zona-militar-eclesiastica|Isla Oriental]], no bajo las Torres
+- Profundidad: por debajo del lecho del río; el punto más hondo excavado de Dársena
+- Torres y «La Máquina» quedan a poca distancia horizontal, pero la **Zona Militar Norte** se interpone entre ambas
+
+**Razón de la ubicación** (elección pre-guerra, muy anterior a cualquier decisión de la Iglesia):
+- Cercanía al mar, por cálculos pre-guerra hoy perdidos
+- La costa de la Isla Oriental favorece además la **desalinización** (toma directa de agua de mar)
+- El grueso del consumo lo siguen llevando las **Torres Hidropónicas** por ser la **industria pesada de la comida** (~60 % de la energía de Dársena), no por estar encima de los generadores
+
+**Acceso y custodia**:
+- El **[[fuerzas-armadas|Ejército]]** controla todas las entradas de ambos recintos
+- En los estratos inferiores mandan **Inquisidores** ([[inquisicion|SIA]]); algunos eligen terminar sus días ahí, en la luz —ésa sí infinita— de «La Máquina»
+- El acceso final lo realizan **veinte técnicos** de origen mezclado: condenados a perpetua conmutando pena desde los [[campos-de-reeducacion|Campos]], hackers que cambian servicio por su vida, y eclesiásticos ingenieros
+- Ningún técnico de bajo nivel sabe lo que hay adentro; solo los cuadros altos acceden al interior de las cámaras
 
 **Vigilancia**:
 - Cámaras de seguridad analógicas (las únicas de Dársena; sistema dedicado)
-- Patrullaje constante de guardias eclesiásticos (Iglesia, no Fuerzas Armadas)
 - Sistema de alarma múltiple en caso de intrusión (electromagnético + sonoro)
-- Procedimiento de emergencia: sellado hermético de complejo (puede ocluir personal en el interior)
-
-**Razón de ubicación bajo Torres**:
-- No fue accidental (fue diseño pre-guerra para optimizar transmisión)
-- Torres Hidropónicas consumen ~60% de energía total de Dársena
-- Colocar generadores bajo consumen permite mínima pérdida en distribución
-- Simetría: los generadores alimentan el sistema que genera alimentos
+- Procedimiento de emergencia: sellado hermético del complejo (puede ocluir personal en el interior)
 
 <!-- /🔐 -->
 
