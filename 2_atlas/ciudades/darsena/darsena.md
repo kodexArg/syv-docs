@@ -93,7 +93,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 -   **Lealtades complejas**: Muchos marineros tienen contactos con Arpistas (tráfico de libros, tecnología antigua). Algunos son Criptógrafos clandestinos.
 
 ### **Clase Media-Baja Urbana (~27% de población)**
--   **Estimado**: 1.350.000 personas
+-   **Estimado**: 3.375.000 personas (27 % de 12,5 M)
 -   **Composición**: Comerciantes pequeños, artesanos, empleados administrativos, trabajadores de servicios, guardia civil.
 -   **Vivienda**: Viviendas de adobe/ladrillo estructurado en zonas medias (Barrio Centro, Parque Patricios). Modestas pero con techos y drenaje.
 -   **Alimentación**: Dependiente de acceso al comercio; no hay garantía. Hambre estacional.
