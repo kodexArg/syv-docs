@@ -17,6 +17,8 @@ related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
 - '[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]'
 - '[[5_aventuras/poseidos/poseidos|Los Poseídos]]'
+- '[[2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]'
+- '[[casa-verde|Casa Verde]]'
 spoilers:
 - 'Perfil cognitivo (secreto): mente deductiva brillante, atención extrema al detalle,
   memoria pésima para nombres propios, promedio en matemáticas, lector voraz y muy
