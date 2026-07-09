@@ -946,7 +946,7 @@ Esto es peligroso. Algunos agentes son descubiertos y ejecutados. Otros desarrol
 
    Problema: si se corta electricidad, no pueden interrogar al Remanente antes de destrucción. Trade-off entre seguridad y obtención de inteligencia.
 
-4. **Evacuación de civiles (si aplica):** Si la operación es en zona densamente poblada, se evacua a civiles con excusa oficial ("fuga de gas", "amenaza estructural", "ejercicio militar").
+4. **Evacuación de civiles (si aplica):** Si la operación es en zona densamente poblada, se evacua a civiles con excusa oficial ("escape tóxico", "amenaza estructural", "ejercicio militar").
 
    La SIA prefiere operar sin testigos civiles. Menos complicaciones. Menos preguntas.
 
