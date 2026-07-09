@@ -40,3 +40,7 @@ Un **tranvía eléctrico especial** recorre una vía única a través de la Sant
 ## La Villa de los Oficiales
 
 Dentro de la Santa Sede, hacia su borde sur, se cierra la [[villa-de-los-oficiales|Villa de los Oficiales]]: un parque reservado cuyo ingreso no autorizado se considera crimen, custodiado por los [[albatros|Albatros]]. Es el único punto de estos jardines donde la mansedumbre contemplativa cede a la guardia armada.
+
+## Turismo religioso
+
+La Santa Sede es el destino del **[[extranjeros-y-apatridas|turismo religioso]]** de toda la Confederación y de más allá: peregrinos que cruzan el mundo para rezar donde está la Iglesia. Para ellos, la **vera oriental** de la Isla —esta franja alta y verde— tiene sus **hospedajes**: residencias cuyos patios dan directamente a los **Jardines de la Iglesia**, un privilegio único en cientos de kilómetros a la redonda, en un continente donde el verde cuidado no existe. Alojarse con vista a estas lomas de pasto es, para el peregrino, la mitad de la peregrinación.
