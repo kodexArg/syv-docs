@@ -46,7 +46,7 @@ El Pantano es el **borde inmediato** al sur de Dársena: pasivo, brumoso, custod
 
 ## Superficie y población (mapa)
 
-Según la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], El Pantano ocupa una superficie de referencia de **~216,9 km²** al sur ahogado (unos 13,5 km al sur del centro), órdenes de magnitud mayor que cualquier distrito urbano. Población permanente **~0** (Salvajes dispersos, barcazas de paso): no entra en el reparto de los 5 000 000 de almas de la ciudad.
+Según la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], El Pantano ocupa una superficie de referencia de **~216,9 km²** al sur ahogado (unos 13,5 km al sur del centro), órdenes de magnitud mayor que cualquier distrito urbano. Población permanente **~0** (Salvajes dispersos, barcazas de paso): no entra en el reparto de los 12 500 000 de almas de la ciudad.
 
 ## Ver también
 
