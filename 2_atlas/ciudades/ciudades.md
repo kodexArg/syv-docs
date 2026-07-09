@@ -10,7 +10,7 @@ Aquí se cartografían las urbes que resisten la inundación perpetua: muros que
 
 ## Ciudades
 
-- [[darsena]] — capital de facto; cinco millones bajo la niebla del Río de la Plata
+- [[darsena]] — capital de facto; doce millones y medio bajo la niebla del Río de la Plata
 - [[cordoba]] — megalópolis industrial; treinta millones bajo el régimen Videla
 - [[mendoza]] — potencia cuyana que controla el agua de los Andes
 - [[san-luis]] — ciudad intermedia del corredor interior
