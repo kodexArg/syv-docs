@@ -59,7 +59,7 @@ Reparto de los **12 500 000 de almas** reales de Dársena (el censo oficial del 
 
 ## Alrededores — las zonas exteriores
 
-Los polígonos de afuera del muro son **órdenes de magnitud más grandes** que los distritos urbanos y de población permanente **~0** (Salvajes dispersos, barcazas, refugiados de paso). No entran en el reparto de los 12,5 M de la ciudad. (El **territorio** administrado por Dársena suma ~15 M si se cuentan los Campos de Reeducación del norte y el ejército de tierra del cinturón — ver [[darsena]].)
+Los polígonos de afuera del muro son **órdenes de magnitud más grandes** que los distritos urbanos y de población permanente **~0** (Salvajes dispersos, barcazas, refugiados de paso). No entran en el reparto de los 12,5 M de la ciudad. (El **territorio** administrado por Dársena suma ~15 M si se cuentan los [[campos-de-reeducacion|Campos de Reeducación del norte]] y el ejército de tierra del cinturón — ver [[darsena]].)
 
 | Zona | Color | km² | Ubicación | Población | Entidad canónica |
 |---|---|---:|---|---:|---|
