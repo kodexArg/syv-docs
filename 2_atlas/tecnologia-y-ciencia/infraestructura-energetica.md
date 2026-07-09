@@ -1,18 +1,28 @@
 ---
 title: Infraestructura Energética de Dársena
 folder: 2_atlas/tecnologia-y-ciencia
-description: Sistema de Nodos, reactores de fusión, Ministerio de Infraestructura
+description: Sistema de Nodos, «La Máquina», red de conductores y tarjetas, Ministerio de Infraestructura
 entidad: concepto
 alcance: publico
 estado: canon
 aliases:
   - Infraestructura Energética de Dársena
+  - La Máquina
 tags: []
 related:
   - "[[inquisicion]]"
+  - "[[anatema-mecanico]]"
+  - "[[baterias]]"
+  - "[[torres-hidroponicas]]"
+  - "[[dmz]]"
+  - "[[fuera-del-muro]]"
+  - "[[barrios-del-muro]]"
+  - "[[direccion-nacional-de-seguridad]]"
+  - "[[campos-de-reeducacion]]"
 ubicaciones:
   - "[[darsena]]"
   - "[[zona-centro]]"
+  - "[[zona-militar-eclesiastica]]"
 ---
 
 # Infraestructura Energética de Dársena
