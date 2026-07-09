@@ -27,6 +27,10 @@ Este grupo es un mosaico de historias rotas. No tienen una estructura formal; se
 
 Su existencia es precaria y dependen de interacciones con otros grupos marginados. A veces colaboran con los [[1_trasfondo/credos/el-camino-del-kene|Cazadores de Pesadillas]][^cazadores] en las Tuberías o reciben protección de [[los-umbanda|Los Umbanda]][^umbanda] en los Barrios del Muro. Sin embargo, también son presa fácil para los [[traficantes-de-almas|Traficantes de Almas]][^traficantes] y son vistos con neutralidad interesada por el [[gremio-de-comercio|Gremio de Comercio]][^gremio], que a veces intercambia bienes o favores con ellos.
 
+## El pipeline del apátrida
+
+Buena parte de estos parias no nacieron sin estatus: lo perdieron. Son **[[extranjeros-y-apatridas|extranjeros de visa vencida]]** o de permanencia sin permiso, que dejaron de ser turistas tolerados para volverse un problema del Estado. El camino descendente es conocido: cuando la [[extranjeros-y-apatridas|Aduana]] o Seguridad Nacional los detecta, la deriva no es la deportación a su tierra sino **[[campos-de-reeducacion|Los Campos de Reeducación]]** de la Zona del Cráter, al norte del Lago Muerto. Sobrevivir en los márgenes —en las Tuberías, en los Barrios del Muro— es, para muchos apátridas, apenas la antesala de ese destino, o la única forma de esquivarlo.
+
 Información secreta (no exponer a jugadores): La desesperación es un arma de doble filo. A cambio de protección o recursos, algunos refugiados y parias se ven forzados a colaborar con facciones subversivas o criminales. Dentro de su comunidad existen rutas secretas de escape y contrabando, gestionadas por individuos que han logrado forjar una red de contactos en el submundo, arriesgando todo por una oportunidad de una vida mejor.
 
 ---
