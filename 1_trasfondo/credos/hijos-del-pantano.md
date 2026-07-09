@@ -62,7 +62,7 @@ Introducen químicos (herbicidas caseros, metales pesados extraídos de residuos
 Incendian depósitos de semillas para plantación futura. Sin semillas, la siguiente cosecha fracasa. Es sabotaje con efecto retardado: el daño se manifiesta meses después, dificultando atribución.
 
 **Sabotaje de redes de agua:**
-Rompen tuberías de agua potable en zonas periféricas. No explotan (eso atraería Seguridad Nacional). Perforan pequeños agujeros que generan filtraciones. El agua se pierde gradualmente. Los vecinos sufren escasez pero no hay evento dramático que justifique intervención militar.
+Rompen tuberías de agua potable en zonas periféricas. No explotan (eso atraería [[direccion-nacional-de-seguridad|Seguridad Nacional]]). Perforan pequeños agujeros que generan filtraciones. El agua se pierde gradualmente. Los vecinos sufren escasez pero no hay evento dramático que justifique intervención militar.
 
 **Ataques a convoyes de suministros:**
 Emboscadas en caminos rurales. No matan conductores (aún mantienen línea de "no matar directamente"). Los drogan con extractos de plantas mutadas, roban carga (alimentos, medicamentos), queman camiones. Los conductores despiertan horas después, desorientados pero vivos.
