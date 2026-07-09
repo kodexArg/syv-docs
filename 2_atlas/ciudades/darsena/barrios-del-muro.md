@@ -183,10 +183,11 @@ El núcleo más comprimido del complejo, la **Zona Roja**, es también donde viv
 
 ## Superficie y población (mapa)
 
-El mapa interactivo ([[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada de `syv-map`) asigna al **complejo del Muro** —Barrios del Muro más su núcleo comprimido, la **Zona Roja**— una superficie de **11,9 km²** y una población de **3,5 M** (el 70 % de la ciudad), con la Zona Roja como el punto más denso: 1,4 M a 383 000 hab/km².
+El mapa interactivo ([[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada de `syv-map`) asigna al **complejo del Muro** —Barrios del Muro más su núcleo comprimido, la **Zona Roja**— una superficie de **5,73 km²** y una población de **9,375 M** (el 75 % de la ciudad): una densidad media de **~1.635.000 hab/km²**, la más brutal de la Confederación.
 
-> [!warning] Discrepancia con la prosa
-> La prosa de esta ficha describe *«cinco kilómetros cuadrados»* de concreto vertical para esos 3,5 M; el polígono del mapa mide **11,9 km²**. No se corrige ninguno de los dos números: la prosa canónica queda intacta y el mapa registra su medición. Con el área del mapa la densidad baja a ~294 000 hab/km² (la mitad de brutal que los ~700 000 hab/km² que implicaría la prosa). La reconciliación —achicar el polígono o revisar la cifra de la prosa— queda **pendiente**; ver la nota de reconciliación en [[leyenda-del-mapa|Leyenda del Mapa de Dársena]].
+La cifra no es obra nueva. Las torres ya estaban ahí —apiladas, invisibles, subcontadas. El salto de los viejos «3,5 M» a los 9,375 M actuales es el Estado admitiendo por fin lo que nunca supo censar: cuánta gente respira de verdad detrás de esos portones. Nadie construyó nada. Sólo se los contó.
+
+El gradiente es vertical. Al sur, los monobloques brutalistas trepan cien pisos y comprimen hasta **~4.000.000 de almas por km²** —hacinamiento sin fondo, el corazón de la **Zona Roja**. La mediana y gran mayoría del complejo ronda los cuarenta o cincuenta pisos y respira a **~1.800.000 hab/km²**. Sólo la franja pegada a la muralla afloja: ningún edificio pasa los veinte metros —capado por la línea de tiro de los francotiradores del Muro— y ahí la densidad cae a **~1.000.000 hab/km²**.
 
 ## Lugares de Interés
 
