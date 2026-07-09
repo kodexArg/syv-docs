@@ -55,3 +55,4 @@ Según la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], el Lago Muerto cubr
 - [[2039-el-meteorito-de-buenos-aires]] — el impacto que abrió la herida que hoy es este lago.
 - [[fuera-del-muro]] — el Paso del Cráter y El Puerto, sobre su orilla este.
 - [[leyenda-del-mapa|Leyenda del Mapa de Dársena]] — superficie, color y ubicación en el mapa.
+- [[campos-de-reeducacion|Campos de Reeducación (Dársena)]] — los Campos se extienden al norte de este lago, en la misma Zona del Cráter.
