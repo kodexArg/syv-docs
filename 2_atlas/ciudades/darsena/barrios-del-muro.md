@@ -286,7 +286,7 @@ Espacios administrados por las comunidades para preparar alimentos en masa. Las 
 
 El menú es guiso de lentejas, arroz con grasa, pan de harina subsidiada por el Gremio de Comercio. Nadie se queja. Comer caliente es un lujo. Comer en comunidad es un ritual.
 
-Las ollas son industriales, del tamaño de barriles. Las cocinas son a leña porque el gas es caro. El humo sube por chimeneas improvisadas que perforan los techos de los sótanos y salen a nivel de calle como fumarolas de un volcán urbano.
+Las ollas son industriales, del tamaño de barriles. Las cocinas son a leña y a fuego —en Dársena no hay gas de ninguna clase—, aunque no falta el brasero eléctrico ni la barra química de quien puede pagarla. El humo sube por chimeneas improvisadas que perforan los techos de los sótanos y salen a nivel de calle como fumarolas de un volcán urbano.
 
 Los refugios subterráneos se activan cuando hay alertas de ataque externo. Sótanos reforzados que pueden albergar cientos de personas. Literas de metal apiladas hasta el techo. Letrinas comunales. Depósitos de agua. Reservas de alimentos enlatados.
 
