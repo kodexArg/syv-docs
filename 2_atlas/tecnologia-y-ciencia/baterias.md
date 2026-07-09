@@ -1,0 +1,48 @@
+---
+alcance: publico
+aliases:
+- Baterías
+- Batería
+- Acumuladores
+description: 'Acumuladores pesados y prohibidos por peligrosos, ubicuos en los Barrios
+  del Muro: guardan el hilito de la red a cuentagotas para soltarlo de golpe. Ligados
+  al contrabando de energía y a los vehículos eléctricos.'
+entidad: objeto
+estado: propuesta
+folder: 2_atlas/tecnologia-y-ciencia
+related:
+- '[[infraestructura-energetica]]'
+- '[[electricidad]]'
+- '[[anatema-mecanico]]'
+- '[[fuerzas-armadas]]'
+- '[[barrios-del-muro]]'
+tags: []
+title: Baterías
+ubicaciones:
+- '[[darsena]]'
+- '[[barrios-del-muro]]'
+---
+
+# Baterías
+
+Las baterías son, en Dársena, un objeto contradictorio: **pesadas, utilísimas y prohibidas por peligrosas**. En una ciudad donde la fuente eléctrica es virtualmente infinita pero el **cable es el cuello de botella** (ver [[infraestructura-energetica|Infraestructura Energética]]), la batería es la pieza que resuelve el problema por la fuerza: **acumula el hilito de potencia que da la red a cuentagotas y lo suelta de golpe**, donde y cuando la tarjeta del hogar jamás alcanzaría.
+
+## Por qué están prohibidas
+
+Almacenar energía es almacenar peligro. Una batería cargada es un depósito de potencia que puede descargarse de un solo golpe —incendio, electrocución, arma improvisada—, y toda electricidad arrastra de por sí la mancha del [[anatema-mecanico|Anatema Mecánico]]: nunca es del todo una cosa buena. Concentrarla en un aparato transportable la vuelve doblemente sospechosa a ojos de la [[inquisicion|SIA]]. De ahí su estatus **ilegal**, pese a su utilidad evidente.
+
+## Dónde viven
+
+- **Los [[barrios-del-muro|Barrios del Muro]] están llenos de ellas.** Son la infraestructura silenciosa del alto consumo popular: donde el cupo por tarjeta no da, una batería cargada durante días entrega en minutos la ducha caliente, la herramienta, el golpe de luz.
+- **El contrabando de energía** las necesita: el hilo vivo que alguien encuentra bajo la ciudad se aprovecha guardándolo en baterías para soltarlo cuando conviene.
+- **Los [[fuerzas-armadas|vehículos y equipos del Ejército]]** dependen de ellas para moverse lejos del cable; el transporte eléctrico en general vive de la batería.
+
+## El Ejército y la zona de alta recarga
+
+El [[fuerzas-armadas|Ejército]] **abusa de las baterías sin recato** —lo que la ciudad tiene prohibido, la casta militar lo tiene como norma— y mantiene una **zona de alta recarga** propia dentro de la zona militar, alimentada de los nodos de alto consumo reservados a la fuerza. Es uno de los muchos privilegios eléctricos que separan al uniforme del ciudadano de a pie.
+
+## Referencias Cruzadas
+
+- [[infraestructura-energetica|Infraestructura Energética de Dársena]] — «La Máquina», tarjetas, conductores y contrabando
+- [[electricidad|Electricidad]] — la red pública 48V CC
+- [[anatema-mecanico|Anatema Mecánico]] — por qué la energía nunca es inocente
