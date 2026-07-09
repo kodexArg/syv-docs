@@ -158,16 +158,17 @@ El Departamento de Red Eléctrica opera con un sistema estricto de compartimenta
 
 ### Especificaciones de Transmisión
 
-**Estándar residencial**:
-- Voltaje: 48V CC (corriente continua)
-- Corriente máxima: 10A por hogar
-- Potencia máxima: 480W por hogar
-- Nunca fluctúa: es absolutamente constante mientras el sistema funcione
+**Sistema de tarjetas (el verdadero techo del hogar)**:
+El techo de cada hogar no es un número fijo: lo fijan **tarjetas** instaladas en la red, algo **legal y transparente**. El cupo se reparte **por cabeza**: **240 W por persona**, hasta un máximo de **960 W permanentes por hogar** (= 20 A @ 48 V CC). Como el tope se cuenta por habitante, un hogar semivacío queda sin potencia útil: para llegar a los 960 W —una ducha caliente, o incluso un microondas chico— hay que **llenar la casa a cuatro**. La red es, de hecho, una **máquina de incentivo al hacinamiento**, coherente con el 75 % de la población apiñada en los [[barrios-del-muro|Barrios del Muro]].
 
-**Servicios públicos especiales**:
-- Voltaje: 48V CC
-- Corriente máxima: 20A (doble que residencial)
-- Aplicaciones: Dependencias eclesiásticas, tranvías, infraestructura crítica
+**Piso garantizado**: **480 W mínimos para todo departamento**, esté documentado o no. Como buena parte de la ciudad es indocumentada y corre en el piso, **el estándar de 480 W es el mejor indicador de la mediana** de consumo doméstico de Dársena. El rango real del hogar va, entonces, de **480 W (piso)** a **960 W (techo)**.
+
+- Voltaje: 48 V CC (corriente continua), absolutamente constante mientras el sistema funcione
+- Corriente por hogar: de 10 A (piso, 480 W) a 20 A (techo, 960 W)
+
+**Servicios públicos y nodos críticos**:
+- Voltaje: 48 V CC
+- Aplicaciones: dependencias eclesiásticas, tranvías, infraestructura crítica y ciertos **nodos públicos de alto consumo** (ver más abajo)
 
 **Característica crítica**:
 - Voltaje es "pegajoso" (mantiene exactamente 48V incluso bajo carga variable)
