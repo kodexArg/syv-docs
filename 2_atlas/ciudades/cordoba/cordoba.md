@@ -40,3 +40,4 @@ No hay contradicción entre los treinta millones de la prosa y los veinticinco d
 
 - [[capital]] — la ciudad misma; historia, gobierno, demografía y estructura de clases
 - [[universidad-nacional-cordoba]] — la institución académica más grande de la Confederación; brazo técnico del poder militar
+- [[campos-de-reeducacion-cordoba]] — el cinturón de trabajo esclavo al norte y al sur; el grueso de los cinco millones de la periferia
