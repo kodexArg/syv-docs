@@ -23,6 +23,7 @@ related:
 - '[[cordoba]]'
 - '[[darsena]]'
 - '[[fuerte-san-martin]]'
+- '[[vestimenta]]'
 tags: []
 title: Confederación Argentina
 ---
