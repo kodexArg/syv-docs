@@ -28,6 +28,8 @@ ubicaciones:
 
 En Córdoba, **millones de salvajes son explotados en los Campos de Reeducación de Córdoba, al norte y al sur de la inmensa ciudad, manteniendo inmensas áreas cultivadas y el mantenimiento de todas las carreteras, trincheras y fortines**. Es trabajo esclavo a escala de megalópolis: kilómetros cuadrados de plantación y de obra militar sostenidos por mano de obra [[salvajes|salvaje]] capturada, muy por encima —en número y en dureza— de [[campos-de-reeducacion|Los Campos de Dársena]].
 
+En números gruesos, esta población esclava es el **grueso de los ~5 000 000 de habitantes de la periferia cordobesa** —el cinturón rural, militar y de reeducación que, sumado a los **25 000 000** de la ciudad propiamente dicha, completa los **treinta millones** del territorio (ver el reparto en [[cordoba|Córdoba]])—. El canon no fija un desglose fino entre peonaje rural, guarnición del perímetro y esclavos de los campos: los tres flujos se confunden en el mismo cinturón, y la mano de obra salvaje es, con holgura, el más numeroso.
+
 ## La denuncia
 
 La **dureza de algunos de estos campos fue denunciada recientemente**, y esa denuncia fue la chispa del **[[2178-el-escandalo-de-cordoba|escándalo de Córdoba de 2178]]**: detrás del trabajo esclavo asomaron una corrupción sin precedente y vínculos oscuros —entre ellos, sectas demonólogas— que alcanzaron al propio gobernador militar, el [[teniente-coronel-gobernador|Coronel Santiago Mendoza]].
