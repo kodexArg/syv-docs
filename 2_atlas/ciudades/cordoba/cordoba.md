@@ -27,6 +27,15 @@ Fundada sobre tres dogmas tras el colapso de 2030: orden, producción, autosufic
 
 Treinta millones de almas estratificadas en cinco castas, sostenidas sobre trabajo forzado invisible desde la comodidad de la clase trabajadora urbana. Sede de todo el alto mando del Ejército y la Fuerza Aérea de la Confederación.
 
+## El territorio: la ciudad y su cinturón
+
+Las **treinta millones de almas** de Córdoba no se apiñan todas dentro de la mancha urbana: la cifra canónica es la del **territorio entero**, ciudad y periferia sumadas. El reparto —espejo del que Dársena documenta para su propio cinturón (ver «El territorio: la ciudad y su cinturón» en [[darsena|Ciudad Dársena]])— es:
+
+-   **25 000 000** — la **ciudad propiamente dicha**: la megalópolis de factorías, tranvías y bloques residenciales. Es la cifra que mide el mapa interactivo (`syv-map`) cuando rotula Córdoba.
+-   **5 000 000** — la **periferia** que la rodea y la sostiene: la población rural, las guarniciones militares del perímetro fortificado y, sobre todo, los explotados de los [[campos-de-reeducacion-cordoba|Campos de Reeducación]] tendidos al norte y al sur. Es el cinturón que alimenta y amuralla a la ciudad sin habitarla.
+
+No hay contradicción entre los treinta millones de la prosa y los veinticinco del mapa: **el mapa cuenta la ciudad; la prosa, el territorio.** La diferencia —esos cinco millones— es el cinturón.
+
 ## Lugares
 
 - [[capital]] — la ciudad misma; historia, gobierno, demografía y estructura de clases
