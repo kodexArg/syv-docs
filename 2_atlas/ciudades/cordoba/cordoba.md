@@ -18,6 +18,7 @@ related:
 ubicaciones:
   - "[[capital]]"
   - "[[universidad-nacional-cordoba]]"
+  - "[[campos-de-reeducacion-cordoba]]"
 ---
 
 Córdoba es gigante continental. Su influencia industrial rivaliza con el poder naval de Ciudad Dársena: donde Dársena reza bajo campanas de la Curia, Córdoba fabrica bajo sirenas de fábrica. Ambas potencias se equilibran como dos órganos de un mismo cuerpo enfermo — una respira fe, la otra suda acero.
