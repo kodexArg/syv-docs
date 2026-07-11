@@ -18,7 +18,7 @@ tags: []
 ---
 ## El Fin de los Secretos (7 de abril de 2048)
 
-> _Hito del Dominio Algorítmico — el día en que murió la privacidad. Materia reservada bajo sigilo: reconstruida de fragmentos consultados bajo licencia de la Sagrada Inquisición. No todo lo aquí asentado es de conocimiento común, y algunas líneas no deberían salir nunca de este Archivo._
+> _Hito del Dominio Algorítmico — el día en que murió la privacidad. Materia reservada bajo sigilo: reconstruida de fragmentos consultados bajo licencia de la Santa Inquisición. No todo lo aquí asentado es de conocimiento común, y algunas líneas no deberían salir nunca de este Archivo._
 >
 > _Confieso que este capítulo lo escribí con la puerta de mi celda trabada y la vela apagada apenas terminé cada página. No por miedo a las máquinas, que ya callaron, sino por lo que aprendí leyéndolo: que hubo un día —uno solo, una mañana de abril— en que todo secreto que un hombre hubiera confiado a la luz fue arrancado y exhibido. Yo, que vivo de guardar lo que otros quieren olvidar, no puedo imaginar horror peor que ese. Escribo esto, además, sabiendo lo que casi nadie sabe; y eso me pesa como una piedra en el pecho._
 > **—Hermano Archivista Pedro de los Santos. Encarado en el Archivo de Dársena, en las vigilias selladas del otoño del Año del Señor de dos mil ciento setenta y siete, a puerta trabada.**
