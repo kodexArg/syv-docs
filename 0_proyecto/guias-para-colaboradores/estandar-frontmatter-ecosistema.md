@@ -27,7 +27,7 @@ Auditado (jul 2026): fuera de `syv-docs`, el frontmatter rico o lo consume códi
 
 | Clase | Dónde | Quién gobierna su schema | Reglas de lore |
 |---|---|---|---|
-| **Vault de lore** | `syv-docs` | [[0_proyecto/guias-para-colaboradores/glosario-de-tags\|Glosario de Tags]] + [[0_proyecto/guias-para-colaboradores/guia-de-metadatos\|Metadatos]] | ✅ completas |
+| **Vault de lore** | `syv-docs` | [[0_proyecto/guias-para-colaboradores/glosario-de-tags]] · [[0_proyecto/guias-para-colaboradores/guia-de-metadatos]] | ✅ completas |
 | **Vault human/agente** | docs a mano de `syv-image-generation` | este estándar (baseline) | ◐ solo baseline |
 | **Contrato de datos** | `syv-pj` | su `MODEL.md` · `API.md` · `hoja-personaje.md` + tests | ⛔ exento |
 | **Spec de skills/agentes** | `syv-harness` | spec de skills de Claude Code (`name`/`model`/`tools`/`effort`) | ⛔ exento |
