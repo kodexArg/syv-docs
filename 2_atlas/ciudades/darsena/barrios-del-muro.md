@@ -104,7 +104,7 @@ Las **bandas de tuberías** operan en otro registro. No administran edificios; a
 
 Contrabando que sube desde Las Tuberías hacia los mercados informales de superficie. Contrabando que baja desde los Barrios del Muro hacia el Bazar del Muro en la DMZ. Contrabando que cruza horizontal por los sótanos, por los ductos de ventilación, por los túneles que conectan manzanas enteras sin salir a la calle.
 
-Seguridad Nacional sabe que existen. La Sagrada Inquisición Argentina tiene fichados a los líderes. Pero intervenir significaría desestabilizar un sistema que, aunque ilegal, mantiene funcionando la economía de nueve millones trescientas setenta y cinco mil personas. Mientras las bandas no muevan drogas pesadas o armas de fuego, mientras no desafíen abiertamente la autoridad de la Curia, mientras paguen su "diezmo" a los obispos locales, se las tolera.
+Seguridad Nacional sabe que existen. La Santa Inquisición Argentina tiene fichados a los líderes. Pero intervenir significaría desestabilizar un sistema que, aunque ilegal, mantiene funcionando la economía de nueve millones trescientas setenta y cinco mil personas. Mientras las bandas no muevan drogas pesadas o armas de fuego, mientras no desafíen abiertamente la autoridad de la Curia, mientras paguen su "diezmo" a los obispos locales, se las tolera.
 
 Es el mismo cálculo que hace la Iglesia con los punteros: mejor un orden informal que funcione que un caos formal que colapse.
 
