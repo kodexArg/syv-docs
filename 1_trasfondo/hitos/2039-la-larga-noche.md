@@ -108,7 +108,7 @@ Los rumores hablan de guerras tribales, de ciudades fortificadas, de gobiernos q
 
 ### Sobre Asia, China, Japón y Nuestros Hermanos Orientales
 
-Debo pedir disculpas por la falta de precisión. Los textos recuperados sobre el destino de esas naciones —archivos recuperados de medios supervivientes, principalmente M-DISC y algunos discos duros— esperan la revisión de la Sagrada Inquisición Argentina.
+Debo pedir disculpas por la falta de precisión. Los textos recuperados sobre el destino de esas naciones —archivos recuperados de medios supervivientes, principalmente M-DISC y algunos discos duros— esperan la revisión de la Santa Inquisición Argentina.
 
 La Reverenda Madre Superiora me ha asegurado personalmente que la revisión no pasará de estas fiestas de Navidad. Aunque —confieso con pena— llevamos esperando desde hace tres años.
 
