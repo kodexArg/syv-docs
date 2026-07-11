@@ -1,7 +1,7 @@
 ---
 title: SIA
 folder: 1_trasfondo/facciones/iglesia-de-darsena
-description: Sagrada Inquisición Argentina, Cirujanos del Alma, herejía y saberes prohibidos.
+description: Santa Inquisición Argentina, Cirujanos del Alma, herejía y saberes prohibidos.
 entidad: faccion
 alcance: secreto
 estado: canon
