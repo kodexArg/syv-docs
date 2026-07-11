@@ -287,7 +287,7 @@ América se fragmentó por dentro. Naciones divididas en bandos internos, fronte
 
 "Sobre Europa": Los rumores hablan de guerras tribales, gobiernos que se descomponían, ciudades que ardían. Pero debo confesar mi ignorancia: los textos recuperados son fragmentarios, contradictorios. Imágenes borrosas muestran Londres en llamas, París convertida en fortaleza amurallada, Berlín dividida nuevamente —esta vez no por ideologías, sino por supervivencia. Pero no puedo jurar que sean verdad. La distancia y el tiempo convierten la historia en mitología.
 
-Sobre Asia, China, Japón y nuestros hermanos del Lejano Oriente: Debo pedir disculpas a quien lee estas líneas por la falta de precisión. Los textos recuperados sobre el destino de esas nobles naciones esperan la revisión de la Sagrada Inquisición Argentina. La Reverenda Madre Superiora me ha asegurado personalmente que la revisión no pasará de estas fiestas de Navidad, aunque —confieso con pena— llevamos esperando desde hace tres años. Pido indulgencia. La Inquisición tiene sus razones, que no me atrevo a cuestionar.
+Sobre Asia, China, Japón y nuestros hermanos del Lejano Oriente: Debo pedir disculpas a quien lee estas líneas por la falta de precisión. Los textos recuperados sobre el destino de esas nobles naciones esperan la revisión de la Santa Inquisición Argentina. La Reverenda Madre Superiora me ha asegurado personalmente que la revisión no pasará de estas fiestas de Navidad, aunque —confieso con pena— llevamos esperando desde hace tres años. Pido indulgencia. La Inquisición tiene sus razones, que no me atrevo a cuestionar.
 
 "Sobre Rusia": Misma excusa, mismo dolor.
 
