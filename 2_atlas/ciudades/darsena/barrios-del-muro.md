@@ -224,7 +224,7 @@ La Guardia de Dársena interviene solo cuando hay disparos. El resto del tiempo,
 
 La **Resistencia Subterránea** usa el Bazar como punto de reclutamiento. Pasquines impresos en prensas de tipos móviles circulan entre los puestos, anunciando reuniones clandestinas, llamando a la insurrección, prometiendo un futuro sin el Anatema.
 
-La Sagrada Inquisición Argentina manda infiltrados. Los infiltrados son identificados y ejecutados con una eficiencia que sugiere que alguien dentro de Seguridad Nacional filtra información.
+La Santa Inquisición Argentina manda infiltrados. Los infiltrados son identificados y ejecutados con una eficiencia que sugiere que alguien dentro de Seguridad Nacional filtra información.
 
 ### Las Tuberías
 
