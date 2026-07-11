@@ -67,11 +67,11 @@ Su vista ya se ha adaptado, y aprecia cómo el interior del Faro comienza a ilum
 
 Lo cierto es que aquí, el amanecer se parece más a un cielo estrellado. Mientras el resplandor ahora baja, balcón por balcón, hasta ella.
 
-Sofía recuerda ahora, mientras atrapa su otro brazo, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascención, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra <mark style="background: #FFF3A3A6;">como el opuesto a la entrada al infierno</mark>.
+Sofía recuerda ahora, mientras atrapa su otro brazo, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascención, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra como el reverso de aquella otra que mandaba abandonar toda esperanza a quien entrara.
 
 Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó. 
 
-Llevada a la roca, la idea del arquitecto nunca quedó clara. <mark style="background: #FFF3A3A6;">O quizá fue la erosion de la censura, que se llevó algunas buenas estatuas.</mark> Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
+Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la erosión de la censura, que se llevó las mejores estatuas. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
 
 Sofía se preguntaba si el Gaudí de dos siglos y medio atras habría sido igual de desconsiderado.
 
@@ -127,7 +127,7 @@ El nombre cae entre los dos como cae un edicto: sin eco, definitivo. [[3_persona
 
 —¿Y yo qué tengo que ver?
 
-—Vos lo recibís. Escolta oficial de la Sagrada Inquisición Argentina, de la pista de aterrizaje en adelante. —El Padre deja que eso se asiente, con la misma paciencia con que la niebla se asienta sobre el pasto—. La Reverenda Madre ya dio su venia. —Una pausa del tamaño exacto de la palabra que sigue—. Trabajo de campo, Hermana.
+—Vos lo recibís. Escolta oficial de la Santa Inquisición Argentina, de la pista de aterrizaje en adelante. —El Padre deja que eso se asiente, con la misma paciencia con que la niebla se asienta sobre el pasto—. La Reverenda Madre ya dio su venia. —Una pausa del tamaño exacto de la palabra que sigue—. Trabajo de campo, Hermana.
 
 El músculo de la pantorrilla, el que había quedado en guardia desde el frenazo, se afloja solo.
 
