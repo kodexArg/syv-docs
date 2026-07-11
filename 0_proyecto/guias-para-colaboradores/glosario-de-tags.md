@@ -69,3 +69,13 @@ alcance: secreto
 estado: canon
 tags: []        # vivero, normalmente vacío tras migrar
 ```
+
+## Nomenclatura canónica
+
+Grafías oficiales fijadas por decisión editorial. La **forma canónica** es la que va en prosa, `description` y display-links; las **variantes permitidas** viven solo en `aliases` de la ficha y siguen siendo válidas como sinónimos.
+
+| Entidad | Forma canónica | Variantes permitidas (solo `aliases`) |
+|---|---|---|
+| [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion\|Santa Inquisición Argentina]] | **Santa Inquisición Argentina (SIA)** · cortas: «la SIA», «la Santa Inquisición», «la Inquisición» | «Sagrada Inquisición Argentina» |
+
+Razón: «Santo/Santa» es el adjetivo institucional de la tradición católica hispana (Santo Oficio, Santa Sede) y es la forma que instituye la [[1_trasfondo/codex/constitucion-argentina\|Constitución]] en su Ley V; «Sagrada» corresponde al registro curial romano (*Sacra Congregatio*) y queda como variante registrada, no como forma por defecto.
