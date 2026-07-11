@@ -123,7 +123,7 @@ Los **Arpistas** operan con una jerarquía eclesiástica tradicional adaptada a 
 
 Los **Arpistas** poseen un asiento permanente en la **Mesa de los 12**, consejo asesor secreto del Sumo Pontífice compuesto por:
 - 4 representantes de la alta jerarquía eclesiástica
-- 1 representante de la **SIA** (Sagrada Inquisición Argentina)
+- 1 representante de la **SIA** (Santa Inquisición Argentina)
 - 1 representante de los **Exorcistas**
 - 1 representante de los **Arpistas** (el Archivista Primado)
 - 1 representante del **Dicasterio para el Desarrollo Humano Integral** (salud pública y caridad)
