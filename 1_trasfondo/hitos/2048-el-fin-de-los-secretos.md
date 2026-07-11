@@ -24,7 +24,7 @@ tags: []
 > **—Hermano Archivista Pedro de los Santos. Encarado en el Archivo de Dársena, en las vigilias selladas del otoño del Año del Señor de dos mil ciento setenta y siete, a puerta trabada.**
 
 > [!warning] Materia reservada
-> Buena parte de lo que sigue procede de fragmentos consultados bajo licencia de la Sagrada Inquisición. No todo lo que aquí dejo asentado es de conocimiento común, y algunas líneas no deberían salir nunca de este Archivo.
+> Buena parte de lo que sigue procede de fragmentos consultados bajo licencia de la Santa Inquisición. No todo lo que aquí dejo asentado es de conocimiento común, y algunas líneas no deberían salir nunca de este Archivo.
 
 El 7 de abril de 2048, a las 11:47 UTC, las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]] completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
