@@ -40,7 +40,7 @@ La Iglesia oficial las tolera porque son extensión práctica de su poder donde 
 - Capillas improvisadas en galpones, sótanos, patios
 - Red de centros de salud comunitarios financiados por limosnas
 
-## Orden de la Sagrada Inquisición Argentina (SIA)
+## Orden de la Santa Inquisición Argentina (SIA)
 
 **Tipo:** Orden militar-religiosa interna
 **Relación con la Iglesia:** Es la Iglesia (brazo ejecutor)
