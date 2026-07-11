@@ -185,7 +185,7 @@ Este es el primer relato de SyV. El lector llega sin contexto. Los siguientes co
 
 1. **"El Mar"**: Los habitantes de Dársena llaman "el Mar" al Río de la Plata. El narrador (focalizado en Sofía) usa siempre "el Mar". *(Introducido en P1.)*
 2. **El Edicto de Pureza del Faro**: La prohibición de electricidad en un radio de 100 metros del Faro. La frontera entre lo eléctrico y lo sagrado. *(Introducido en P4, a través del tranvía.)*
-3. **El Faro de la SIA**: No es solo un faro — es la sede de la Sagrada Inquisición Argentina. Su naturaleza se comunica a través de la reacción de los pasajeros del tranvía. *(Introducido en P4.)*
+3. **El Faro de la SIA**: No es solo un faro — es la sede de la Santa Inquisición Argentina. Su naturaleza se comunica a través de la reacción de los pasajeros del tranvía. *(Introducido en P4.)*
 4. **Hermanas de Batalla**: Brazo de guerra de la Inquisición. Sofía es una de ellas; su cuerpo y disciplina lo comunican antes que cualquier etiqueta. *(Introducido en P6.)*
 5. **El sistema de Iniciados**: Los niños entran al Faro a los 8 años. Se menciona al contextualizar la historia de Sofía. *(Introducido en P6.)*
 6. **La niebla perpetua**: Elemento atmosférico definitorio de Dársena. Distinción neblina (agua, ligera) → niebla (tierra, densa). *(Introducido en P1.)*
