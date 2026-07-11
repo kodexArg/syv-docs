@@ -275,5 +275,5 @@ Existe debate científico no resuelto sobre el mecanismo exacto de funcionamient
 ## Referencias Cruzadas
 
 - [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] - Usuarios principales
-- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] - Usuarios institucionales
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] - Usuarios institucionales
 - [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] - Contexto legal de artefactos
