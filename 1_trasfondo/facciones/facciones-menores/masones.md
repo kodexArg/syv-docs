@@ -36,7 +36,7 @@ El hermetismo es extremo. No se puede contactar a un Masón; solo atraer su aten
 
 ## Relaciones con Otras Facciones
 
-La Sagrada Inquisición Argentina (SIA)[^sia] los persigue como sociedad herética. Si los agarra, no hay santo. Sótano de la Prefectura. Para sobrevivir, muchos se infiltran en otras facciones. Los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]][^arpistas]—con quienes comparten afinidad filosófica en la preservación cultural—son aliados naturales pero distantes. Colaboran pasándose microfilms en sobres que huelen a cera de velas eléctricas. [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]][^guardianes], [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]], funcionarios menores de la Curia: la red es invisible porque está dispersa, fragmentada, encriptada en gestos.
+La Santa Inquisición Argentina (SIA)[^sia] los persigue como sociedad herética. Si los agarra, no hay santo. Sótano de la Prefectura. Para sobrevivir, muchos se infiltran en otras facciones. Los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]][^arpistas]—con quienes comparten afinidad filosófica en la preservación cultural—son aliados naturales pero distantes. Colaboran pasándose microfilms en sobres que huelen a cera de velas eléctricas. [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]][^guardianes], [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]], funcionarios menores de la Curia: la red es invisible porque está dispersa, fragmentada, encriptada en gestos.
 
 ## Archivos y Ubicaciones Secretas
 
