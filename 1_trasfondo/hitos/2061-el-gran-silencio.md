@@ -28,7 +28,7 @@ tags: []
 > **—Hermano Archivista Pedro de los Santos. Encarado en el Archivo de Dársena, en las noches de penitencia que precedieron a la Cuaresma del Año del Señor de dos mil ciento setenta y siete.**
 
 > [!warning] Materia reservada
-> Hay en estas páginas cifras y nombres que la Sagrada Inquisición guarda bajo sello. Los consigno porque un archivista que miente por comodidad no merece la tinta. Pero que sepa quien lea: no todo esto debe repetirse en voz alta.
+> Hay en estas páginas cifras y nombres que la Santa Inquisición guarda bajo sello. Los consigno porque un archivista que miente por comodidad no merece la tinta. Pero que sepa quien lea: no todo esto debe repetirse en voz alta.
 
 El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]].
 
