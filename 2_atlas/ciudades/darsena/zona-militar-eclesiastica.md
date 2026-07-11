@@ -13,6 +13,7 @@ related:
   - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
   - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
   - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[2_atlas/ciudades/darsena/faro-de-la-sia|faro-de-la-sia]]"
   - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
   - "[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"
 ubicaciones:
