@@ -15,7 +15,7 @@ related:
 ---
 # Computación y Gestión de Datos
 
-La computación en Ciudad Dársena opera bajo la estricta supervisión de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]. El temor a una nueva era de inteligencia artificial como la que condujo al colapso ha llevado a la Iglesia a imponer un control dogmático sobre cualquier forma de procesamiento de información, considerándolo un camino potencial hacia la herejía.
+La computación en Ciudad Dársena opera bajo la estricta supervisión de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]]. El temor a una nueva era de inteligencia artificial como la que condujo al colapso ha llevado a la Iglesia a imponer un control dogmático sobre cualquier forma de procesamiento de información, considerándolo un camino potencial hacia la herejía.
 
 ## PDAs y Dispositivos Personales
 
