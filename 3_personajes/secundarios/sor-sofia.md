@@ -31,7 +31,7 @@ Una guerrera monacal cuyo cuerpo y espíritu son un solo acto de disciplina.
 
 ### Rol y Posición
 
-Sor Sofía pertenece a las Hermanas de Batalla de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]], un brazo de guerra del clero entrenado para neutralizar amenazas paranormales y herejía armada. Bajo el mando directo de [[3_personajes/principales/madre-superiora-maria|Madre Superiora María]], ejecuta órdenes que van desde seguridad del Faro hasta operaciones encubiertas en Ciudad Dársena. Su reputación entre las iniciadas es de precisión absoluta: no comete errores.
+Sor Sofía pertenece a las Hermanas de Batalla de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]], un brazo de guerra del clero entrenado para neutralizar amenazas paranormales y herejía armada. Bajo el mando directo de [[3_personajes/principales/madre-superiora-maria|Madre Superiora María]], ejecuta órdenes que van desde seguridad del Faro hasta operaciones encubiertas en Ciudad Dársena. Su reputación entre las iniciadas es de precisión absoluta: no comete errores.
 
 ### Personalidad
 
