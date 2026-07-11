@@ -143,7 +143,7 @@ El jardín respira. La niebla pasa entre ellos dos como un río lento.
 
 Sofía mira el cuadrado de papel sobre su rodilla. Después mira al Padre Rafa, que ya se está poniendo de pie. Se sacude el pasto de los pantalones con un gesto que en otro hombre sería descuido y en él es liturgia: cada movimiento tiene el peso de algo ensayado mil veces y desechado mil veces hasta que parece casual. Se acomoda el sombrero. El ala le corta la cara por la mitad.
 
-—Voy a subir —dice, y señala el Faro con la barbilla. No dice *a ver a la Madre Superiora*. No dice *a hablar con María*. Señala, y el gesto alcanza. Sofía sabe lo que significa. Rafa va a entrar en el Faro sin anunciarse, sin custodia, sin que nadie le pida explicaciones. Un hombre vestido como para ir al mercado, caminando por los pasillos subterráneos de la Sagrada Inquisición Argentina como si fueran el patio de su casa.
+—Voy a subir —dice, y señala el Faro con la barbilla. No dice *a ver a la Madre Superiora*. No dice *a hablar con María*. Señala, y el gesto alcanza. Sofía sabe lo que significa. Rafa va a entrar en el Faro sin anunciarse, sin custodia, sin que nadie le pida explicaciones. Un hombre vestido como para ir al mercado, caminando por los pasillos subterráneos de la Santa Inquisición Argentina como si fueran el patio de su casa.
 
 —Cuando termines —dice Rafa, y no termina la frase. Le sostiene la mirada un segundo más de lo necesario. Después se da vuelta y camina hacia el basamento.
 
