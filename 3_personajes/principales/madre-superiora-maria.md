@@ -80,7 +80,7 @@ Lo que quedó de esa purga —un puñado de personas que se deben todo entre sí
 Fue ese episodio de frialdad calculada —la disolución de la orden sin levantar sospechas— más el exorcismo que salió mal, lo que llamó la atención de la jerarquía eclesiástica y aceleró su nombramiento como Directora del Faro.
 <!-- /🔐 -->
 
-<!-- 🔐 (Sagrada Inquisición Argentina) -->
+<!-- 🔐 (Santa Inquisición Argentina) -->
 Hace años, cuando todavía patrullaba los túneles inundados como hermana activa, María tuvo un encuentro directo con una entidad demoníaca durante un exorcismo que salió terriblemente mal. Aunque sobrevivió, la experiencia la marcó de un modo que ninguna formación espiritual podía anticipar. El recuerdo de esos ojos que la miraron desde el rostro de una niña inocente la persigue en sus noches de insomnio.
 
 Lo que pocos saben es que durante ese encuentro el demonio le susurró algo que no debería poder saber: su nombre verdadero. María teme que ese conocimiento la haya marcado de alguna forma, que exista un vínculo invisible entre ella y aquella entidad. Es por eso que su celo — en la Inquisición, en el sistema de Iniciados — nunca cesa: busca destruir a ese demonio antes de que él regrese por ella.
