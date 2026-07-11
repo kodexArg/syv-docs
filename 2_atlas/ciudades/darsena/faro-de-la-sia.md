@@ -3,6 +3,7 @@ alcance: publico
 aliases:
 - Faro de la SIA
 - El Faro
+- Faro de la Santa Inquisición Argentina
 - Faro de la Sagrada Inquisición Argentina
 - Faro de la Inquisición
 - Torre del Faro
