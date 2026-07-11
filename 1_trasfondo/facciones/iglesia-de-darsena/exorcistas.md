@@ -27,7 +27,7 @@ spoilers:
   - "Existen tratados en el Archivo Secreto sobre cómo contactar entidades específicas."
   - "Algunos casos de posesión no son causados por demonios cristianos sino por entidades pre-cristianas."
 ---
-Rama especializada de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]] dedicada al combate de posesiones demoníacas y fenómenos sobrenaturales. A diferencia de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] (que persigue herejía tecnológica), los Exorcistas se dedican a conflictos contra entidades no-humanas.
+Rama especializada de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]] dedicada al combate de posesiones demoníacas y fenómenos sobrenaturales. A diferencia de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] (que persigue herejía tecnológica), los Exorcistas se dedican a conflictos contra entidades no-humanas.
 
 ## Descripción General
 
