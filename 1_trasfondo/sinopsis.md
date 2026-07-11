@@ -170,7 +170,7 @@ El Sumo Pontífice es la voz de Dios en la Tierra.
 
 La doctrina es clara: la tecnología digital es pecado original renovado, el Anatema es sacramento de supervivencia.
 
-**[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Sagrada Inquisición Argentina (SIA)]]** caza herejía con bisturí y martillo.
+**[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Santa Inquisición Argentina (SIA)]]** caza herejía con bisturí y martillo.
 
 Dirigida por el implacable [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]], los Cirujanos del Alma investigan, interrogan, purifican.
 
