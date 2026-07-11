@@ -49,7 +49,7 @@ Y de aquel pozo humeante, por uno de esos designios que el Archivista aprende a 
 - [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Las QIA y el Nodo Sur]]
 - [[2_atlas/climas/clima-2178|El Clima de 2178 y la Nube Roja]]
 - [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]
-- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]
 - [[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Los Cruzados Argentinos]]
 - [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]
 
