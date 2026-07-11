@@ -8,7 +8,7 @@ description: Capítulo tres de El Caso del Archivista — prosa. El caso se pres
 entidad: relato
 estado: borrador
 facciones:
-- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición]]'
 folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
