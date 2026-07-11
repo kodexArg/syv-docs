@@ -446,5 +446,5 @@ Cada uno de estos nodos concentra potencia suficiente para atraer tanto al contr
 - [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina (PIA)]] - Consumo energético en Torres
 - [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos]] - Tecnología militar alternativa
 - [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]] - Supervisión del Ministerio
-- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] - Vigilancia de anomalías
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] - Vigilancia de anomalías
 - [[2_atlas/tecnologia-y-ciencia/baterias|Baterías]] - Acumulación prohibida de energía, contrabando y vehículos eléctricos
