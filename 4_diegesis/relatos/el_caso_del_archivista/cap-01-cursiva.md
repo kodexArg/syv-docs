@@ -69,7 +69,7 @@ La reciben la penumbra y el olor a resina. Sofía corre primero: el circuito de 
 
 El frío, la neblina que le lame los brazos: una remera negra sin mangas y unas calzas gruesas; la primera piel, doblada sobre el respaldo. Deja las zapatillas junto al banco. Apoya el talón en el respaldo y se abre la cadera, despacio, con la paciencia de quien le exige a su cuerpo el diezmo cada mañana. Los ojos grises esperan el horizonte, la niebla, el primer rayo. Una hija de la Sagrada Inquisición Argentina se prepara para recibir el amanecer.
 
-El sol florece, danzando con su reflejo en el Río de la Plata. Baila tras la neblina mientras todo se tiñe de naranja. El Faro de la Inquisición es siempre el que recibe los primeros rayos, brillantes en su inaccesible torre. Luego los árboles de la Isla Oriental, los pinos, los únicos a la redonda. A miles de kilómetros a la redonda.
+El sol florece, danzando con su reflejo en el Río de la Plata. Baila tras la neblina mientras todo se tiñe de naranja. El Faro de la Inquisición es siempre el que recibe los primeros rayos, brillantes en su inaccesible torre. Luego los árboles de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], los pinos, los únicos a la redonda. A miles de kilómetros a la redonda.
 
 Aquí es cuando la neblina gana cuerpo, se espesa entre los árboles, lame al césped y a la hojarasca, demasiado húmeda para crujir, y corre por sendas que miles de eclesiásticos gastaron antes. Sobre el final, al oriente, la niebla esquiva las raíces de los últimos tilos formando pequeños torbellinos, justo antes de caer en cascada humeante sobre la arena y los juncos bajo el acantilado. Y ni siquiera ahí se detiene la niebla infinita, que seguirá su camino por el río oscuro y más allá, hacia el mar.
 
