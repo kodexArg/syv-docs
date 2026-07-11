@@ -103,7 +103,7 @@ En las mañanas de verano, Sofía corre bordeando la costa sur, llenando sus pul
 ### Geografía
 ✓ **Ciudad Dársena** - Ubicación principal de la Confederación
 ✓ **Isla Oriental** - Zona Militar y Eclesiástica (confirmada en `2_atlas/ciudades/darsena/zona-militar-eclesiastica.md`)
-✓ **Faro de la SIA** - Sede de la Sagrada Inquisición Argentina (confirmada en canon)
+✓ **Faro de la SIA** - Sede de la Santa Inquisición Argentina (confirmada en canon)
 ✓ **Jardines de la Isla Oriental** - Área verde cercana al Faro, con vías de tranvía
 ✓ **Basílica de San Pedro** - Separada del Faro por un bosque, accesible por senda
 
