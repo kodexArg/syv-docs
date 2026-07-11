@@ -7,7 +7,7 @@ aliases:
 - Faro de la Sagrada Inquisición Argentina
 - Faro de la Inquisición
 - Torre del Faro
-description: 'Sede de la Sagrada Inquisición Argentina en la Isla Oriental: colmena
+description: 'Sede de la Santa Inquisición Argentina en la Isla Oriental: colmena
   catenaria de nueve pisos enterrada alrededor de un patio oval, bajo una plataforma
   ciega de la que emerge la torre-faro monolítica blanca donde vive confinada la Reverenda
   Madre, tras la Puerta de Piedra.'
