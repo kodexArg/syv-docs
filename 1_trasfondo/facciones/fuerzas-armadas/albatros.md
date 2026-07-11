@@ -17,6 +17,7 @@ related:
 - '[[villa-de-los-oficiales]]'
 - '[[santa-sede]]'
 - '[[zona-militar-eclesiastica]]'
+- '[[vestimenta]]'
 tags: []
 title: Albatros
 ubicaciones:
