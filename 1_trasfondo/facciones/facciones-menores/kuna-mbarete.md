@@ -124,7 +124,7 @@ Y así surgieron de entre las sombras del Amazonas, reptando por el Paraguay y e
 
 Para ellas, un demonio surgido de las grietas de la realidad y una máquina compleja de la Era del Óxido son idénticos en su abominación; ambos son cáscaras vacías que insultan a la vida.
 
-Se consideran a sí mismas las verdaderas guardianas de la tierra y del Amazonas, protectoras de lo sagrado frente a la corrupción. En la metrópolis de Ciudad Dársena se mueven como visitantes silenciosas en territorio hostil; sombras que cruzan el hormigón para cazar. Lejos de ser una leyenda urbana o un cuento de viejas para asustar niños en los Barrios del Muro, esta es una hermandad antigua, silenciosa y letal que opera bajo las narices de la Sagrada Inquisición Argentina (SIA)[^sia] y las Fuerzas Armadas, invisible para quienes no saben mirar, pero implacable con aquellos que cruzan la línea.
+Se consideran a sí mismas las verdaderas guardianas de la tierra y del Amazonas, protectoras de lo sagrado frente a la corrupción. En la metrópolis de Ciudad Dársena se mueven como visitantes silenciosas en territorio hostil; sombras que cruzan el hormigón para cazar. Lejos de ser una leyenda urbana o un cuento de viejas para asustar niños en los Barrios del Muro, esta es una hermandad antigua, silenciosa y letal que opera bajo las narices de la Santa Inquisición Argentina (SIA)[^sia] y las Fuerzas Armadas, invisible para quienes no saben mirar, pero implacable con aquellos que cruzan la línea.
 
 ## Identificación Básica
 
