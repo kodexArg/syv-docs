@@ -103,7 +103,7 @@ Este acto cumple múltiples funciones doctrinales:
 
 #### La Guerra Perpetua: Indiferencia a los Imperios Pasajeros
 
-Las Kuña Mbareté son indiferentes a las vicisitudes de la Confederación Argentina. No reconocen fronteras, gobiernos ni autoridades temporales. Para ellas, la Sagrada Inquisición, las Fuerzas Armadas y la DNS son manifestaciones contemporáneas del mismo Ména que ejecutó a Arapy: estructuras de poder que pretenden la propiedad del alma.
+Las Kuña Mbareté son indiferentes a las vicisitudes de la Confederación Argentina. No reconocen fronteras, gobiernos ni autoridades temporales. Para ellas, la Santa Inquisición, las Fuerzas Armadas y la DNS son manifestaciones contemporáneas del mismo Ména que ejecutó a Arapy: estructuras de poder que pretenden la propiedad del alma.
 
 Su propósito es singular e invariable a través de los siglos: la extirpación de la máquina, esa forma moderna del Ména que pretende esclavizar el espíritu. No luchan por territorio, ni por justicia social, ni por libertad política. Luchan por la preservación del teko, el equilibrio ancestral que los *Ñe'ẽ'ỹva* amenazan con su sola existencia.
 
