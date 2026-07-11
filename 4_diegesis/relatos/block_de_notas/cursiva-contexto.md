@@ -210,7 +210,7 @@ Este es el primer relato de SyV. El lector llega sin contexto. Los siguientes co
 - [[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]
 
 **Facciones**:
-- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]
 
 ---
 
