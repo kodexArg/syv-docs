@@ -856,7 +856,7 @@ Rumor entre Maestros de Arpa (no confirmado): Existe un repositorio secreto llam
 
 ### Referencias Cruzadas
 
-[^sia]: Sagrada Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
+[^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
 [^iglesia]: La Iglesia de Dársena
 [^dgapc]: Dirección General de Aduanas y Puertos Consagrados (DGAPC)
 [^prefectura]: Prefectura Naval Argentina
