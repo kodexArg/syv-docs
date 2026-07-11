@@ -87,6 +87,6 @@ Durante el vuelo, Damián repasa mentalmente las pistas. Sabe que la facción ra
 
 ## Arribo en Dársena
 
-El avión aterriza en la pista secundaria de Dársena bajo una lluvia persistente. Damián observa la ciudad a través del vidrio empañado: una metrópolis fortificada, dividida por muros y vigilada por drones pilotados manualmente de la Sagrada Inquisición (pequeñas naves de hélices con pilotos humanos en torres de control). Sabe que, en este lugar, la verdad es aún más peligrosa que en Córdoba.
+El avión aterriza en la pista secundaria de Dársena bajo una lluvia persistente. Damián observa la ciudad a través del vidrio empañado: una metrópolis fortificada, dividida por muros y vigilada por drones pilotados manualmente de la Santa Inquisición (pequeñas naves de hélices con pilotos humanos en torres de control). Sabe que, en este lugar, la verdad es aún más peligrosa que en Córdoba.
 
 Con el impermeable sobre los hombros y la mirada cansada, Damián desciende del avión. Lleva consigo solo una pequeña valija y el peso de una conspiración que podría cambiar el destino de la Confederación. En la distancia, las luces de la ciudad parpadean como advertencias. El Sabueso ha llegado a Dársena, y la caza apenas comienza.
