@@ -22,7 +22,7 @@ El **Procesador de Industria Argentina (PIA)** define el estándar de cómputo p
 
 **Estatus**: Tecnología permitida bajo supervisión eclesiástica (Corpus Licitus, Post-2061)
 
-**Regulación**: Controlada por el Ministerio de Infraestructura y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]
+**Regulación**: Controlada por el Ministerio de Infraestructura y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]]
 
 **Disponibilidad**: Limitada. La mayoría de PIAs operativos pertenecen a la administración pública confederada.
 
