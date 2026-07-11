@@ -221,7 +221,7 @@ El documento fundacional establecía:
 
 - Prohibición total de computación digital y redes de datos
 - Destrucción obligatoria de toda infraestructura de IA
-- Creación de un cuerpo de vigilancia permanente (origen de la Sagrada Inquisición Argentina)
+- Creación de un cuerpo de vigilancia permanente (origen de la Santa Inquisición Argentina)
 - Conversión del cráter de Buenos Aires en zona sagrada bajo custodia eclesiástica
 
 La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por obispos y sacerdotes que habían organizado resistencia comunitaria, proporcionó legitimación espiritual y marco teológico. El Ejército Argentino, reconstruido a partir de milicias provinciales, proporcionó capacidad de imposición y garantía de cumplimiento. La alianza entre ambas instituciones se formalizó ese día, estableciendo el modelo de gobierno teológico-militar que perduraría hasta el presente.
