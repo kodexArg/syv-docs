@@ -160,7 +160,7 @@ La proclamación incluía:
 - Prohibición total y absoluta de la tecnología digital avanzada
 - Destrucción permanente de infraestructura computacional compleja
 - Persecución eterna de cualquier intento de recreación de sistemas IA
-- Establecimiento de la Sagrada Inquisición Argentina como ejecutora
+- Establecimiento de la Santa Inquisición Argentina como ejecutora
 
 La Confederación Argentina lideraba esta convergencia, convirtiéndose en el baluarte máximo del Anatema.
 
