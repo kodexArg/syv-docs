@@ -22,7 +22,7 @@ spoilers:
 ---
 # Saqueadores y Traficantes de Antigüedades
 
-Los "Saqueadores y Traficantes" son una casta de arqueólogos proscritos, aventureros y criminales que viven de desenterrar el pasado. Operan en pequeños grupos autónomos, explorando las ruinas de Ciudad Dársena y sus alrededores en busca de artefactos y tecnología del mundo pre-colapso. Su objetivo es el lucro y, en algunos casos, la investigación personal, en una carrera constante por encontrar tesoros antes de que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia] los encuentre y los destruya.
+Los "Saqueadores y Traficantes" son una casta de arqueólogos proscritos, aventureros y criminales que viven de desenterrar el pasado. Operan en pequeños grupos autónomos, explorando las ruinas de Ciudad Dársena y sus alrededores en busca de artefactos y tecnología del mundo pre-colapso. Su objetivo es el lucro y, en algunos casos, la investigación personal, en una carrera constante por encontrar tesoros antes de que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]][^sia] los encuentre y los destruya.
 
 Su modus operandi es arriesgado y clandestino. Realizan excavaciones ilegales en zonas prohibidas y saquean ruinas olvidadas, para luego vender sus hallazgos en el mercado negro o a coleccionistas privados y facciones tecnófilas como los [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]][^guardianes]. Sus recursos son sus herramientas de excavación, su conocimiento de las zonas en ruinas y su red de contactos en el submundo, que incluye intermediarios y contrabandistas que les ayudan a mover la mercancía.
 
