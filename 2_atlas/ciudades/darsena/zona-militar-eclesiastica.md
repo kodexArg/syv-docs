@@ -81,6 +81,9 @@ Una instalación médica de vanguardia, pero de acceso exclusivo para el persona
 
 ## El Faro de la Sagrada Inquisición Argentina
 
+> [!info] Ficha propia
+> Medidas canónicas, la colmena de celdas, la gran escalera y la vivienda de la Reverenda Madre: [[2_atlas/ciudades/darsena/faro-de-la-sia|Faro de la SIA]].
+
 En el punto más oriental de toda Ciudad Dársena, sobre un peñasco artificial que sobresale al mar, emerge la figura del Faro de la Inquisición.
 
 El Faro se asienta sobre un inmenso bloque cuadrado de aristas rematadas, una plataforma de cemento-plástico de grado militar —poroso, áspero, con la apariencia y el tacto de roca de cantera— que apenas sobresale un par de metros sobre el nivel de la superficie. Es un edificio monolítico, ciego y pesado.
