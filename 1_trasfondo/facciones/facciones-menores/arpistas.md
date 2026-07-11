@@ -432,7 +432,7 @@ Dentro de una Cámara Arpista:
 
 ### Antagonismo Interno: La SIA
 
-**Sagrada Inquisición Argentina (SIA)**[^sia]:
+**Santa Inquisición Argentina (SIA)**[^sia]:
 - **Tipo de relación**: Antagonismo latente bajo el mismo paraguas eclesiástico
 - **Paradoja**: Ambas son instituciones de la Iglesia, pero con filosofías opuestas sobre tecnología
 - **Visión SIA**: Los **Arpistas** son peligrosamente permisivos; estudiar tecnología (incluso neutralizada) es herejía
