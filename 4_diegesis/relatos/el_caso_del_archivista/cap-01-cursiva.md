@@ -57,7 +57,7 @@ Sale de su celda, en el momento en que el temporizador hace un click y la habita
 
 ---
 
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]].
+Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
 
 Es un predio subterráneo ovalado, del tamaño de una cancha de tenis y nueve pisos de alto. Nada se distingue en la penumbra, salvo la neblina que entra como un río fantasmal por la única rampa que desciende desde el este. Sofía atrapa su propio brazo recto y comienza a elongar. Mira enfrente, a la gran escalera, ascendiendo desde la neblina para enroscándose entre pasillos y balcones, serpenteando hacia la cúpula, piso tras piso, en ondas y descansos como la serpiente del génesis, según los caprichos de Gaudí, o mejor dicho los del arquitecto que lo interpretó.
 
@@ -69,7 +69,9 @@ Lo cierto es que aquí, el amanecer se parece más a un cielo estrellado. Mientr
 
 Sofía recuerda ahora, mientras atrapa su otro brazo, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascención, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra <mark style="background: #FFF3A3A6;">como el opuesto a la entrada al infierno</mark>.
 
-Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó. Llevada a la roca, la idea del arquitecto nunca quedó clara. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
+Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó. 
+
+Llevada a la roca, la idea del arquitecto nunca quedó clara. <mark style="background: #FFF3A3A6;">O quizá fue la erosion de la censura, que se llevó algunas buenas estatuas.</mark> Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
 
 Sofía se preguntaba si el Gaudí de dos siglos y medio atras habría sido igual de desconsiderado.
 
