@@ -136,7 +136,7 @@ Seguridad Nacional tiene prioridades más urgentes. La Iglesia oficial mira para
 
 La excepción son los excesos.
 
-Cuando las festividades cruzan líneas que escandalizan incluso a una Iglesia acostumbrada a negociar con el pecado, la Sagrada Inquisición Argentina interviene con precisión quirúrgica. Orgías rituales en las terrazas donde se consumen lianas del pantano —afrodisíacos derivados de plantas emparentadas con la ayahuasca ancestral, que crecen en los pantanos mutados fuera del Muro, tecnobotánica prohibida que la SIA clasifica como "alteración vegetal herética"— son el límite.
+Cuando las festividades cruzan líneas que escandalizan incluso a una Iglesia acostumbrada a negociar con el pecado, la Santa Inquisición Argentina interviene con precisión quirúrgica. Orgías rituales en las terrazas donde se consumen lianas del pantano —afrodisíacos derivados de plantas emparentadas con la ayahuasca ancestral, que crecen en los pantanos mutados fuera del Muro, tecnobotánica prohibida que la SIA clasifica como "alteración vegetal herética"— son el límite.
 
 Ceremonias donde se mezcla sexo, drogas y fervor religioso en proporciones que la Curia considera demoníacas.
 
