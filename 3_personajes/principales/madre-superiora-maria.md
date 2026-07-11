@@ -25,7 +25,7 @@ tags: []
 
 57 años, Torre del Faro (Isla Oriental) / origen: Barrios del Muro y Tuberías
 
-Directora Espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] y alma fundadora de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]
+Directora Espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] y alma fundadora de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]
 
 ## Aspecto
 
