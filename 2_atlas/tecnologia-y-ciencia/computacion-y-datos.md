@@ -43,7 +43,7 @@ Los **PDAs civiles utilizan variantes minimalistas del PIA** con circuitos reduc
 
 **Limitación física crítica**: Cualquier aumento de complejidad implica aumento lineal del tamaño y consumo energético. Un PIA para cálculos complejos puede alcanzar el tamaño de un armario de oficina, haciéndolo impráctica para aplicaciones portátiles.
 
-**Vigilancia**: La **Sagrada Inquisición Argentina** monitorea especialmente las concentraciones de PIAs en infraestructura crítica (Torres Hidropónicas, muelles) mediante detección de anomalías de consumo eléctrico.
+**Vigilancia**: La **Santa Inquisición Argentina** monitorea especialmente las concentraciones de PIAs en infraestructura crítica (Torres Hidropónicas, muelles) mediante detección de anomalías de consumo eléctrico.
 
 Para especificaciones técnicas completas del estándar PIA, incluyendo arquitectura de conmutación por histéresis diferencial, detalles de manufactura y aplicaciones militares, consulte: [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina (PIA)]]
 
