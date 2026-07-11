@@ -49,7 +49,7 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 
 El poder en Dársena se asienta sobre un trípode de facciones dominantes que cooperan y compiten por el control:
 
--   **[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|La Iglesia]]**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
+-   **[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|La Iglesia]]**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Santa Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
 -   **[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]]**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
 -   **[[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]]**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
 
