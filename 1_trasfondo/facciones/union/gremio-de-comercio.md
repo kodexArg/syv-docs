@@ -25,7 +25,7 @@ El "Gremio de Comercio" es una de las facciones más poderosas e influyentes de 
 
 Aunque formalmente es una entidad oficial, el Gremio opera en una zona gris. Sus líderes, un consejo de magnates y representantes de gremios menores, utilizan su inmenso poder económico para influir en la política y asegurar ventajas comerciales. Son expertos en navegar las turbulentas aguas de la burocracia de la Confederación, estableciendo una red de favores y protección con otras facciones. Es el grupo con mayor alcance fuera de los muros de la ciudad, controlando redes comerciales que se extienden a otros territorios.
 
-Su relación con los poderes fácticos es pragmática y tensa. Mientras que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia] los persigue por actividades consideradas heréticas o ilícitas, como el contrabando de artefactos, colaboran con sectores de las [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]][^ffaa] en el tráfico de recursos estratégicos.
+Su relación con los poderes fácticos es pragmática y tensa. Mientras que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]][^sia] los persigue por actividades consideradas heréticas o ilícitas, como el contrabando de artefactos, colaboran con sectores de las [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]][^ffaa] en el tráfico de recursos estratégicos.
 
 ## Identidad
 
