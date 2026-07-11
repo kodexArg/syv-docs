@@ -37,7 +37,7 @@ Un espectro de autoridad que habita el Faro como si fuera el único lugar del mu
 
 ### Rol y Posición
 
-María es la cabeza administrativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
+María es la cabeza administrativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
 
 - Operaciones de todas las Monjas y Hermanas de Batalla en Dársena
 - Administración del Sistema de Iniciados en El Faro (selección, entrenamiento, "derivación")
