@@ -92,7 +92,7 @@ Para posesiones "rebeldes" (entidades que resisten exorcismo estándar):
 - Operan con considerable autonomía en asuntos de posesiones
 - Reportes regulares sobre casos, pero decisiones tácticas son independientes
 
-### Tensión con la Sagrada Inquisición
+### Tensión con la Santa Inquisición
 
 "CONFLICTO CENTRAL": Los Exorcistas compiten con la SIA por jurisdicción en casos ambiguos (¿es posesión demoníaca o herejía tecnológica? ¿o ambas?).
 
