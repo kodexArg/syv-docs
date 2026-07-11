@@ -58,7 +58,7 @@ En los Barrios del Muro, el desaparecimiento de Mateo no es secreto sino maldici
 <!-- 🔐 (Iglesia de Dársena) -->
 El Padre Joaquín ha examinado a Mateo múltiples veces. Sus conclusiones: signos clásicos de posesión demoníaca. Recomendó formalmente un exorcismo por parte de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]]. Luisa rechazó con furia, insistiendo que la fe bastaría. Tres días después, Mateo desapareció.
 <!-- /🔐 -->
-<!-- 🔐☠️ (Sagrada Inquisición Argentina) -->
+<!-- 🔐☠️ (Santa Inquisición Argentina) -->
 Mateo no desapareció: fue colectado. Agentes de la SIA lo tomaron sin autorización materna, clasificándolo como amenaza potencial de herejía demoníaca. El Padre Joaquín conoce esta realidad pero carece del poder para contradecir. Luisa está buscando a su hijo en las calles mientras está siendo "purificado" en instalaciones inquisitoriales. Su desesperación es tanto más trágica porque permanece completamente ignorante.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
