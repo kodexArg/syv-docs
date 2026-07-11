@@ -14,6 +14,7 @@ related:
   - "[[anatema-mecanico]]"
   - "[[hijos-del-pantano]]"
   - "[[peronismo]]"
+  - "[[vestimenta]]"
 ubicaciones:
   - "[[darsena]]"
   - "[[microcentro]]"
