@@ -9,6 +9,7 @@ aliases:
   - SIA
   - Sagrada Inquisición Argentina
   - Santa Inquisición Argentina
+  - Santa Inquisición
   - Los Cirujanos del Alma
 tags: []
 related:
