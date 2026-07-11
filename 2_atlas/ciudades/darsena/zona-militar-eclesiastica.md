@@ -102,7 +102,7 @@ La luz del Faro mismo —la que barre la niebla de Dársena cada noche— funcio
 
 ### Habitantes
 
-El Faro alberga a miles de inquisidores e inquisidoras, pero también a miles de **Iniciados e Iniciadas**: jóvenes que eligen este paso como un voto, una prueba de su fe y convicciones, o por el prestigio que completar la iniciación les representará. Muchos no continuarán en la vía de la Sagrada Inquisición, pero el paso por el Faro los marca para siempre. Quienes prosperan son más que probos.
+El Faro alberga a miles de inquisidores e inquisidoras, pero también a miles de **Iniciados e Iniciadas**: jóvenes que eligen este paso como un voto, una prueba de su fe y convicciones, o por el prestigio que completar la iniciación les representará. Muchos no continuarán en la vía de la Santa Inquisición, pero el paso por el Faro los marca para siempre. Quienes prosperan son más que probos.
 
 Las leyes son distintas dentro del Faro. Una frontera invisible lo separa de la humanidad: un código propio, una jurisdicción que responde directamente a [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]].
 
