@@ -53,6 +53,7 @@ PALETTE: dict[str, tuple[int, int, int]] = {
     "yellow": (0xFF, 0xF3, 0xA3),
     "green": (0xBB, 0xFA, 0xBB),
     "gray": (0xCA, 0xCF, 0xD9),
+    "purple": (0xC0, 0xA0, 0xFF),
 }
 ACTION: dict[str, str] = {
     "red": "rewrite-total",       # rechazo total → reescribir el fragmento
@@ -60,8 +61,9 @@ ACTION: dict[str, str] = {
     "yellow": "refactor-moderate",  # refactor moderado
     "gray": "flow",               # flujo / typo (lo nombra el brace)
     "green": "approve",           # aprobado → solo quitar la marca
+    "purple": "create-event",     # kodex pide creatividad: inventar un evento/arte
 }
-SEVERITY = {"red": 5, "orange": 4, "yellow": 3, "gray": 2, "green": 1}
+SEVERITY = {"purple": 6, "red": 5, "orange": 4, "yellow": 3, "gray": 2, "green": 1}
 DEFAULT_COLOR = "yellow"  # bare/class-only <mark>, no resolvable hex → medium
 
 # Matches ANY closed <mark>, capturing an optional hex from `background:#…`

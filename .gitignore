@@ -17,3 +17,6 @@ _tools/syv-kodex-style/state.json
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# markdown-vault-syv MCP volatile state
+.markdown_vault_mcp/
