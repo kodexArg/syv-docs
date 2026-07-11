@@ -42,7 +42,7 @@ En las calles empedradas del Microcentro, los comerciantes pregonan bajo toldos 
 
 Ciudad Dársena es el corazón de una teocracia militar que emergió de las cenizas de un mundo que se suicidó adorando máquinas. La Confederación Argentina —cinco ciudades unidas por el miedo y la fe— es lo que queda de una nación que alguna vez soñó con grandeza. Córdoba, la ciudad rival del interior, desconfía. Mendoza, refugiada en los valles andinos, observa. San Luis, refundada con sangre y pactos, aguarda. Fuerte San Martín vigila la frontera norte.
 
-Y sobre todos ellos, la Sagrada Inquisición Argentina vela. Los llaman "Los Cirujanos del Alma". Su bisturí corta profundo. La herejía nunca duerme. La herejía tiene nombre: tecnología digital.
+Y sobre todos ellos, la Santa Inquisición Argentina vela. Los llaman "Los Cirujanos del Alma". Su bisturí corta profundo. La herejía nunca duerme. La herejía tiene nombre: tecnología digital.
 
 ## El Anatema Mecánico: La Herida que Salvó al Mundo
 
