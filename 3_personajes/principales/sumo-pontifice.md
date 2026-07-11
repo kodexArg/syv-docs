@@ -48,7 +48,7 @@ Sumo Pontífice, cabeza visible de la [[1_trasfondo/facciones/iglesia-de-darsena
 
 En la práctica:
 
-- Su poder es compartido (e incluso subordinado) al de la **[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]** bajo [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]
+- Su poder es compartido (e incluso subordinado) al de la **[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]** bajo [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]
 - La SIA opera con autonomía casi total, reportando nominalmente al Papado pero actuando independientemente
 - Su verdadera influencia está en diplomacia, legitimación ideológica y la "cara pública" de la Iglesia
 - Monseñor Miguel controla la represión, la violencia, la "mano oscura"
