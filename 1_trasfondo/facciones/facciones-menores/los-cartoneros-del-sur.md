@@ -20,7 +20,7 @@ title: Los Cartoneros del Sur
 
 Los **Cartoneros del Sur** fueron una cuadrilla de supervivientes que, en los años posteriores a la caída del meteorito sobre Buenos Aires (ver [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires]]), se dedicaron a espigar entre los escombros todo papel que el fuego no hubiera consumido del todo: legajos, cuadernos, manuales, diarios viejos, planillas de bolsa. Heredaron el oficio y el nombre de los antiguos cartoneros de la ciudad —los que vivían de juntar y revender cartón—, sólo que ya no recogían para vender, sino para que algo del mundo escrito no se apagara con ellos.
 
-Su trabajo más recordado es el compendio de [[1_trasfondo/hitos/2029-las-profecias-del-mercado|«Las Profecías del Mercado»]], que ensamblaron hacia 2059 a partir de fragmentos dispersos y a menudo ilegibles. Para entonces el grupo ya menguaba: el hambre, la enfermedad y los saqueos de otras bandas terminaron por dispersarlo. No dejaron jerarquía, sede ni descendencia organizada; sólo los papeles que rescataron, hoy en su mayoría bajo custodia —o bajo llave— de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]].
+Su trabajo más recordado es el compendio de [[1_trasfondo/hitos/2029-las-profecias-del-mercado|«Las Profecías del Mercado»]], que ensamblaron hacia 2059 a partir de fragmentos dispersos y a menudo ilegibles. Para entonces el grupo ya menguaba: el hambre, la enfermedad y los saqueos de otras bandas terminaron por dispersarlo. No dejaron jerarquía, sede ni descendencia organizada; sólo los papeles que rescataron, hoy en su mayoría bajo custodia —o bajo llave— de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
 
 ## Identidad
 
