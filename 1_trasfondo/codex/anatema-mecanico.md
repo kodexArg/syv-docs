@@ -279,7 +279,7 @@ El Anatema Mecánico prohíbe específicamente:
 
 ### El Rol de la Iglesia y la SIA
 
-La "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]" es el brazo ejecutor del Anatema en la Confederación. Sus responsabilidades incluyen:
+La "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]]" es el brazo ejecutor del Anatema en la Confederación. Sus responsabilidades incluyen:
 
 #### **Vigilancia y Persecución**
 
