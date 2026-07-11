@@ -67,5 +67,5 @@ Francisco es fundador y líder actual de los **[[1_trasfondo/facciones/facciones
 
 ## Referencias
 
-[^sia]: Sagrada Inquisición Argentina (SIA) - "Los Cirujanos del Alma"
+[^sia]: Santa Inquisición Argentina (SIA) - "Los Cirujanos del Alma"
 [^arpistas]: Los Arpistas - Red de preservadores de tecnología pre-Catastrófica
