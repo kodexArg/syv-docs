@@ -36,7 +36,7 @@ Sus miembros —veinte mil estimados, mayoría clase media técnica— promueven
 
 ## Prácticas y Rituales
 
-Las ceremonias ocurren en espacios abiertos cuando es posible: parques urbanos, campos de cultivo, terrazas de edificios donde cultivan jardines hidropónicos ilegales (tolerados por autoridades porque no violan Anatema). Los miembros se visten con ropa reciclada (símbolo de compromiso con consumo responsable), llevan talismanes hechos de semillas, madera recuperada, metales reciclados. No tienen sotanas ni uniformes formales. La humildad es estética.
+Las ceremonias ocurren en espacios abiertos cuando es posible: parques urbanos, campos de cultivo, terrazas de edificios donde cultivan jardines hidropónicos ilegales (tolerados por autoridades porque no violan Anatema). Los miembros se visten con ropa reciclada (símbolo de compromiso con consumo responsable), llevan talismanes hechos de semillas, madera recuperada, metales reciclados. No tienen sotanas ni uniformes formales: en la [[vestimenta|moda de la franja]], su distintivo es justamente el anti-uniforme. La humildad es estética.
 
 El ritual central es la **Plantación Ceremonial**: cada miembro debe plantar un árbol anualmente. Antes de plantar, rezan: "Señor, perdónanos por haber envenenado Tu Creación. Aceptá esta semilla como promesa de redención". Cavan hoyo, depositan semilla o plantín, cubren con tierra, riegan con agua bendecida (previamente bendecida por cura colaborador). Algunos árboles sobreviven. Mayoría muere (lluvia ácida, suelo contaminado, falta de nutrientes). Los ecologistas no se desaniman. Cada árbol muerto es mártir vegetal. Plantan otro al año siguiente.
 
