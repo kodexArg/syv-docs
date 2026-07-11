@@ -18,7 +18,7 @@ related:
 
 En la Confederación Argentina de 2178, el término **Rezago** no designa una categoría técnica, sino una condición de existencia. Se denomina Rezago a todo objeto, fragmento o materia prima que ha sobrevivido al **Ocaso de Prometeo** (2030-2048) y que, por su mera presencia, desafía el orden del [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]].
 
-Bajo la mirada de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]], un Rezago puede ser un trozo de hardware fundido, una aleación industrial desconocida o incluso un objeto antiguo de naturaleza inofensiva —una brújula analógica o un reloj de cuerda—. Sin embargo, la inocencia del objeto no lo exime de sospecha; la doctrina establece que el vínculo con el pasado es, en sí mismo, un vector de corrupción espiritual.
+Bajo la mirada de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]], un Rezago puede ser un trozo de hardware fundido, una aleación industrial desconocida o incluso un objeto antiguo de naturaleza inofensiva —una brújula analógica o un reloj de cuerda—. Sin embargo, la inocencia del objeto no lo exime de sospecha; la doctrina establece que el vínculo con el pasado es, en sí mismo, un vector de corrupción espiritual.
 
 ---
 
