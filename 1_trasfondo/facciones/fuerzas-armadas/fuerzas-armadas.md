@@ -18,6 +18,7 @@ related:
   - "[[teniente-coronel-gobernador]]"
   - "[[ejercito-rojo]]"
   - "[[franja-de-alsina]]"
+  - "[[vestimenta]]"
 ubicaciones:
   - "[[darsena]]"
 spoilers:
