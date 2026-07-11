@@ -31,7 +31,7 @@ Dos enormes rascacielos de la era pre-bélica, reconvertidos en granjas vertical
 - Regulación de temperatura y humedad en secciones de cultivo
 - Control de más de un millón de LEDs de cultivo de alta potencia
 
-La concentración masiva de PIAs en las Torres genera ansiedad permanente en la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]], que mantiene vigilancia constante sobre anomalías de consumo eléctrico. Inspecciones regulares de Censores especializados verifican que ningún "orfebre de datos" herético haya modificado los sistemas de control para fines no autorizados.
+La concentración masiva de PIAs en las Torres genera ansiedad permanente en la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]], que mantiene vigilancia constante sobre anomalías de consumo eléctrico. Inspecciones regulares de Censores especializados verifican que ningún "orfebre de datos" herético haya modificado los sistemas de control para fines no autorizados.
 
 Personal técnico de las torres (operadores, técnicos de mantenimiento) son interrogados rutinariamente sobre su competencia y lealtad doctrinal, bajo la premisa de que "dominio perfecto de sistemas indica potencial herejía tecnológica".
 
