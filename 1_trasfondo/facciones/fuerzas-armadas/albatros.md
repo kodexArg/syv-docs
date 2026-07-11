@@ -32,7 +32,7 @@ Los **Albatros** son la unidad de élite de la [[1_trasfondo/facciones/fuerzas-a
 Los Albatros visten **uniforme militar completo y útil en todo momento** —nada de ornamento ceremonial vacío: su porte de gala es también su porte de combate—. Ese uniforme es el negro y verde del [[2_atlas/vestimenta|paño de cuartel]]. Su cometido en tierra es doble:
 
 - **Custodian la [[2_atlas/ciudades/darsena/villa-de-los-oficiales|Villa de los Oficiales]]**, el parque reservado al sur de la Santa Sede cuyo ingreso no autorizado se paga con trabajos forzados. Son ellos quienes hacen valer esa frontera invisible.
-- **Atienden las operaciones de custodia de la [[2_atlas/ciudades/darsena/santa-sede|Santa Sede]]** (apodada *Pulmón Superior*), hasta donde la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] lo permite.
+- **Atienden las operaciones de custodia de la [[2_atlas/ciudades/darsena/santa-sede|Santa Sede]]** (apodada *Pulmón Superior*), hasta donde la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] lo permite.
 
 ## Tensión con la Inquisición
 
