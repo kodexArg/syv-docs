@@ -53,7 +53,7 @@ Sale de su celda en el momento en que el temporizador hace un click y la habitac
 
 Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior, bajo el Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. 
 
-El patio subterráneo, ovalado, del tamaño de una cancha de tenis, sigue en penumbras bajo la neblina que entra, espesa, por la rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar. Alrededor y hacia arriba, el caracol: cientos de habitaciones enroscadas a la escalera interior, nueve pisos de balcones asomados al óvalo del patio, todos a oscuras, todos en silencio. Sofía abajo, en el centro exacto: una figura pequeña estirando en el fondo de una caracola dormida.
+El patio subterráneo, ovalado, del tamaño de una cancha de tenis, sigue en penumbras bajo la neblina que entra, espesa, por la rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar. Lo que ve, alrededor y hacia arriba, es el caracol: la misma rampa enroscándose al óvalo del patio, y balcones suaves, redondeados, que la siguen vuelta a vuelta sobre catenarias de Gaudí — cientos de puertas cerradas, todas a oscuras, todas en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose en el techo.
 
 El Faro amanece por dentro. El primer resplandor gana la corona del caracol y baja a su ritmo, balcón por balcón, aclarando barandas, puertas cerradas, plantas colgantes, hasta el fondo del óvalo donde una mujer sola estira contra la niebla. El día baja a buscarla.
 
