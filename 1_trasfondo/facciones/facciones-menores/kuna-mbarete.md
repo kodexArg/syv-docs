@@ -37,7 +37,7 @@ Hasta 2029 nadie del público general conocía de esta hermandad en las sombras 
 
 Las crónicas escritas por Marcos Pizarro, un arqueólogo e historiador peruano que se hizo famoso después de muerto, fueron las primeras en establecer esa conexión. Durante años fueron consideradas un mito o, en el mejor de los casos, un producto de la IA en los años de la desinformación, pese a que los estudios del arqueólogo se remontaban al siglo pasado en el trabajo de una vida.
 
-Pero quienes realmente conocen a las Kuña Mbareté, quienes han rastreado sus pasos a través de los siglos, son dos instituciones que operan desde las sombras: los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]], cuyo obsesivo archivo histórico sobre la Gran Guerra contiene más información sobre las Yarará que cualquier otra fuente; y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]], cuyo interés en ellas es de naturaleza muy distinta, y mucho más peligrosa.
+Pero quienes realmente conocen a las Kuña Mbareté, quienes han rastreado sus pasos a través de los siglos, son dos instituciones que operan desde las sombras: los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]], cuyo obsesivo archivo histórico sobre la Gran Guerra contiene más información sobre las Yarará que cualquier otra fuente; y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]], cuyo interés en ellas es de naturaleza muy distinta, y mucho más peligrosa.
 
 ## El Linaje de Arapy: La Primera Yarará
 
