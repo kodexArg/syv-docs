@@ -347,7 +347,7 @@ El silencio continúa.
 
 - "El Fin de los Secretos (2048)" (1_trasfondo/hitos/2048-el-fin-de-los-secretos.md) - El evento que precedió al Gran Silencio
 - "Anatema Mecánico" (1_trasfondo/codex/anatema-mecanico.md) - La doctrina nacida del Gran Silencio
-- "Sagrada Inquisición Argentina" (1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Ejecutora del Anatema
+- "Santa Inquisición Argentina" (1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Ejecutora del Anatema
 - "Scriptorium de Criptoanálisis" (ver cronología.md, línea 26) - Custodios del corpus QIA
 - "Cronología general" (1_trasfondo/cronología.md) - Contexto histórico completo
 
