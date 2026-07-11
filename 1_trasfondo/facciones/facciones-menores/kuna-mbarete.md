@@ -224,5 +224,5 @@ Las Kuña Mbareté no son simples asesinas; son guardianas de una cosmogonía de
 
 ### Referencias
 
-[^sia]: Sagrada Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
+[^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
 [^arpistas]: Red Internacional de Preservadores de Tecnología
