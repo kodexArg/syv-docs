@@ -91,7 +91,7 @@ La manufactura artesanal asegura que cada procesador sea único, lo que impide l
 
 ### Protocolo de Monitoreo de Concentraciones
 
-La **Sagrada Inquisición Argentina** mantiene vigilancia particular sobre concentraciones anómalas de PIAs, especialmente en infraestructura crítica como las **Torres Hidropónicas**.
+La **Santa Inquisición Argentina** mantiene vigilancia particular sobre concentraciones anómalas de PIAs, especialmente en infraestructura crítica como las **Torres Hidropónicas**.
 
 **Justificación interna de la vigilancia**:
 - La SIA teme que **el uso de tantos PIAs en un solo edificio pudiera traer problemático alguno**
