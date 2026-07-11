@@ -6,8 +6,8 @@ entidad: guia
 estado: borrador
 folder: 0_proyecto
 related:
-- '[[el-caso-del-archivista|El Caso del Archivista]]'
-- '[[cap-01-cursiva|Cursiva (capítulo)]]'
+- '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
+- '[[4_diegesis/relatos/el_caso_del_archivista/cap-01-cursiva|Cursiva (capítulo)]]'
 tags: []
 title: Canon de estilo de kodex
 ---
@@ -29,4 +29,4 @@ Canon vivo, alimentado por las marcas de kodex sobre prosa generada (protocolo `
 ## Notas de proceso
 
 - Párrafo introductorio: situar al lector geográficamente (qué lugar era, qué es ahora) sin aburrir — la orientación es clave y va temprano.
-- **«Buenos Aires» es nombre tabú en la voz in-mundo** (diálogo, prédica, prosa diegética): evocar por imagen — «la ciudad al pie del meteorito», el bastión sobre las ruinas. Ver [[buenos-aires-nombre-tabu]]. El aparato historiográfico (hitos, atlas) sí puede nombrarla como dato de archivo.
+- **«Buenos Aires» es nombre tabú en la voz in-mundo** (diálogo, prédica, prosa diegética): evocar por imagen — «la ciudad al pie del meteorito», el bastión sobre las ruinas. Ver [[1_trasfondo/codex/buenos-aires-nombre-tabu|buenos-aires-nombre-tabu]]. El aparato historiográfico (hitos, atlas) sí puede nombrarla como dato de archivo.

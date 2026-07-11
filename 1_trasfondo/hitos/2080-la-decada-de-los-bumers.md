@@ -12,11 +12,11 @@ fecha: 2080
 folder: 1_trasfondo/hitos
 region: Argentina
 related:
-- '[[cronologia]]'
-- '[[ejercito-rojo]]'
-- '[[salvajes]]'
-- '[[2061-el-gran-silencio]]'
-- '[[2178-actualidad]]'
+- '[[1_trasfondo/cronologia|cronologia]]'
+- '[[1_trasfondo/facciones/ejercito-rojo|ejercito-rojo]]'
+- '[[1_trasfondo/codex/salvajes|salvajes]]'
+- '[[1_trasfondo/hitos/2061-el-gran-silencio|2061-el-gran-silencio]]'
+- '[[1_trasfondo/hitos/2178-actualidad|2178-actualidad]]'
 title: La Década de los Bumers
 ---
 
@@ -39,7 +39,7 @@ Doy aquí lo que he podido reconstruir, y lo doy con la humildad de siempre: no 
 
 Dos fuerzas se juntaron en aquella década. Una fue la migración: la posguerra había puesto a media humanidad en los caminos, y buena parte de esa marea terminó de asentarse en el sur del mundo, en tierras que el fuego perpetuo no había alcanzado. La otra fue el vientre: pasado el terror de las máquinas y de las plagas, las familias que habían sobrevivido volvieron a tener hijos, muchos, como si la especie entera hubiera decidido de golpe que valía la pena continuar. Hambre había, y frío, y la lluvia de siempre; pero donde antes nacía un niño, en los ochenta nacían cinco.
 
-El efecto se sintió sobre todo abajo, en el sur. La cantidad de gente que la posguerra derramó sobre **La Patagonia**, sumada a esa crecida de cunas, reconfiguró por completo la población de aquellas tierras: hoy, según los números que los navegantes y los capitanes relatan y que consigno con la cautela que merecen los rumores del mar, viven allí **más de cien millones de personas**. Cien millones donde antes había viento. De ese sur repoblado saldría, con el tiempo, el crisol que hoy llamamos [[ejercito-rojo|Ejército Rojo]]; y al norte, la misma crecida engordó el dominio de los [[salvajes|Salvajes]]. La geopolítica de nuestro tiempo —la franja apretada entre dos vecindades inmensas— no se entiende sin esta década. Los vecinos que hoy nos superan en número nacieron, casi todos, en los años ochenta del siglo pasado.
+El efecto se sintió sobre todo abajo, en el sur. La cantidad de gente que la posguerra derramó sobre **La Patagonia**, sumada a esa crecida de cunas, reconfiguró por completo la población de aquellas tierras: hoy, según los números que los navegantes y los capitanes relatan y que consigno con la cautela que merecen los rumores del mar, viven allí **más de cien millones de personas**. Cien millones donde antes había viento. De ese sur repoblado saldría, con el tiempo, el crisol que hoy llamamos [[1_trasfondo/facciones/ejercito-rojo|Ejército Rojo]]; y al norte, la misma crecida engordó el dominio de los [[1_trasfondo/codex/salvajes|Salvajes]]. La geopolítica de nuestro tiempo —la franja apretada entre dos vecindades inmensas— no se entiende sin esta década. Los vecinos que hoy nos superan en número nacieron, casi todos, en los años ochenta del siglo pasado.
 
 ## De dónde viene el nombre
 
@@ -53,10 +53,10 @@ Debo consignar, eso sí, una rareza de los escribas. Algunos legajos preguerra n
 
 ## Ver también
 
-- [[cronologia]] — la crónica completa; esta década se inserta en la Edad Oscura, entre el [[2061-el-gran-silencio|Gran Silencio]] y la Cruzada de la Basílica.
-- [[ejercito-rojo]] — el crisol del sur que esta crecida hizo posible.
-- [[salvajes]] — el dominio del norte, engordado por la misma década.
-- [[2178-actualidad]] — la geopolítica de hoy, hija de estos nacimientos.
+- [[1_trasfondo/cronologia|cronologia]] — la crónica completa; esta década se inserta en la Edad Oscura, entre el [[1_trasfondo/hitos/2061-el-gran-silencio|Gran Silencio]] y la Cruzada de la Basílica.
+- [[1_trasfondo/facciones/ejercito-rojo|ejercito-rojo]] — el crisol del sur que esta crecida hizo posible.
+- [[1_trasfondo/codex/salvajes|salvajes]] — el dominio del norte, engordado por la misma década.
+- [[1_trasfondo/hitos/2178-actualidad|2178-actualidad]] — la geopolítica de hoy, hija de estos nacimientos.
 
 ---
 

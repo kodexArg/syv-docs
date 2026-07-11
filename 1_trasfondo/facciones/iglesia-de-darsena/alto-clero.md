@@ -9,14 +9,14 @@ aliases:
   - Alto Clero
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[curia-romana]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/curia-romana|curia-romana]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 
 Ficha por desarrollar. Stub creado para un estrato jerárquico referenciado en personajes pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 
-- Estrato superior de la jerarquía de la [[iglesia|Iglesia]]; incluye a directores de academias teológicas y figuras de la [[curia-romana|Curia Romana]].
+- Estrato superior de la jerarquía de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]]; incluye a directores de academias teológicas y figuras de la [[1_trasfondo/facciones/iglesia-de-darsena/curia-romana|Curia Romana]].

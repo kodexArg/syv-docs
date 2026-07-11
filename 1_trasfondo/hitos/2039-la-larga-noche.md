@@ -11,9 +11,9 @@ aliases:
   - Gran Guerra Global
   - Fuego Perpetuo
 related:
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[anatema-mecanico]]"
-  - "[[2039-el-meteorito-de-buenos-aires]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]]"
 tags: []
 ---
 ## La Larga Noche (2039-2068)
@@ -29,13 +29,13 @@ No fue un apagón como la Noche Global de 2029. No fue siquiera una batalla.
 
 Fue silencio.
 
-Los últimos satélites dejaron de transmitir señales confiables. Los cables submarinos, ya saboteados, dejaron de funcionar del todo. Las redes terrestres colapsaron bajo el peso de ciberataques constantes orquestados por [[qia-inteligencias-artificiales-cuanticas|QIA]] que ya no respondían a ningún bando.
+Los últimos satélites dejaron de transmitir señales confiables. Los cables submarinos, ya saboteados, dejaron de funcionar del todo. Las redes terrestres colapsaron bajo el peso de ciberataques constantes orquestados por [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|QIA]] que ya no respondían a ningún bando.
 
 Y entonces, simplemente, dejamos de escuchar voces al otro lado del mar.
 
 ### El Cuerpo de Hielo
 
-Y en medio de ese silencio que se cerraba sobre el mundo, el 4 de abril de 2039, cayó el fuego sobre Palermo. El [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] —una mole de hielo puro de unos cincuenta metros— se estrelló contra el corazón del Nodo Sur y lo borró del mapa. Un millón de almas murieron en el instante; cinco millones más, en las semanas que siguieron.
+Y en medio de ese silencio que se cerraba sobre el mundo, el 4 de abril de 2039, cayó el fuego sobre Palermo. El [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] —una mole de hielo puro de unos cincuenta metros— se estrelló contra el corazón del Nodo Sur y lo borró del mapa. Un millón de almas murieron en el instante; cinco millones más, en las semanas que siguieron.
 
 Y sin embargo —esto es lo que me cuesta escribir— incluso esa catástrofe quedó enterrada en el silencio general. Porque para abril de 2039 las comunicaciones ya estaban colapsando, y la noticia de la muerte de Buenos Aires no recorrió el mundo como habría recorrido una década antes. Cayó en el vacío. Una ciudad entera murió y casi nadie, fuera del Río de la Plata, llegó a saberlo. Así de espesa era ya la oscuridad: ni siquiera el fin de la capital del hemisferio alcanzó a ser noticia.
 
@@ -213,4 +213,4 @@ Pero cada vez que miro el horizonte del Río de la Plata, me pregunto: ¿Habrá 
 
 ---
 
-Siguiente período en cronología: El Fuego Perpetuo (2039-2068) - Veintinueve años de guerra continua, documentados parcialmente en [[cronologia|la cronología]]
+Siguiente período en cronología: El Fuego Perpetuo (2039-2068) - Veintinueve años de guerra continua, documentados parcialmente en [[1_trasfondo/cronologia|la cronología]]

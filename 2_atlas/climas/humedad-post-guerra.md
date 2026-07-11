@@ -11,18 +11,18 @@ tags: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
   - "[[2_atlas/ciudades/cordoba/capital|Córdoba]]"
-  - "[[fuerte-san-martin|Fuerte San Martín]]"
-  - "[[mendoza|Mendoza]]"
-  - "[[san-luis|San Luis]]"
+  - "[[2_atlas/ciudades/fuerte-san-martin/fuerte-san-martin|Fuerte San Martín]]"
+  - "[[2_atlas/ciudades/mendoza/mendoza|Mendoza]]"
+  - "[[2_atlas/ciudades/san-luis/san-luis|San Luis]]"
 related:
-  - "[[2039-la-larga-noche]]"
+  - "[[1_trasfondo/hitos/2039-la-larga-noche|2039-la-larga-noche]]"
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
 ---
 # La Humedad Post-Guerra: El Legado Climático del Colapso
 
 ## Introducción: Un Mundo Diferente al Que Fue
 
-En los años previos a 2039, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en [[2_atlas/ciudades/darsena/darsena|Dársena]]. Pero la [[2039-la-larga-noche|Gran Guerra Global]] (2039-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
+En los años previos a 2039, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en [[2_atlas/ciudades/darsena/darsena|Dársena]]. Pero la [[1_trasfondo/hitos/2039-la-larga-noche|Gran Guerra Global]] (2039-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
 
 Lo que resultó fue una **saturación de humedad anómala y persistente** que permeó toda la franja confederal durante más de un siglo. Y esa humedad no vino sola: vino sobre un mundo que **ya venía recalentándose sin freno**. El calentamiento global de antaño no se revirtió — se le sumó el agua. El resultado es un mundo caliente **y** húmedo a la vez, más pegajoso y más opresivo que cualquiera de las dos cosas por separado. En el interior, el calor con humedad asfixia; en la costa de Dársena, el velo que se acumula sobre el estuario templa el aire —único oasis— pero la humedad no da tregua ni ahí.
 
@@ -89,7 +89,7 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 **Humedad relativa promedio:** 60-70%
 **Cambio desde 2030:** +30% (aumento más dramático en región cuyana)
 
-[[fuerte-san-martin|Fuerte San Martín]] (FSM) experimentó la transformación más radical:
+[[2_atlas/ciudades/fuerte-san-martin/fuerte-san-martin|Fuerte San Martín]] (FSM) experimentó la transformación más radical:
 - **Antes 2039:** Región seca, desértica, con pocas lluvias
 - **Después 2047:** Humedad persistente transformó el ecosistema
 - Tierras que fueron áridas ahora tienen vegetación (no originaria, pero vegetación)
@@ -107,7 +107,7 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 **Humedad relativa promedio:** 45-60%
 **Cambio desde 2030:** +20% (más seco que otras regiones, pero más húmedo que antes)
 
-[[mendoza|Mendoza]] es paradoja: aunque está en región árida, la humedad post-guerra afectó sus patrones de lluvia:
+[[2_atlas/ciudades/mendoza/mendoza|Mendoza]] es paradoja: aunque está en región árida, la humedad post-guerra afectó sus patrones de lluvia:
 - **Viento Zonda:** Persiste como la gran excepción andina en un mundo donde los vientos, en general, se apagaron. Es un fenómeno orográfico local —nace del choque del aire contra la Cordillera—, de modo que sobrevive aunque la circulación general del planeta se haya aletargado. Hoy carga algo más de humedad antes de cruzar los Andes
 - **Lluvias más frecuentes:** Aunque sigue siendo seca, llueve más que antes
 - **Agua disponible:** Los ríos cordilleranos tienen más flujo (menos nieve = más escurrimiento líquido)
@@ -122,7 +122,7 @@ Dársena ya tenía humedad natural (proximidad al Río de la Plata + océano). P
 **Humedad relativa promedio:** 50-65%
 **Cambio desde 2030:** +25%
 
-[[san-luis|San Luis]] es meseta árida que se volvió árida-húmeda:
+[[2_atlas/ciudades/san-luis/san-luis|San Luis]] es meseta árida que se volvió árida-húmeda:
 - Temperaturas moderadas (no tan cálidas como Córdoba, no tan frías como Mendoza)
 - Humedad insuficiente para agricultura real, suficiente para que hongos prosperen
 - El "peaje viviente" de San Luis existe porque la región es inhabitable naturalmente

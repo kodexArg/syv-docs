@@ -11,5 +11,5 @@ Aquí habitan los agentes del canon: desde Monseñor Miguel, el cirujano de alma
 
 ## Subsecciones
 
-- [[principales]]
-- [[secundarios]]
+- [[3_personajes/principales/principales|principales]]
+- [[3_personajes/secundarios/secundarios|secundarios]]

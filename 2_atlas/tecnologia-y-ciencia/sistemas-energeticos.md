@@ -9,9 +9,9 @@ aliases:
   - Sistemas Energéticos
 tags: []
 related:
-  - "[[tecnologia-civil]]"
-  - "[[tecnologia-militar]]"
-  - "[[celdas-radionuclidos]]"
+  - "[[2_atlas/tecnologia-y-ciencia/tecnologia-civil|tecnologia-civil]]"
+  - "[[2_atlas/tecnologia-y-ciencia/tecnologia-militar|tecnologia-militar]]"
+  - "[[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|celdas-radionuclidos]]"
 ---
 
 # Sistemas Energéticos en la Confederación
@@ -68,7 +68,7 @@ En 2178, la Confederación Argentina utiliza **DOS sistemas de almacenamiento en
 **Población general**: Mercado abierto, sin restricciones. Cualquier persona con recursos puede adquirir o fabricar baterías de arena y sal.
 
 ### Detalles Técnicos Completos
-Ver [[electricidad|Electricidad → Baterías y Almacenamiento]]
+Ver [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad → Baterías y Almacenamiento]]
 
 ---
 
@@ -125,7 +125,7 @@ Ver [[electricidad|Electricidad → Baterías y Almacenamiento]]
 **Aparato estatal solamente**: Distribución restringida a Fuerzas Armadas, SIA, departamentos militares especializados. Acceso civil es delito.
 
 ### Detalles Técnicos Completos
-Ver [[celdas-radionuclidos|Celdas de Radionúclidos]]
+Ver [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos]]
 
 ---
 
@@ -178,15 +178,15 @@ Esta es la arquitectura del poder en 2178: no es violencia bruta, es **violencia
 
 Aunque Dársena depende de reactores de fusión que generan directamente 48V DC, otras ciudades confederadas (especialmente Córdoba) generan energía mediante fuentes alternas (solar, eólica, geotérmica) que producen corriente alterna. Estos sistemas incluyen rectificadores especializados que convierten AC a 48V DC para compatibilidad con red confederada estándar.
 
-Para detalles de generación en otras ciudades: Ver [[energias-alternativas|Energías Alternativas]]
+Para detalles de generación en otras ciudades: Ver [[2_atlas/tecnologia-y-ciencia/energias-alternativas|Energías Alternativas]]
 
 ---
 
 ## Referencias Cruzadas
 
-- [[electricidad|Electricidad]] - Red eléctrica pública 48V DC en Dársena
-- [[celdas-radionuclidos|Celdas de Radionúclidos]] - Especificaciones técnicas Americio-241
-- [[tecnologia-civil|Tecnología Civil]] - Aplicaciones cotidianas de baterías arena/sal
-- [[tecnologia-militar|Tecnología Militar]] - Uso militar de Americio en armas avanzadas
-- [[infraestructura-energetica|Infraestructura Energética]] - Generación y distribución de energía
-- [[energias-alternativas|Energías Alternativas]] - Generación en otras ciudades confederadas
+- [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad]] - Red eléctrica pública 48V DC en Dársena
+- [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos]] - Especificaciones técnicas Americio-241
+- [[2_atlas/tecnologia-y-ciencia/tecnologia-civil|Tecnología Civil]] - Aplicaciones cotidianas de baterías arena/sal
+- [[2_atlas/tecnologia-y-ciencia/tecnologia-militar|Tecnología Militar]] - Uso militar de Americio en armas avanzadas
+- [[2_atlas/tecnologia-y-ciencia/infraestructura-energetica|Infraestructura Energética]] - Generación y distribución de energía
+- [[2_atlas/tecnologia-y-ciencia/energias-alternativas|Energías Alternativas]] - Generación en otras ciudades confederadas

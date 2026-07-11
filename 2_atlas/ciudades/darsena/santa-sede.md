@@ -12,20 +12,20 @@ entidad: ubicacion
 estado: canon
 folder: 2_atlas/ciudades/darsena
 related:
-- '[[iglesia]]'
-- '[[zona-militar-eclesiastica]]'
-- '[[basilica-de-san-pedro]]'
-- '[[villa-de-los-oficiales]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]'
+- '[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|zona-militar-eclesiastica]]'
+- '[[2_atlas/ciudades/darsena/basilica-de-san-pedro|basilica-de-san-pedro]]'
+- '[[2_atlas/ciudades/darsena/villa-de-los-oficiales|villa-de-los-oficiales]]'
 tags: []
 title: Santa Sede
 ubicaciones:
-- '[[darsena]]'
-- '[[zona-militar-eclesiastica]]'
+- '[[2_atlas/ciudades/darsena/darsena|darsena]]'
+- '[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|zona-militar-eclesiastica]]'
 ---
 
 > Médanos de pasto, parejos como canchas de golf, con un árbol allá y una puerta acá. La gente le dice Santa Sede, y medita como si el mundo no existiera.
 
-La **Santa Sede** es uno de los tres lugares de la [[zona-militar-eclesiastica|Isla Oriental]] —junto al [[barrio-de-la-armada|Barrio de la Armada]] y al [[barrio-de-los-pescadores|Barrio de los Pescadores]]—. Ocupa toda la franja norte y alta de la isla, el dominio verde del clero, y enmarca los grandes hitos eclesiásticos, empezando por la [[basilica-de-san-pedro|Nueva Basílica de San Pedro]] y la Universidad.
+La **Santa Sede** es uno de los tres lugares de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]] —junto al [[2_atlas/ciudades/darsena/barrio-de-la-armada|Barrio de la Armada]] y al [[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de los Pescadores]]—. Ocupa toda la franja norte y alta de la isla, el dominio verde del clero, y enmarca los grandes hitos eclesiásticos, empezando por la [[2_atlas/ciudades/darsena/basilica-de-san-pedro|Nueva Basílica de San Pedro]] y la Universidad.
 
 Es su nombre propio, el que todos usan. La gente también la apoda **Pulmón Superior** —por lo alto y aireado de sus lomas—; algún turista confundido le dice **Tierra Santa**, y con cariño se la llama los **Jardines de la Iglesia**. Ninguno de esos apodos designa un contenedor administrativo: son solo maneras de nombrar este mismo lugar.
 
@@ -43,8 +43,8 @@ Un **tranvía eléctrico especial** recorre una vía única a través de la Sant
 
 ## La Villa de los Oficiales
 
-Dentro de la Santa Sede, hacia su borde sur, se cierra la [[villa-de-los-oficiales|Villa de los Oficiales]]: un parque reservado cuyo ingreso no autorizado se considera crimen, custodiado por los [[albatros|Albatros]]. Es el único punto de estos jardines donde la mansedumbre contemplativa cede a la guardia armada.
+Dentro de la Santa Sede, hacia su borde sur, se cierra la [[2_atlas/ciudades/darsena/villa-de-los-oficiales|Villa de los Oficiales]]: un parque reservado cuyo ingreso no autorizado se considera crimen, custodiado por los [[1_trasfondo/facciones/fuerzas-armadas/albatros|Albatros]]. Es el único punto de estos jardines donde la mansedumbre contemplativa cede a la guardia armada.
 
 ## Turismo religioso
 
-La Santa Sede es el destino del **[[extranjeros-y-apatridas|turismo religioso]]** de toda la Confederación y de más allá: peregrinos que cruzan el mundo para rezar donde está la Iglesia. Para ellos, la **vera oriental** de la Isla —esta franja alta y verde— tiene sus **hospedajes**: residencias cuyos patios dan directamente a los **Jardines de la Iglesia**, un privilegio único en cientos de kilómetros a la redonda, en un continente donde el verde cuidado no existe. Alojarse con vista a estas lomas de pasto es, para el peregrino, la mitad de la peregrinación.
+La Santa Sede es el destino del **[[1_trasfondo/codex/extranjeros-y-apatridas|turismo religioso]]** de toda la Confederación y de más allá: peregrinos que cruzan el mundo para rezar donde está la Iglesia. Para ellos, la **vera oriental** de la Isla —esta franja alta y verde— tiene sus **hospedajes**: residencias cuyos patios dan directamente a los **Jardines de la Iglesia**, un privilegio único en cientos de kilómetros a la redonda, en un continente donde el verde cuidado no existe. Alojarse con vista a estas lomas de pasto es, para el peregrino, la mitad de la peregrinación.

@@ -9,11 +9,11 @@ aliases:
   - Análisis del Sistema Educativo
 tags: []
 related:
-  - "[[universidad-pontificia-america]]"
-  - "[[universidad-nacional-cordoba]]"
-  - "[[universidad-de-cuyo]]"
-  - "[[iglesia]]"
-  - "[[fuerzas-armadas]]"
+  - "[[2_atlas/ciudades/darsena/universidad-pontificia-america|universidad-pontificia-america]]"
+  - "[[2_atlas/ciudades/cordoba/universidad-nacional-cordoba|universidad-nacional-cordoba]]"
+  - "[[2_atlas/ciudades/mendoza/universidad-de-cuyo|universidad-de-cuyo]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
 ---
 
 # Análisis del Sistema Educativo de la Confederación Argentina
@@ -22,7 +22,7 @@ related:
 
 La Confederación Argentina ha desarrollado un sistema educativo que, deliberada u orgánicamente, distribuye control intelectual entre tres polos. No es sistema centralizado como habría sido en estado moderno pre-colapso. Es distribución de poder que previene que cualquier institución logre monopolio sobre educación, mientras simultáneamente asegura que pensamiento divergente sea contenido dentro de límites tolerables.
 
-Las tres universidades principales—[[universidad-pontificia-america|Universidad Pontificia de América]] (Dársena), [[universidad-nacional-cordoba|Universidad Nacional de Córdoba]], y [[universidad-de-cuyo|Universidad de Cuyo]] (Mendoza)—no son competidoras neutrales. Son actores dentro de sistema más amplio donde:
+Las tres universidades principales—[[2_atlas/ciudades/darsena/universidad-pontificia-america|Universidad Pontificia de América]] (Dársena), [[2_atlas/ciudades/cordoba/universidad-nacional-cordoba|Universidad Nacional de Córdoba]], y [[2_atlas/ciudades/mendoza/universidad-de-cuyo|Universidad de Cuyo]] (Mendoza)—no son competidoras neutrales. Son actores dentro de sistema más amplio donde:
 
 1. **UPA monopoliza saber eclesiástico y arqueológico** bajo vigilancia eclesiástica
 2. **UNC monopoliza STEM y capacidad militar** bajo vigilancia del Ejército

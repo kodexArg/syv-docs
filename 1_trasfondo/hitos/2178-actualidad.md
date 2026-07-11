@@ -8,20 +8,20 @@ fecha: 2178
 aliases:
   - Actualidad 2178
 related:
-  - "[[anatema-mecanico]]"
-  - "[[confederacion-argentina]]"
-  - "[[ejercito-rojo]]"
-  - "[[salvajes]]"
-  - "[[caudillos-del-norte]]"
-  - "[[franja-de-alsina]]"
-  - "[[2080-la-decada-de-los-bumers]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/facciones/confederacion-argentina|confederacion-argentina]]"
+  - "[[1_trasfondo/facciones/ejercito-rojo|ejercito-rojo]]"
+  - "[[1_trasfondo/codex/salvajes|salvajes]]"
+  - "[[1_trasfondo/facciones/caudillos-del-norte|caudillos-del-norte]]"
+  - "[[2_atlas/ciudades/darsena/franja-de-alsina|franja-de-alsina]]"
+  - "[[1_trasfondo/hitos/2080-la-decada-de-los-bumers|2080-la-decada-de-los-bumers]]"
 tags: []
 ---
 ## Año 2178: Actualidad
 
 > _Adelanto de hasta dónde llegará la cronología — el único capítulo todavía abierto. Compilación de rumores, testimonios de navegantes, informes fragmentarios de la Armada y especulaciones del Servicio de Inteligencia. No es historia verificada: es, en el mejor de los casos, especulación informada; en el peor, rumor infundado._
 >
-> _Lo dejo abierto, como una puerta sin trancar, porque la historia que aquí cuento es la única que aún no terminó de escribirse. Las páginas anteriores de esta crónica las copié con la certeza del que mira hacia atrás; esta la confío al presente, que apenas balbucea. Desde el Gran Silencio de 2061 la Confederación carece de comunicación fiable con el resto del mundo: no hay embajadas, ni correspondencia, ni evidencia documental de nada más allá de nuestras fronteras inmediatas. Quizás el mundo es tal como se describe aquí; quizás es completamente diferente; quizás no queda nada más allá del horizonte. No lo sabemos. Y esa incertidumbre define nuestra época tanto como el [[anatema-mecanico|Anatema]] mismo. Si Dios me presta vida, yo mismo iré asentando año a año lo que el mundo nos depare; si no, que otro hermano tome la tinta donde yo la dejo._
+> _Lo dejo abierto, como una puerta sin trancar, porque la historia que aquí cuento es la única que aún no terminó de escribirse. Las páginas anteriores de esta crónica las copié con la certeza del que mira hacia atrás; esta la confío al presente, que apenas balbucea. Desde el Gran Silencio de 2061 la Confederación carece de comunicación fiable con el resto del mundo: no hay embajadas, ni correspondencia, ni evidencia documental de nada más allá de nuestras fronteras inmediatas. Quizás el mundo es tal como se describe aquí; quizás es completamente diferente; quizás no queda nada más allá del horizonte. No lo sabemos. Y esa incertidumbre define nuestra época tanto como el [[1_trasfondo/codex/anatema-mecanico|Anatema]] mismo. Si Dios me presta vida, yo mismo iré asentando año a año lo que el mundo nos depare; si no, que otro hermano tome la tinta donde yo la dejo._
 > **—Hermano Archivista Pedro de los Santos. Comenzado en el Archivo de Dársena, mientras afuera cae la lluvia de siempre, en los primeros días del verano del Año del Señor de dos mil ciento setenta y ocho.**
 
 Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide bajo el prisma de la Ley X: De la Ciudadanía y la Barbarie. Más allá de nuestras fronteras sagradas, reina el caos de los "Salvajes", naciones que han olvidado a Dios o se han entregado a la anarquía. Sin embargo, es necesario conocer al enemigo y al vecino para cumplir con nuestro destino.
@@ -169,24 +169,24 @@ De todo lo escrito arriba dudo, porque el Gran Silencio de 2061 nos dejó sordos
 
 ### El Sur: el Ejército Rojo
 
-- Bajo la mitad meridional del viejo territorio se extiende el [[ejercito-rojo|Ejército Rojo]]: un crisol de pueblos —tribus, feudos con su peonada, comunidades anarquistas auto-organizadas— que se define como «un comunismo con características regionales».
+- Bajo la mitad meridional del viejo territorio se extiende el [[1_trasfondo/facciones/ejercito-rojo|Ejército Rojo]]: un crisol de pueblos —tribus, feudos con su peonada, comunidades anarquistas auto-organizadas— que se define como «un comunismo con características regionales».
 - No controla realmente nada: lo desgarran luchas internas muy serias. Pero algunos bastiones aguantan sólidos, como **Bahía Blanca** con su comunismo regional, y hacia la cordillera resisten feudos y comunas.
 - Su capacidad real es naval, heredada de la flota de Puerto Belgrano; su principal obstáculo en el sur es justamente la Confederación, y sus rutas de navegación son una lucha constante por esquivar a nuestra Armada.
-- La [[2080-la-decada-de-los-bumers|Década de los Bumers]] repobló **La Patagonia**, donde hoy —según los navegantes— viven más de cien millones de personas.
+- La [[1_trasfondo/hitos/2080-la-decada-de-los-bumers|Década de los Bumers]] repobló **La Patagonia**, donde hoy —según los navegantes— viven más de cien millones de personas.
 
 ### La Zona Muerta
 
-- Entre el Rojo y nosotros no hay paz firmada. El conflicto tiene su tierra de nadie donde antes corría la [[franja-de-alsina|Franja de Alsina]]: conflictos frecuentes, tráfico que fluye, y una regla simple —de este lado la presencia militar de Dársena se impone; del otro, los disparos.
+- Entre el Rojo y nosotros no hay paz firmada. El conflicto tiene su tierra de nadie donde antes corría la [[2_atlas/ciudades/darsena/franja-de-alsina|Franja de Alsina]]: conflictos frecuentes, tráfico que fluye, y una regla simple —de este lado la presencia militar de Dársena se impone; del otro, los disparos.
 
 ### El Norte: los Salvajes y los Caudillos
 
-- Al norte, un corte en lo que fue territorio argentino guarda el dominio de los [[salvajes|Salvajes]] —«Salvajes del Norte» los llama Córdoba—: más de ciento cincuenta millones de habitantes, aunque los salteños, en rigor, viven mejor que cualquier confederado.
-- Ese norte lo gobiernan los [[caudillos-del-norte|Caudillos del Norte]] junto a las tribus afroindias, herederos de la vieja tradición caudillista.
+- Al norte, un corte en lo que fue territorio argentino guarda el dominio de los [[1_trasfondo/codex/salvajes|Salvajes]] —«Salvajes del Norte» los llama Córdoba—: más de ciento cincuenta millones de habitantes, aunque los salteños, en rigor, viven mejor que cualquier confederado.
+- Ese norte lo gobiernan los [[1_trasfondo/facciones/caudillos-del-norte|Caudillos del Norte]] junto a las tribus afroindias, herederos de la vieja tradición caudillista.
 
 ### La Franja y la Arteria
 
-- Entre ambos vecindarios inmensos, la [[confederacion-argentina|Confederación]] es apenas una franja: la banda central de la vieja bandera, con el sol en Córdoba.
-- Su único pulso de comercio terrestre de largo aliento es la **Ruta 40**, que cruza el paso disputado de [[mendoza|Mendoza]] —zona de contrabando—, por donde los Caudillos del Norte comercian con el sur.
+- Entre ambos vecindarios inmensos, la [[1_trasfondo/facciones/confederacion-argentina|Confederación]] es apenas una franja: la banda central de la vieja bandera, con el sol en Córdoba.
+- Su único pulso de comercio terrestre de largo aliento es la **Ruta 40**, que cruza el paso disputado de [[2_atlas/ciudades/mendoza/mendoza|Mendoza]] —zona de contrabando—, por donde los Caudillos del Norte comercian con el sur.
 
 ---
 

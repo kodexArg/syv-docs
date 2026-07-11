@@ -12,7 +12,7 @@ tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
-related: '["[[iglesia]]", "[[inquisicion]]", "[[eduardo-vendedor-de-libros]]", "[[resistencia-subterranea]]"]'
+related: '["[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]", "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]", "[[3_personajes/secundarios/eduardo-vendedor-de-libros|eduardo-vendedor-de-libros]]", "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"]'
 spoilers:
   - Su activismo antieclesiástico y su colección de libros prohibidos son un secreto peligroso.
 ---
@@ -40,7 +40,7 @@ Pedagógicamente empática pero ideológicamente firme. Tiene la capacidad de co
 
 ### Motivaciones
 
-Públicamente, busca educar y ayudar a sus estudiantes. Privadamente, trabaja para preservar conocimiento prohibido y sembrar dudas sutiles sobre la doctrina de la [[iglesia|Iglesia]].
+Públicamente, busca educar y ayudar a sus estudiantes. Privadamente, trabaja para preservar conocimiento prohibido y sembrar dudas sutiles sobre la doctrina de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]].
 
 ### Trasfondo
 
@@ -51,13 +51,13 @@ Elena Juárez es conocida como una maestra dedicada que voluntariamente divide s
 Elena es sensible a cambios sutiles en sus estudiantes y ha comenzado un registro extraoficial de aquellos que muestran señales de privación del sueño. Su preocupación como maestra es genuina y podría ser una pista clave para investigadores.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Elena es profundamente antieclesiástica. Su verdadera motivación va más allá de la educación: está reuniendo libros prohibidos, preservando el conocimiento que estos contienen, y adoctrinando sutilmente a sus alumnos con dudas sobre la Iglesia. Usa su posición en ambos mundos sociales para crear una red de pensamiento crítico que desafía la narrativa oficial. Si la [[inquisicion|Santa Inquisición]] descubriera su colección de textos prohibidos y su agenda ideológica, sería juzgada por herejía. Pero considera que cada mente joven que aprende a cuestionar es una victoria contra la ignorancia impuesta.
+Elena es profundamente antieclesiástica. Su verdadera motivación va más allá de la educación: está reuniendo libros prohibidos, preservando el conocimiento que estos contienen, y adoctrinando sutilmente a sus alumnos con dudas sobre la Iglesia. Usa su posición en ambos mundos sociales para crear una red de pensamiento crítico que desafía la narrativa oficial. Si la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición]] descubriera su colección de textos prohibidos y su agenda ideológica, sería juzgada por herejía. Pero considera que cada mente joven que aprende a cuestionar es una victoria contra la ignorancia impuesta.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 
 - **Estudiantes de Ambos Mundos**: Su responsabilidad y herramientas de cambio
 - **Círculos Intelectuales**: Su red de apoyo ideológico
-- **[[eduardo-vendedor-de-libros|Eduardo el Librero]]**: Proveedor de textos prohibidos con quien comparte riesgo y convicción
-- **[[resistencia-subterranea|Resistencia Subterránea]]**: Red de pensamiento crítico que sostiene desde su posición
+- **[[3_personajes/secundarios/eduardo-vendedor-de-libros|Eduardo el Librero]]**: Proveedor de textos prohibidos con quien comparte riesgo y convicción
+- **[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]]**: Red de pensamiento crítico que sostiene desde su posición
 - **Colección de Libros Prohibidos**: Su tesoro y mayor riesgo
 - **La Santa Inquisición**: La amenaza que debe evitar

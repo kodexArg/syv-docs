@@ -9,17 +9,17 @@ aliases:
   - Crónica del arribo de Damián
 tags: []
 related:
-  - "[[damian-diconte]]"
+  - "[[3_personajes/principales/damian-diconte|damian-diconte]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
   - "[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]"
 facciones:
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 # Historia
 
-El avión llevaba un tiempo detenido. [[damian-diconte|Damián]] sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
+El avión llevaba un tiempo detenido. [[3_personajes/principales/damian-diconte|Damián]] sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
 
 —Detective DiConte —dijo la azafata—, es momento de bajar.
 

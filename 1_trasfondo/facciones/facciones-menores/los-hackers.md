@@ -12,17 +12,17 @@ aliases:
   - Los Descifradores
 tags: []
 related:
-  - "[[arpistas]]"
-  - "[[guardianes-de-la-memoria]]"
-  - "[[inquisicion]]"
-  - "[[fuerzas-armadas]]"
-  - "[[iglesia]]"
-  - "[[los-criptografos]]"
-  - "[[resistencia-subterranea]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"
+  - "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[tuberias]]"
-  - "[[barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
 spoilers:
   - "Los hackers más hábiles no siempre son ejecutados al ser capturados: la DNS y la SIA los reclutan a la fuerza como Criptógrafos oficiales."
 ---
@@ -32,7 +32,7 @@ spoilers:
 
 ## Introducción
 
-En un mundo donde la información es controlada con puño de hierro, "Los Hackers" representan una peligrosa anomalía. Son una red clandestina y descentralizada de especialistas en comunicaciones cifradas, ingenieros de radio y arqueólogos digitales que operan desde las sombras de Dársena, principalmente en las Túberías y los barrios marginales. Su objetivo es desafiar el monopolio informativo del Estado y la [[iglesia|Iglesia]], interceptando y decodificando comunicaciones, y recuperando conocimiento del mundo pre-Anatema.
+En un mundo donde la información es controlada con puño de hierro, "Los Hackers" representan una peligrosa anomalía. Son una red clandestina y descentralizada de especialistas en comunicaciones cifradas, ingenieros de radio y arqueólogos digitales que operan desde las sombras de Dársena, principalmente en las Túberías y los barrios marginales. Su objetivo es desafiar el monopolio informativo del Estado y la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]], interceptando y decodificando comunicaciones, y recuperando conocimiento del mundo pre-Anatema.
 
 "Nota sobre terminología": En la Confederación Argentina, el término "Criptógrafo" tiene dos significados distintos:
 
@@ -71,8 +71,8 @@ Los Hackers emplean tecnología de lectura tolerada bajo el Corpus Licitus cuand
 
 Sus hallazgos son fuentes históricas valiosas para:
 
-- [[arpistas|Arpistas]]: Red internacional que contrata Hackers para recuperar archivos tecnológicos antiguos, documentación de QIA, y blueprints pre-Anatema.
-- [[guardianes-de-la-memoria|Guardianes de la Memoria]]: Pagan por textos históricos, bases de datos académicas, y conocimiento prohibido almacenado digitalmente.
+- [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]: Red internacional que contrata Hackers para recuperar archivos tecnológicos antiguos, documentación de QIA, y blueprints pre-Anatema.
+- [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]]: Pagan por textos históricos, bases de datos académicas, y conocimiento prohibido almacenado digitalmente.
 - "Iglesia/SIA" (ocasionalmente, bajo supervisión): Contratan (forzosamente, tras captura) para recuperar información estratégica de archivos enemigos o para descifrar datos de épocas pasadas que puedan contener amenazas.
 - "Archivistas del Estado": Como el Hermano Archivista Pedro de los Santos, que usan estos hallazgos como fuentes primarias para reconstruir la historia del colapso.
 
@@ -95,7 +95,7 @@ A pesar de la tolerancia limitada bajo Corpus Licitus, la arqueología digital s
 | "SIA" | ENEMIGOS | Caza implacable, pero también reclutamiento forzoso |
 | "DNS" | ENEMIGOS | Persecución constante, reclutamiento a la fuerza |
 | "La Unión" | NEUTRAL | Algunos contactos comerciales clandestinos |
-| [[resistencia-subterranea|Resistencia Subterránea]] | ALIADOS | Comparten refugio en las Túberías |
+| [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]] | ALIADOS | Comparten refugio en las Túberías |
 
 ---
 

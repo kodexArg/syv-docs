@@ -10,19 +10,19 @@ aliases:
   - Justicialismo
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
-  - "[[fuerzas-armadas]]"
-  - "[[gremio-de-comercio]]"
-  - "[[ecologistas]]"
-  - "[[iglesia-maradoniana]]"
-  - "[[umbanda]]"
-  - "[[guarani]]"
-  - "[[hijos-del-pantano]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/credos/ecologistas|ecologistas]]"
+  - "[[1_trasfondo/credos/iglesia-maradoniana|iglesia-maradoniana]]"
+  - "[[1_trasfondo/credos/umbanda|umbanda]]"
+  - "[[1_trasfondo/credos/guarani|guarani]]"
+  - "[[1_trasfondo/credos/hijos-del-pantano|hijos-del-pantano]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[mendoza]]"
-  - "[[microcentro]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/mendoza/mendoza|mendoza]]"
+  - "[[2_atlas/ciudades/darsena/microcentro|microcentro]]"
 spoilers:
   - "Células herméticas enquistadas en ministerios, fuerzas armadas, gremios y universidades buscan hegemonía silenciosa del Estado."
 ---
@@ -67,7 +67,7 @@ Desprecian aristocracia de Barrio Norte (irónico, porque muchos peronistas son 
 
 ## Relación con la Iglesia
 
-La [[iglesia|Iglesia de Dársena]] odia a los peronistas porque son competencia ideológica directa. Mientras el catolicismo predica subordinación a Dios y al Anatema, el peronismo predica nacionalismo argentino como valor supremo, autonomía tecnológica, rechazo a influencia romana. Es herejía política que amenaza fundamentos del orden confederado. Peor: reclutan exactamente los sectores que la Iglesia necesita controlar: intelectuales, ingenieros, oficiales militares. Si el peronismo captura elite técnica, la Iglesia pierde capacidad de administrar infraestructura confederada.
+La [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]] odia a los peronistas porque son competencia ideológica directa. Mientras el catolicismo predica subordinación a Dios y al Anatema, el peronismo predica nacionalismo argentino como valor supremo, autonomía tecnológica, rechazo a influencia romana. Es herejía política que amenaza fundamentos del orden confederado. Peor: reclutan exactamente los sectores que la Iglesia necesita controlar: intelectuales, ingenieros, oficiales militares. Si el peronismo captura elite técnica, la Iglesia pierde capacidad de administrar infraestructura confederada.
 
 La SIA los infiltra obsesivamente. Inquisidores se hacen pasar por simpatizantes, asisten a reuniones, documentan quién participa. Los arrestos son selectivos: líderes visibles desaparecen en celdas inquisitoriales, son torturados hasta delatar correligionarios, procesados públicamente por "conspiración contra el Estado". Pero las células operan con resiliencia: un líder arrestado es reemplazado por otro, una célula desarticulada se reconst ituye meses después. Es red que se regenera porque los principios sobreviven individuos.
 

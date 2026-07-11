@@ -10,17 +10,17 @@ aliases:
   - El Caso del Archivista (notas)
 related:
   - "[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]"
-  - "[[damian-diconte|Damián DiConte]]"
+  - "[[3_personajes/principales/damian-diconte|Damián DiConte]]"
   - "[[1_trasfondo/codex/las-cronologias|El Cronologio]]"
   - "[[1_trasfondo/cronologia|Cronología]]"
   - "[[5_aventuras/poseidos/poseidos|Los Poseídos]]"
 facciones:
   - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]"
-  - "[[fuerzas-armadas|Fuerzas Armadas]]"
-  - "[[direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]]"
 ubicaciones:
-  - "[[darsena|Ciudad Dársena]]"
-  - "[[capital|Córdoba]]"
+  - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
+  - "[[2_atlas/ciudades/cordoba/capital|Córdoba]]"
 spoilers:
   - "La víctima es el Hermano Archivista Pedro de los Santos; lo torturaron hasta extraerle toda la verdad ('hasta la última gota')."
   - "Damián DiConte es un fugitivo de Córdoba: la facción militar radical del Teniente Coronel Gobernador aún pide su cabeza tras la muerte en Córdoba."
@@ -31,7 +31,7 @@ tags: []
 ---
 
 > [!info] Qué es este archivo
-> Archivo de trabajo de **El Caso del Archivista**. kodex no quedó conforme con el rumbo del borrador ni con los spoilers, y decidió **reescribir el relato desde cero**. Acá se guarda **todo** lo que había, sin perder nada: el borrador de prosa, la brújula de spoilers, las notas de escenas y el esquema propuesto. «Todo esto va a pasar más o menos así» — sirve de cantera para la nueva versión. El relato canónico vive en [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]] (reescritura larga por capítulos); el arranque descartado quedó archivado en [[el-caso-del-archivista-borrador|el borrador previo]].
+> Archivo de trabajo de **El Caso del Archivista**. kodex no quedó conforme con el rumbo del borrador ni con los spoilers, y decidió **reescribir el relato desde cero**. Acá se guarda **todo** lo que había, sin perder nada: el borrador de prosa, la brújula de spoilers, las notas de escenas y el esquema propuesto. «Todo esto va a pasar más o menos así» — sirve de cantera para la nueva versión. El relato canónico vive en [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]] (reescritura larga por capítulos); el arranque descartado quedó archivado en [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-borrador|el borrador previo]].
 
 ---
 
@@ -45,7 +45,7 @@ tags: []
 >
 > Quizá llegó la hora de pagar la cuenta, porque cuando ya casi agarraba algún buen hábito, recibió la llamada de Monseñor Miguel.
 >
-> Veinte minutos más tarde un vehículo biplaza negro lo llevó a reunirse con el Comisario General de la División de Investigaciones Criminales y Morales, un cargo con rango de subsecretaría. Había aceptado ocupar la silla reservada para el representante que la Iglesia mantenía dentro del edificio de la [[direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]].
+> Veinte minutos más tarde un vehículo biplaza negro lo llevó a reunirse con el Comisario General de la División de Investigaciones Criminales y Morales, un cargo con rango de subsecretaría. Había aceptado ocupar la silla reservada para el representante que la Iglesia mantenía dentro del edificio de la [[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]].
 >
 > Al otro día, el gigante aprovechó que no había tenido una buena noche para madrugar_
 
@@ -92,15 +92,15 @@ Debajo no hay más carpetas: hay tomos. Pesados, de tapa dura, parados de canto 
 > [!danger] Guía permanente · meta, fuera de mundo
 > Esta sección **no es parte del relato**: es la brújula. La trama se escribirá «como al autor le plazca», pero esto fija, lo mejor posible, **qué** historia estamos contando, para no perder el rumbo.
 
-**Premisa.** Se investiga el asesinato de **El Archivista**: el anciano [[3_personajes/principales/pedro-de-los-santos|Hermano Pedro de los Santos]], autor de [[1_trasfondo/codex/las-cronologias|El Cronologio]] —ese repaso enciclopédico de todo lo que sabemos del viejo mundo. El caso cae sobre **[[damian-diconte|Damián DiConte]]**, *El Sabueso*: detective muy veterano, gordo como siempre, inmenso.
+**Premisa.** Se investiga el asesinato de **El Archivista**: el anciano [[3_personajes/principales/pedro-de-los-santos|Hermano Pedro de los Santos]], autor de [[1_trasfondo/codex/las-cronologias|El Cronologio]] —ese repaso enciclopédico de todo lo que sabemos del viejo mundo. El caso cae sobre **[[3_personajes/principales/damian-diconte|Damián DiConte]]**, *El Sabueso*: detective muy veterano, gordo como siempre, inmenso.
 
-**Cuándo pasa.** El Caso del Archivista es un suceso **muy posterior a todo**. Para entonces Damián ya lleva hasta un año sabático en [[darsena|Ciudad Dársena]] —trabajando incluso como particular—, finalmente establecido en la ciudad. La [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] insistió en tenerlo donde nadie lo quería, después de la resolución de [[5_aventuras/poseidos/poseidos|Los Poseídos]] y algunas otras aventuras. Se aburre en el séptimo piso de una oficina amplia y cómoda, con ventanales sobre la Avenida San Martín, en lo que se nombra como el **Ministerio de Defensa / Seguridad** (detalle a reconciliar con canon). Se acerca a los sesenta años, aunque parece más.
+**Cuándo pasa.** El Caso del Archivista es un suceso **muy posterior a todo**. Para entonces Damián ya lleva hasta un año sabático en [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]] —trabajando incluso como particular—, finalmente establecido en la ciudad. La [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] insistió en tenerlo donde nadie lo quería, después de la resolución de [[5_aventuras/poseidos/poseidos|Los Poseídos]] y algunas otras aventuras. Se aburre en el séptimo piso de una oficina amplia y cómoda, con ventanales sobre la Avenida San Martín, en lo que se nombra como el **Ministerio de Defensa / Seguridad** (detalle a reconciliar con canon). Se acerca a los sesenta años, aunque parece más.
 
-**Quién es Damián acá.** Un protegido de la Iglesia de Dársena y un fugitivo de [[capital|Córdoba]] —donde una facción militar radical (la del Teniente Coronel Gobernador, dentro de las [[fuerzas-armadas|Fuerzas Armadas]]) todavía se atreve a pedir por su cabeza, tras la muerte en Córdoba. En Dársena no es más que un desconocido. Y eso le importará a alguien… pero no a El Sabueso. El destino lo sentó en esa oficina escandalosamente grande para que se aburra, y él no va a desaprovechar ese poder ni esos recursos.
+**Quién es Damián acá.** Un protegido de la Iglesia de Dársena y un fugitivo de [[2_atlas/ciudades/cordoba/capital|Córdoba]] —donde una facción militar radical (la del Teniente Coronel Gobernador, dentro de las [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]]) todavía se atreve a pedir por su cabeza, tras la muerte en Córdoba. En Dársena no es más que un desconocido. Y eso le importará a alguien… pero no a El Sabueso. El destino lo sentó en esa oficina escandalosamente grande para que se aburra, y él no va a desaprovechar ese poder ni esos recursos.
 
 **El arranque.** Apenas empieza la historia, Damián recibe el caso: un asesinato carísimo para la Iglesia. La conmoción en el mundo civilizado es grande —y sería mayor aún si llegara a oídos de las masas la forma terrible en que fue asesinado El Archivista, a quien se le exprimió hasta la última gota de verdad. Eso es seguro.
 
-**El motor.** El caso invita a Damián a un repaso por la historia de *Subordinación y Valor*: en los escritos del Archivista está la clave del pasado de Dársena. Esta historia detectivesca obliga a contar qué sucedió en la Argentina en los años posteriores a [[2029-las-profecias-del-mercado|2029]], desde que todo empezó, mientras se investiga al autor del crimen, buscando entre las facciones más comprometidas.
+**El motor.** El caso invita a Damián a un repaso por la historia de *Subordinación y Valor*: en los escritos del Archivista está la clave del pasado de Dársena. Esta historia detectivesca obliga a contar qué sucedió en la Argentina en los años posteriores a [[1_trasfondo/hitos/2029-las-profecias-del-mercado|2029]], desde que todo empezó, mientras se investiga al autor del crimen, buscando entre las facciones más comprometidas.
 
 > [!important] Por qué *Subordinación y Valor* se cuenta desde Damián
 > Damián DiConte es el **protagonista clave por el que se narra todo el universo**. No hay nada más ecléctico que el ojo de quien no le interesa lo general y solo se enfoca en los detalles: por eso SyV se cuenta desde sus casos, y no desde la Historia con mayúscula. El Caso del Archivista lo vuelve explícito —su mirada de detalle es la lente con la que miramos el mundo entero.
@@ -117,12 +117,12 @@ Debajo no hay más carpetas: hay tomos. Pesados, de tapa dura, parados de canto 
 
 ### Escena de apertura — la caja
 
-**Encuadre.** Una oficina amplia y cómoda —mucho mejor que la última—, ventanales sobre la **Avenida San Martín**: la oficina del **Ministerio de Defensa / Seguridad**. Damián es detective, ahora en [[darsena|Dársena]] y trabajando para la Iglesia. No sabe bien cómo terminó ahí; no es su ciudad —él es de [[capital|Córdoba]].
+**Encuadre.** Una oficina amplia y cómoda —mucho mejor que la última—, ventanales sobre la **Avenida San Martín**: la oficina del **Ministerio de Defensa / Seguridad**. Damián es detective, ahora en [[2_atlas/ciudades/darsena/darsena|Dársena]] y trabajando para la Iglesia. No sabe bien cómo terminó ahí; no es su ciudad —él es de [[2_atlas/ciudades/cordoba/capital|Córdoba]].
 
-**La caja.** Frente a él, una caja de cartón preparada para él hace poco. Ya le arrancó la etiqueta de **CONFIDENCIAL** —un despeje incluso por encima de su rango. Los documentos que traía están esparcidos por el escritorio: carpetas, folios. La caja no dice «el caso del archivero»: lleva **el nombre del Archivero**, [[pedro-de-los-santos|Pedro de los Santos]] (la víctima, confirmado por kodex).
+**La caja.** Frente a él, una caja de cartón preparada para él hace poco. Ya le arrancó la etiqueta de **CONFIDENCIAL** —un despeje incluso por encima de su rango. Los documentos que traía están esparcidos por el escritorio: carpetas, folios. La caja no dice «el caso del archivero»: lleva **el nombre del Archivero**, [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]] (la víctima, confirmado por kodex).
 
 > [!check] Decisión — la caja y *La Caja* de Córdoba
-> La relación con **La Caja** de Córdoba (la de pruebas que [[damian-diconte|Damián]] abandonó al huir) es **eco poético/narrativo**, NO puente de trama: mismo cartón, mismo gesto —una caja que lo define—, pero las dos historias no se tocan. El hombre que tuvo que abandonar una caja recibe ahora otra, con su nombre.
+> La relación con **La Caja** de Córdoba (la de pruebas que [[3_personajes/principales/damian-diconte|Damián]] abandonó al huir) es **eco poético/narrativo**, NO puente de trama: mismo cartón, mismo gesto —una caja que lo define—, pero las dos historias no se tocan. El hombre que tuvo que abandonar una caja recibe ahora otra, con su nombre.
 
 **Entra el inquisidor.** Un sacerdote con **marcas rojas en el borde del alzacuello** (grado inicial de inquisidor; empleado de la Inquisición), no joven. Lo mira con una amenaza que haría temblar a cualquiera —y a Damián ni lo incomoda. Le señala que es material confidencial; Damián replica que sí, claro, ya se dio cuenta. En el cruce queda claro que no se lo comentó a nadie, y que es raro: por algo se lo habrán dejado **a él**, ahí.
 
@@ -136,7 +136,7 @@ Hilos abiertos:
 - **Disonancia útil.** Trabaja para la Iglesia pero se sienta en un ministerio de Defensa/Seguridad, en una ciudad que no es la suya. Sostener esa extrañeza.
 
 > [!warning] Detalles a reconciliar con canon cuando solidifiquen
-> «Ministerio de Defensa / Seguridad» en Dársena (¿se relaciona con la [[direccion-nacional-de-seguridad|DNS]], que es de Córdoba/Estado?) · las marcas rojas del alzacuello como insignia de grado inquisitorial.
+> «Ministerio de Defensa / Seguridad» en Dársena (¿se relaciona con la [[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|DNS]], que es de Córdoba/Estado?) · las marcas rojas del alzacuello como insignia de grado inquisitorial.
 
 ### Cómo llegó a tener las cajas (mecánica de la apertura)
 
@@ -160,9 +160,9 @@ Este es el hilo que **presenta a Damián**: lo definimos por cómo lo miran los 
 > [!abstract] Propuesta de estructura — sujeta a tu visto bueno
 > No es guion cerrado: es un andamiaje para colgar las escenas. La trama se escribe libre; esto solo ordena el recorrido.
 
-1. **Apertura — La caja.** Damián, de noche en la oficina, se adelanta al mensajero, abre la caja con el nombre de [[pedro-de-los-santos|Pedro de los Santos]] y lee los folios. Llegan el inquisidor y el jefe. Se establecen tono, personaje y disonancia (cordobés adicto al servicio de la Iglesia, donde nadie lo quiere).
+1. **Apertura — La caja.** Damián, de noche en la oficina, se adelanta al mensajero, abre la caja con el nombre de [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]] y lee los folios. Llegan el inquisidor y el jefe. Se establecen tono, personaje y disonancia (cordobés adicto al servicio de la Iglesia, donde nadie lo quiere).
 2. **El encargo — por qué a él.** La Iglesia le confía el caso, carísimo y de alta conmoción. Se siembra el motivo de la elección (no uno de los suyos) y la forma terrible del crimen: a Pedro «se le exprimió hasta la última gota de verdad». Damián, aburrido, entra porque por fin hay un detalle digno de su ojo.
-3. **La víctima — quién era el Archivista.** Damián entra en el mundo de Pedro: el Scriptorium, [[1_trasfondo/codex/las-cronologias|El Cronologio]], la memoria total. Aquí arranca el repaso histórico: leer al muerto es leer el pasado de Dársena. Vehículo natural para recorrer la Argentina post-[[2029-las-profecias-del-mercado|2029]].
-4. **La investigación — entre las facciones más comprometidas.** Damián tira de hilos por los poderes de SyV (Iglesia/Inquisición, los militares de [[capital|Córdoba]], las facciones de la memoria: [[guardianes-de-la-memoria|Guardianes de la Memoria]], saqueadores, arpistas). Cada facción abre un capítulo de historia. Su mala memoria para nombres lo obliga a apoyarse en apodos, rasgos y documentos —y en los folios del propio Pedro.
+3. **La víctima — quién era el Archivista.** Damián entra en el mundo de Pedro: el Scriptorium, [[1_trasfondo/codex/las-cronologias|El Cronologio]], la memoria total. Aquí arranca el repaso histórico: leer al muerto es leer el pasado de Dársena. Vehículo natural para recorrer la Argentina post-[[1_trasfondo/hitos/2029-las-profecias-del-mercado|2029]].
+4. **La investigación — entre las facciones más comprometidas.** Damián tira de hilos por los poderes de SyV (Iglesia/Inquisición, los militares de [[2_atlas/ciudades/cordoba/capital|Córdoba]], las facciones de la memoria: [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]], saqueadores, arpistas). Cada facción abre un capítulo de historia. Su mala memoria para nombres lo obliga a apoyarse en apodos, rasgos y documentos —y en los folios del propio Pedro.
 5. **El espejo — lo que el muerto sabía.** Se revela que a Pedro lo mataron por lo que recordaba y no consignó (la fisura del epígrafe de 2061; «sabe más de lo que escribe»). El detective sin memoria reconstruye lo que la memoria total se llevó a la tumba.
 6. **La resolución.** El autor del crimen, entre las facciones más comprometidas ⟨a definir por vos⟩. Cierre que confirma la tesis: la Historia de SyV solo se deja contar por el ojo del detalle.

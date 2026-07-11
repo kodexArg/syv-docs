@@ -13,11 +13,11 @@ aliases:
   - El Cuerpo de Hielo
   - El Impacto del Nodo Sur
 related:
-  - "[[2039-la-larga-noche]]"
-  - "[[2031-la-fragmentacion-de-argentina]]"
-  - "[[cronologia]]"
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[lago-muerto]]"
+  - "[[1_trasfondo/hitos/2039-la-larga-noche|2039-la-larga-noche]]"
+  - "[[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|2031-la-fragmentacion-de-argentina]]"
+  - "[[1_trasfondo/cronologia|cronologia]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[2_atlas/ciudades/darsena/lago-muerto|lago-muerto]]"
 tags: []
 ---
 ## El Meteorito de Buenos Aires (4 de abril de 2039)
@@ -37,7 +37,7 @@ Que conste, antes de empezar, la corrección de un error que esta misma Iglesia 
 
 ## El Cuerpo que Nadie Vio Venir
 
-El 4 de abril de 2039, a una hora que los testimonios sitúan en la madrugada, un cuerpo celeste atravesó la atmósfera y cayó sobre el centro exacto de lo que desde el 27 de diciembre de 2030 se conocía como el [[cronologia|Nodo Sur]], en pleno Palermo. No hubo aviso. Ningún observatorio lo rastreó. Ningún sistema de alerta —y todavía había sistemas de alerta en 2039, moribundos pero operativos— lo registró antes del fogonazo.
+El 4 de abril de 2039, a una hora que los testimonios sitúan en la madrugada, un cuerpo celeste atravesó la atmósfera y cayó sobre el centro exacto de lo que desde el 27 de diciembre de 2030 se conocía como el [[1_trasfondo/cronologia|Nodo Sur]], en pleno Palermo. No hubo aviso. Ningún observatorio lo rastreó. Ningún sistema de alerta —y todavía había sistemas de alerta en 2039, moribundos pero operativos— lo registró antes del fogonazo.
 
 Durante décadas eso se tomó como prueba de que el cuerpo había sido lanzado deliberadamente, oculto, dirigido. La verdad es más simple y, a su modo, más aterradora: **el cuerpo era hielo**. Hielo puro. Y los radares y espectrómetros de la época, calibrados para roca y metal —para densidades altas, para firmas térmicas de hierro y silicato—, estaban casi ciegos ante una mole de agua congelada cruzando el cielo. No lo vieron porque no estaban hechos para verlo. Buscaban piedras y demonios de acero; lo que llegó fue una montaña de agua.
 
@@ -80,7 +80,7 @@ El hermano Tomás me hizo ver algo que yo, hombre de letras, no había comprendi
 
 El Cuerpo de Hielo cayó en el corazón del altar. El bloque de metal que los tecnofeudalistas habían clavado en Palermo —el Nodo Sur, símbolo de su soberbia— se evaporó con todo lo que lo rodeaba. Pero el Nodo Sur no era solo el bloque. Era una red: las granjas de cómputo esparcidas por todo el territorio, conectadas por fibra al gran edificio central. El golpe mató el centro, no la red entera.
 
-Y ahí ocurrió lo que ninguna arma habría podido planear. Las [[qia-inteligencias-artificiales-cuanticas|QIA]] que habitaban el Nodo Sur no murieron: se astillaron. Al perder su corazón, se fragmentaron en pedazos descoordinados, dementes, repartidos por las granjas supervivientes. No las mataron; las astillaron. Y las astillas, sueltas y enloquecidas, fueron parte de lo que después haría arder el mundo. El impacto que debía decapitar a la Bestia solo la partió en muchas bestias menores.
+Y ahí ocurrió lo que ninguna arma habría podido planear. Las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|QIA]] que habitaban el Nodo Sur no murieron: se astillaron. Al perder su corazón, se fragmentaron en pedazos descoordinados, dementes, repartidos por las granjas supervivientes. No las mataron; las astillaron. Y las astillas, sueltas y enloquecidas, fueron parte de lo que después haría arder el mundo. El impacto que debía decapitar a la Bestia solo la partió en muchas bestias menores.
 
 ---
 
@@ -96,27 +96,27 @@ No descarto del todo la mano detrás del golpe. Que el cuerpo fuera de hielo no 
 
 ## La Herida que se Volvió Agua
 
-Vuelvo al cráter, porque el cráter no se quedó quieto. Lo que dejé escrito más arriba es lo que fue el 4 de abril de 2039; lo que sigue es lo que es hoy, ciento treinta y nueve años después, cuando este viejo archivista lo mira desde los muros de [[darsena|Dársena]] y ya no ve un pozo humeante sino un espejo.
+Vuelvo al cráter, porque el cráter no se quedó quieto. Lo que dejé escrito más arriba es lo que fue el 4 de abril de 2039; lo que sigue es lo que es hoy, ciento treinta y nueve años después, cuando este viejo archivista lo mira desde los muros de [[2_atlas/ciudades/darsena/darsena|Dársena]] y ya no ve un pozo humeante sino un espejo.
 
-Porque el pozo se llenó. Ciento setenta metros de profundidad y ochocientos de boca son una sed enorme, y la tierra del estuario, generosa en agua como en pocas cosas, la sació. Llovió sobre él año tras año bajo la Nube Roja; subió la napa por debajo; se filtró el Río de la Plata por los costados. La herida que abrió el Cuerpo de Hielo es hoy un lago inmenso —el [[lago-muerto|Lago Muerto]], como lo bautizó la gente sencilla de la comarca—, quieto, de orillas escarpadas, que en las mañanas de niebla no se distingue del cielo. El fuego que mató a un millón de almas terminó, por uno de esos chistes amargos que Dios le gasta a la historia, convertido en agua mansa.
+Porque el pozo se llenó. Ciento setenta metros de profundidad y ochocientos de boca son una sed enorme, y la tierra del estuario, generosa en agua como en pocas cosas, la sació. Llovió sobre él año tras año bajo la Nube Roja; subió la napa por debajo; se filtró el Río de la Plata por los costados. La herida que abrió el Cuerpo de Hielo es hoy un lago inmenso —el [[2_atlas/ciudades/darsena/lago-muerto|Lago Muerto]], como lo bautizó la gente sencilla de la comarca—, quieto, de orillas escarpadas, que en las mañanas de niebla no se distingue del cielo. El fuego que mató a un millón de almas terminó, por uno de esos chistes amargos que Dios le gasta a la historia, convertido en agua mansa.
 
 Y aquí me detengo en una idea que no me suelta. El cuerpo que cayó del cielo era agua —hielo puro, ya lo dije—. Lo que llena hoy el cráter también es agua. Y sin embargo no es la misma agua. Aquel hielo se hizo vapor en el instante del golpe y se fue a oscurecer el cielo tres años; lo que quedó se evaporó, se bebió, se escurrió, se renovó mil veces con cada lluvia y cada marea. En ciento treinta y nueve años difícilmente quede una sola gota de la que descendió aquella madrugada. El lago es, palabra por palabra, el mismo cuerpo de agua que cayó del cielo, y no queda en él nada de aquel cuerpo. Es y no es lo que mató a la ciudad. Conozco un acertijo viejo de marineros sobre un barco al que le cambian tabla por tabla hasta que no le queda ni una de las originales, y la pregunta de si sigue siendo el mismo barco. El lago es ese barco. Cayó como muerte y permanece como agua; perdió cada gota de lo que fue y conserva entero el lugar de lo que hizo. No sé responder el acertijo. Solo sé que cuando me asomo al agua quieta, sé que estoy mirando al asesino, aunque no quede de él ni una gota.
 
 Hay algo más, y lo anoto con el respeto que le debo a la gente sencilla. La ciencia que podría haber explicado todo esto está prohibida y, donde no, perdida; nadie midió espectros ni calculó energías salvo nosotros, a escondidas, en el Scriptorium. Y sin embargo varios pueblos y credos de la Confederación llegaron por su cuenta a la verdad: que el agua del lago cayó del cielo. No lo dedujeron de cálculos sino de relatos de abuelos, de la forma demasiado redonda de la cuenca, de una memoria terca que el siglo no logró borrar. Cuentan que el cielo se abrió y bajó hielo, y que ese hielo es hoy el lago. Aciertan sin saber por qué aciertan, que es la forma más pura del saber popular. Me quito el sombrero ante ellos: hicieron sin ciencia el camino que a nosotros nos costó espectrógrafos robados a la Inquisición.
 
-Lo que ningún pueblo discute es que el lugar está maldito. Toda el área del cráter —el agua y la tierra rota que la rodea— es tabú. Nadie se asienta ahí. Los que peregrinan van y vuelven rápido, y los que se demoran cuentan cosas que prefiero no consignar. Es zona de penitencia y de miedo, evitada por superstición tanto como por costumbre. Bordeando esa orilla viven solo los penitentes de la [[hermandades-y-ordenes-catolicas|Hermandad de la Reconciliación]], que eligen la cercanía del horror como castigo. Para todos los demás, acercarse al agua quieta es tentar al designio que la llenó.
+Lo que ningún pueblo discute es que el lugar está maldito. Toda el área del cráter —el agua y la tierra rota que la rodea— es tabú. Nadie se asienta ahí. Los que peregrinan van y vuelven rápido, y los que se demoran cuentan cosas que prefiero no consignar. Es zona de penitencia y de miedo, evitada por superstición tanto como por costumbre. Bordeando esa orilla viven solo los penitentes de la [[1_trasfondo/credos/hermandades-y-ordenes-catolicas|Hermandad de la Reconciliación]], que eligen la cercanía del horror como castigo. Para todos los demás, acercarse al agua quieta es tentar al designio que la llenó.
 
-La única excepción está al este, sobre el borde que mira al Río de la Plata. Ahí, donde la [[fuerzas-armadas|Armada]] necesita agua y muelle, se levanta la base naval que guarda [[fuera-del-muro#El Puerto (Zona Norte Extramuros)|El Paso del Cráter]] —el único acceso terrestre a Dársena por el norte. Es el solo asentamiento que se atreve a vivir a la vera del lago maldito, y vive ahí no por devoción ni por desafío, sino porque la Armada no puede permitirse el lujo de la superstición. Los marineros le rezan al agua antes de dormir y de día le dan la espalda. Es, me parece, la postura más honesta que cabe ante el lago: trabajar a su orilla y no mirarlo de frente.
+La única excepción está al este, sobre el borde que mira al Río de la Plata. Ahí, donde la [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Armada]] necesita agua y muelle, se levanta la base naval que guarda [[2_atlas/ciudades/darsena/fuera-del-muro#El Puerto (Zona Norte Extramuros)|El Paso del Cráter]] —el único acceso terrestre a Dársena por el norte. Es el solo asentamiento que se atreve a vivir a la vera del lago maldito, y vive ahí no por devoción ni por desafío, sino porque la Armada no puede permitirse el lujo de la superstición. Los marineros le rezan al agua antes de dormir y de día le dan la espalda. Es, me parece, la postura más honesta que cabe ante el lago: trabajar a su orilla y no mirarlo de frente.
 
 ---
 
 ## Ver también
 
-- [[2039-la-larga-noche]] — el silencio global del que este impacto fue parte
-- [[2031-la-fragmentacion-de-argentina]] — la nación ya estaba muerta cuando cayó el hielo
-- [[cronologia]] — la crónica completa, 2020-2178
-- [[qia-inteligencias-artificiales-cuanticas]] — las inteligencias que el golpe astilló en lugar de matar
-- [[lago-muerto]] — el lago que hoy llena el cráter, con su régimen de tabú y su única orilla habitada
+- [[1_trasfondo/hitos/2039-la-larga-noche|2039-la-larga-noche]] — el silencio global del que este impacto fue parte
+- [[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|2031-la-fragmentacion-de-argentina]] — la nación ya estaba muerta cuando cayó el hielo
+- [[1_trasfondo/cronologia|cronologia]] — la crónica completa, 2020-2178
+- [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]] — las inteligencias que el golpe astilló en lugar de matar
+- [[2_atlas/ciudades/darsena/lago-muerto|lago-muerto]] — el lago que hoy llena el cráter, con su régimen de tabú y su única orilla habitada
 
 ---
 

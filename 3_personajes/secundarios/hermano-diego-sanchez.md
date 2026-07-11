@@ -9,12 +9,12 @@ aliases:
   - Hermano Diego Sánchez
   - Diego Sánchez
 tags: []
-facciones: '["[[iglesia]]", "[[alto-clero]]"]'
+facciones: '["[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]", "[[1_trasfondo/facciones/iglesia-de-darsena/alto-clero|alto-clero]]"]'
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 spoilers:
   - Busca en secreto una fe más allá de la doctrina oficial.
-related: '["[[monsenor-luis-valverde]]"]'
+related: '["[[3_personajes/secundarios/monsenor-luis-valverde|monsenor-luis-valverde]]"]'
 ---
 ## Hermano Diego Sánchez
 
@@ -53,6 +53,6 @@ Detrás de su apariencia superficial, Diego tiene una vida espiritual compleja. 
 ## Conexiones Importantes
 
 - **Basílica de San Pedro**: Su hogar y lugar de servicio
-- **[[alto-clero|Alto Clero]]**: La jerarquía que sirve
-- **[[monsenor-luis-valverde|Monseñor Luis Valverde]]**: Director de la Academia Teológica, figura del Alto Clero cuya erudición Diego admira y cuya autoridad lo inquieta a la vez
+- **[[1_trasfondo/facciones/iglesia-de-darsena/alto-clero|Alto Clero]]**: La jerarquía que sirve
+- **[[3_personajes/secundarios/monsenor-luis-valverde|Monseñor Luis Valverde]]**: Director de la Academia Teológica, figura del Alto Clero cuya erudición Diego admira y cuya autoridad lo inquieta a la vez
 - **Su Búsqueda Espiritual**: El secreto que podría costarle su posición

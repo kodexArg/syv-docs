@@ -9,17 +9,17 @@ aliases:
   - San La Muerte
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
-  - "[[umbanda]]"
-  - "[[guarani]]"
-  - "[[hermandades-y-ordenes-catolicas]]"
-  - "[[la-compania]]"
-  - "[[peronismo]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/credos/umbanda|umbanda]]"
+  - "[[1_trasfondo/credos/guarani|guarani]]"
+  - "[[1_trasfondo/credos/hermandades-y-ordenes-catolicas|hermandades-y-ordenes-catolicas]]"
+  - "[[1_trasfondo/credos/la-compania|la-compania]]"
+  - "[[1_trasfondo/credos/peronismo|peronismo]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[barrios-del-muro]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 
 **Tipo:** Proscrito

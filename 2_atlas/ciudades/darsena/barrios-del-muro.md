@@ -9,20 +9,20 @@ aliases:
   - Barrios del Muro
 tags: []
 related:
-  - "[[gremio-de-comercio]]"
-  - "[[resistencia-subterranea]]"
-  - "[[inquisicion]]"
-  - "[[traficantes-de-almas]]"
-  - "[[baterias]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/traficantes-de-almas|traficantes-de-almas]]"
+  - "[[2_atlas/tecnologia-y-ciencia/baterias|baterias]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 Los Barrios del Muro son el distrito más grande de Ciudad Dársena. Cinco kilómetros cuadrados de concreto apilado en vertical albergan nueve millones trescientas setenta y cinco mil almas—el setenta y cinco por ciento de la población total de la ciudad. Rodeados por el muro al oeste y al sur, estos barrios viven en el límite físico de la civilización conocida: al oeste se extienden las Tierras Baldías de la DMZ, áridas y letales bajo los francotiradores; al sur, el laberinto verde de Los Pantanos, marismas anegadas donde nadie se atreve a entrar.
 
 El hacinamiento tiene la densidad de un archivo comprimido: familias, clanes, bandas, todo mezclado en un sistema de compresión humana que nunca detona porque el equilibrio se sostiene sobre reglas propias, no sobre la ley escrita de la Curia.
 
-Algunos habitantes —menos de cincuenta mil en total, repartidos en bandas ocultas que operan en connivencia con clanes establecidos— viven bajo la clasificación de "Salvajes" según la **Ley X: De la Ciudadanía y la Barbarie**. Son una rareza, tolerados por gracia del Estado mientras permanezcan invisibles, vigilados por **[[direccion-nacional-de-seguridad|Seguridad Nacional]]** cuando emergen, evangelizados por la Iglesia cuando se dejan encontrar. Pero la inmensa mayoría está gobernada en la práctica por jerarquías que la burocracia oficial no registra ni entiende.
+Algunos habitantes —menos de cincuenta mil en total, repartidos en bandas ocultas que operan en connivencia con clanes establecidos— viven bajo la clasificación de "Salvajes" según la **Ley X: De la Ciudadanía y la Barbarie**. Son una rareza, tolerados por gracia del Estado mientras permanezcan invisibles, vigilados por **[[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|Seguridad Nacional]]** cuando emergen, evangelizados por la Iglesia cuando se dejan encontrar. Pero la inmensa mayoría está gobernada en la práctica por jerarquías que la burocracia oficial no registra ni entiende.
 
 ## La Oscuridad Vertical
 
@@ -36,7 +36,7 @@ La altura bloquea el cielo pero libera las terrazas.
 
 Cientos de metros arriba, donde los edificios más modernos terminan en plataformas descascaradas, florece otro mundo. Ahí sí llega la luz. El naranja de Dársena tiñe las reuniones clandestinas, las antenas piratas de radio AM, los jardines hidropónicos ilegales que los vecinos cultivan violando las ordenanzas agrícolas de la Curia.
 
-En esas terrazas, la fiesta heredada de otras culturas —cumbia del Viejo Mundo, candombe electrónico sin microchips, folklore amplificado con parlantes de 48V— late hasta el amanecer. La **Guardia de Dársena** no sube. **Seguridad Nacional** envía patrullas solo cuando hay denuncias de tráfico pesado, y las denuncias son raras porque el código del barrio castiga la delación con una eficiencia que la [[inquisicion|Sagrada Inquisición Argentina]] envidiaría.
+En esas terrazas, la fiesta heredada de otras culturas —cumbia del Viejo Mundo, candombe electrónico sin microchips, folklore amplificado con parlantes de 48V— late hasta el amanecer. La **Guardia de Dársena** no sube. **Seguridad Nacional** envía patrullas solo cuando hay denuncias de tráfico pesado, y las denuncias son raras porque el código del barrio castiga la delación con una eficiencia que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] envidiaría.
 
 Entre el crepúsculo del suelo y la luz de las terrazas se despliega el verdadero organigrama de poder: los **Punteros** que cobran "impuesto de protección" en las plazas de mercado informal, los **clanes familiares** que administran edificios enteros como feudos de concreto, las **bandas de tuberías** que mueven contrabando desde Las Tuberías hacia la superficie y desde la superficie hacia el exterior.
 
@@ -56,7 +56,7 @@ Hay luz y hay calor, pero no hay agua.
 
 Cada edificio recibe **electricidad ilimitada de muy baja intensidad** —suficiente para cocinar, calentarse y alumbrar, jamás para una máquina seria—, un chorro constante y débil que nunca se corta. El agua es la otra historia: escasea de raíz, se raciona por turnos, se sube en bidones piso por piso. Un vecino puede tener la lámpara encendida toda la noche y la canilla seca toda la semana.
 
-La sed es cuestión de altura. La red pública sube con bomba chica, de presión baja: llega con holgura a la planta baja y a los primeros pisos, pero no trepa los cuarenta, ochenta, cien pisos de los monobloques. Cuanto más alto vivís, menos agua te llega, hasta que arriba de todo no llega nada. Los de los pisos altos bajan a los puntos públicos a llenar bidones y los cargan por la escalera a pulmón, o bombean el agua con potencia robada de la red o con [[baterias|batería]] prohibida: el que puede pagar el robo sube agua, el que no acarrea baldes.
+La sed es cuestión de altura. La red pública sube con bomba chica, de presión baja: llega con holgura a la planta baja y a los primeros pisos, pero no trepa los cuarenta, ochenta, cien pisos de los monobloques. Cuanto más alto vivís, menos agua te llega, hasta que arriba de todo no llega nada. Los de los pisos altos bajan a los puntos públicos a llenar bidones y los cargan por la escalera a pulmón, o bombean el agua con potencia robada de la red o con [[2_atlas/tecnologia-y-ciencia/baterias|batería]] prohibida: el que puede pagar el robo sube agua, el que no acarrea baldes.
 
 Y si el agua es la obsesión de todos los días, el **fuego es la pesadilla**. Se cocina con barras químicas que, una vez encendidas, no las apaga nada —ni agua, ni ahogo, ni tiempo—: arden hasta consumirse solas. En una vertical hacinada de miles de personas, un solo accidente puede incinerar una torre entera antes de que nadie llegue a bajar. El incendio es al Muro lo que el naufragio a un barco: la muerte que todos llevan puesta sin nombrarla.
 
@@ -78,7 +78,7 @@ Hoy muestran las cicatrices del tiempo: grietas reparadas con cemento más claro
 
 Son más altos y esbeltos que sus predecesores, aprovechando mejor el espacio vertical mientras conservan paredes de metro y medio de grosor.
 
-Aquí vive la mayor densidad poblacional. Aquí se concentran los mercados informales, las cocinas colectivas, los talleres clandestinos donde se reparan electrodomésticos de 48V sin pagar la licencia del [[gremio-de-comercio|Gremio de Comercio]]. Las escaleras internas son arterias de tránsito constante: gente subiendo con bidones de agua, gente bajando con bolsas de basura, gente que simplemente vive en el flujo perpetuo de un edificio que nunca duerme.
+Aquí vive la mayor densidad poblacional. Aquí se concentran los mercados informales, las cocinas colectivas, los talleres clandestinos donde se reparan electrodomésticos de 48V sin pagar la licencia del [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]]. Las escaleras internas son arterias de tránsito constante: gente subiendo con bidones de agua, gente bajando con bolsas de basura, gente que simplemente vive en el flujo perpetuo de un edificio que nunca duerme.
 
 **Los más modernos** —los últimos construidos al sur, levantados en 2120 durante la última gran expansión antes del estancamiento— muestran una paradoja arquitectónica. Son los más altos (algunos superan los ochenta metros), con estructuras más refinadas que aprovechan técnicas de ingeniería desarrolladas bajo el Anatema.
 
@@ -140,7 +140,7 @@ Cuando las festividades cruzan líneas que escandalizan incluso a una Iglesia ac
 
 Ceremonias donde se mezcla sexo, drogas y fervor religioso en proporciones que la Curia considera demoníacas.
 
-Los Censores de la Iglesia mapean estas celebraciones, infiltran las redes, arrestan a los líderes más visibles. Las redadas son ejemplares. Los arrestados desaparecen en los [[campos-de-reeducacion|Campos de Reeducación de la Zona del Cráter]] o son desterrados a trabajos forzados en los campos de cultivo de [[cordoba|Córdoba]].
+Los Censores de la Iglesia mapean estas celebraciones, infiltran las redes, arrestan a los líderes más visibles. Las redadas son ejemplares. Los arrestados desaparecen en los [[2_atlas/ciudades/darsena/campos-de-reeducacion|Campos de Reeducación de la Zona del Cráter]] o son desterrados a trabajos forzados en los campos de cultivo de [[2_atlas/ciudades/cordoba/cordoba|Córdoba]].
 
 El mensaje es claro: adorá lo que quieras, pero callado, discreto, sin orgullos.
 
@@ -176,7 +176,7 @@ Hay violencia: ajustes de cuentas entre bandas, palizas en callejones, desaparec
 
 La Sagrada Inquisición Argentina interviene cuando puede. Seguridad Nacional arresta cuando tiene recursos. Pero el sistema es demasiado grande, demasiado complejo, demasiado necesario para el funcionamiento de Dársena como para desmontarlo de raíz.
 
-Los Barrios del Muro no son ni el infierno que describe la propaganda de la Curia ni el paraíso libertario que romantiza la [[resistencia-subterranea|Resistencia Subterránea]]. Son un organismo. Una ciudad dentro de la ciudad. Nueve millones trescientas setenta y cinco mil personas viviendo en un equilibrio inestable que, por ahora, no colapsa.
+Los Barrios del Muro no son ni el infierno que describe la propaganda de la Curia ni el paraíso libertario que romantiza la [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]]. Son un organismo. Una ciudad dentro de la ciudad. Nueve millones trescientas setenta y cinco mil personas viviendo en un equilibrio inestable que, por ahora, no colapsa.
 
 El tufo a mierda y a libertad es real.
 
@@ -184,11 +184,11 @@ Ambos.
 
 ## La Zona Roja y el turismo escondido
 
-El núcleo más comprimido del complejo, la **Zona Roja**, es también donde vive la oferta que la ciudad niega: el **turismo sexual**, bien escondido de los propios turistas. Contra el **Muro Sur**, entre tugurios y sótanos, se mueve un comercio de carne que la Curia no admite y la SIA sólo persigue cuando el exceso escandaliza. No se lo anuncia ni se lo señala: el [[extranjeros-y-apatridas|turista]] que lo busca lo encuentra por boca de puntero, nunca por cartel. Es el reverso del turismo gastronómico y religioso —comparte muro y clientela con la Zona Roja del [[barrio-de-los-pescadores|Barrio de los Pescadores]]—, y como aquél, prospera exactamente por permanecer invisible.
+El núcleo más comprimido del complejo, la **Zona Roja**, es también donde vive la oferta que la ciudad niega: el **turismo sexual**, bien escondido de los propios turistas. Contra el **Muro Sur**, entre tugurios y sótanos, se mueve un comercio de carne que la Curia no admite y la SIA sólo persigue cuando el exceso escandaliza. No se lo anuncia ni se lo señala: el [[1_trasfondo/codex/extranjeros-y-apatridas|turista]] que lo busca lo encuentra por boca de puntero, nunca por cartel. Es el reverso del turismo gastronómico y religioso —comparte muro y clientela con la Zona Roja del [[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de los Pescadores]]—, y como aquél, prospera exactamente por permanecer invisible.
 
 ## Superficie y población (mapa)
 
-El mapa interactivo ([[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada de `syv-map`) asigna al **complejo del Muro** —Barrios del Muro más su núcleo comprimido, la **Zona Roja**— una superficie de **5,73 km²** y una población de **9,375 M** (el 75 % de la ciudad): una densidad media de **~1.635.000 hab/km²**, la más brutal de la Confederación.
+El mapa interactivo ([[2_atlas/ciudades/darsena/leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada de `syv-map`) asigna al **complejo del Muro** —Barrios del Muro más su núcleo comprimido, la **Zona Roja**— una superficie de **5,73 km²** y una población de **9,375 M** (el 75 % de la ciudad): una densidad media de **~1.635.000 hab/km²**, la más brutal de la Confederación.
 
 La cifra no es obra nueva. Las torres ya estaban ahí —apiladas, invisibles, subcontadas. El salto de los viejos «3,5 M» a los 9,375 M actuales es el Estado admitiendo por fin lo que nunca supo censar: cuánta gente respira de verdad detrás de esos portones. Nadie construyó nada. Sólo se los contó.
 
@@ -198,7 +198,7 @@ El gradiente es vertical. Al sur, los monobloques brutalistas trepan cien pisos 
 
 ### Mercado Subterráneo de Antigua Estación
 
-Ubicado en una vasta y abandonada estación de metro, este mercado es el corazón comercial y social de los Barrios del Muro. También es un punto de acceso clave a [[tuberias|Las Tuberías]].
+Ubicado en una vasta y abandonada estación de metro, este mercado es el corazón comercial y social de los Barrios del Muro. También es un punto de acceso clave a [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]].
 
 Las bóvedas de concreto del techo amplifican las voces de los vendedores en un eco perpetuo que suena a catedral profana. Los puestos se apilan en las vías muertas, entre rieles oxidados que ya no llevan a ninguna parte.
 
@@ -230,7 +230,7 @@ La Sagrada Inquisición Argentina manda infiltrados. Los infiltrados son identif
 
 Aunque se extienden por debajo de toda la ciudad, es en los Barrios del Muro donde Las Tuberías tienen su mayor densidad y población. Son una red de regiones subterráneas donde se mezclan distintos estratos sociales.
 
-Obreros del Gremio de Mantenimiento que trabajan en turnos de doce horas. Fugitivos de la justicia que viven en los túneles ciegos. Comunidades enteras de clasificados como "Salvajes" —menos de veinte mil almas repartidas en bandas dispersas, operando en connivencia con los [[traficantes-de-almas|Traficantes de Almas]] y otros grupos establecidos— que nunca subieron a la superficie.
+Obreros del Gremio de Mantenimiento que trabajan en turnos de doce horas. Fugitivos de la justicia que viven en los túneles ciegos. Comunidades enteras de clasificados como "Salvajes" —menos de veinte mil almas repartidas en bandas dispersas, operando en connivencia con los [[1_trasfondo/facciones/facciones-menores/traficantes-de-almas|Traficantes de Almas]] y otros grupos establecidos— que nunca subieron a la superficie.
 
 Facciones como los **Ladrones y Contrabandistas** controlan vastos sectores de este mundo subterráneo.
 

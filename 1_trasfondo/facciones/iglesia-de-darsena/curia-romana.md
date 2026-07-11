@@ -10,15 +10,15 @@ aliases:
   - La Curia
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[sumo-pontifice]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[3_personajes/principales/sumo-pontifice|sumo-pontifice]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 
 Ficha por desarrollar. Stub creado para un órgano de gobierno eclesiástico referenciado en el codex y facciones pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 
-- Consejo de cardenales dirigido por el [[sumo-pontifice|Sumo Pontífice]]; instituida en [[darsena|Dársena]] pero con autoridad sobre toda la Confederación.
-- Órgano central de la [[iglesia|Iglesia]] tras reemplazar de facto al Vaticano.
+- Consejo de cardenales dirigido por el [[3_personajes/principales/sumo-pontifice|Sumo Pontífice]]; instituida en [[2_atlas/ciudades/darsena/darsena|Dársena]] pero con autoridad sobre toda la Confederación.
+- Órgano central de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] tras reemplazar de facto al Vaticano.

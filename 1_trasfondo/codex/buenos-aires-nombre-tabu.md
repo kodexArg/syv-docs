@@ -11,11 +11,11 @@ entidad: concepto
 estado: canon
 folder: 1_trasfondo/codex
 related:
-- '[[darsena]]'
-- '[[2039-el-meteorito-de-buenos-aires]]'
-- '[[anatema-mecanico]]'
-- '[[salvajes]]'
-- '[[fuera-del-muro]]'
+- '[[2_atlas/ciudades/darsena/darsena|darsena]]'
+- '[[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]]'
+- '[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]'
+- '[[1_trasfondo/codex/salvajes|salvajes]]'
+- '[[2_atlas/ciudades/darsena/fuera-del-muro|fuera-del-muro]]'
 tags: []
 title: El Nombre Prohibido
 ---
@@ -25,9 +25,9 @@ title: El Nombre Prohibido
 
 ## El tabú
 
-En toda la Confederación Argentina, **«Buenos Aires» es un nombre que no se pronuncia**. No hay ley escrita que lo prohíba —o si la hay, nadie la necesita—: es un tabú de costumbre, hondo y unánime, tan viejo como la Nube Roja. La ciudad que fue capital del mundo muerto cayó bajo el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] el 4 de abril de 2039, y con ella se hundió su nombre. Nombrarla es tentar al designio que la borró; es invocar lo que está maldito. La gente sencilla lo sabe sin que nadie se lo enseñe, y los que peregrinan al lago que fue herida van y vuelven rápido, sin decir en voz alta a dónde fueron.
+En toda la Confederación Argentina, **«Buenos Aires» es un nombre que no se pronuncia**. No hay ley escrita que lo prohíba —o si la hay, nadie la necesita—: es un tabú de costumbre, hondo y unánime, tan viejo como la Nube Roja. La ciudad que fue capital del mundo muerto cayó bajo el [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] el 4 de abril de 2039, y con ella se hundió su nombre. Nombrarla es tentar al designio que la borró; es invocar lo que está maldito. La gente sencilla lo sabe sin que nadie se lo enseñe, y los que peregrinan al lago que fue herida van y vuelven rápido, sin decir en voz alta a dónde fueron.
 
-Lo que sobrevivió de aquella ciudad no heredó su nombre: heredó su lugar. Sobre las ruinas, apretada entre el muro de veinte metros y el Río de la Plata, la humanidad levantó [[darsena|Ciudad Dársena]] —bastión de hormigón y fe, corazón de la Confederación—. Dársena **nace del meteorito**, no de Buenos Aires; se define por lo que la humanidad construyó de las ruinas, no por lo que las ruinas fueron.
+Lo que sobrevivió de aquella ciudad no heredó su nombre: heredó su lugar. Sobre las ruinas, apretada entre el muro de veinte metros y el Río de la Plata, la humanidad levantó [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]] —bastión de hormigón y fe, corazón de la Confederación—. Dársena **nace del meteorito**, no de Buenos Aires; se define por lo que la humanidad construyó de las ruinas, no por lo que las ruinas fueron.
 
 ## Cómo se la evoca
 
@@ -35,10 +35,10 @@ Cuando hay que referirse a la ciudad vieja, se la rodea. Nunca se la nombra de f
 
 - **«la ciudad al pie del meteorito»** — la más común; la ubica por la herida.
 - **«el bastión que la humanidad levantó de las ruinas»** — la evoca por lo que se construyó, no por lo que se perdió.
-- **«Las Ruinas»** — el rodeo más llano y cotidiano: no la ciudad viva ni el lago que fue herida, sino el cascoterío seco que la rodea, la huella de escombros que se puede pisar. Es como el habla de [[darsena|Dársena]] señala el desierto de ruinas del oeste sin nombrarlo; ahí, entre los cascotes, rondan los [[salvajes|Salvajes]].
+- **«Las Ruinas»** — el rodeo más llano y cotidiano: no la ciudad viva ni el lago que fue herida, sino el cascoterío seco que la rodea, la huella de escombros que se puede pisar. Es como el habla de [[2_atlas/ciudades/darsena/darsena|Dársena]] señala el desierto de ruinas del oeste sin nombrarlo; ahí, entre los cascotes, rondan los [[1_trasfondo/codex/salvajes|Salvajes]].
 - **«la que el hielo borró»**, **«la capital del mundo muerto»**, **«lo que hubo antes del cráter»** — variantes de rodeo, todas orientadas al meteorito y a la fundación.
 
-El [[anatema-mecanico|Anatema Mecánico]] silencia la técnica del Viejo Mundo; el tabú del nombre silencia su capital. Son dos caras de la misma amnesia consagrada: lo que no se nombra, no vuelve.
+El [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] silencia la técnica del Viejo Mundo; el tabú del nombre silencia su capital. Son dos caras de la misma amnesia consagrada: lo que no se nombra, no vuelve.
 
 ## Función narrativa (aplica a todo el corpus)
 
@@ -49,13 +49,13 @@ Los relatos, crónicas, cartas y descripciones **nunca afirman que Ciudad Dárse
 
 Excepciones admitidas, siempre **fuera de la voz in-mundo**:
 
-- **Fichas de trasfondo, atlas y aparato historiográfico** (como la crónica del [[2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]] o la ficha de [[darsena|Dársena]]) pueden nombrar «Buenos Aires» de forma explícita: son registro de archivo, no habla de personaje. Ahí el nombre es dato, no invocación.
+- **Fichas de trasfondo, atlas y aparato historiográfico** (como la crónica del [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]] o la ficha de [[2_atlas/ciudades/darsena/darsena|Dársena]]) pueden nombrar «Buenos Aires» de forma explícita: son registro de archivo, no habla de personaje. Ahí el nombre es dato, no invocación.
 - Cuando un personaje **rompe el tabú a propósito** —un hereje, un archivista audaz, un moribundo—, decirlo es un gesto cargado, y debe leerse como tal: nombrarla cuesta.
 
 En la voz del mundo —diálogo, pensamiento, prédica, canción popular— el nombre viejo se calla. La ciudad se señala; no se nombra.
 
 ## Ver también
 
-- [[darsena]] — el bastión que nació de las ruinas
-- [[2039-el-meteorito-de-buenos-aires]] — el hielo que borró la capital y su nombre
-- [[anatema-mecanico]] — la otra amnesia consagrada: el silencio de la técnica
+- [[2_atlas/ciudades/darsena/darsena|darsena]] — el bastión que nació de las ruinas
+- [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]] — el hielo que borró la capital y su nombre
+- [[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]] — la otra amnesia consagrada: el silencio de la técnica

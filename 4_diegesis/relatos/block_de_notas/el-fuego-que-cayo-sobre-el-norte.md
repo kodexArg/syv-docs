@@ -9,9 +9,9 @@ entidad: relato
 estado: canon
 folder: 4_diegesis/relatos/block_de_notas
 related:
-  - "[[2031-la-fragmentacion-de-argentina]]"
-  - "[[cronologia]]"
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|2031-la-fragmentacion-de-argentina]]"
+  - "[[1_trasfondo/cronologia|cronologia]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
   - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]"
   - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]]"
   - "[[1_trasfondo/facciones/facciones-menores/cruzados-argentinos|Cruzados
@@ -44,9 +44,9 @@ Y de aquel pozo humeante, por uno de esos designios que el Archivista aprende a 
 
 ## Ver
 
-- [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]
-- [[cronologia|Cronología (2020–2178)]]
-- [[qia-inteligencias-artificiales-cuanticas|Las QIA y el Nodo Sur]]
+- [[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]
+- [[1_trasfondo/cronologia|Cronología (2020–2178)]]
+- [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Las QIA y el Nodo Sur]]
 - [[2_atlas/climas/clima-2178|El Clima de 2178 y la Nube Roja]]
 - [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]]
 - [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]
@@ -55,7 +55,7 @@ Y de aquel pozo humeante, por uno de esos designios que el Archivista aprende a 
 
 ## Epílogo
 
-Permítaseme cerrar este pergamino no ya como cronista del fuego, sino como testigo de lo que el fuego, sin proponérselo, hizo nacer; pues mi oficio me enseñó que una cultura se mide por las herramientas que se permite y, sobre todo, por las que renuncia a tener. Cuando la Bestia astillada hubo de ser sepultada bajo el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] de 2061, Dársena no se condenó a la oscuridad: se obligó a una elegancia áspera. Renunciado el silicio —ese becerro nanométrico cuya miniaturización era la puerta misma de la autoevolución—, lo que quedó no fue carencia sino disciplina, y de esa disciplina brotó toda una cultura material que conviene medir con rigor. La red que alumbra nuestros hogares no pasa de cuarenta y ocho voltios en corriente continua, con diez amperios por familia y nuestras lámparas de diodo ardiendo a tres voltios: cifras humildes, escogidas para que ningún niño muera electrocutado y para que el austero no sea virtud sino ley física, de modo que el dogma y el amperímetro dicen la misma cosa. Sobre esa medida exacta se levantó un pueblo que aprendió a guardar su energía en arena y sal —silicatos de playas envenenadas, electrolito del Plata—, baterías diez o veinte veces más voluminosas que las del Viejo Mundo y que devuelven apenas tres de cada cinco cargas, pero que cualquier barrio fabrica con sus propias manos: el tranvía que recoge su corriente del riel y el carguero blindado que dormita seis horas para rodar otras tantas son monumentos a esa renuncia fértil. Floreció así, en lo analógico, lo que el procesador nos había arrebatado: pantallas de plasma encendidas célula a célula por fibra óptica y no por un cerebro de transistores, calculadoras electromecánicas que cuentan sin pensar, el [[procesador-argentino-pia|PIA]] de ochenta hilos de cobre macroscópico —tan grande que jamás podrá evolucionar, y por eso tolerado—, y allá en [[capital|Córdoba]] los helióstatos que siguen el sol por dilatación de un metal y los puentes de diodos que rectifican a esos mismos cuarenta y ocho voltios la corriente del viento y la fisión. He aquí mi conclusión de Archivista: nuestra civilización no es pobre por haber renunciado al silicio, es libre y reproducible donde el Viejo Mundo fue veloz y esclavo; la cultura de Dársena —su música de rieles, su luz de tres voltios, su fe que vigila cada chispa— es la prueba viviente de que el espíritu humano, expulsado del procesador, no murió: aprendió de nuevo a florecer en el cobre, en la sal y en la lenta electricidad honesta de las cosas que un hombre todavía puede entender con sus manos.
+Permítaseme cerrar este pergamino no ya como cronista del fuego, sino como testigo de lo que el fuego, sin proponérselo, hizo nacer; pues mi oficio me enseñó que una cultura se mide por las herramientas que se permite y, sobre todo, por las que renuncia a tener. Cuando la Bestia astillada hubo de ser sepultada bajo el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] de 2061, Dársena no se condenó a la oscuridad: se obligó a una elegancia áspera. Renunciado el silicio —ese becerro nanométrico cuya miniaturización era la puerta misma de la autoevolución—, lo que quedó no fue carencia sino disciplina, y de esa disciplina brotó toda una cultura material que conviene medir con rigor. La red que alumbra nuestros hogares no pasa de cuarenta y ocho voltios en corriente continua, con diez amperios por familia y nuestras lámparas de diodo ardiendo a tres voltios: cifras humildes, escogidas para que ningún niño muera electrocutado y para que el austero no sea virtud sino ley física, de modo que el dogma y el amperímetro dicen la misma cosa. Sobre esa medida exacta se levantó un pueblo que aprendió a guardar su energía en arena y sal —silicatos de playas envenenadas, electrolito del Plata—, baterías diez o veinte veces más voluminosas que las del Viejo Mundo y que devuelven apenas tres de cada cinco cargas, pero que cualquier barrio fabrica con sus propias manos: el tranvía que recoge su corriente del riel y el carguero blindado que dormita seis horas para rodar otras tantas son monumentos a esa renuncia fértil. Floreció así, en lo analógico, lo que el procesador nos había arrebatado: pantallas de plasma encendidas célula a célula por fibra óptica y no por un cerebro de transistores, calculadoras electromecánicas que cuentan sin pensar, el [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|PIA]] de ochenta hilos de cobre macroscópico —tan grande que jamás podrá evolucionar, y por eso tolerado—, y allá en [[2_atlas/ciudades/cordoba/capital|Córdoba]] los helióstatos que siguen el sol por dilatación de un metal y los puentes de diodos que rectifican a esos mismos cuarenta y ocho voltios la corriente del viento y la fisión. He aquí mi conclusión de Archivista: nuestra civilización no es pobre por haber renunciado al silicio, es libre y reproducible donde el Viejo Mundo fue veloz y esclavo; la cultura de Dársena —su música de rieles, su luz de tres voltios, su fe que vigila cada chispa— es la prueba viviente de que el espíritu humano, expulsado del procesador, no murió: aprendió de nuevo a florecer en el cobre, en la sal y en la lenta electricidad honesta de las cosas que un hombre todavía puede entender con sus manos.
 
 ---
 

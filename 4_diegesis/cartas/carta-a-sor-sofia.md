@@ -12,13 +12,13 @@ tags: []
 related:
   - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
-  - "[[syv-docs/4_diegesis/relatos/cursiva|Cursiva]]"
+  - "[[4_diegesis/relatos/cursiva|Cursiva]]"
 facciones:
-  - "[[las-manos-calladas]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|las-manos-calladas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 Querida hermana,
 
@@ -28,7 +28,7 @@ Desde los rincones más olvidados y sombríos de nuestra amada Dársena, allí d
 
 Fue entonces, hace ya cosa de dos meses o tres, que entre los ecos de estos pasillos, entre penumbras y susurros, comencé a percibir que ciertos rumores se repetían y daban cuenta de entidades sombrías que, alimentándose de la desesperanza y el miedo, esclavizaban a las almas más desprotegidas. Los afectados, según relatos cada vez más frecuentes, mostraban una agitación inusitada, hablaban en susurros, en lenguas desconocidas, y sus cuerpos se contorsionaban de maneras antinaturales. Se decía que algunos veían sombras donde no las había, mientras otros se retraían en un silencio sepulcral, solo para romperlo con gritos desgarradores sin causa aparente.
 
-Tras ser desoída por aquellos que aún rezan a la luz del día, hallé refugio entre [[las-manos-calladas|Las Manos Calladas]], red sin hábito ni sede que extiende la mano en lo oscuro, donde la caridad no se proclama sino que se esconde, y decidí emprender mi propia investigación. Comencé a recopilar testimonios y evidencias, determinada a descubrir la verdad detrás de los rumores que agitan nuestras calles.
+Tras ser desoída por aquellos que aún rezan a la luz del día, hallé refugio entre [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]], red sin hábito ni sede que extiende la mano en lo oscuro, donde la caridad no se proclama sino que se esconde, y decidí emprender mi propia investigación. Comencé a recopilar testimonios y evidencias, determinada a descubrir la verdad detrás de los rumores que agitan nuestras calles.
 
 Desde entonces no he vuelto a ver el sol, y camino en secreto por las arterias de nuestra ciudad, allí donde no somos bienvenidas, en una misión para enfrentar y comprender este mal superior. Un mal que, intuyo, trasciende nuestro plano físico y que, lamentablemente, he encontrado manifestándose de las formas más atroces. Los susurros me han traído al sur, al lugar más olvidado y peligroso de Dársena, donde la luz del día no se conoce y el sufrimiento de nuestros hermanos y hermanas se hace más palpable.
 

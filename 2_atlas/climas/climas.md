@@ -10,5 +10,5 @@ Aquí se documenta cómo el clima post-guerra se convirtió en arma de clase: lo
 
 ## Documentos
 
-- [[clima-2178]] — estado climático al año de la historia
-- [[humedad-post-guerra]] — la humedad perpetua como arma de clase
+- [[2_atlas/climas/clima-2178|clima-2178]] — estado climático al año de la historia
+- [[2_atlas/climas/humedad-post-guerra|humedad-post-guerra]] — la humedad perpetua como arma de clase

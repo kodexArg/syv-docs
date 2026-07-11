@@ -29,7 +29,7 @@ Aunque los **motores de combustión interna no están prohibidos** por el [[1_tr
 **Motores eléctricos:**
 - **Electricidad abundante y barata:** Generación centralizada a bajo costo (nuclear, hidráulica, térmica)
 - **Mantenimiento simple:** Menos piezas móviles, reparaciones locales
-- **Baterías económicas:** Tecnología de arena y sal (ver [[electricidad|Electricidad y Energía]]) - materiales abundantes aunque voluminosas
+- **Baterías económicas:** Tecnología de arena y sal (ver [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad y Energía]]) - materiales abundantes aunque voluminosas
 - **Preferencia universal:** Incluso las Fuerzas Armadas prefieren vehículos eléctricos en ciudades por economía operativa
 
 ### Transporte Público Eléctrico
@@ -37,7 +37,7 @@ Aunque los **motores de combustión interna no están prohibidos** por el [[1_tr
 -   **Alimentación por Rieles**: El sistema principal de energía proviene de los propios rieles. Los tranvías están equipados con patines de contacto que recogen la electricidad de forma continua. Este método es eficiente y reduce la necesidad de baterías pesadas a bordo.
 -   **Baterías de Arena y Sal**: Para tramos sin electrificación directa, los tranvías usan bancos de baterías de arena y sal. Aunque voluminosas (ocupan compartimentos bajo asientos), su costo es tan bajo que resulta más económico que cualquier alternativa de combustión.
 
-    **Para especificaciones técnicas completas**: Ver [[sistemas-energeticos|Sistemas Energéticos → Baterías de Arena y Sal]] o [[electricidad|Electricidad → Baterías y Almacenamiento]].
+    **Para especificaciones técnicas completas**: Ver [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|Sistemas Energéticos → Baterías de Arena y Sal]] o [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad → Baterías y Almacenamiento]].
 
 ## Sistema de Purificación de Agua
 

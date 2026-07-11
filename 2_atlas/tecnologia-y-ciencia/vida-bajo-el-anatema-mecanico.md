@@ -13,10 +13,10 @@ estado: canon
 folder: 2_atlas/tecnologia-y-ciencia
 related:
 - '[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico (doctrina)]]'
-- '[[inquisicion]]'
-- '[[qia-inteligencias-artificiales-cuanticas]]'
-- '[[procesador-argentino-pia]]'
-- '[[el-fuego-que-cayo-sobre-el-norte]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]'
+- '[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]'
+- '[[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|procesador-argentino-pia]]'
+- '[[4_diegesis/relatos/block_de_notas/el-fuego-que-cayo-sobre-el-norte|el-fuego-que-cayo-sobre-el-norte]]'
 tags: []
 title: La Vida bajo el Anatema Mecánico
 ---
@@ -61,7 +61,7 @@ Dentro de esos umbrales, la vida cotidiana de la Confederación tomó una forma 
 - Alcanza para la iluminación por diodos (LED) y para pequeños electrodomésticos de lógica simple.
 - Excepciones cruciales —la purificación de agua, las colosales Granjas Hidropónicas— demandan corrientes mayores, alimentadas por una central nuclear soterrada cuyo emplazamiento es el secreto mejor guardado de la Confederación.
 
-La cifra no es casual ni mezquina: 48 voltios es la frontera donde la electricidad deja de poder matar a un niño descuidado. La austeridad dejó de ser virtud para volverse ley física —el dogma y el amperímetro dicen, por una vez, exactamente lo mismo—. Para la versión lírica de esta misma renuncia, véase el testimonio del Archivista en [[el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]].
+La cifra no es casual ni mezquina: 48 voltios es la frontera donde la electricidad deja de poder matar a un niño descuidado. La austeridad dejó de ser virtud para volverse ley física —el dogma y el amperímetro dicen, por una vez, exactamente lo mismo—. Para la versión lírica de esta misma renuncia, véase el testimonio del Archivista en [[4_diegesis/relatos/block_de_notas/el-fuego-que-cayo-sobre-el-norte|El Fuego que Cayó sobre el Norte]].
 
 ### La información sin cerebro: la astucia analógica
 
@@ -82,7 +82,7 @@ El corazón de cómputo permitido es el **Procesador de Industria Argentina (PIA
 - **El tamaño impone el límite**: complejidad equivale a tamaño; sin silicio no hay miniaturización posible.
 - **Vigilancia constante de la SIA**: sobre todo donde se concentra (Torres Hidropónicas, muelles).
 
-Sus aplicaciones —PDAs civiles, «chips homologados» certificados por la Iglesia, automatización de Torres Hidropónicas, gestión de muelles, tecnología militar con celdas de radionúclidos— y sus especificaciones completas viven en [[procesador-argentino-pia|Procesador de Industria Argentina]]. El PIA es la aceptación a regañadientes de que cierta computación es necesaria para sobrevivir, mientras sea artesanal, limitada por la física, vigilada e incapaz de evolucionar.
+Sus aplicaciones —PDAs civiles, «chips homologados» certificados por la Iglesia, automatización de Torres Hidropónicas, gestión de muelles, tecnología militar con celdas de radionúclidos— y sus especificaciones completas viven en [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina]]. El PIA es la aceptación a regañadientes de que cierta computación es necesaria para sobrevivir, mientras sea artesanal, limitada por la física, vigilada e incapaz de evolucionar.
 
 ### Visualización y armamento
 

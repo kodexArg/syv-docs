@@ -9,24 +9,24 @@ aliases:
   - Microcentro
 tags: []
 related:
-  - "[[arpistas]]"
-  - "[[los-criptografos]]"
-  - "[[masones]]"
-  - "[[gremio-de-comercio]]"
-  - "[[resistencia-subterranea]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"
+  - "[[1_trasfondo/facciones/facciones-menores/masones|masones]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[zona-centro]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/zona-centro|zona-centro]]"
 ---
-El Microcentro es el corazón neurálgico de Ciudad [[darsena|Dársena]]. Junto con la [[zona-centro|Zona Centro]], forma una gran área de 5 km² donde 300.000 residentes permanentes se mezclan con más de un millón de trabajadores diarios. Es un distrito caótico y superpoblado donde la burocracia del estado, el comercio y las operaciones clandestinas chocan en un torbellino de actividad incesante. Los restos de la antigua opulencia arquitectónica de Buenos Aires se mezclan con estructuras improvisadas y una multitud constante que se abre paso por sus calles abarrotadas.
+El Microcentro es el corazón neurálgico de Ciudad [[2_atlas/ciudades/darsena/darsena|Dársena]]. Junto con la [[2_atlas/ciudades/darsena/zona-centro|Zona Centro]], forma una gran área de 5 km² donde 300.000 residentes permanentes se mezclan con más de un millón de trabajadores diarios. Es un distrito caótico y superpoblado donde la burocracia del estado, el comercio y las operaciones clandestinas chocan en un torbellino de actividad incesante. Los restos de la antigua opulencia arquitectónica de Buenos Aires se mezclan con estructuras improvisadas y una multitud constante que se abre paso por sus calles abarrotadas.
 
 ## Lugares de Interés
 
 ### **Edificio de la Aduana Nacional (Antigua Casa Rosada)**
-El centro administrativo de Dársena, sobrecargado y laberíntico. Aquí se gestiona el flujo de bienes y personas que entran y salen de la ciudad. Es un punto de interés clave para facciones como los [[arpistas|Arpistas]] y los [[los-criptografos|Criptógrafos]], que buscan influir en el comercio de tecnología permitida y obtener información privilegiada sobre artefactos interceptados, y para el [[gremio-de-comercio|Gremio de Comerciantes]], que negocia permisos y aranceles.
+El centro administrativo de Dársena, sobrecargado y laberíntico. Aquí se gestiona el flujo de bienes y personas que entran y salen de la ciudad. Es un punto de interés clave para facciones como los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] y los [[1_trasfondo/facciones/facciones-menores/los-criptografos|Criptógrafos]], que buscan influir en el comercio de tecnología permitida y obtener información privilegiada sobre artefactos interceptados, y para el [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comerciantes]], que negocia permisos y aranceles.
 
 ### **Paseo San Martín**
-Un extenso y caótico mercado que se extiende por varias calles. Es un laberinto de puestos y vendedores ambulantes que ofrecen desde alimentos básicos y ropa hasta piezas mecánicas y artefactos recuperados. Es un territorio neutral donde convergen comerciantes de todas las facciones. Los [[masones|Masones]], por ejemplo, lo utilizan para intercambiar discretamente conocimiento y bienes culturales.
+Un extenso y caótico mercado que se extiende por varias calles. Es un laberinto de puestos y vendedores ambulantes que ofrecen desde alimentos básicos y ropa hasta piezas mecánicas y artefactos recuperados. Es un territorio neutral donde convergen comerciantes de todas las facciones. Los [[1_trasfondo/facciones/facciones-menores/masones|Masones]], por ejemplo, lo utilizan para intercambiar discretamente conocimiento y bienes culturales.
 
 ### **Plaza de los Susurros**
 Una plaza rodeada de cafés decrépitos y pequeños negocios. Su nombre se debe a su reputación como punto de encuentro para espías, informantes y contrabandistas. Aquí, los secretos son una mercancía tan valiosa como cualquier otra, y un simple café puede ser la tapadera para una transacción que podría cambiar el equilibrio de poder en la ciudad.
@@ -38,7 +38,7 @@ Una antigua torre de comunicaciones, reutilizada para coordinar la vigilancia y 
 El principal hospital público de Dársena. Es una institución masiva, perpetuamente abarrotada y con una crónica escasez de recursos. Atenderse aquí es una prueba de paciencia y resistencia, pero para la gran mayoría de la población, es la única opción.
 
 ### **Callejones Secretos**
-Una red de pasajes estrechos, callejuelas y sótanos interconectados que forman un laberinto bajo las calles principales del Microcentro. Originalmente sistemas de alcantarillado y servicios pre-colapso, han sido reutilizados y expandidos por grupos clandestinos. Estos callejones albergan refugios improvisados, mercados negros itinerantes, y son vías de escape vitales para la [[resistencia-subterranea|Resistencia Subterránea]] y contrabandistas. El acceso es conocido solo por habitantes locales de larga data, lo que los convierte en territorio práctico de auto-gobierno a pesar de la vigilancia teórica del Estado.
+Una red de pasajes estrechos, callejuelas y sótanos interconectados que forman un laberinto bajo las calles principales del Microcentro. Originalmente sistemas de alcantarillado y servicios pre-colapso, han sido reutilizados y expandidos por grupos clandestinos. Estos callejones albergan refugios improvisados, mercados negros itinerantes, y son vías de escape vitales para la [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]] y contrabandistas. El acceso es conocido solo por habitantes locales de larga data, lo que los convierte en territorio práctico de auto-gobierno a pesar de la vigilancia teórica del Estado.
 
 ## Dinámica Política y Comercial
 

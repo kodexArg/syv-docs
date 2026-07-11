@@ -14,13 +14,13 @@ folder: 1_trasfondo/codex
 related:
 - '[[2_atlas/climas/clima-2178|Clima 2178]]'
 - '[[2_atlas/climas/humedad-post-guerra|Humedad Post-Guerra]]'
-- '[[anatema-mecanico|Anatema Mecánico]]'
-- '[[2057-el-pico-y-la-caida|El Pico y la Caída]]'
-- '[[2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]]'
-- '[[2039-la-larga-noche]]'
-- '[[buenos-aires-nombre-tabu|El Nombre Prohibido]]'
-- '[[darsena|Ciudad Dársena]]'
-- '[[arpistas|Los Arpistas]]'
+- '[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]'
+- '[[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída]]'
+- '[[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]]'
+- '[[1_trasfondo/hitos/2039-la-larga-noche|2039-la-larga-noche]]'
+- '[[1_trasfondo/codex/buenos-aires-nombre-tabu|El Nombre Prohibido]]'
+- '[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]'
+- '[[1_trasfondo/facciones/facciones-menores/arpistas|Los Arpistas]]'
 spoilers:
 - El velo que enfría el mundo no es partícula muerta sino una forma de vida aérea;
   nadie en la Confederación lo sabe salvo un puñado de microbiólogos herejes y la
@@ -41,8 +41,8 @@ spoilers:
 tags: []
 title: La Nube Roja — Verdad Oculta
 ubicaciones:
-- '[[darsena]]'
-- '[[capital]]'
+- '[[2_atlas/ciudades/darsena/darsena|darsena]]'
+- '[[2_atlas/ciudades/cordoba/capital|capital]]'
 ---
 
 # La Nube Roja — La Verdad que el Cielo Esconde
@@ -117,9 +117,9 @@ Aquí hay que corregir un error de bulto que yo mismo dejé escrito, y corregirl
 
 Estas criaturas no se reparten parejo sobre la tierra. Se **congregan**. Y lo que las atrae es el **agua** — el estuario, el mar, los espejos anegados, la humedad tibia que se acumula sobre las grandes masas de agua. No las atrae la piedra. No las atrae la altura seca. Las atrae **el agua**.
 
-Por eso el velo se acumula, con una densidad que quita el aliento, sobre el **cinturón de agua que rodea a [[darsena|Dársena]]**: el estuario al este, el mar, el Pantano anegado al sur, la napa que sube por todas partes. Es sobre ese anillo de humedad —no sobre las calles secas y elevadas de la ciudad murada— donde el organismo se ceba, muere y llueve. La acumulación de partículas en la comarca de Dársena es, de veras, impresionante; pero es acumulación **sobre el agua que la envuelve**, no sobre su interior de piedra.
+Por eso el velo se acumula, con una densidad que quita el aliento, sobre el **cinturón de agua que rodea a [[2_atlas/ciudades/darsena/darsena|Dársena]]**: el estuario al este, el mar, el Pantano anegado al sur, la napa que sube por todas partes. Es sobre ese anillo de humedad —no sobre las calles secas y elevadas de la ciudad murada— donde el organismo se ceba, muere y llueve. La acumulación de partículas en la comarca de Dársena es, de veras, impresionante; pero es acumulación **sobre el agua que la envuelve**, no sobre su interior de piedra.
 
-De esto se sigue todo lo demás del clima local, y lo he corregido en las fichas públicas: por qué la niebla es un infierno **afuera**, contra la cara externa del muro y sobre el Pantano, y no adentro; por qué el interior murado es un ojo de aire relativamente seco dentro de un anillo de bruma; y por qué [[capital|Córdoba]], lejos de toda agua grande, corre **calurosa** — sobre ella el velo es ralo, la sombra es poca, y el calor del mundo se siente sin techo que lo tape. Dársena es un **oasis templado** dentro de una Argentina recalentada, no por virtud de su piedra sino porque sobre su agua se apila más velo que en ningún otro punto de la latitud.
+De esto se sigue todo lo demás del clima local, y lo he corregido en las fichas públicas: por qué la niebla es un infierno **afuera**, contra la cara externa del muro y sobre el Pantano, y no adentro; por qué el interior murado es un ojo de aire relativamente seco dentro de un anillo de bruma; y por qué [[2_atlas/ciudades/cordoba/capital|Córdoba]], lejos de toda agua grande, corre **calurosa** — sobre ella el velo es ralo, la sombra es poca, y el calor del mundo se siente sin techo que lo tape. Dársena es un **oasis templado** dentro de una Argentina recalentada, no por virtud de su piedra sino porque sobre su agua se apila más velo que en ningún otro punto de la latitud.
 
 ## El fenómeno visual — mucho menos de lo que se cree
 
@@ -136,13 +136,13 @@ Lo que sí es propio de Dársena es que, sobre su cinturón de agua, la **humeda
 > - **~0,1 %** sabe que ese algo es, en verdad, una **forma de vida**. Un puñado de microbiólogos herejes, y los que los amparan.
 > - **~99 %** ni siquiera se pregunta: cree que el cielo **siempre fue así**. Nacieron bajo el velo, sus abuelos nacieron bajo el velo, y el mundo templado y algo rojizo es para ellos el orden natural de las cosas.
 
-Los que saben son herejes de hecho, porque estudiar esto es rozar lo que el [[anatema-mecanico|Anatema Mecánico]] veda. Y aquí está la crueldad perfecta de su condena: **no pueden medir lo que estudian.** La criatura vive en las capas altas del aire, exactamente donde su tecnología —mutilada por el Anatema— tiene prohibido llegar. Saben que hay vida y no pueden tocarla. Es la forma más pura de la impotencia: la verdad al alcance de la vista y fuera del alcance de la mano.
+Los que saben son herejes de hecho, porque estudiar esto es rozar lo que el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] veda. Y aquí está la crueldad perfecta de su condena: **no pueden medir lo que estudian.** La criatura vive en las capas altas del aire, exactamente donde su tecnología —mutilada por el Anatema— tiene prohibido llegar. Saben que hay vida y no pueden tocarla. Es la forma más pura de la impotencia: la verdad al alcance de la vista y fuera del alcance de la mano.
 
 ## De dónde salió — la verdad es para quien la espera
 
 Sobre el origen hay que decir algo delicado, y pido al lector que me siga con cuidado, porque aquí la verdad y lo que los hombres pueden saber de ella **no coinciden.**
 
-Hay una verdad de mundo, y la anoto porque este archivo mío la roza sin que sus protagonistas la posean: el velo fue **sembrado en el año de la cumbre biotecnológica, en 2057** —el año que la crónica llama [[2057-el-pico-y-la-caida|El Pico y la Caída]]—, cuando la mano del hombre, con la matemática infinita de la Bestia por herramienta, editaba la vida como quien escribe. De aquella misma fiebre que engendró las pestes y los hombres deformados salió, callada, esta forma de vida aérea. Lo mejor y lo peor de aquel año vinieron de la misma mano. **Esa es la verdad.**
+Hay una verdad de mundo, y la anoto porque este archivo mío la roza sin que sus protagonistas la posean: el velo fue **sembrado en el año de la cumbre biotecnológica, en 2057** —el año que la crónica llama [[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída]]—, cuando la mano del hombre, con la matemática infinita de la Bestia por herramienta, editaba la vida como quien escribe. De aquella misma fiebre que engendró las pestes y los hombres deformados salió, callada, esta forma de vida aérea. Lo mejor y lo peor de aquel año vinieron de la misma mano. **Esa es la verdad.**
 
 Pero —y aquí está el nudo— **nadie que hoy sepa del velo vivo posee esa verdad con certeza.** Entre el puñado de herejes que sabe que el cielo está vivo, el origen sigue **fracturado en conjeturas**, y ninguna se puede probar. Alguno de ellos **acierta** —murmura que el velo nació en el pico biotecnológico de la Guerra, y le pega—, pero no tiene cómo demostrarlo: sin instrumentos, sin poder subir a medir lo que estudia, su acierto vale ante los demás exactamente lo mismo que un error. La verdad, a falta de prueba, no pesa más que la mentira. Los otros **yerran**, o aciertan a medias: unos repiten el viejo rumor de un laboratorio **belga** perdido —un nombre de país que ya casi nadie recuerda—, que confunde la siembra con un accidente de aerosoles de enfriamiento; otros lo creen caído del cielo con el hielo del meteorito; otros, natural, un ser que **siempre estuvo** y que la Guerra apenas despertó.
 
@@ -173,7 +173,7 @@ No hay villano. Solo un calor que nos mataría, y una vida humilde en el cielo q
 
 Es preciso desmentir aquí una creencia que corre entre la gente sencilla, y desmentirla **sin borrarla**, porque el saber popular tiene su dignidad aunque yerre.
 
-Muchos murmuran que el velo **bajó del cielo con el hielo** — que vino en el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] que borró la vieja capital, o que nació de su cráter. Es falso. El meteorito fue agua congelada y nada más; su nube oscureció el cielo apenas tres o cuatro años y se disipó, y cayó además dieciocho años antes de la siembra verdadera. El velo vivo es otra cosa, y su cuna —lo he dicho más arriba— está en el fervor biotecnológico de 2057, no en esa piedra de hielo. El rumor del meteorito sobrevive porque a la gente le consuela más un cielo caído de una herida visible que un cielo tejido, en silencio, por la misma soberbia que editó la carne. Lo dejo consignado como una de las **conjeturas erradas** que corren entre quienes ignoran, o no sabrían probar, de dónde vino de veras el velo.
+Muchos murmuran que el velo **bajó del cielo con el hielo** — que vino en el [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] que borró la vieja capital, o que nació de su cráter. Es falso. El meteorito fue agua congelada y nada más; su nube oscureció el cielo apenas tres o cuatro años y se disipó, y cayó además dieciocho años antes de la siembra verdadera. El velo vivo es otra cosa, y su cuna —lo he dicho más arriba— está en el fervor biotecnológico de 2057, no en esa piedra de hielo. El rumor del meteorito sobrevive porque a la gente le consuela más un cielo caído de una herida visible que un cielo tejido, en silencio, por la misma soberbia que editó la carne. Lo dejo consignado como una de las **conjeturas erradas** que corren entre quienes ignoran, o no sabrían probar, de dónde vino de veras el velo.
 
 ---
 
@@ -181,10 +181,10 @@ Muchos murmuran que el velo **bajó del cielo con el hielo** — que vino en el 
 
 - [[2_atlas/climas/clima-2178|Clima 2178]] — la cara pública: el temple monótono, la niebla que rodea, la luz apenas roja
 - [[2_atlas/climas/humedad-post-guerra|Humedad Post-Guerra]] — el agua que sube y la humedad que el velo alimenta
-- [[2057-el-pico-y-la-caida|El Pico y la Caída]] — el año de la siembra verdadera: la cumbre biotecnológica de la que nació el velo (verdad de mundo, conjetura fracturada para los herejes)
-- [[anatema-mecanico|Anatema Mecánico]] — la prohibición que ciega a quienes podrían comprenderlo; su "segundo pecado" (la veda de la carne) nace del mismo 2057
-- [[arpistas|Los Arpistas]] — la red que ampara a los pocos que saben
-- [[2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]] — el hielo que el rumor confunde con su origen
+- [[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída]] — el año de la siembra verdadera: la cumbre biotecnológica de la que nació el velo (verdad de mundo, conjetura fracturada para los herejes)
+- [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] — la prohibición que ciega a quienes podrían comprenderlo; su "segundo pecado" (la veda de la carne) nace del mismo 2057
+- [[1_trasfondo/facciones/facciones-menores/arpistas|Los Arpistas]] — la red que ampara a los pocos que saben
+- [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Meteorito de Buenos Aires]] — el hielo que el rumor confunde con su origen
 
 ---
 

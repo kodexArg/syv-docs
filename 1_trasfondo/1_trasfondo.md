@@ -11,10 +11,10 @@ Aquí reposa la Constitución de la Confederación Argentina, documento supremo 
 
 ## Subsecciones
 
-- [[codex]]
-- [[credos]]
-- [[facciones]]
-- [[hitos]]
-- [[cronologia]]
-- [[sinopsis]]
-- [[constitucion-argentina]]
+- [[1_trasfondo/codex/codex|codex]]
+- [[1_trasfondo/credos/credos|credos]]
+- [[1_trasfondo/facciones/facciones|facciones]]
+- [[1_trasfondo/hitos/hitos|hitos]]
+- [[1_trasfondo/cronologia|cronologia]]
+- [[1_trasfondo/sinopsis|sinopsis]]
+- [[1_trasfondo/codex/constitucion-argentina|constitucion-argentina]]

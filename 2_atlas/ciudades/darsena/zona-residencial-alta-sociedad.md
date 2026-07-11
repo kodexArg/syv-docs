@@ -10,9 +10,9 @@ aliases:
   - Barrios del Norte
 tags: []
 related:
-  - "[[masones]]"
+  - "[[1_trasfondo/facciones/facciones-menores/masones|masones]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena, hogar de apenas **6.600 personas**: la élite de la Confederación y nadie más. Protegida por muros internos y patrullas de seguridad privadas, es la zona menos apretada de toda Dársena —una densidad de unos **13.850 habitantes por km²**, ridícula para esta ciudad—. Aquí las familias, de unas cinco personas, ocupan **dúplex de dos y tres plantas** con **jardines propios**, a razón de unos **50 m² por persona**: un derroche de espacio impensable en el resto de la urbe, donde ese mismo metraje alberga a decenas.
 
@@ -25,7 +25,7 @@ Lujosos y extensos parques privados, un remanso de paz para la élite. En esta z
 Un exclusivo club social donde se cierran los verdaderos tratos de poder de la Confederación. En sus salones privados, entre licores añejos y humo de puros, se toman decisiones políticas y económicas que afectan a millones, lejos de cualquier escrutinio público.
 
 ### **Ateneo Cultural**
-Un centro de arte y cultura patrocinado y mantenido por los [[masones|Masones]]. Aquí se reúnen los intelectuales y artistas de la alta sociedad, se celebran conciertos privados y se exhiben obras de arte rescatadas del viejo mundo. Es un centro de influencia cultural y un lugar de encuentro para la facción.
+Un centro de arte y cultura patrocinado y mantenido por los [[1_trasfondo/facciones/facciones-menores/masones|Masones]]. Aquí se reúnen los intelectuales y artistas de la alta sociedad, se celebran conciertos privados y se exhiben obras de arte rescatadas del viejo mundo. Es un centro de influencia cultural y un lugar de encuentro para la facción.
 
 ### **Clínicas Privadas**
 Pequeñas y discretas clínicas dispersas por toda la zona, que ofrecen servicios médicos de la más alta calidad a un costo exorbitante. Son el único lugar en Dársena donde se puede acceder a tratamientos avanzados y medicina personalizada.

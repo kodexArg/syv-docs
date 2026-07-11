@@ -13,12 +13,12 @@ aliases:
 region: Mendoza
 tags: []
 related:
-  - "[[arpistas]]"
-  - "[[masones]]"
-  - "[[universidad-pontificia-america]]"
-  - "[[universidad-nacional-cordoba]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/masones|masones]]"
+  - "[[2_atlas/ciudades/darsena/universidad-pontificia-america|universidad-pontificia-america]]"
+  - "[[2_atlas/ciudades/cordoba/universidad-nacional-cordoba|universidad-nacional-cordoba]]"
 ubicaciones:
-  - "[[mendoza]]"
+  - "[[2_atlas/ciudades/mendoza/mendoza|mendoza]]"
 ---
 
 # Uncuyo: Universidad de Cuyo
@@ -238,7 +238,7 @@ Es milagro de dedicación intelectual.
 
 ## La Realidad Interna: Facciones y Secretos
 
-### Los Verdaderos [[masones|Masones]]
+### Los Verdaderos [[1_trasfondo/facciones/facciones-menores/masones|Masones]]
 
 Existe red clandestina dentro de Cuyo que **sospechadamente es masónica**, aunque nadie lo admite. Reuniones en sótano de biblioteca, acceso por pasajes antiguos, rituales de iniciación que son más **intelectuales que mystical**.
 
@@ -265,7 +265,7 @@ Es equilibrio frágil.
 
 ### Los Arpistas de Cuyo
 
-Cuyo es **bastión principal de [[arpistas|Arpistas]]**—preservadores de conocimiento. La biblioteca misma funciona como archivo clandestino donde libros prohibidos son duplificados manualmente (copias hechas a mano por estudiantes, en papel)
+Cuyo es **bastión principal de [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]**—preservadores de conocimiento. La biblioteca misma funciona como archivo clandestino donde libros prohibidos son duplificados manualmente (copias hechas a mano por estudiantes, en papel)
 
 Estas copias circulan hacia otras ciudades, hacia universidades, hacia manos de personas que el poder preferiría que no supieran de ciertos textos.
 

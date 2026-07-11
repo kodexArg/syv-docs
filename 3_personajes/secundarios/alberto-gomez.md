@@ -9,7 +9,7 @@ aliases:
   - Alberto Gómez
   - El Ferretero
 tags: []
-facciones: '["[[gremio-de-comercio]]"]'
+facciones: '["[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"]'
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
 spoilers:
@@ -57,5 +57,5 @@ Recientemente, Alberto ha notado que ciertos productos se venden a un ritmo inus
 
 - **Sus Compañeros de Trabajo**: Cómplices en la mentira sobre el dueño muerto
 - **Clientes Sospechosos**: Compradores regulares de materiales para tecnología prohibida por el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]
-- **[[gremio-de-comercio|Gremio de Comercio]]**: Red comercial de la que forma parte como ferretero
+- **[[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]]**: Red comercial de la que forma parte como ferretero
 - **La Ferretería**: El centro de su dilema moral y supervivencia

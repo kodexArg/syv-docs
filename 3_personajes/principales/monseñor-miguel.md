@@ -9,8 +9,8 @@ aliases:
   - Monseñor Miguel
   - Gran Inquisidor
 facciones:
-  - "[[inquisicion]]"
-related: '["[[madre-superiora-maria]]"]'
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+related: '["[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"]'
 spoilers:
   - Su historia ha sido intencionadamente eliminada; su verdadero origen y naturaleza son un misterio.
 tags: []
@@ -31,7 +31,7 @@ Un enigma viviente envuelto en autoridad absoluta y terror reverencial.
 
 ### Rol y Posición
 
-Es la máxima autoridad de la [[inquisicion|Santa Inquisición Argentina]]. Algunos consideran que su poder está al mismo nivel que el del Papa. Su autoridad sobre asuntos de fe, herejía y posesiones es absoluta e incuestionable.
+Es la máxima autoridad de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]. Algunos consideran que su poder está al mismo nivel que el del Papa. Su autoridad sobre asuntos de fe, herejía y posesiones es absoluta e incuestionable.
 
 ### Personalidad
 
@@ -59,7 +59,7 @@ Aquellos que han investigado demasiado profundamente sobre el pasado de Monseño
 - **Santa Inquisición Argentina**: Lidera la organización con autoridad absoluta
 - **El Papa**: Su relación con Roma es compleja y su poder posiblemente equiparable
 - **Los Acusados**: Cada juicio es una manifestación de su voluntad inexorable
-- **[[madre-superiora-maria|Madre Superiora María]]**: Directora del Faro, Campeona de la Iglesia; ejecuta casos bajo su autoridad y dirige la Inquisición con mano de hierro propia
+- **[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]**: Directora del Faro, Campeona de la Iglesia; ejecuta casos bajo su autoridad y dirige la Inquisición con mano de hierro propia
 
 ## Referencias
 

@@ -10,7 +10,7 @@ tags: []
 facciones: "[]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
-related: '["[[sofia-rios]]", "[[resistencia-subterranea]]"]'
+related: '["[[3_personajes/secundarios/sofia-rios|sofia-rios]]", "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"]'
 ---
 ## Natalia Campos, Reportera
 
@@ -47,5 +47,5 @@ Natalia es una reportera relativamente nueva en el periódico local. Muchos la c
 ## Conexiones Importantes
 
 - **Periódico local**: Su lugar de trabajo
-- **[[sofia-rios|Sofía Ríos]]**: Inspectora que investiga las mismas desapariciones que Natalia sigue; sus caminos se cruzan sin que ninguna lo planee
-- **[[resistencia-subterranea|Resistencia Subterránea]]**: La organización cuyas verdades Natalia persigue sin saber aún que existen
+- **[[3_personajes/secundarios/sofia-rios|Sofía Ríos]]**: Inspectora que investiga las mismas desapariciones que Natalia sigue; sus caminos se cruzan sin que ninguna lo planee
+- **[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]]**: La organización cuyas verdades Natalia persigue sin saber aún que existen

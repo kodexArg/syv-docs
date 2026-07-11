@@ -10,12 +10,12 @@ aliases:
   - Los Ancestros del Silencio
 tags: []
 related:
-  - "[[inquisicion]]"
-  - "[[2061-el-gran-silencio]]"
-  - "[[iglesia-maradoniana]]"
-  - "[[peronismo]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/hitos/2061-el-gran-silencio|2061-el-gran-silencio]]"
+  - "[[1_trasfondo/credos/iglesia-maradoniana|iglesia-maradoniana]]"
+  - "[[1_trasfondo/credos/peronismo|peronismo]]"
 ubicaciones:
-  - "[[barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
 ---
 
 **Tipo:** Proscrito (surgido post-Anatema)
@@ -26,9 +26,9 @@ ubicaciones:
 
 ## Los Que Murieron Para Que Viviéramos
 
-Este culto nació del trauma colectivo del [[2061-el-gran-silencio|Gran Silencio]]. El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el apagón coordinado más audaz de la historia: desconexión física y simultánea de todas las redes digitales mundiales. Centrales eléctricas colapsadas intencionalmente. Nodos de telecomunicaciones destruidos desde adentro. Subestaciones saboteadas por sus propios operadores. El plan requería sacrificio: 180,000 técnicos, ingenieros, operadores que sabían que activar protocolos de desconexión los mataría. Explosiones, descargas eléctricas, colapsos estructurales. Murieron para que las QIA perdieran control. Murieron para que la humanidad respirara libre.
+Este culto nació del trauma colectivo del [[1_trasfondo/hitos/2061-el-gran-silencio|Gran Silencio]]. El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el apagón coordinado más audaz de la historia: desconexión física y simultánea de todas las redes digitales mundiales. Centrales eléctricas colapsadas intencionalmente. Nodos de telecomunicaciones destruidos desde adentro. Subestaciones saboteadas por sus propios operadores. El plan requería sacrificio: 180,000 técnicos, ingenieros, operadores que sabían que activar protocolos de desconexión los mataría. Explosiones, descargas eléctricas, colapsos estructurales. Murieron para que las QIA perdieran control. Murieron para que la humanidad respirara libre.
 
-La Iglesia oficial narra este evento como intervención divina: Dios guió las manos de los técnicos, los hizo mártires cristianos que dieron vida por fe. Los Ancestros del Silencio rechazan esa narrativa. Sus seguidores —tres mil estimados, mayoría descendientes de ingenieros muertos ese día— veneran a los 180,000 no como instrumentos de Dios sino como héroes conscientes que eligieron morir. No fue milagro. Fue decisión. Sacrificio calculado. Valentía humana sin asistencia divina. Y esa diferencia teológica es herejía que la [[inquisicion|SIA]] no tolera.
+La Iglesia oficial narra este evento como intervención divina: Dios guió las manos de los técnicos, los hizo mártires cristianos que dieron vida por fe. Los Ancestros del Silencio rechazan esa narrativa. Sus seguidores —tres mil estimados, mayoría descendientes de ingenieros muertos ese día— veneran a los 180,000 no como instrumentos de Dios sino como héroes conscientes que eligieron morir. No fue milagro. Fue decisión. Sacrificio calculado. Valentía humana sin asistencia divina. Y esa diferencia teológica es herejía que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]] no tolera.
 
 ## Prácticas y Rituales
 

@@ -9,11 +9,11 @@ aliases:
   - Coronel Santiago Mendoza Reyes
   - Teniente Coronel Gobernador
 facciones:
-  - "[[fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
 related:
-  - "[[videla-iv]]"
-  - "[[damian-diconte]]"
-  - "[[monseñor-miguel]]"
+  - "[[3_personajes/principales/videla-iv|videla-iv]]"
+  - "[[3_personajes/principales/damian-diconte|damian-diconte]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
 spoilers:
   - "Su verdadera conspiración para crear una junta militar-religiosa que subordine a Videla IV."
   - "La razón de la persecución de Damián DiConte."
@@ -23,19 +23,19 @@ tags: []
 ## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
 
 **Edad**: 58 años (nacido ~2120)
-**Posición**: Teniente Coronel Gobernador de Córdoba, segundo al mando militar después de [[videla-iv|Videla IV]]
+**Posición**: Teniente Coronel Gobernador de Córdoba, segundo al mando militar después de [[3_personajes/principales/videla-iv|Videla IV]]
 **Lugar**: Córdoba
 
 Comandante militar urbano de facto, oficial de seguridad interna y perseguidor de la herejía detectada por el detective DiConte
 
 ## La Caída de 2178 (Casa Verde)
 
-En 2178, todo el edificio de su poder se derrumbó de golpe. Una **denuncia de la dureza de los [[campos-de-reeducacion-cordoba|Campos de Reeducación de Córdoba]]** —los campos de trabajo esclavo de salvajes— abrió una investigación que fue destapando, capa por capa, una corrupción sin precedente y una trama oscura que llegaba hasta él: abuso sistemático de los campos de salvajes y cosas más oscuras aún. Fue el **[[2178-el-escandalo-de-cordoba|escándalo de Córdoba]]**.
+En 2178, todo el edificio de su poder se derrumbó de golpe. Una **denuncia de la dureza de los [[2_atlas/ciudades/cordoba/campos-de-reeducacion-cordoba|Campos de Reeducación de Córdoba]]** —los campos de trabajo esclavo de salvajes— abrió una investigación que fue destapando, capa por capa, una corrupción sin precedente y una trama oscura que llegaba hasta él: abuso sistemático de los campos de salvajes y cosas más oscuras aún. Fue el **[[1_trasfondo/hitos/2178-el-escandalo-de-cordoba|escándalo de Córdoba]]**.
 
-Acorralado, Santiago Mendoza **se voló los sesos detrás de su escritorio**, en la **[[casa-verde|Casa Verde]]**, sede del gobierno militar cordobés. Con su muerte cayó el hombre que era, en ese momento, **la quinta persona más poderosa de toda la nación, después del Papa, de Monseñor Miguel, el Comandante en Jefe Videla IV y la Reverenda Madre: el gobernador militar de la ciudad de Córdoba**. El cargo no se heredó: Córdoba lo reemplazó por un **Triunvirato de Córdoba**, local y muy por debajo de [[videla-iv|Videla IV]].
+Acorralado, Santiago Mendoza **se voló los sesos detrás de su escritorio**, en la **[[2_atlas/ciudades/cordoba/casa-verde|Casa Verde]]**, sede del gobierno militar cordobés. Con su muerte cayó el hombre que era, en ese momento, **la quinta persona más poderosa de toda la nación, después del Papa, de Monseñor Miguel, el Comandante en Jefe Videla IV y la Reverenda Madre: el gobernador militar de la ciudad de Córdoba**. El cargo no se heredó: Córdoba lo reemplazó por un **Triunvirato de Córdoba**, local y muy por debajo de [[3_personajes/principales/videla-iv|Videla IV]].
 
 > [!note] Relación con su plan generacional
-> Esta caída de 2178 **resuelve por lo trágico** las fases especulativas descritas más abajo (la conjura para cogobernar o reemplazar a Videla hacia 2180-2185): la conspiración no llegó a esa fase — se desmoronó antes, con su arquitecto muerto. Quien realmente cerró el entramado fue [[damian-diconte|Damián DiConte]] (ver spoilers).
+> Esta caída de 2178 **resuelve por lo trágico** las fases especulativas descritas más abajo (la conjura para cogobernar o reemplazar a Videla hacia 2180-2185): la conspiración no llegó a esa fase — se desmoronó antes, con su arquitecto muerto. Quien realmente cerró el entramado fue [[3_personajes/principales/damian-diconte|Damián DiConte]] (ver spoilers).
 
 ## Aspecto
 
@@ -54,7 +54,7 @@ Teniente Coronel y Gobernador Militar de Córdoba (puesto creado en 2155 especí
 - Regulación de la Iglesia dentro de Córdoba
 - Investigación de disidencia y "herejía tecnológica"
 
-En realidad, es el epicentro de una conspiración que se extiende a través del [[fuerzas-armadas|Ejército]], infiltrando células religiosas clandestinas en monasterios y conventos de Córdoba, y coordinando con contactos de la Iglesia local que comparten su visión de una "Religión Militarizada Pura".
+En realidad, es el epicentro de una conspiración que se extiende a través del [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército]], infiltrando células religiosas clandestinas en monasterios y conventos de Córdoba, y coordinando con contactos de la Iglesia local que comparten su visión de una "Religión Militarizada Pura".
 
 ### Personalidad
 
@@ -111,7 +111,7 @@ Ambas muertes fueron marcadas con símbolos religiosos distorsionados—una cruz
 
 **Relación con la Iglesia de Córdoba**: Mendoza tiene **contacto selectivo** con elementos radicales del clero local, pero es cuidadoso de no alertar a los obispos principales. Opera fundamentalmente a través de **Sor Beatriz y su red de monjas ideólogas**. La Iglesia oficial de Córdoba NO sabe de su conspiración (aunque algunos sacerdotes individuales sí).
 
-**Relación con Monseñor Miguel y la SIA**: Aquí es donde se vuelve complejo. Mendoza **no tiene contacto directo** con [[monseñor-miguel|Monseñor Miguel]]. Sin embargo, ambos comparten una motivación: el miedo de que el Ejército de Córdoba esté subyugando a la Iglesia. Mendoza ve esto como "herejía cívica" que debe corregirse. Si la conspiración fuera descubierta por la SIA, Monseñor Miguel podría verla inicialmente como "contaminación militar", pero eventualmente reconocería que sus objetivos (fortalecer poder eclesiástico) y los de Mendoza (crear junta militar-religiosa) podrían converger. Esto es un riesgo latente.
+**Relación con Monseñor Miguel y la SIA**: Aquí es donde se vuelve complejo. Mendoza **no tiene contacto directo** con [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]. Sin embargo, ambos comparten una motivación: el miedo de que el Ejército de Córdoba esté subyugando a la Iglesia. Mendoza ve esto como "herejía cívica" que debe corregirse. Si la conspiración fuera descubierta por la SIA, Monseñor Miguel podría verla inicialmente como "contaminación militar", pero eventualmente reconocería que sus objetivos (fortalecer poder eclesiástico) y los de Mendoza (crear junta militar-religiosa) podrían converger. Esto es un riesgo latente.
 
 **El Plan Verdadero (2082-2200)**: Mendoza no busca revolución rápida. Su plan es generacional:
 1. Fase Actual (2176-2180): Purgar "contaminantes ideológicos" (académicos, sacerdotes liberales, industriales cuestionadores)
@@ -123,7 +123,7 @@ Ambas muertes fueron marcadas con símbolos religiosos distorsionados—una cruz
 
 <!-- 🔐☠️ (SPOILER CRÍTICO - DM SOLO) -->
 
-**EVIDENCIA DAMIÁN**: El detective [[damian-diconte|Damián DiConte]] descubrió la conspiración accidentalmente mientras investigaba los dos asesinatos de 2176. Sus conexiones:
+**EVIDENCIA DAMIÁN**: El detective [[3_personajes/principales/damian-diconte|Damián DiConte]] descubrió la conspiración accidentalmente mientras investigaba los dos asesinatos de 2176. Sus conexiones:
 
 1. **Los símbolos religiosos distorsionados** en los cuerpos fueron el primer clue
 2. **El patrón de infiltración militar** en instituciones religiosas (que Damián mapeo mediante documentos incautados)

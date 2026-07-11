@@ -13,8 +13,8 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
 related:
-  - "[[inquisicion]]"
-  - "[[guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
 spoilers:
   - Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro.
 ---
@@ -50,13 +50,13 @@ Destruir la ciudad desde dentro, utilizando su posición para corromper enseñan
 La Hermana Cecilia Torres es una profesora respetada en la Universidad, conocida por su dedicación a los archivos y su enseñanza rigurosa de teología.
 <!-- /📖 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Cecilia es una devota demonóloga. A través de libros prohibidos a los que tuvo acceso en los archivos, se convirtió en adoradora de fuerzas oscuras. Trabaja incansablemente para la destrucción de la ciudad, utilizando su posición para codificar mensajes secretos en sus lecciones, deformar las enseñanzas ortodoxas, y perjudicar a la [[inquisicion|Santa Inquisición]] cada vez que tiene oportunidad. Es una antagonista extremadamente peligrosa precisamente porque nadie sospecharía de una anciana archivista. Su conocimiento de demonología es profundo y su subterfugio es magistral. Si fuera descubierta, las consecuencias para la ciudad serían catastróficas, pues ha estado sembrando corrupción durante décadas.
+Cecilia es una devota demonóloga. A través de libros prohibidos a los que tuvo acceso en los archivos, se convirtió en adoradora de fuerzas oscuras. Trabaja incansablemente para la destrucción de la ciudad, utilizando su posición para codificar mensajes secretos en sus lecciones, deformar las enseñanzas ortodoxas, y perjudicar a la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición]] cada vez que tiene oportunidad. Es una antagonista extremadamente peligrosa precisamente porque nadie sospecharía de una anciana archivista. Su conocimiento de demonología es profundo y su subterfugio es magistral. Si fuera descubierta, las consecuencias para la ciudad serían catastróficas, pues ha estado sembrando corrupción durante décadas.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 
 - **Universidad de la Luz Divina**: Su posición de poder
 - **Archivistas y Científicos Teológicos**: La facción que infiltra
-- **[[guardianes-de-la-memoria|Guardianes de la Memoria]]**: Grupo cuyo conocimiento oscuro cruza con su investigación demonológica, alianza tenebrosa
+- **[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]]**: Grupo cuyo conocimiento oscuro cruza con su investigación demonológica, alianza tenebrosa
 - **Estudiantes**: Víctimas de su manipulación sutil
 - **Textos Prohibidos**: Su fuente de conocimiento oscuro
 - **La Santa Inquisición**: El enemigo que sabotea desde dentro

@@ -11,9 +11,9 @@ aliases:
   - Criptógrafos clandestinos
 tags: []
 related:
-  - "[[los-hackers]]"
-  - "[[fuerzas-armadas]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-hackers|los-hackers]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ---
 # Nota sobre "Los Criptógrafos"
 
@@ -38,7 +38,7 @@ Estos profesionales son funcionarios legítimos del Estado, con salarios, rangos
 
 "SÍ son una facción independiente", descrita en:
 
-👉 [[los-hackers|Los Hackers]] 👈
+👉 [[1_trasfondo/facciones/facciones-menores/los-hackers|Los Hackers]] 👈
 
 Red clandestina que opera desde las sombras, desafiando el control informativo del régimen. A veces se les llama "Criptógrafos clandestinos" para distinguirlos de los oficiales.
 
@@ -58,5 +58,5 @@ Esto crea una paradoja: muchos Criptógrafos oficiales son ex-Hackers trabajando
 
 ## Referencias
 
-- "Facción clandestina": [[los-hackers|Los Hackers]]
+- "Facción clandestina": [[1_trasfondo/facciones/facciones-menores/los-hackers|Los Hackers]]
 - "Empleadores estatales": Dirección Nacional de Seguridad (DNS), Fuerzas Armadas, SIA

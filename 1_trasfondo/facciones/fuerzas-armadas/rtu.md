@@ -13,15 +13,15 @@ aliases:
   - Los Martillos de Dios
 tags: []
 related:
-  - "[[fuerzas-armadas]]"
-  - "[[subcomisario-ivan-mendez]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[3_personajes/secundarios/subcomisario-ivan-mendez|subcomisario-ivan-mendez]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 
 Ficha por desarrollar. Stub creado para una unidad referenciada en personajes y facciones pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 
-- Equipos de asalto fuertemente armados para situaciones de alto riesgo; [[subcomisario-ivan-mendez|Iván Méndez]] lidera uno de sus equipos.
+- Equipos de asalto fuertemente armados para situaciones de alto riesgo; [[3_personajes/secundarios/subcomisario-ivan-mendez|Iván Méndez]] lidera uno de sus equipos.
 - En `[[fuerzas-armadas]]` aparece como "Unidad de Respuesta Táctica y Antimotines (URTA)", "Los Martillos de Dios"; pendiente confirmar si URTA y RTU son la misma unidad.

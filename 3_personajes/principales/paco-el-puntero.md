@@ -10,9 +10,9 @@ aliases:
   - Paco
 facciones: []
 ubicaciones:
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 related:
-  - "[[padre-rafa]]"
+  - "[[3_personajes/principales/padre-rafa|padre-rafa]]"
   - "[[3_personajes/principales/walter|Walter]]"
 spoilers:
   - "Fue asesinado hace un año antes de revelar información crucial sobre las posesiones."
@@ -34,7 +34,7 @@ Un corazón enorme en un mundo que no merecía perderlo.
 
 ### Rol y Posición
 
-Era el puntero a cargo de una estación en las [[tuberias|Tuberías]], un rol que normalmente implica corrupción y abuso de poder. Pero Paco era diferente: tenía la zona completamente controlada gracias a sus contactos con gente influyente, y usaba ese poder para proteger a su comunidad.
+Era el puntero a cargo de una estación en las [[2_atlas/ciudades/darsena/tuberias|Tuberías]], un rol que normalmente implica corrupción y abuso de poder. Pero Paco era diferente: tenía la zona completamente controlada gracias a sus contactos con gente influyente, y usaba ese poder para proteger a su comunidad.
 
 ### Personalidad
 
@@ -52,7 +52,7 @@ Su motivación era simple y pura: proteger a su gente. Cada decisión que tomaba
 Paco era el líder querido de una estación en las Tuberías. Hace un año fue asesinado en circunstancias que nunca se esclarecieron completamente. Su muerte dejó un vacío enorme en la comunidad, que todavía lo llora.
 <!-- /📖 -->
 <!-- 🔐 (Conocimiento Especializado) -->
-Paco era íntimo amigo del [[padre-rafa|Padre Rafa]] y compartían un interés casi obsesivo por el misterioso "Pueblo del Pantano". Paco actuaba como intermediario entre Rafa y esta enigmática comunidad, pues el sacerdote era pésimo nadador y nunca se atrevió a visitarlos personalmente. Paco podía comunicarse con ellos en un dialecto incomprensible para otros y conseguía extrañas drogas de diseño a través de estos contactos.
+Paco era íntimo amigo del [[3_personajes/principales/padre-rafa|Padre Rafa]] y compartían un interés casi obsesivo por el misterioso "Pueblo del Pantano". Paco actuaba como intermediario entre Rafa y esta enigmática comunidad, pues el sacerdote era pésimo nadador y nunca se atrevió a visitarlos personalmente. Paco podía comunicarse con ellos en un dialecto incomprensible para otros y conseguía extrañas drogas de diseño a través de estos contactos.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
 Poco antes de su muerte, Paco había descubierto algo crucial sobre las posesiones que comenzaban a ocurrir en la zona. Había acordado encontrarse con [[3_personajes/principales/walter|Walter]] para compartir esta información, pero fue asesinado antes de que pudiera revelar lo que sabía. El Padre Rafa sospecha que su muerte no fue casual, sino un silenciamiento deliberado. Lo que Paco sabía murió con él, y el misterio de las posesiones se profundizó.

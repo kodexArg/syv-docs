@@ -6,8 +6,8 @@ aliases:
 description: 'SSOT del modelo de frontmatter de syv-docs sobre markdown-vault-syv: campos controlados obligatorios, estandarizados, relaciones por wikilink, y tags como vivero open/closed.'
 folder: 0_proyecto/guias-para-colaboradores
 related:
-  - '[[guia-de-metadatos]]'
-  - '[[manual-del-colaborador]]'
+  - '[[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]]'
+  - '[[0_proyecto/guias-para-colaboradores/manual-del-colaborador|manual-del-colaborador]]'
 tags: []
 title: Glosario de Tags y Metadatos
 entidad: guia
@@ -40,7 +40,7 @@ Las dimensiones controladas **no** viven dentro de `tags` con barras. Cada una e
 | `estado` | `canon` · `borrador` · `propuesta` |
 
 ### Relaciones (wikilinks entre comillas, listas)
-`facciones`, `ubicaciones`, `apariciones`, `related` → `"[[slug]]"`. Para que sean **aristas del grafo** deben repetirse en el cuerpo (ver [[recomendacion-wikilinks-en-prosa]]).
+`facciones`, `ubicaciones`, `apariciones`, `related` → `"[[slug]]"`. Para que sean **aristas del grafo** deben repetirse en el cuerpo (ver [[0_proyecto/guias-para-colaboradores/recomendacion-wikilinks-en-prosa|recomendacion-wikilinks-en-prosa]]).
 
 ### Específicos
 `nombre` (personajes), `region`, `fecha`, `fecha_exacta`, `spoilers` (lista).

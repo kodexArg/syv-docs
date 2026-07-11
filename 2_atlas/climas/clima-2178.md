@@ -13,9 +13,9 @@ folder: 2_atlas/climas
 tags: []
 title: Clima 2178
 ubicaciones:
-- '[[darsena]]'
-- '[[capital]]'
-- '[[mendoza]]'
+- '[[2_atlas/ciudades/darsena/darsena|darsena]]'
+- '[[2_atlas/ciudades/cordoba/capital|capital]]'
+- '[[2_atlas/ciudades/mendoza/mendoza|mendoza]]'
 ---
 
 # El Clima en la Confederación Argentina (2178)
@@ -45,7 +45,7 @@ El velo imprime a la luz una tendencia sutil al rojo. No es una nube roja colgad
 
 ## Ciudad Dársena — "La Ciudad de las Nubes"
 
-El velo no se reparte parejo sobre la tierra. Se acumula sobre las grandes masas de agua: franjas costeras, estuarios, regiones anegadas. [[darsena|Ciudad Dársena]], asentada sobre su estuario y rodeada de agua por casi todos lados, reúne más velo sobre su comarca que ningún otro punto de la latitud. Esa sombra de más hace de Dársena un **oasis templado** dentro de una Argentina recalentada: mientras el interior seco arde, sobre el agua de Dársena se apila el techo más espeso, y la ciudad queda fresca en comparación.
+El velo no se reparte parejo sobre la tierra. Se acumula sobre las grandes masas de agua: franjas costeras, estuarios, regiones anegadas. [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]], asentada sobre su estuario y rodeada de agua por casi todos lados, reúne más velo sobre su comarca que ningún otro punto de la latitud. Esa sombra de más hace de Dársena un **oasis templado** dentro de una Argentina recalentada: mientras el interior seco arde, sobre el agua de Dársena se apila el techo más espeso, y la ciudad queda fresca en comparación.
 
 "Fresca" no quiere decir "fría". El viejo registro que daba a Dársena una media de 13°C era de otro mundo, de cuando aún se creía que el velo enfriaba de veras. El equilibrio real es otro:
 

@@ -10,10 +10,10 @@ aliases:
   - Luis Valverde
 tags: []
 facciones:
-  - "[[iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
 spoilers:
   - Su objetivo de conservar el poder eclesiástico sobre el conocimiento.
-related: '["[[hermana-cecilia-torres]]", "[[hermano-diego-sanchez]]"]'
+related: '["[[3_personajes/secundarios/hermana-cecilia-torres|hermana-cecilia-torres]]", "[[3_personajes/secundarios/hermano-diego-sanchez|hermano-diego-sanchez]]"]'
 ---
 ## Monseñor Luis Valverde, Director de la Academia
 
@@ -55,7 +55,7 @@ Su principal motivación es preservar y conservar el poder eclesiástico sobre e
 
 ## Conexiones Importantes
 
-- **Madre Inquisidora**: Relación profesional dentro del [[alto-clero|Alto Clero]]
+- **Madre Inquisidora**: Relación profesional dentro del [[1_trasfondo/facciones/iglesia-de-darsena/alto-clero|Alto Clero]]
 - **Padre Felipe**: Colaborador en asuntos académicos
-- **[[hermana-cecilia-torres|Hermana Cecilia Torres]]**: Archivista y profesora en la misma institución; Valverde es su superior jerárquico, aunque ignora el abismo que separa sus verdaderas lealtades
-- **[[hermano-diego-sanchez|Hermano Diego Sánchez]]**: Monaguillo de la Basílica cuya búsqueda espiritual inquieta, aunque aún no ha llegado a los oídos de Valverde
+- **[[3_personajes/secundarios/hermana-cecilia-torres|Hermana Cecilia Torres]]**: Archivista y profesora en la misma institución; Valverde es su superior jerárquico, aunque ignora el abismo que separa sus verdaderas lealtades
+- **[[3_personajes/secundarios/hermano-diego-sanchez|Hermano Diego Sánchez]]**: Monaguillo de la Basílica cuya búsqueda espiritual inquieta, aunque aún no ha llegado a los oídos de Valverde

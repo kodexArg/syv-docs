@@ -10,19 +10,19 @@ aliases:
   - UPA
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[universidad-nacional-cordoba]]"
-  - "[[universidad-de-cuyo]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[2_atlas/ciudades/cordoba/universidad-nacional-cordoba|universidad-nacional-cordoba]]"
+  - "[[2_atlas/ciudades/mendoza/universidad-de-cuyo|universidad-de-cuyo]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[zona-militar-eclesiastica]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|zona-militar-eclesiastica]]"
 ---
 
 # Universidad Pontificia de América
 
 Enclavada en el corazón de la Isla Oriental, donde la Nueva Basílica de San Pedro se alza como catedral del saber permitido, la Universidad Pontificia de América es la institución académica más exclusiva de la Confederación Argentina. Sus muros de piedra gris-oscura, tallados en 2084 con técnicas artesanales que requirieron ocho años de trabajo, encierran no solo bibliotecas y laboratorios, sino una forma de entender la verdad: aquella que puede ser conocida sin herir a Dios, aquella que sirve sin ser herramienta de perdición.
 
-Fundada formalmente en 2068 como **Universidad Papa Francisco** durante los años de reconstrucción post-Gran Guerra, cuando aún la memoria de la caída era fresca en la piel de los sobrevivientes, cambió de nombre en 2157 cuando la [[iglesia|Iglesia]] decidió que ciertos nombres debían reconfigurarse en la memoria colectiva. El cambio fue administrativo, silencioso. Pocos civiles notan hoy que alguna vez existió otro nombre. Los archivos oficiales dicen que siempre fue "Pontificia de América." Es una de esas verdades que la Historia reescribe cada generación.
+Fundada formalmente en 2068 como **Universidad Papa Francisco** durante los años de reconstrucción post-Gran Guerra, cuando aún la memoria de la caída era fresca en la piel de los sobrevivientes, cambió de nombre en 2157 cuando la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] decidió que ciertos nombres debían reconfigurarse en la memoria colectiva. El cambio fue administrativo, silencioso. Pocos civiles notan hoy que alguna vez existió otro nombre. Los archivos oficiales dicen que siempre fue "Pontificia de América." Es una de esas verdades que la Historia reescribe cada generación.
 
 ## Ubicación y Arquitectura
 
@@ -265,9 +265,9 @@ Es un baile complejo. Algunos investigadores lo dominan; otros terminan censurad
 
 La UPA tiene relaciones formales con:
 
-[[universidad-nacional-cordoba|Universidad de Córdoba]]: Rivalidad competitiva. Córdoba busca atraer a los mejores investigadores arqueológicos ofreciendo "mayor libertad intelectual"; la UPA retiene talento argumentando acceso superior a artefactos.
+[[2_atlas/ciudades/cordoba/universidad-nacional-cordoba|Universidad de Córdoba]]: Rivalidad competitiva. Córdoba busca atraer a los mejores investigadores arqueológicos ofreciendo "mayor libertad intelectual"; la UPA retiene talento argumentando acceso superior a artefactos.
 
-[[universidad-de-cuyo|Universidad de Cuyo (Mendoza)]]: Relación más cordial. Cuyo no compite en arqueología; colaboran ocasionalmente en estudios históricos. Hay intercambio académico limitado.
+[[2_atlas/ciudades/mendoza/universidad-de-cuyo|Universidad de Cuyo (Mendoza)]]: Relación más cordial. Cuyo no compite en arqueología; colaboran ocasionalmente en estudios históricos. Hay intercambio académico limitado.
 
 **Instituciones Extranjeras**: La UPA mantiene correspondencia con universidades en Santiago, São Paulo, Lima. Algunos investigadores extranjeros visitan brevemente (meses); muy raramente se instalan permanentemente.
 

@@ -7,14 +7,14 @@ aliases:
   - Plantilla Facción
 tags: []
 related:
-  - "[[guia-de-facciones]]"
-  - "[[guia-de-metadatos]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-facciones|guia-de-facciones]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]]"
 ---
 
 Copiá este frontmatter al crear una facción. Reemplazá los valores; las relaciones
 con otras facciones/actores van como **wikilinks** en `related`. Las dimensiones
 controladas (`entidad`, `alcance`, `estado`) son **campos propios**, no tags.
-Ver [[guia-de-metadatos]] y [[glosario-de-tags]].
+Ver [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]] y [[0_proyecto/guias-para-colaboradores/glosario-de-tags|glosario-de-tags]].
 
 ```yaml
 ---

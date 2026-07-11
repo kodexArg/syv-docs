@@ -9,10 +9,10 @@ aliases:
   - Nikole
   - La Hermana de la Caridad
 tags: []
-facciones: '["[[las-manos-calladas]]"]'
+facciones: '["[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|las-manos-calladas]]"]'
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related: '["[[madre-superiora-maria]]", "[[marta-la-curandera]]", "[[hermana-laura-castillo]]", "[[las-manos-calladas]]"]'
+related: '["[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]", "[[3_personajes/secundarios/marta-la-curandera|marta-la-curandera]]", "[[3_personajes/secundarios/hermana-laura-castillo|hermana-laura-castillo]]", "[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|las-manos-calladas]]"]'
 ---
 ## Sor Nikole, La Hermana de la Caridad
 
@@ -30,7 +30,7 @@ Luce extremadamente cansada pero determinada.
 
 ### Rol y Posición
 
-Sor Nikole ha abandonado la estructura rígida de la [[iglesia|Iglesia]] para encontrar su verdadera vocación en [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]], ofreciendo cuidados médicos y consuelo espiritual a quienes lo necesitan. Su pequeño cuarto se ha convertido en un santuario para los vecinos más necesitados.
+Sor Nikole ha abandonado la estructura rígida de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] para encontrar su verdadera vocación en [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]], ofreciendo cuidados médicos y consuelo espiritual a quienes lo necesitan. Su pequeño cuarto se ha convertido en un santuario para los vecinos más necesitados.
 
 ### Personalidad
 
@@ -54,6 +54,6 @@ Aunque su presencia no es bien vista por la Iglesia, la protección de la banda 
 
 - **Banda local de las Tuberías**: Le brinda protección
 - **Vecinos necesitados**: Aquellos a quienes sirve
-- **[[madre-superiora-maria|Madre Superiora María]]**: La mujer que la reclutó — vio en Nikole la misma rebeldía que ella tuvo veinte años antes; relación de deuda y afecto recíproco aunque Nikole no comprende del todo el peso de lo que María carga
-- **[[hermana-laura-castillo|Hermana Laura Castillo]]**: Compañera de trabajo en las Tuberías; trabajan codo a codo desde hace meses, y esa cercanía cotidiana las ha vuelto la fibra más visible de [[las-manos-calladas|Las Manos Calladas]]
-- **[[marta-la-curandera|Marta la Curandera]]**: Vecina en las Tuberías; comparten misión de cura aunque desde tradiciones distintas — fe y oficio que se complementan sin fusionarse
+- **[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]**: La mujer que la reclutó — vio en Nikole la misma rebeldía que ella tuvo veinte años antes; relación de deuda y afecto recíproco aunque Nikole no comprende del todo el peso de lo que María carga
+- **[[3_personajes/secundarios/hermana-laura-castillo|Hermana Laura Castillo]]**: Compañera de trabajo en las Tuberías; trabajan codo a codo desde hace meses, y esa cercanía cotidiana las ha vuelto la fibra más visible de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]
+- **[[3_personajes/secundarios/marta-la-curandera|Marta la Curandera]]**: Vecina en las Tuberías; comparten misión de cura aunque desde tradiciones distintas — fe y oficio que se complementan sin fusionarse

@@ -11,7 +11,7 @@ tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
-related: '["[[marta-la-curandera]]", "[[marcos-el-verdulero]]"]'
+related: '["[[3_personajes/secundarios/marta-la-curandera|marta-la-curandera]]", "[[3_personajes/secundarios/marcos-el-verdulero|marcos-el-verdulero]]"]'
 ---
 ## María, tejedora de sueños
 
@@ -50,5 +50,5 @@ Y sí, por supuesto que todo esto es una exageración, ya que en realidad solo e
 ## Conexiones Importantes
 
 - **Las señoras de Las Tuberías**: Sus principales clientas
-- **[[marta-la-curandera|Marta la Curandera]]**: Vecina y figura complementaria; donde Marta sana el cuerpo, María teje el destino — dos mujeres que sostienen la esperanza en el subsuelo
-- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Conocido de la taberna; una de las pocas presencias masculinas con las que intercambia palabras sin cálculo
+- **[[3_personajes/secundarios/marta-la-curandera|Marta la Curandera]]**: Vecina y figura complementaria; donde Marta sana el cuerpo, María teje el destino — dos mujeres que sostienen la esperanza en el subsuelo
+- **[[3_personajes/secundarios/marcos-el-verdulero|Marcos el Verdulero]]**: Conocido de la taberna; una de las pocas presencias masculinas con las que intercambia palabras sin cálculo

@@ -11,13 +11,13 @@ aliases:
 tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ---
 En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: estrictamente controlada, con grandes disparidades entre el suministro público y las necesidades de las megaestructuras que sostienen la ciudad.
 
 ## Red Eléctrica Pública
 
-El sistema eléctrico doméstico y de servicios públicos está diseñado para ser seguro y de bajo consumo. La red distribuye **corriente continua (CC) a 48V**. Los **10A por hogar (480 W)** no son el techo sino el **piso garantizado**: el **techo** es de **20A (960 W)**, fijado por el sistema de tarjetas a razón de **240 W por persona** (ver [[infraestructura-energetica|Infraestructura Energética]]). Esta limitación está pensada para minimizar el riesgo de accidentes por electrocución y para fomentar un uso austero de la energía, en línea con los dogmas de la Iglesia.
+El sistema eléctrico doméstico y de servicios públicos está diseñado para ser seguro y de bajo consumo. La red distribuye **corriente continua (CC) a 48V**. Los **10A por hogar (480 W)** no son el techo sino el **piso garantizado**: el **techo** es de **20A (960 W)**, fijado por el sistema de tarjetas a razón de **240 W por persona** (ver [[2_atlas/tecnologia-y-ciencia/infraestructura-energetica|Infraestructura Energética]]). Esta limitación está pensada para minimizar el riesgo de accidentes por electrocución y para fomentar un uso austero de la energía, en línea con los dogmas de la Iglesia.
 
 La red pública alimenta la iluminación de la ciudad, basada en eficientes redes de LEDs a 3V, y otros servicios básicos. Sin embargo, ciertos procesos industriales autorizados, como la purificación de agua, requieren corrientes mucho más altas y se conectan a subestaciones especiales.
 
@@ -25,7 +25,7 @@ La red pública alimenta la iluminación de la ciudad, basada en eficientes rede
 
 La generación de electricidad en Dársena depende de una compleja rejilla de Nodos subterráneos y reactores nucleares automatizados. Los detalles técnicos completos sobre sistemas de Nodos, generadores primarios, estructuras del Ministerio de Infraestructura, y sistemas de vigilancia se encuentran documentados en:
 
-**Ver: [[infraestructura-energetica|Infraestructura Energética de Dársena]]**
+**Ver: [[2_atlas/tecnologia-y-ciencia/infraestructura-energetica|Infraestructura Energética de Dársena]]**
 
 Esta sección cubre:
 - Arquitectura de Nodos Eléctricos (distribución pre-guerra)
@@ -41,9 +41,9 @@ Esta sección cubre:
 **NOTA IMPORTANTE**: La Confederación utiliza **DOS sistemas de almacenamiento completamente diferentes**:
 
 - **Baterías de arena y sal**: Uso civil generalizado (descripción detallada en esta sección)
-- **Celdas de Americio-241**: Uso militar exclusivo (ver [[celdas-radionuclidos|Celdas de Radionúclidos]])
+- **Celdas de Americio-241**: Uso militar exclusivo (ver [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos]])
 
-Para comparación completa entre ambas tecnologías, ver [[sistemas-energeticos|Sistemas Energéticos]].
+Para comparación completa entre ambas tecnologías, ver [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|Sistemas Energéticos]].
 
 ---
 
@@ -71,13 +71,13 @@ A pesar de sus limitaciones, son **ampliamente usadas** porque la economía post
 - **Vehículos militares urbanos:** Incluso Fuerzas Armadas prefieren eléctrico en ciudades por bajo costo operativo
 - **Respaldo doméstico:** Familias acomodadas tienen bancos de baterías para cortes de red
 
-Conviene un matiz: el material —arena y sal— no es tóxico ni explosivo, y su uso es de hecho **omnipresente**, pero el acumulador no es *plenamente legal*. Sobre su capacidad de **descarga de alta potencia** pesa una **prohibición nominal** que se aplica de forma selectiva; la élite y el Estado las usan a plena luz mientras al pobre la sola tenencia puede hundirlo (ver [[baterias|Baterías]]).
+Conviene un matiz: el material —arena y sal— no es tóxico ni explosivo, y su uso es de hecho **omnipresente**, pero el acumulador no es *plenamente legal*. Sobre su capacidad de **descarga de alta potencia** pesa una **prohibición nominal** que se aplica de forma selectiva; la élite y el Estado las usan a plena luz mientras al pobre la sola tenencia puede hundirlo (ver [[2_atlas/tecnologia-y-ciencia/baterias|Baterías]]).
 
 ## Seguridad Energética y Vigilancia
 
-Para información completa sobre sistemas de vigilancia, detección de anomalías, TAPs eléctricos clandestinos, "La Bestia" y protocolos de respuesta de la [[inquisicion|SIA]]:
+Para información completa sobre sistemas de vigilancia, detección de anomalías, TAPs eléctricos clandestinos, "La Bestia" y protocolos de respuesta de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]]:
 
-**Ver: [[infraestructura-energetica|Infraestructura Energética → Seguridad Energética y Vigilancia]]**
+**Ver: [[2_atlas/tecnologia-y-ciencia/infraestructura-energetica|Infraestructura Energética → Seguridad Energética y Vigilancia]]**
 
 Esta sección cubre:
 - Dispositivos TAP (extracción clandestina de energía)

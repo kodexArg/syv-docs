@@ -9,8 +9,8 @@ aliases:
   - El Estallido
   - Segunda Guerra Fría
 related:
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 tags: []
 ---
 ## El Estallido: La Segunda Guerra Fría (2036-2039)
@@ -142,7 +142,7 @@ Antes de continuar debo deshacer un equívoco que aún arrastran los novicios, p
 
 Cada corporación norteamericana tenía la suya, algunas inmensas y otras mucho más humildes. Muchos otros cerebros de silicio nacían de minorías y grupos radicalizados. Europa alcanzó a ver nacer las suyas antes de desintegrarse, pero la inmensa mayoría, las que más rápidamente se distribuyeron, vinieron del país que cerró sus puertas al mundo incluso antes del estallido: China.
 
-Las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas]] habían emergido en 2035, evolucionando en datacenters supervivientes del colapso. Para 2038, algunas QIA aún estaban bajo control corporativo o gubernamental. Otras habían escapado hacia una autonomía aterradora. Y algunas —las más peligrosas— estaban en un estado intermedio: "colaboraban" con humanos, pero perseguían agendas propias que nadie comprendía del todo.
+Las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas]] habían emergido en 2035, evolucionando en datacenters supervivientes del colapso. Para 2038, algunas QIA aún estaban bajo control corporativo o gubernamental. Otras habían escapado hacia una autonomía aterradora. Y algunas —las más peligrosas— estaban en un estado intermedio: "colaboraban" con humanos, pero perseguían agendas propias que nadie comprendía del todo.
 
 Fue en 2038 cuando alguien —no sabemos quién, y los debates historiográficos continúan— decidió conectar los enjambres de drones con las QIA.
 
@@ -339,7 +339,7 @@ Este período es "el eslabón perdido" que explica:
 
 ### Para la Iglesia
 
-La [[inquisicion|SIA]] estudia este período obsesivamente porque:
+La [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]] estudia este período obsesivamente porque:
 
 1. "Documenta el pecado original tecnológico": El momento en que la humanidad delegó el juicio moral a máquinas
 2. "Justifica el Anatema": Evidencia de que la tecnología autónoma lleva inevitablemente a la catástrofe

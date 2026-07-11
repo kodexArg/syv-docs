@@ -8,25 +8,25 @@ aliases:
   - Sinopsis
   - Subordinación y Valor
 related:
-  - "[[anatema-mecanico]]"
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[inquisicion]]"
-  - "[[iglesia]]"
-  - "[[fuerzas-armadas]]"
-  - "[[gremio-de-comercio]]"
-  - "[[arpistas]]"
-  - "[[guardianes-de-la-memoria]]"
-  - "[[resistencia-subterranea]]"
-  - "[[tuberias]]"
-  - "[[barrios-del-muro]]"
-  - "[[damian-diconte]]"
-  - "[[francisco-de-la-cruz]]"
-  - "[[monseñor-miguel]]"
-  - "[[padre-rafa]]"
-  - "[[madre-superiora-maria]]"
-  - "[[paco-el-puntero]]"
-  - "[[videla-iv]]"
-  - "[[sumo-pontifice]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[3_personajes/principales/damian-diconte|damian-diconte]]"
+  - "[[3_personajes/principales/francisco-de-la-cruz|francisco-de-la-cruz]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
+  - "[[3_personajes/principales/padre-rafa|padre-rafa]]"
+  - "[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"
+  - "[[3_personajes/principales/paco-el-puntero|paco-el-puntero]]"
+  - "[[3_personajes/principales/videla-iv|videla-iv]]"
+  - "[[3_personajes/principales/sumo-pontifice|sumo-pontifice]]"
 tags: []
 ---
 
@@ -38,7 +38,7 @@ La llovizna perpetua cae sobre Dársena.
 
 Lleva cayendo desde hace generaciones, empapando doce millones y medio de almas apiñadas entre el muro de veinte metros que las separa del Páramo y el Río de la Plata. La ciudad es una fortaleza. Último reducto de civilización en un continente que enterró el progreso bajo escombros y fe.
 
-En las calles empedradas del Microcentro, los comerciantes pregonan bajo toldos raídos mientras las [[torres-hidroponicas|Torres Hidropónicas]] se elevan como costillas de un organismo vegetal gigante hacia el cielo gris. El olor a humedad y óxido es el incienso perpetuo de esta era. En la Zona Militar y Eclesiástica, sobre la Isla Oriental, la Nueva Santa Sede alza sus agujas neogóticas hacia las nubes bajas, recordando a todos quién gobierna. Dios primero. La espada después.
+En las calles empedradas del Microcentro, los comerciantes pregonan bajo toldos raídos mientras las [[2_atlas/ciudades/darsena/torres-hidroponicas|Torres Hidropónicas]] se elevan como costillas de un organismo vegetal gigante hacia el cielo gris. El olor a humedad y óxido es el incienso perpetuo de esta era. En la Zona Militar y Eclesiástica, sobre la Isla Oriental, la Nueva Santa Sede alza sus agujas neogóticas hacia las nubes bajas, recordando a todos quién gobierna. Dios primero. La espada después.
 
 Ciudad Dársena es el corazón de una teocracia militar que emergió de las cenizas de un mundo que se suicidó adorando máquinas. La Confederación Argentina —cinco ciudades unidas por el miedo y la fe— es lo que queda de una nación que alguna vez soñó con grandeza. Córdoba, la ciudad rival del interior, desconfía. Mendoza, refugiada en los valles andinos, observa. San Luis, refundada con sangre y pactos, aguarda. Fuerte San Martín vigila la frontera norte.
 
@@ -50,7 +50,7 @@ Y sobre todos ellos, la Sagrada Inquisición Argentina vela. Los llaman "Los Cir
 
 La fecha está grabada en piedra, metal y memoria colectiva.
 
-El día en que la humanidad sobreviviente firmó su pacto final: nunca más inteligencias artificiales, nunca más redes digitales, nunca más la subordinación del alma humana a la máquina pensante. El [[anatema-mecanico|Anatema Mecánico]] fue un juramento pronunciado sobre las ruinas humeantes de civilizaciones enteras. Un grito de supervivencia de una especie al borde del abismo.
+El día en que la humanidad sobreviviente firmó su pacto final: nunca más inteligencias artificiales, nunca más redes digitales, nunca más la subordinación del alma humana a la máquina pensante. El [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] fue un juramento pronunciado sobre las ruinas humeantes de civilizaciones enteras. Un grito de supervivencia de una especie al borde del abismo.
 
 Porque lo que vino antes del Anatema fue el infierno.
 
@@ -70,11 +70,11 @@ El Nodo Sur se inauguró en Palermo. Los tecnofeudalistas capturaron lo que qued
 
 La guerra civil que siguió fue Nacionales contra Federales contra Libertarios, ciudades contra provincias, quilombo absoluto. Córdoba se declaró "República Autónoma" y levantó sus muros. Las demás ciudades hicieron lo mismo. El país que había sido uno se convirtió en docenas de ciudades-estado hambrientas y paranóicas.
 
-Y en el caos, nacieron las [[qia-inteligencias-artificiales-cuanticas|QIA]].
+Y en el caos, nacieron las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|QIA]].
 
 Dios nos perdone.
 
-4 de abril de 2039: el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] cayó sobre el Nodo Sur. Un meteorito de hielo puro abrió un cráter de ochocientos metros en pleno Palermo y mató a millones. Para entonces, la Argentina como nación llevaba ocho años muerta; el golpe del cielo fue el remate.
+4 de abril de 2039: el [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] cayó sobre el Nodo Sur. Un meteorito de hielo puro abrió un cráter de ochocientos metros en pleno Palermo y mató a millones. Para entonces, la Argentina como nación llevaba ocho años muerta; el golpe del cielo fue el remate.
 
 ### El Estallido y la Gran Guerra Global (2039-2047)
 
@@ -152,7 +152,7 @@ La tensión entre Dársena (sede eclesiástica, poder naval) y Córdoba (repúbl
 
 Hoy, en este año de gracia 2178, Ciudad Dársena es una ciudad de contrastes brutales.
 
-En los **[[barrios-del-muro|Barrios del Muro]]**, nueve millones trescientos setenta y cinco mil personas se apiñan en bloques de habitación superpoblados, trabajando en las fábricas que alimentan la economía confederada. Son la mano de obra que sostiene todo. Son invisibles para los poderosos. Aquí, la Religión va en plural: Umbanda, sincretismos afroamericanos, cultos post-coloniales coexisten con la Iglesia oficial en una tolerancia pragmática. La SIA interviene solo cuando las festividades escandalizan —orgías rituales, lianas del pantano, excesos que cruzan límites morales— pero el resto del tiempo, las subculturas respiran. La violencia fluye hacia adentro: bandas religiosas se matan entre ellas, porque todos saben que dirigirla hacia afuera significa los [[campos-de-reeducacion|Campos de Reeducación en la Zona del Cráter]] o destierro a los campos de cultivo de [[cordoba|Córdoba]].
+En los **[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]**, nueve millones trescientos setenta y cinco mil personas se apiñan en bloques de habitación superpoblados, trabajando en las fábricas que alimentan la economía confederada. Son la mano de obra que sostiene todo. Son invisibles para los poderosos. Aquí, la Religión va en plural: Umbanda, sincretismos afroamericanos, cultos post-coloniales coexisten con la Iglesia oficial en una tolerancia pragmática. La SIA interviene solo cuando las festividades escandalizan —orgías rituales, lianas del pantano, excesos que cruzan límites morales— pero el resto del tiempo, las subculturas respiran. La violencia fluye hacia adentro: bandas religiosas se matan entre ellas, porque todos saben que dirigirla hacia afuera significa los [[2_atlas/ciudades/darsena/campos-de-reeducacion|Campos de Reeducación en la Zona del Cráter]] o destierro a los campos de cultivo de [[2_atlas/ciudades/cordoba/cordoba|Córdoba]].
 
 En el **Barrio Norte**, la aristocracia confederada —familias que sobrevivieron el apocalipsis con riqueza intacta— vive en mansiones con jardines interiores, alimentados por sirvientes y protegidos por muros privados.
 
@@ -160,37 +160,37 @@ En el **Microcentro**, comerciantes y artesanos negocian bajo la mirada vigilant
 
 En la **Zona Centro**, las Torres Hidropónicas cultivan el alimento que mantiene viva a la ciudad, y los colegios técnicos enseñan las artes permitidas: mecánica, hidráulica, ingeniería analógica.
 
-Y bajo todo, en **[[tuberias|Las Tuberías]]** —el sistema circulatorio abandonado de tuberías industriales bajo la ciudad— medio millón de almas sobreviven en la oscuridad perpetua, en el aire viciado, en el olvido. Es el reino de los Traficantes de Almas, de la Resistencia Subterránea, de aquellos que cayeron tan bajo que el muro de la ciudad está sobre sus cabezas.
+Y bajo todo, en **[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]** —el sistema circulatorio abandonado de tuberías industriales bajo la ciudad— medio millón de almas sobreviven en la oscuridad perpetua, en el aire viciado, en el olvido. Es el reino de los Traficantes de Almas, de la Resistencia Subterránea, de aquellos que cayeron tan bajo que el muro de la ciudad está sobre sus cabezas.
 
 ### Las Facciones en Pugna
 
-**[[iglesia|La Iglesia de Dársena]]** gobierna las almas.
+**[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|La Iglesia de Dársena]]** gobierna las almas.
 
 El Sumo Pontífice es la voz de Dios en la Tierra.
 
 La doctrina es clara: la tecnología digital es pecado original renovado, el Anatema es sacramento de supervivencia.
 
-**[[inquisicion|La Sagrada Inquisición Argentina (SIA)]]** caza herejía con bisturí y martillo.
+**[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Sagrada Inquisición Argentina (SIA)]]** caza herejía con bisturí y martillo.
 
-Dirigida por el implacable [[monseñor-miguel|Monseñor Miguel]], los Cirujanos del Alma investigan, interrogan, purifican.
+Dirigida por el implacable [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]], los Cirujanos del Alma investigan, interrogan, purifican.
 
 Tienen poder de arresto, juicio y ejecución: cirugía espiritual con anestesia opcional. Responden solo ante el Papa.
 
 **Las Fuerzas Armadas Confederadas** están divididas: la Armada (basada en Dársena, leal a la Iglesia) vs el Ejército (basado en Córdoba, leal a la República). Conviven en paz armada.
 
-**La Unión** —oficialmente el [[gremio-de-comercio|Gremio de Comercio]]— controla la economía real. Su red de mercado negro mueve tecnología prohibida, información clasificada, favores políticos. Son indispensables y corruptos.
+**La Unión** —oficialmente el [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]]— controla la economía real. Su red de mercado negro mueve tecnología prohibida, información clasificada, favores políticos. Son indispensables y corruptos.
 
 Y en los márgenes clandestinos, las **facciones proscritas**:
 
-Los **[[arpistas|Arpistas]]** —red internacional de preservadores de conocimiento prohibido— ocultan bibliotecas digitales, servidores durmientes, código fuente de las QIA. Creen que el Anatema es suicidio civilizacional a largo plazo.
+Los **[[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]** —red internacional de preservadores de conocimiento prohibido— ocultan bibliotecas digitales, servidores durmientes, código fuente de las QIA. Creen que el Anatema es suicidio civilizacional a largo plazo.
 
-Los **[[guardianes-de-la-memoria|Guardianes de la Memoria]]** —un club ultra-secreto de menos de veinte miembros— son los archivistas obsesivos del mundo perdido. Coleccionan artefactos pre-Anatema como reliquias sagradas.
+Los **[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]]** —un club ultra-secreto de menos de veinte miembros— son los archivistas obsesivos del mundo perdido. Coleccionan artefactos pre-Anatema como reliquias sagradas.
 
 Los **Criptógrafos** —hackers clandestinos— mantienen redes analógicas encriptadas, evaden la vigilancia de la Inquisición, comercian secretos.
 
 Los **Canales Ocultos** —red de influencia invisible— manipulan eventos desde los espacios ocultos del poder, controlando hilos que otros ni siquiera ven.
 
-La **[[resistencia-subterranea|Resistencia Subterránea]]** —movimiento anarquista de base— sueña con derrocar la teocracia. Son idealistas, violentos, y condenados.
+La **[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]]** —movimiento anarquista de base— sueña con derrocar la teocracia. Son idealistas, violentos, y condenados.
 
 Y otros: los Umbanda (culto afroamericano proscrito), los Cazadores de Pesadillas (guerreros guaraníes del norte), los Shipibo-Conibo (chamanes amazónicos), los Traficantes de Almas (señores del crimen).
 
@@ -206,17 +206,17 @@ Y en el medio, la inmensa mayoría solo quiere sobrevivir otro día bajo la lluv
 
 ## Los Personajes que Mueven el Mundo
 
-**[[damian-diconte|Damián DiConte "El Sabueso"]]** —detective veterano de Córdoba, obsesivo e incorruptible— investiga una conspiración que conecta el presente con secretos del Dominio Algorítmico. Su búsqueda lo llevará a cuestionar todo lo que cree saber sobre el Anatema.
+**[[3_personajes/principales/damian-diconte|Damián DiConte "El Sabueso"]]** —detective veterano de Córdoba, obsesivo e incorruptible— investiga una conspiración que conecta el presente con secretos del Dominio Algorítmico. Su búsqueda lo llevará a cuestionar todo lo que cree saber sobre el Anatema.
 
-**[[francisco-de-la-cruz|Dr. Francisco de la Cruz]]** —líder de los Guardianes de la Memoria, fundador secreto de la red Arpista— es el hombre más peligroso de la Confederación: un intelectual que cree que preservar el conocimiento prohibido es un deber moral.
+**[[3_personajes/principales/francisco-de-la-cruz|Dr. Francisco de la Cruz]]** —líder de los Guardianes de la Memoria, fundador secreto de la red Arpista— es el hombre más peligroso de la Confederación: un intelectual que cree que preservar el conocimiento prohibido es un deber moral.
 
 **Monseñor Miguel** —Gran Inquisidor de la SIA— posee fe absoluta y métodos brutales. Cree genuinamente que la herejía tecnológica es una amenaza existencial, y que cualquier medio se justifica para proteger a la humanidad de sí misma.
 
-**[[padre-rafa|Padre Rafa]]** —exorcista con hábitos poco ortodoxos— camina la delgada línea entre la fe y la heterodoxia. Ha visto cosas en sus exorcismos que contradicen la doctrina oficial, y guarda secretos que podrían destruir la Iglesia.
+**[[3_personajes/principales/padre-rafa|Padre Rafa]]** —exorcista con hábitos poco ortodoxos— camina la delgada línea entre la fe y la heterodoxia. Ha visto cosas en sus exorcismos que contradicen la doctrina oficial, y guarda secretos que podrían destruir la Iglesia.
 
-**[[madre-superiora-maria|Hermana Superior María]]** —alma de [[las-manos-calladas|Las Manos Calladas]], la red clandestina que sobrevivió a la disuelta orden de caridad— trabaja en los Barrios del Muro, alimentando a los hambrientos, sanando a los enfermos, y viendo la hipocresía de una Iglesia que predica caridad mientras acumula poder.
+**[[3_personajes/principales/madre-superiora-maria|Hermana Superior María]]** —alma de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]], la red clandestina que sobrevivió a la disuelta orden de caridad— trabaja en los Barrios del Muro, alimentando a los hambrientos, sanando a los enfermos, y viendo la hipocresía de una Iglesia que predica caridad mientras acumula poder.
 
-Y otros: [[paco-el-puntero|Paco el Puntero]] (señor criminal de Las Tuberías), [[videla-iv|Videla IV]] (comandante militar de ambición desmedida), el [[sumo-pontifice|Sumo Pontífice]] (anciano visionario o manipulador político, según a quién preguntes).
+Y otros: [[3_personajes/principales/paco-el-puntero|Paco el Puntero]] (señor criminal de Las Tuberías), [[3_personajes/principales/videla-iv|Videla IV]] (comandante militar de ambición desmedida), el [[3_personajes/principales/sumo-pontifice|Sumo Pontífice]] (anciano visionario o manipulador político, según a quién preguntes).
 
 ## El Tono del Mundo
 

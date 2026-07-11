@@ -10,17 +10,17 @@ Aquí se registra la tecnología analógica que sostiene la Confederación: serv
 
 ## Documentos
 
-- [[anatema-mecanico]] — la prohibición que define el mundo
-- [[computacion-y-datos]] — qué se puede calcular y cómo
-- [[electricidad]] — generación y distribución en la Confederación
-- [[energias-alternativas]] — fuentes fuera de la red central
-- [[index-energia]] — índice del sistema energético
-- [[infraestructura-energetica]] — nodos, redes y distribución
-- [[los-rezagos]] — tecnología anterior al colapso que persiste
-- [[procesador-argentino-pia]] — el procesador electromecánico nacional
-- [[sistemas-energeticos]] — comparativa entre ciudades
-- [[tecnologia-civil]] — herramientas del ciudadano común
-- [[tecnologia-militar]] — armamento y defensa permitida
-- [[tecnologias-visuales]] — tinta electrónica, PDAs, proyección analógica
-- [[camaras-supresion-electromagnetica]] — blindaje contra detección
-- [[celdas-radionuclidos]] — fuentes de energía nuclear portátiles
+- [[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]] — la prohibición que define el mundo
+- [[2_atlas/tecnologia-y-ciencia/computacion-y-datos|computacion-y-datos]] — qué se puede calcular y cómo
+- [[2_atlas/tecnologia-y-ciencia/electricidad|electricidad]] — generación y distribución en la Confederación
+- [[2_atlas/tecnologia-y-ciencia/energias-alternativas|energias-alternativas]] — fuentes fuera de la red central
+- [[2_atlas/tecnologia-y-ciencia/index-energia|index-energia]] — índice del sistema energético
+- [[2_atlas/tecnologia-y-ciencia/infraestructura-energetica|infraestructura-energetica]] — nodos, redes y distribución
+- [[2_atlas/tecnologia-y-ciencia/los-rezagos|los-rezagos]] — tecnología anterior al colapso que persiste
+- [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|procesador-argentino-pia]] — el procesador electromecánico nacional
+- [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|sistemas-energeticos]] — comparativa entre ciudades
+- [[2_atlas/tecnologia-y-ciencia/tecnologia-civil|tecnologia-civil]] — herramientas del ciudadano común
+- [[2_atlas/tecnologia-y-ciencia/tecnologia-militar|tecnologia-militar]] — armamento y defensa permitida
+- [[2_atlas/tecnologia-y-ciencia/tecnologias-visuales|tecnologias-visuales]] — tinta electrónica, PDAs, proyección analógica
+- [[2_atlas/tecnologia-y-ciencia/camaras-supresion-electromagnetica|camaras-supresion-electromagnetica]] — blindaje contra detección
+- [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|celdas-radionuclidos]] — fuentes de energía nuclear portátiles

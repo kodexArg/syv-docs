@@ -11,9 +11,9 @@ aliases:
 region: Cuyo
 tags: []
 related:
-  - "[[fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
 ubicaciones:
-  - "[[capital]]"
+  - "[[2_atlas/ciudades/cordoba/capital|capital]]"
 ---
 
 > El nodo logístico entre la costa y los Andes. Ciudad de paso donde las caravanas terrestres intercambian mercancías prohibidas lejos de la vigilancia directa de Dársena.
@@ -60,7 +60,7 @@ Consolidado como bastión de control perpetuo:
 
 ## Gobierno: Comandancia Militar Pura
 
-No hay grupos de influencia en San Luis. Hay solo [[fuerzas-armadas|Comando Militar Unificado]] que responde directamente a Córdoba. La estructura es:
+No hay grupos de influencia en San Luis. Hay solo [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Comando Militar Unificado]] que responde directamente a Córdoba. La estructura es:
 
 ### **Comandancia Militar Central (5% de población)**
 - ~50.000 soldados y oficiales

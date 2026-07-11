@@ -12,12 +12,12 @@ region: Nueva Pampa
 tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-  - "[[inquisicion|SIA]]"
-  - "[[humedad-post-guerra]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]]"
+  - "[[2_atlas/climas/humedad-post-guerra|humedad-post-guerra]]"
 ubicaciones:
-  - "[[capital|Córdoba]]"
-  - "[[darsena]]"
-  - "[[mendoza]]"
+  - "[[2_atlas/ciudades/cordoba/capital|Córdoba]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/mendoza/mendoza|mendoza]]"
 ---
 
 > La muralla norte de la Confederación. Fortaleza militar plantada contra las invasiones desde el territorio no controlado, donde el Ejército vigila fronteras que ya no aparecen en mapas oficiales.

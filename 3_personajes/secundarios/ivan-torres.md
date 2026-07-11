@@ -9,12 +9,12 @@ aliases:
   - Iván Torres
   - El Bicicletero
 tags: []
-facciones: '["[[gremio-de-comercio]]"]'
+facciones: '["[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"]'
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
 spoilers:
   - Su conocimiento sobre las actividades de los mensajeros podría ser peligroso.
-related: '["[[los-criptografos]]", "[[resistencia-subterranea]]"]'
+related: '["[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]", "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"]'
 ---
 ## Iván Torres, el Bicicletero
 
@@ -54,7 +54,7 @@ Por su posición, Iván tiene un conocimiento profundo de la red de mensajeros d
 
 - **Red de Mensajeros**: Su clientela y fuente de información
 - **Su Taller**: Territorio neutral donde todos son bienvenidos
-- **[[gremio-de-comercio|Gremio de Comercio]]**: La facción comercial a la que pertenece públicamente
-- **[[resistencia-subterranea|Resistencia Subterránea]]**: Algunos de sus clientes mensajeros trabajan para ellos sin saberlo él
-- **[[los-criptografos|Los Criptógrafos]]**: Otra facción cuyo tráfico de información pasa por su taller
+- **[[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]]**: La facción comercial a la que pertenece públicamente
+- **[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]]**: Algunos de sus clientes mensajeros trabajan para ellos sin saberlo él
+- **[[1_trasfondo/facciones/facciones-menores/los-criptografos|Los Criptógrafos]]**: Otra facción cuyo tráfico de información pasa por su taller
 - **Conocimiento Peligroso**: Lo que sabe podría matarlo

@@ -11,11 +11,11 @@ Aquí se cartografían los espacios donde la vida persiste: Dársena con su hume
 
 ## Secciones
 
-- [[ciudades]] — las fortalezas de hormigón donde la humanidad resiste
-- [[climas]] — la atmósfera transformada por el colapso
-- [[tecnologia-y-ciencia]] — los límites de lo permitido bajo el Anatema Mecánico
+- [[2_atlas/ciudades/ciudades|ciudades]] — las fortalezas de hormigón donde la humanidad resiste
+- [[2_atlas/climas/climas|climas]] — la atmósfera transformada por el colapso
+- [[2_atlas/tecnologia-y-ciencia/tecnologia-y-ciencia|tecnologia-y-ciencia]] — los límites de lo permitido bajo el Anatema Mecánico
 
 ## Notas sueltas
 
-- [[analisis-sistema-educativo-confederacion]]
-- [[notas-sobre-arte-en-confederacion]]
+- [[2_atlas/analisis-sistema-educativo-confederacion|analisis-sistema-educativo-confederacion]]
+- [[2_atlas/notas-sobre-arte-en-confederacion|notas-sobre-arte-en-confederacion]]

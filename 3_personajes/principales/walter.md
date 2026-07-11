@@ -10,11 +10,11 @@ aliases:
   - El Heredero de las Tuberías
 facciones: []
 ubicaciones:
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 related:
-  - "[[paco-el-puntero]]"
-  - "[[padre-rafa]]"
-  - "[[cintia-herrera]]"
+  - "[[3_personajes/principales/paco-el-puntero|paco-el-puntero]]"
+  - "[[3_personajes/principales/padre-rafa|padre-rafa]]"
+  - "[[3_personajes/secundarios/cintia-herrera|cintia-herrera]]"
 spoilers:
   - "Heredó los secretos de Paco sobre las posesiones y el Pueblo del Pantano, pero aún no sabe cómo usarlos."
 tags: []
@@ -28,7 +28,7 @@ Puntero de Estación (Sucesor de Paco) y Explorador Subacuático
 
 ## Aspecto
 
-Walter es fibra y nervio. Su cuerpo está esculpido por años de natación contracorriente en las aguas negras de las [[tuberias|Tuberías]]; espalda ancha, extremidades largas y una piel pálida que rara vez ve el sol directo. Tiene el cabello rapado a los costados y largo arriba, a menudo húmedo o pegado a la frente.
+Walter es fibra y nervio. Su cuerpo está esculpido por años de natación contracorriente en las aguas negras de las [[2_atlas/ciudades/darsena/tuberias|Tuberías]]; espalda ancha, extremidades largas y una piel pálida que rara vez ve el sol directo. Tiene el cabello rapado a los costados y largo arriba, a menudo húmedo o pegado a la frente.
 
 Viste ropa técnica remendada, trajes de neopreno de segunda mano adaptados para el uso diario y siempre lleva consigo unas gafas de natación colgadas al cuello, como un talismán. Sus ojos, inquietos y observadores, delatan a alguien que está acostumbrado a vigilar las sombras y el nivel del agua.
 
@@ -36,7 +36,7 @@ Viste ropa técnica remendada, trajes de neopreno de segunda mano adaptados para
 
 ### Rol y Posición
 
-Walter nunca pidió ser líder. Era el mejor nadador de la estación, el chico que podía contener la respiración dos minutos y traer chatarra valiosa de los niveles inundados. Pero cuando **[[paco-el-puntero|Paco el Puntero]]** fue asesinado, el vacío de poder amenazó con devorar a la comunidad.
+Walter nunca pidió ser líder. Era el mejor nadador de la estación, el chico que podía contener la respiración dos minutos y traer chatarra valiosa de los niveles inundados. Pero cuando **[[3_personajes/principales/paco-el-puntero|Paco el Puntero]]** fue asesinado, el vacío de poder amenazó con devorar a la comunidad.
 
 Walter dio un paso al frente no por ambición, sino por necesidad. Ahora es el **Puntero**, el encargado de mantener la paz, negociar con los de arriba y asegurar que los filtros de aire y agua sigan funcionando. Es un líder reacio, que prefiere la soledad del agua a las disputas políticas, pero que defenderá su barrio con la ferocidad de un animal acorralado.
 
@@ -73,9 +73,9 @@ Recientemente, ha empezado a notar que los casos de "posesión" están aumentand
 ## Conexiones Importantes
 
 - **Paco el Puntero (Fallecido)**: Su mentor y figura paterna. Su recuerdo es guía y carga.
-- **[[padre-rafa|Padre Rafa]]**: Mantiene la alianza que tenía Paco, aunque el sacerdote lo mira con lástima y duda.
+- **[[3_personajes/principales/padre-rafa|Padre Rafa]]**: Mantiene la alianza que tenía Paco, aunque el sacerdote lo mira con lástima y duda.
 - **El Pueblo del Pantano**: Sabe cómo contactarlos, pero les teme.
-- **[[cintia-herrera|Cintia Herrera]]**: Una mecánica de la estación que es su mano derecha y, quizás, la única que lo ve como Walter y no como "el nuevo Puntero".
+- **[[3_personajes/secundarios/cintia-herrera|Cintia Herrera]]**: Una mecánica de la estación que es su mano derecha y, quizás, la única que lo ve como Walter y no como "el nuevo Puntero".
 
 ## Referencias
 

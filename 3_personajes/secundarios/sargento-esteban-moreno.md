@@ -10,7 +10,7 @@ aliases:
   - Esteban Moreno
 tags: []
 facciones:
-  - "[[fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
 spoilers:
   - "Su rol como Maese Masón y líder de la Orden de los Guardianes."
 ---
@@ -30,7 +30,7 @@ Es alguien cuyo verdadero poder reside en lugares ocultos del conocimiento.
 
 ### Rol y Posición
 
-Moreno está a cargo de la guarnición del [[cementerio-de-chacarita|Cementerio de Chacarita]], una posición que parece modesta pero que esconde una influencia considerable.
+Moreno está a cargo de la guarnición del [[2_atlas/ciudades/darsena/cementerio-de-chacarita|Cementerio de Chacarita]], una posición que parece modesta pero que esconde una influencia considerable.
 
 ### Personalidad
 

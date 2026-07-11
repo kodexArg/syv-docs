@@ -8,9 +8,9 @@ alcance: publico
 aliases:
   - Profecías del Mercado
 related:
-  - "[[inquisicion]]"
-  - "[[monseñor-miguel]]"
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
 tags: []
 ---
 ## Las Profecías del Mercado (2029)

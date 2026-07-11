@@ -9,11 +9,11 @@ aliases:
   - Canales Ocultos
 tags: []
 related:
-  - "[[gremio-de-comercio]]"
-  - "[[fuerzas-armadas]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 spoilers:
   - "Controlan las principales rutas de contrabando y tráfico de personas de la ciudad."
   - "Algunos de sus intermediarios más confiables son agentes dobles que venden información a la DNS o a la SIA."
@@ -22,7 +22,7 @@ Los "Canales Ocultos" no son una facción en el sentido tradicional, sino más b
 
 El modus operandi de la red es el anonimato y la compartimentación. Las transacciones se realizan a través de una compleja cadena de intermediarios, donde cada eslabón solo conoce al anterior y al siguiente. Utilizan un lenguaje de códigos, señales y lugares discretos, a menudo en la ribera occidental de la dársena, para llevar a cabo sus negocios. No hay líderes visibles ni una jerarquía formal, lo que los hace extremadamente difíciles de desmantelar.
 
-Su poder radica en el acceso a información que podría derribar a hombres poderosos o salvar a facciones enteras. Por ello, son un aliado tácito y un recurso valioso para el [[gremio-de-comercio|Gremio de Comercio]][^gremio], que utiliza sus servicios para el intercambio de favores y protección. Sin embargo, esta misma naturaleza los convierte en un objetivo prioritario para la [[fuerzas-armadas|Dirección Nacional de Seguridad (DNS)]][^dns] y la [[inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia], que los persiguen sin descanso.
+Su poder radica en el acceso a información que podría derribar a hombres poderosos o salvar a facciones enteras. Por ello, son un aliado tácito y un recurso valioso para el [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]][^gremio], que utiliza sus servicios para el intercambio de favores y protección. Sin embargo, esta misma naturaleza los convierte en un objetivo prioritario para la [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Dirección Nacional de Seguridad (DNS)]][^dns] y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia], que los persiguen sin descanso.
 
 Información secreta (no exponer a jugadores): La fortaleza de los Canales Ocultos es también su mayor debilidad. Se rumorea que controlan las principales rutas de contrabando y tráfico de personas de la ciudad. Sin embargo, la red está plagada de traición. Algunos de sus intermediarios más confiables son, en realidad, agentes dobles que venden información a la DNS o a la SIA, utilizando su posición para eliminar a la competencia o saldar viejas deudas.
 

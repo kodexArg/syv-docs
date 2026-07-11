@@ -8,11 +8,11 @@ nombre: Mario Juárez
 aliases:
   - Mario Juárez
 tags: []
-facciones: '["[[resistencia-subterranea]]"]'
+facciones: '["[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"]'
 spoilers:
   - Es informante de La Resistencia.
-related: '["[[francisco-duarte]]", "[[marcos-duarte]]"]'
-ubicaciones: '["[[darsena]]"]'
+related: '["[[3_personajes/secundarios/francisco-duarte|francisco-duarte]]", "[[3_personajes/secundarios/marcos-duarte|marcos-duarte]]"]'
+ubicaciones: '["[[2_atlas/ciudades/darsena/darsena|darsena]]"]'
 ---
 ## Mario Juárez, Guardia de Seguridad
 
@@ -47,11 +47,11 @@ Mario es conocido como un guardia confiable pero poco ambicioso, que lleva años
 <!-- /📖 -->
 
 <!-- 🔐 (DM) -->
-En secreto, Mario filtra información sobre movimientos de mercancías y actividades sospechosas a [[resistencia-subterranea|La Resistencia]]. Utiliza su posición aparentemente insignificante para recopilar inteligencia valiosa sin despertar sospechas.
+En secreto, Mario filtra información sobre movimientos de mercancías y actividades sospechosas a [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|La Resistencia]]. Utiliza su posición aparentemente insignificante para recopilar inteligencia valiosa sin despertar sospechas.
 <!-- /🔐 -->
 
 ## Conexiones Importantes
 
-- **[[resistencia-subterranea|La Resistencia Subterránea]]**: Contacto y fuente de información
-- **[[francisco-duarte|Francisco Duarte]]**: Compañero en la Resistencia; otro operario que sirve de enlace en la red de inteligencia
-- **[[marcos-duarte|Marcos Duarte]]**: Científico saboteador de la misma red; Mario desconoce el alcance real de sus acciones
+- **[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|La Resistencia Subterránea]]**: Contacto y fuente de información
+- **[[3_personajes/secundarios/francisco-duarte|Francisco Duarte]]**: Compañero en la Resistencia; otro operario que sirve de enlace en la red de inteligencia
+- **[[3_personajes/secundarios/marcos-duarte|Marcos Duarte]]**: Científico saboteador de la misma red; Mario desconoce el alcance real de sus acciones

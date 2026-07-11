@@ -9,7 +9,7 @@ aliases:
   - Energías Alternativas
 tags: []
 ubicaciones:
-  - "[[capital]]"
+  - "[[2_atlas/ciudades/cordoba/capital|capital]]"
 ---
 
 # Energías Alternativas en la Confederación
@@ -171,7 +171,7 @@ Sin embargo, hay vigilancia permanente de plantas de generación por si acaso se
 
 ## Referencias Cruzadas
 
-- [[infraestructura-energetica|Infraestructura Energética de Dársena]] - Generación en Dársena
-- [[electricidad|Electricidad]] - Estándar 48V DC confederado
-- [[sistemas-energeticos|Sistemas Energéticos]] - Comparación de tecnologías de almacenamiento
-- [[2178-actualidad|Hitos 2178 - Actualidad]] - Contexto político de Córdoba
+- [[2_atlas/tecnologia-y-ciencia/infraestructura-energetica|Infraestructura Energética de Dársena]] - Generación en Dársena
+- [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad]] - Estándar 48V DC confederado
+- [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|Sistemas Energéticos]] - Comparación de tecnologías de almacenamiento
+- [[1_trasfondo/hitos/2178-actualidad|Hitos 2178 - Actualidad]] - Contexto político de Córdoba

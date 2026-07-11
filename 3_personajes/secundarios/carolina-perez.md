@@ -9,10 +9,10 @@ aliases:
   - La Costurera
 tags: []
 facciones:
-  - "[[gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
-related: '["[[marcos-el-verdulero]]"]'
+related: '["[[3_personajes/secundarios/marcos-el-verdulero|marcos-el-verdulero]]"]'
 ---
 ## Carolina Pérez, la Costurera
 
@@ -48,5 +48,5 @@ Carolina Pérez es conocida en los Barrios del Muro como una costurera competent
 ## Conexiones Importantes
 
 - **Los Barrios del Muro**: Su comunidad y clientela
-- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Cliente regular del barrio y vecino conocido
+- **[[3_personajes/secundarios/marcos-el-verdulero|Marcos el Verdulero]]**: Cliente regular del barrio y vecino conocido
 - **Su Taller**: El centro de su vida y trabajo

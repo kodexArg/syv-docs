@@ -9,7 +9,7 @@ aliases:
   - Cursiva Contexto
 tags: []
 related:
-  - "[[syv-docs/4_diegesis/relatos/cursiva|Cursiva]]"
+  - "[[4_diegesis/relatos/cursiva|Cursiva]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
   - "[[3_personajes/secundarios/sor-catalina|Sor Catalina]]"
   - "[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]"
@@ -17,10 +17,10 @@ related:
   - "[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]"
   - "[[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]"
 facciones:
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[zona-militar-eclesiastica]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|zona-militar-eclesiastica]]"
 spoilers:
   - El sistema de Iniciados del Faro tiene un costo oculto que Sofía conoce en silencio.
   - Padre Rafa fue antiguo profesor de exorcismo de Sor Sofía.
@@ -210,7 +210,7 @@ Este es el primer relato de SyV. El lector llega sin contexto. Los siguientes co
 - [[4_diegesis/cartas/carta-a-sor-sofia|Carta a Sor Sofía]]
 
 **Facciones**:
-- [[inquisicion|Sagrada Inquisición Argentina]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]
 
 ---
 

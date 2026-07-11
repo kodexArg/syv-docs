@@ -11,11 +11,11 @@ aliases:
   - Papa Estanislao III
   - Estanislao Máquez de los Ángeles
 facciones:
-  - "[[iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
 related:
-  - "[[monseñor-miguel]]"
-  - "[[damian-diconte]]"
-  - "[[arpistas]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
+  - "[[3_personajes/principales/damian-diconte|damian-diconte]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
 spoilers:
   - "Las tensiones reales entre el Papado y la SIA, el verdadero alcance del poder de Monseñor Miguel respecto al Sumo Pontífice."
 tags: []
@@ -38,7 +38,7 @@ Viste siempre con indumentaria papal completa: sotana blanca, casquete blanco (p
 
 ### Rol y Posición
 
-Sumo Pontífice, cabeza visible de la [[iglesia|Iglesia Católica]] Confederal y gobernante espiritual y nominalmente político de Dársena. Su autoridad oficial es absoluta en materia de fe y doctrina. En teoría:
+Sumo Pontífice, cabeza visible de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia Católica]] Confederal y gobernante espiritual y nominalmente político de Dársena. Su autoridad oficial es absoluta en materia de fe y doctrina. En teoría:
 
 - Aprueba todas las decisiones eclesiásticas importantes
 - Es el árbitro final de cuestiones teológicas
@@ -48,7 +48,7 @@ Sumo Pontífice, cabeza visible de la [[iglesia|Iglesia Católica]] Confederal y
 
 En la práctica:
 
-- Su poder es compartido (e incluso subordinado) al de la **[[inquisicion|Sagrada Inquisición Argentina]]** bajo [[monseñor-miguel|Monseñor Miguel]]
+- Su poder es compartido (e incluso subordinado) al de la **[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]** bajo [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]
 - La SIA opera con autonomía casi total, reportando nominalmente al Papado pero actuando independientemente
 - Su verdadera influencia está en diplomacia, legitimación ideológica y la "cara pública" de la Iglesia
 - Monseñor Miguel controla la represión, la violencia, la "mano oscura"
@@ -142,8 +142,8 @@ En el archivo secreto, bajo triple sello, Estanislao mantiene un documento que e
 - **Monseñor Miguel**: Su rival nominal, superior en poder de facto
 - **Curia Romana**: Consejo de cardenales que lo asesora (pero tiene autoridad nominal)
 - **Dársena (Gobierno)**: Comparte control civil con la Armada Argentina
-- **[[damian-diconte|Damián DiConte]]**: El detective cuyas evidencias podrían significar conflicto entre Papado y Ejército
-- **[[arpistas|Arpistas]]**: Elementos dentro de su propia red intelectual que preservan conocimiento prohibido (ignora deliberadamente su existencia)
+- **[[3_personajes/principales/damian-diconte|Damián DiConte]]**: El detective cuyas evidencias podrían significar conflicto entre Papado y Ejército
+- **[[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]**: Elementos dentro de su propia red intelectual que preservan conocimiento prohibido (ignora deliberadamente su existencia)
 
 ## Recursos y Poder
 

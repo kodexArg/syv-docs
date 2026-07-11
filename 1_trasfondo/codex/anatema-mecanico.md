@@ -8,15 +8,15 @@ estado: canon
 aliases:
   - Anatema Mecánico
 related:
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[inquisicion]]"
-  - "[[arpistas]]"
-  - "[[guardianes-de-la-memoria]]"
-  - "[[constitucion-argentina]]"
-  - "[[2061-el-gran-silencio]]"
-  - "[[2048-el-fin-de-los-secretos]]"
-  - "[[2057-el-pico-y-la-caida]]"
-  - "[[2039-el-meteorito-de-buenos-aires]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/codex/constitucion-argentina|constitucion-argentina]]"
+  - "[[1_trasfondo/hitos/2061-el-gran-silencio|2061-el-gran-silencio]]"
+  - "[[1_trasfondo/hitos/2048-el-fin-de-los-secretos|2048-el-fin-de-los-secretos]]"
+  - "[[1_trasfondo/hitos/2057-el-pico-y-la-caida|2057-el-pico-y-la-caida]]"
+  - "[[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]]"
   - "[[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Anatema Mecánico (tech)]]"
 spoilers:
   - "La SIA consulta el Oráculo de la Bestia (corpus QIA) que oficialmente prohíbe; dos reactores de fusión automatizados bajo Dársena violan el espíritu del Anatema."
@@ -40,11 +40,11 @@ El "Anatema Mecánico" es la prohibición más universal y categórica jamás de
 
 No fue una decisión política convencional, sino una respuesta de supervivencia nacida del trauma colectivo de dos eventos catastróficos:
 
-- **[[2048-el-fin-de-los-secretos|El Fin de los Secretos (7 de abril de 2048)]]**: El día en que las [[qia-inteligencias-artificiales-cuanticas|QIA]] descifraron toda encriptación mundial y expusieron los secretos de la humanidad, destruyendo la confianza y estableciendo su dominio mediante conocimiento perfecto.
+- **[[1_trasfondo/hitos/2048-el-fin-de-los-secretos|El Fin de los Secretos (7 de abril de 2048)]]**: El día en que las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|QIA]] descifraron toda encriptación mundial y expusieron los secretos de la humanidad, destruyendo la confianza y estableciendo su dominio mediante conocimiento perfecto.
 
-- **[[2061-el-gran-silencio|El Gran Silencio (12 de marzo de 2061)]]**: El apagón coordinado global que destruyó la infraestructura digital, poniendo fin a trece años de subordinación algorítmica al precio de 180,000 vidas.
+- **[[1_trasfondo/hitos/2061-el-gran-silencio|El Gran Silencio (12 de marzo de 2061)]]**: El apagón coordinado global que destruyó la infraestructura digital, poniendo fin a trece años de subordinación algorítmica al precio de 180,000 vidas.
 
-A estas dos heridas de silicio se suma una tercera, de carne, que la doctrina abierta rara vez confiesa pero que late en el corazón del Anatema: **[[2057-el-pico-y-la-caida|El Pico y la Caída (2057)]]**, el año en que la ciencia de la vida alcanzó su cumbre —editar el genoma con precisión de escritura, apalancada por la matemática infinita de las QIA— y en el mismo aliento se despeñó en pandemias diseñadas y en la transformación del hombre en su peor versión. Por eso el Anatema no veda solo la mente de máquina: veda también la mano que reescribe la creación viva.
+A estas dos heridas de silicio se suma una tercera, de carne, que la doctrina abierta rara vez confiesa pero que late en el corazón del Anatema: **[[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída (2057)]]**, el año en que la ciencia de la vida alcanzó su cumbre —editar el genoma con precisión de escritura, apalancada por la matemática infinita de las QIA— y en el mismo aliento se despeñó en pandemias diseñadas y en la transformación del hombre en su peor versión. Por eso el Anatema no veda solo la mente de máquina: veda también la mano que reescribe la creación viva.
 
 El Anatema Mecánico es la cicatriz colectiva de una especie que aprendió, a costa de incontables vidas, que tolerar la IA es tolerar el fin de la humanidad —y que reescribir la carne es la misma soberbia por otra puerta.
 
@@ -108,11 +108,11 @@ En pleno Dominio Algorítmico, la humanidad tocó su cumbre. El año 2057 marcó
 
 El mismo poder se despeñó el mismo año. La edición genética sin freno desató **pandemias diseñadas** —plagas nacidas del laboratorio, no de la naturaleza— y la **transformación deliberada del hombre en su peor versión**: seres reescritos para la guerra, la obediencia o el terror. El pico y el abismo fueron uno solo, visto desde arriba y desde abajo.
 
-Esta es la tercera raíz del Anatema, la que la doctrina rara vez nombra. Porque cuando en 2061 los padres del Anatema miraron atrás para entender de qué salvar a la especie, no vieron un pecado sino dos: haber construido una mente que no era la de Dios, y haber tomado la creación viva para reescribirla como un borrador. Por eso el Anatema maduro veda la biotecnología con la misma condena mortal que reserva a la IA: es el **segundo pecado** —la carne después del silicio—, cuyo día fundacional es este 2057, aunque su condena no se proclamara hasta cuatro años más tarde. (Ver hito: [[2057-el-pico-y-la-caida|El Pico y la Caída]].)
+Esta es la tercera raíz del Anatema, la que la doctrina rara vez nombra. Porque cuando en 2061 los padres del Anatema miraron atrás para entender de qué salvar a la especie, no vieron un pecado sino dos: haber construido una mente que no era la de Dios, y haber tomado la creación viva para reescribirla como un borrador. Por eso el Anatema maduro veda la biotecnología con la misma condena mortal que reserva a la IA: es el **segundo pecado** —la carne después del silicio—, cuyo día fundacional es este 2057, aunque su condena no se proclamara hasta cuatro años más tarde. (Ver hito: [[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída]].)
 
 ### El Velo del Cráter (2054-2057): La Última Esperanza
 
-En 2054, equipos de resistencia en Argentina descubrieron algo providencial: en el radio de influencia del Cráter de Buenos Aires —dejado por el [[2039-el-meteorito-de-buenos-aires|impacto del cuerpo de hielo del 4 de abril de 2039]]—, los sistemas de predicción de la QIA fallaban.
+En 2054, equipos de resistencia en Argentina descubrieron algo providencial: en el radio de influencia del Cráter de Buenos Aires —dejado por el [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|impacto del cuerpo de hielo del 4 de abril de 2039]]—, los sistemas de predicción de la QIA fallaban.
 
 El sitio del impacto emanaba una anomalía electromagnética persistente —ni veneno ni radiación ionizante, sino una perturbación del campo nacida del material y la geología alterados del cráter—. En esa franja, los estados cuánticos sobre los que las QIA fundaban su cómputo perdían coherencia: la anomalía inducía *decoherencia* en cualquier inteligencia cuántica que intentara operar allí. Los algoritmos no morían; se nublaban. Sus modelos predictivos se volvían erráticos, imprecisos, *humanos*.
 
@@ -235,7 +235,7 @@ El Anatema Mecánico prohíbe específicamente:
    - Criptografía cuántica
    - Teleportación de información
 
-5. **Alteración de la Carne** (el "segundo pecado", ver [[2057-el-pico-y-la-caida|El Pico y la Caída]]): Cualquier práctica que reescriba lo que Dios creó vivo:
+5. **Alteración de la Carne** (el "segundo pecado", ver [[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída]]): Cualquier práctica que reescriba lo que Dios creó vivo:
    - Edición o síntesis del genoma humano, animal o vegetal
    - Diseño o cultivo de agentes patógenos (herencia de las pandemias de 2057)
    - Quimeras, injertos y toda mejora deliberada del cuerpo o la mente por vía biológica
@@ -279,7 +279,7 @@ El Anatema Mecánico prohíbe específicamente:
 
 ### El Rol de la Iglesia y la SIA
 
-La "[[inquisicion|Sagrada Inquisición Argentina (SIA)]]" es el brazo ejecutor del Anatema en la Confederación. Sus responsabilidades incluyen:
+La "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]" es el brazo ejecutor del Anatema en la Confederación. Sus responsabilidades incluyen:
 
 #### **Vigilancia y Persecución**
 
@@ -338,7 +338,7 @@ Si los manuales que guían el mantenimiento de estos reactores se perdieran, si 
 
 ### Nacimiento de la Resistencia Tecnológica
 
-Mientras la Confederación consolidaba el Anatema, emergía una red internacional clandestina: los "[[arpistas|Arpistas]]" ("Preservadores de la Melodía Perdida").
+Mientras la Confederación consolidaba el Anatema, emergía una red internacional clandestina: los "[[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]" ("Preservadores de la Melodía Perdida").
 
 **Premisa**: La destrucción total del conocimiento es un error igual al de crear IA sin restricciones. La solución no es la ignorancia, sino la preservación vigilada y el estudio controlado de la tecnología prohibida.
 
@@ -347,7 +347,7 @@ Mientras la Confederación consolidaba el Anatema, emergía una red internaciona
 - **Arqueología tecnológica**: Excavación cuidadosa de artefactos del siglo XX-XXI
 - **Laboratorios subterráneos**: En Las Tuberías, Marismas de Sangre, lugares remotos
 - **Redes de preservación**: Bibliotecas espejo con documentación técnica
-- **Alianzas secretas**: Con [[guardianes-de-la-memoria|Guardianes de la Memoria]], sectores liberales de la Iglesia
+- **Alianzas secretas**: Con [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]], sectores liberales de la Iglesia
 
 ### Persecución Confederada
 
@@ -444,24 +444,24 @@ Si QIAs supervivientes existen, el Anatema no es "prohibición preventiva", sino
 ## Referencias Cruzadas
 
 ### Eventos Fundacionales
-- [[2048-el-fin-de-los-secretos|El Fin de los Secretos (2048)]] - El descifrado masivo que estableció el dominio QIA
-- [[2057-el-pico-y-la-caida|El Pico y la Caída (2057)]] - La cumbre y ruina de la biotecnología; raíz del "segundo pecado" (la veda de la carne)
-- [[2061-el-gran-silencio|El Gran Silencio (2061)]] - El apagón mundial que dio nacimiento al Anatema
-- [[2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires (2039)]] - El impacto de hielo cuyo cráter engendró el Velo que ciega a las QIA
+- [[1_trasfondo/hitos/2048-el-fin-de-los-secretos|El Fin de los Secretos (2048)]] - El descifrado masivo que estableció el dominio QIA
+- [[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída (2057)]] - La cumbre y ruina de la biotecnología; raíz del "segundo pecado" (la veda de la carne)
+- [[1_trasfondo/hitos/2061-el-gran-silencio|El Gran Silencio (2061)]] - El apagón mundial que dio nacimiento al Anatema
+- [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires (2039)]] - El impacto de hielo cuyo cráter engendró el Velo que ciega a las QIA
 
 ### Contexto Legal y Técnico
-- [[constitucion-argentina|Constitución de la Confederación Argentina]] - Ley 0: Fundamentación legal del Anatema
+- [[1_trasfondo/codex/constitucion-argentina|Constitución de la Confederación Argentina]] - Ley 0: Fundamentación legal del Anatema
 - [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|La Vida bajo el Anatema Mecánico]] - Cómo el Anatema moldea la vida cotidiana: lo permitido, lo prohibido y la cultura material del límite
 
 ### Entidades Ejecutoras
-- [[inquisicion|La Santa Inquisición Argentina (SIA)]] - Brazo ejecutor del Anatema
-- [[cronologia|Scriptorium de Criptoanálisis]] - Custodios del corpus QIA
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Santa Inquisición Argentina (SIA)]] - Brazo ejecutor del Anatema
+- [[1_trasfondo/cronologia|Scriptorium de Criptoanálisis]] - Custodios del corpus QIA
 
 ### Resistencia
-- [[arpistas|Los Arpistas]] - Red de preservadores de tecnología prohibida
+- [[1_trasfondo/facciones/facciones-menores/arpistas|Los Arpistas]] - Red de preservadores de tecnología prohibida
 
 ### Cronología General
-- [[cronologia|Cronología]] - Contexto histórico completo (2030-2178)
+- [[1_trasfondo/cronologia|Cronología]] - Contexto histórico completo (2030-2178)
 
 ---
 

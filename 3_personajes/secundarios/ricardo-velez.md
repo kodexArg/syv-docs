@@ -11,7 +11,7 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]"
 related:
-  - "[[valeria-santos]]"
+  - "[[3_personajes/secundarios/valeria-santos|valeria-santos]]"
 ---
 ## Ricardo Vélez, Historiador
 
@@ -49,4 +49,4 @@ Ricardo Vélez es conocido en ciertos círculos como un profesor particular que 
 
 ## Conexiones Importantes
 
-- **[[valeria-santos|Valeria Santos]]**: Relación profesional o académica
+- **[[3_personajes/secundarios/valeria-santos|Valeria Santos]]**: Relación profesional o académica

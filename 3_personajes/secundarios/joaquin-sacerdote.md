@@ -9,7 +9,7 @@ aliases:
   - Padre Joaquín
 tags: []
 facciones:
-  - "[[iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
 ---
 ## Padre Joaquín
 

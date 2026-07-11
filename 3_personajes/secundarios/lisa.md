@@ -12,10 +12,10 @@ aliases:
   - Lisa
 facciones: []
 ubicaciones:
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 related:
   - "[[3_personajes/principales/walter|Walter]]"
-  - "[[paco-el-puntero]]"
+  - "[[3_personajes/principales/paco-el-puntero|paco-el-puntero]]"
 tags: []
 spoilers:
   - "Conoce pasadizos en las profundidades de las Tuberías que conducen hacia el Pueblo del Pantano."
@@ -37,11 +37,11 @@ Alguien que llegó antes que los demás y sabe que siempre llega primero.
 
 ### Rol y Posición
 
-Lisa conoce los túneles inundados de [[tuberias|Las Tuberías]] mejor que cualquiera. No nada por deporte ni por rito: nada porque esos pasadizos son su territorio. Espera en cámaras de aire que casi nadie sabe encontrar, sostiene la bengala en alto cuando le conviene, y juzga a quienes llegan a su mundo con una economía de palabras que no deja lugar a dudas.
+Lisa conoce los túneles inundados de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] mejor que cualquiera. No nada por deporte ni por rito: nada porque esos pasadizos son su territorio. Espera en cámaras de aire que casi nadie sabe encontrar, sostiene la bengala en alto cuando le conviene, y juzga a quienes llegan a su mundo con una economía de palabras que no deja lugar a dudas.
 
 ### Personalidad
 
-Seca, directa, irónica en dosis justas. No explica nada dos veces. Evalúa a las personas por cómo nadan, cuánto aguantan el frío y si tienen el sentido de orientación para llegar sin que ella los guíe. [[3_personajes/principales/walter|Walter]] pasó la prueba. El grandote — [[paco-el-puntero|Paco]] — nada como una lavadora.
+Seca, directa, irónica en dosis justas. No explica nada dos veces. Evalúa a las personas por cómo nadan, cuánto aguantan el frío y si tienen el sentido de orientación para llegar sin que ella los guíe. [[3_personajes/principales/walter|Walter]] pasó la prueba. El grandote — [[3_personajes/principales/paco-el-puntero|Paco]] — nada como una lavadora.
 
 > "Llegaron tarde. Y el grandote nada como una lavadora."
 
@@ -54,7 +54,7 @@ Explorar. Seguir abriendo pasadizos. La oscuridad y el agua fría no son obstác
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-En Las Tuberías se sabe que hay una chica que conoce los túneles inundados de memoria. No cobra por guiar. Elige a quién lleva y a quién deja en la orilla. Apareció en la vida de [[paco-el-puntero|Paco el Puntero]] hace tiempo, en uno de esos encuentros que no se planean: alguien que ya estaba esperando en la cámara oscura cuando Paco y [[3_personajes/principales/walter|Walter]] emergieron del bautismo. Nadie sabe bien de dónde viene. Las Tuberías tienen esa costumbre: producen gente que no tiene historia anterior.
+En Las Tuberías se sabe que hay una chica que conoce los túneles inundados de memoria. No cobra por guiar. Elige a quién lleva y a quién deja en la orilla. Apareció en la vida de [[3_personajes/principales/paco-el-puntero|Paco el Puntero]] hace tiempo, en uno de esos encuentros que no se planean: alguien que ya estaba esperando en la cámara oscura cuando Paco y [[3_personajes/principales/walter|Walter]] emergieron del bautismo. Nadie sabe bien de dónde viene. Las Tuberías tienen esa costumbre: producen gente que no tiene historia anterior.
 <!-- /📖 -->
 
 <!-- 🔐 (DM) -->
@@ -64,5 +64,5 @@ Lisa ha explorado pasadizos inundados que ningún otro nadador de las Tuberías 
 ## Conexiones Importantes
 
 - **[[3_personajes/principales/walter|Walter]]**: Lo conoció en el bautismo de las Tuberías. Pasó su prueba tácita.
-- **[[paco-el-puntero|Paco el Puntero]]**: Su guía hacia los túneles fue con Paco. Lo respeta más de lo que deja ver.
+- **[[3_personajes/principales/paco-el-puntero|Paco el Puntero]]**: Su guía hacia los túneles fue con Paco. Lo respeta más de lo que deja ver.
 - **Los túneles del lado del pantano**: Lo que hay más adentro, adonde todavía no llevó a nadie.

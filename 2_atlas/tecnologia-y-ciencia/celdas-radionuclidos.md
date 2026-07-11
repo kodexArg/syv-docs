@@ -10,15 +10,15 @@ aliases:
   - Americio-241
 tags: []
 related:
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ---
 
 # Celdas de Radionúclidos: Fundamentación de la Barrera de 48V
 
 **NOTA IMPORTANTE**: Las Celdas de Americio-241 descritas en este documento son tecnología de almacenamiento **MILITAR**, completamente distinta del sistema civil de baterías de arena y sal.
 
-- **Para uso civil**: Ver [[electricidad|Electricidad → Baterías de Arena y Sal]]
-- **Para comparación completa**: Ver [[sistemas-energeticos|Sistemas Energéticos]]
+- **Para uso civil**: Ver [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad → Baterías de Arena y Sal]]
+- **Para comparación completa**: Ver [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|Sistemas Energéticos]]
 
 Este documento describe exclusivamente la tecnología militar monopolizada por el Estado.
 
@@ -133,7 +133,7 @@ Paradójicamente, el sistema de baterías de arena y sal (tecnología civil much
 
 ## Referencias Cruzadas
 
-- [[procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia de cobre OFHC
-- [[electricidad|Electricidad y Energía]] - Estándar de 48V en la red confederada
+- [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia de cobre OFHC
+- [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad y Energía]] - Estándar de 48V en la red confederada
 - [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Contexto de restricción tecnológica
-- [[los-rezagos|Los Rezagos]] - Prohibición de silicio nanométrico que estas celdas impiden reactivar
+- [[2_atlas/tecnologia-y-ciencia/los-rezagos|Los Rezagos]] - Prohibición de silicio nanométrico que estas celdas impiden reactivar

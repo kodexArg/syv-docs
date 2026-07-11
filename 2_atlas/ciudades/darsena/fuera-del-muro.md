@@ -9,38 +9,38 @@ aliases:
   - Fuera del Muro
 tags: []
 related:
-  - "[[fuerzas-armadas]]"
-  - "[[arpistas]]"
-  - "[[los-criptografos]]"
-  - "[[iglesia]]"
-  - "[[resistencia-subterranea]]"
-  - "[[salvajes]]"
-  - "[[franja-de-alsina]]"
-  - "[[ejercito-rojo]]"
-  - "[[el-pantano]]"
-  - "[[lago-muerto]]"
-  - "[[dmz]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"
+  - "[[1_trasfondo/codex/salvajes|salvajes]]"
+  - "[[2_atlas/ciudades/darsena/franja-de-alsina|franja-de-alsina]]"
+  - "[[1_trasfondo/facciones/ejercito-rojo|ejercito-rojo]]"
+  - "[[2_atlas/ciudades/darsena/el-pantano|el-pantano]]"
+  - "[[2_atlas/ciudades/darsena/lago-muerto|lago-muerto]]"
+  - "[[2_atlas/ciudades/darsena/dmz|dmz]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un mundo salvaje y sin ley. "Fuera del Muro" no es tanto una zona como un concepto: el vasto y peligroso exterior. Es una tierra de oportunidades y amenazas, donde las leyes de la Confederación tienen poco peso.
 
 ## Zonas y Lugares de Interés
 
 ### **El Puerto (Zona Norte Extramuros)**
-> [!info] El lago del cráter tiene nombre: [[lago-muerto|Lago Muerto]] — su régimen de tabú y su única orilla habitada.
+> [!info] El lago del cráter tiene nombre: [[2_atlas/ciudades/darsena/lago-muerto|Lago Muerto]] — su régimen de tabú y su única orilla habitada.
 
-Área militarizada al norte de la ciudad que controla el único acceso terrestre: **El Paso del Cráter**. Es una zona mixta con los principales puertos, cuarteles, la prisión de la ciudad, extensos campos de entrenamiento y zonas de cultivo a cielo abierto operadas por prisioneros. Es la base principal de la [[fuerzas-armadas|Armada Argentina]]. Los **Puertos Exo-Muro** son el corazón comercial de esta zona, un nexo caótico donde el **Comando Nacional** compite por el control con el **Gremio de Transportistas** y los contrabandistas. El Paso del Cráter lleva ese nombre con razón: bordea la orilla este del [[lago-muerto|Lago Muerto]], el lago que hoy ocupa el [[2039-el-meteorito-de-buenos-aires|cráter del meteorito]], la herida que se volvió agua. Esa orilla es el único lugar habitado a la vera de una zona tenida por maldita y tabú; la base naval se asienta ahí no por desafío a la superstición sino porque la Armada necesita el agua y el muelle, y le da la espalda al lago tanto como puede.
+Área militarizada al norte de la ciudad que controla el único acceso terrestre: **El Paso del Cráter**. Es una zona mixta con los principales puertos, cuarteles, la prisión de la ciudad, extensos campos de entrenamiento y zonas de cultivo a cielo abierto operadas por prisioneros. Es la base principal de la [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Armada Argentina]]. Los **Puertos Exo-Muro** son el corazón comercial de esta zona, un nexo caótico donde el **Comando Nacional** compite por el control con el **Gremio de Transportistas** y los contrabandistas. El Paso del Cráter lleva ese nombre con razón: bordea la orilla este del [[2_atlas/ciudades/darsena/lago-muerto|Lago Muerto]], el lago que hoy ocupa el [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|cráter del meteorito]], la herida que se volvió agua. Esa orilla es el único lugar habitado a la vera de una zona tenida por maldita y tabú; la base naval se asienta ahí no por desafío a la superstición sino porque la Armada necesita el agua y el muelle, y le da la espalda al lago tanto como puede.
 
 ### **DMZ (Oeste)**
-> [!info] Ficha dedicada: [[dmz|La DMZ (ZDM)]] — superficie, régimen de disparo y el rótulo «ZDM» del mapa.
+> [!info] Ficha dedicada: [[2_atlas/ciudades/darsena/dmz|La DMZ (ZDM)]] — superficie, régimen de disparo y el rótulo «ZDM» del mapa.
 
-Un desierto de ruinas que se extiende al otro lado del muro. Es el borde de **Las Ruinas** —así, sin más nombre, se llama en la calle al vasto cascoterío de la ciudad que nadie pronuncia ([[buenos-aires-nombre-tabu|el nombre viejo es tabú]]), la huella seca de escombros que rodea el lago que fue herida—. Los [[salvajes|Salvajes]] que habitan estos escombros han aprendido a evitar la línea de tiro de los francotiradores del muro, que mantienen la zona despejada a base de plomo. Aquí se encuentra el [[bazar-del-muro|Bazar del Muro]], un precario punto de encuentro.
+Un desierto de ruinas que se extiende al otro lado del muro. Es el borde de **Las Ruinas** —así, sin más nombre, se llama en la calle al vasto cascoterío de la ciudad que nadie pronuncia ([[1_trasfondo/codex/buenos-aires-nombre-tabu|el nombre viejo es tabú]]), la huella seca de escombros que rodea el lago que fue herida—. Los [[1_trasfondo/codex/salvajes|Salvajes]] que habitan estos escombros han aprendido a evitar la línea de tiro de los francotiradores del muro, que mantienen la zona despejada a base de plomo. Aquí se encuentra el [[2_atlas/ciudades/darsena/bazar-del-muro|Bazar del Muro]], un precario punto de encuentro.
 
 ### **Los Pantanos (Sur)**
-> [!info] Ficha dedicada: [[el-pantano|El Pantano]] — superficie de referencia, foco de niebla y el umbral con la [[franja-de-alsina|Franja de Alsina]].
+> [!info] Ficha dedicada: [[2_atlas/ciudades/darsena/el-pantano|El Pantano]] — superficie de referencia, foco de niebla y el umbral con la [[2_atlas/ciudades/darsena/franja-de-alsina|Franja de Alsina]].
 
-Donde el nivel del Río de la Plata superó las viejas calles. La subida sostenida del agua convirtió los barrios al sur de la muralla en una Venecia de la podredumbre: edificios sumergidos hasta el segundo piso, avenidas convertidas en canales de agua estancada y tóxica, vegetación mutada que trepa por las fachadas ahogadas, y una capa viva de hongos, líquenes y musgo que lo cubre todo con un verde enfermizo. La niebla aquí es el **peor foco de toda la comarca** — mucho más densa que dentro de los muros, alimentada por la evaporación constante del agua estancada y por el velo que se ceba sobre el agua. En El Pantano la visibilidad **rara vez supera los cinco metros**: un infierno impenetrable donde se pierde toda referencia. Es la prueba viva de que la niebla domina afuera, sobre el agua, no en el interior seco y elevado de la ciudad. Considerados inhabitables, son un laberinto de marismas y ruinas anegadas. En la boca de la calle, todo ese sur ahogado se nombra en singular: **El Pantano**, a secas, como si la Venecia de la podredumbre fuera una sola cosa viva. Los guardias del muro reportan avistamientos de barcazas lejanas, pero no intervienen, ya que nadie se acerca. Entre esas barcazas se cuentan también los [[salvajes|Salvajes]], que el dársenense da por frecuentes tanto aquí, en El Pantano del sur, como en Las Ruinas del oeste. Se rumorea que son el hogar de criaturas anómalas, comunidades de supervivientes y extraños recursos.
+Donde el nivel del Río de la Plata superó las viejas calles. La subida sostenida del agua convirtió los barrios al sur de la muralla en una Venecia de la podredumbre: edificios sumergidos hasta el segundo piso, avenidas convertidas en canales de agua estancada y tóxica, vegetación mutada que trepa por las fachadas ahogadas, y una capa viva de hongos, líquenes y musgo que lo cubre todo con un verde enfermizo. La niebla aquí es el **peor foco de toda la comarca** — mucho más densa que dentro de los muros, alimentada por la evaporación constante del agua estancada y por el velo que se ceba sobre el agua. En El Pantano la visibilidad **rara vez supera los cinco metros**: un infierno impenetrable donde se pierde toda referencia. Es la prueba viva de que la niebla domina afuera, sobre el agua, no en el interior seco y elevado de la ciudad. Considerados inhabitables, son un laberinto de marismas y ruinas anegadas. En la boca de la calle, todo ese sur ahogado se nombra en singular: **El Pantano**, a secas, como si la Venecia de la podredumbre fuera una sola cosa viva. Los guardias del muro reportan avistamientos de barcazas lejanas, pero no intervienen, ya que nadie se acerca. Entre esas barcazas se cuentan también los [[1_trasfondo/codex/salvajes|Salvajes]], que el dársenense da por frecuentes tanto aquí, en El Pantano del sur, como en Las Ruinas del oeste. Se rumorea que son el hogar de criaturas anómalas, comunidades de supervivientes y extraños recursos.
 
 ## Lugares de Interés
 
@@ -53,9 +53,9 @@ En las afueras de la ciudad se ubican los centros penitenciarios de máxima segu
 ### **La Frontera de los Pantanos**
 El límite sur de Dársena donde comienzan Los Pantanos. Esta zona es físicamente accesible desde el muro, pero psicológicamente es el umbral del mundo desconocido. Los guardias fronterizos reportan avistamientos esporádicos de movimiento en las marismas, pero ninguno se atreve a entrar. Las entrañas de Los Pantanos están catalogadas como "Zona de Exploración Prohibida" por la SIA, posiblemente debido a presencia de artefactos anómalos o criaturas no catalogadas.
 
-Se cree que existen rutas comerciales clandestinas que conectan Los Pantanos con zonas internas de Dársena a través de sistemas de drenaje y canales abandonados, operadas por la [[resistencia-subterranea|Resistencia Subterránea]] y traficantes independientes. El control territorial es prácticamente inexistente, convirtiéndola en zona neutra de facto para encuentros entre facciones proscritas.
+Se cree que existen rutas comerciales clandestinas que conectan Los Pantanos con zonas internas de Dársena a través de sistemas de drenaje y canales abandonados, operadas por la [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]] y traficantes independientes. El control territorial es prácticamente inexistente, convirtiéndola en zona neutra de facto para encuentros entre facciones proscritas.
 
-Más allá de las marismas, donde el fango cede al firme, empieza otra cosa. Ahí arranca la zona muerta de la [[franja-de-alsina|Franja de Alsina]]: el sur profundo tampoco está dominado por nadie, pero la diferencia con el borde inmediato es de sangre. En la orilla de los pantanos la Guardia se limita a mirar, y la pasividad basta porque nadie se acerca. Un tramo más al sur, ya en la franja, la presencia militar de Dársena siempre se impone —planta bandera, patrulla, hace valer la ley—; y del otro lado de esa línea, en las tierras que trepan hacia el [[ejercito-rojo|Ejército Rojo]], lo que espera son los disparos. El silencio es de los pantanos. Los tiros, de la franja.
+Más allá de las marismas, donde el fango cede al firme, empieza otra cosa. Ahí arranca la zona muerta de la [[2_atlas/ciudades/darsena/franja-de-alsina|Franja de Alsina]]: el sur profundo tampoco está dominado por nadie, pero la diferencia con el borde inmediato es de sangre. En la orilla de los pantanos la Guardia se limita a mirar, y la pasividad basta porque nadie se acerca. Un tramo más al sur, ya en la franja, la presencia militar de Dársena siempre se impone —planta bandera, patrulla, hace valer la ley—; y del otro lado de esa línea, en las tierras que trepan hacia el [[1_trasfondo/facciones/ejercito-rojo|Ejército Rojo]], lo que espera son los disparos. El silencio es de los pantanos. Los tiros, de la franja.
 
 ### **El Exterior Más Lejano (Este y Oeste)**
 Más allá de la DMZ, el Río de la Plata y Los Pantanos se extiende territorio salvaje y poco explorado. La información es escasa, pero se conocen fragmentos:
@@ -68,7 +68,7 @@ Más allá de la DMZ, el Río de la Plata y Los Pantanos se extiende territorio 
 
 **Fuera del Muro** es una zona de tensión constante entre múltiples actores. El **Comando Nacional** mantiene presencia militar visible en El Puerto y alrededor de los muros, pero su control se disuelve rápidamente en la DMZ y Los Pantanos. El **Gremio de Transportistas** controla de facto el comercio portuario, mientras que la **Resistencia Subterránea** y facciones proscritas operan en las sombras.
 
-Los **Refugiados del Exterior** (civiles que han escapado de las normas de Dársena) establecen asentamientos precarios en la DMZ y las Tierras Baldías cercanas, aunque muchos no sobreviven más de una temporada. La presencia de la [[iglesia|Iglesia]] es mínima pero significativa a través de expediciones de investigación sobre fenómenos "paranormales" que reportan en Los Pantanos.
+Los **Refugiados del Exterior** (civiles que han escapado de las normas de Dársena) establecen asentamientos precarios en la DMZ y las Tierras Baldías cercanas, aunque muchos no sobreviven más de una temporada. La presencia de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] es mínima pero significativa a través de expediciones de investigación sobre fenómenos "paranormales" que reportan en Los Pantanos.
 
 ## Clima y Condiciones Ambientales
 
@@ -83,7 +83,7 @@ Al revés de lo que suele creerse, la niebla no se ensaña con el interior de la
 A pesar (o debido a) su naturaleza hostil, Fuera del Muro ofrece recursos valiosos:
 
 - **Metales y materiales**: Ruinas de la era pre-colapso contienen cobre, hierro y aleaciones raras
-- **Tecnología sumergida**: El río ha preservado artefactos bajo su lecho contaminado, buscados ávidamente por [[arpistas|Arpistas]] y [[los-criptografos|Criptógrafos]]
+- **Tecnología sumergida**: El río ha preservado artefactos bajo su lecho contaminado, buscados ávidamente por [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] y [[1_trasfondo/facciones/facciones-menores/los-criptografos|Criptógrafos]]
 - **Fauna salvaje**: Criaturas mutadas son fuente de proteína escasa, aunque peligrosa
 - **Agua y alimentos vegetales**: Las Tierras Baldías contienen acuíferos y plantas comestibles, aunque su consumo requiere purificación extrema
 

@@ -7,9 +7,9 @@ aliases:
   - Guía de Metadatos
 tags: []
 related:
-  - "[[manual-del-colaborador]]"
-  - "[[guia-de-personajes]]"
-  - "[[guia-de-facciones]]"
+  - "[[0_proyecto/guias-para-colaboradores/manual-del-colaborador|manual-del-colaborador]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-personajes|guia-de-personajes]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-facciones|guia-de-facciones]]"
 ---
 
 # Guía de Metadatos
@@ -27,7 +27,7 @@ Esta es la guía **única y autoritativa** del frontmatter YAML de "Subordinaci�
 ## Las tres ideas centrales
 
 1. **Las relaciones son wikilinks.** Personaje ↔ facción ↔ ubicación ↔ concepto ↔ relato se conectan con `[[slug]]`, tanto en el cuerpo como dentro de propiedades de lista del frontmatter (`facciones`, `related`, `ubicaciones`, `apariciones`). El grafo **no** ve los `tags`.
-2. **Las dimensiones controladas son campos, no tags.** `entidad`, `alcance` y `estado` viven cada uno en **su propio campo** del frontmatter (faceta de match exacto), no dentro de `tags`. `tags` queda como **vivero** open/closed: etiquetas emergentes que aún no merecen campo propio. Nunca un tag para apuntar a otro archivo. (Esto **reemplaza** tanto la vieja "Regla de Oro" de tag-como-slug como el esquema `#entidad/...` dentro de `tags`. Ver [[glosario-de-tags]].)
+2. **Las dimensiones controladas son campos, no tags.** `entidad`, `alcance` y `estado` viven cada uno en **su propio campo** del frontmatter (faceta de match exacto), no dentro de `tags`. `tags` queda como **vivero** open/closed: etiquetas emergentes que aún no merecen campo propio. Nunca un tag para apuntar a otro archivo. (Esto **reemplaza** tanto la vieja "Regla de Oro" de tag-como-slug como el esquema `#entidad/...` dentro de `tags`. Ver [[0_proyecto/guias-para-colaboradores/glosario-de-tags|glosario-de-tags]].)
 3. **Los aliases dan estabilidad y display.** Toda entidad debería declarar `aliases` con su nombre propio, para sobrevivir renombres y mostrar `[[slug|Texto Visible]]`.
 
 ---
@@ -107,7 +107,7 @@ estado: canon           # canon · borrador · propuesta
 - `alcance: secreto` marca contenido con secretos (correlaciona con `spoilers`).
 - El valor es un **átomo**, no una ruta: `entidad: personaje`, nunca `entidad/personaje`.
 
-`tags` queda como **vivero open/closed**: el lado abierto para etiquetas emergentes que querés filtrar exacto pero que aún no merecen campo propio. Normalmente `[]`. **No** entra lo que ya es dimensión controlada (va a su campo) ni contenido descriptivo (lo halla la semántica del cuerpo). Lo que se usa seguido **gradúa** a campo propio, y se registra por PR en el [[glosario-de-tags]].
+`tags` queda como **vivero open/closed**: el lado abierto para etiquetas emergentes que querés filtrar exacto pero que aún no merecen campo propio. Normalmente `[]`. **No** entra lo que ya es dimensión controlada (va a su campo) ni contenido descriptivo (lo halla la semántica del cuerpo). Lo que se usa seguido **gradúa** a campo propio, y se registra por PR en el [[0_proyecto/guias-para-colaboradores/glosario-de-tags|glosario-de-tags]].
 
 ✓ `entidad: personaje` · `alcance: secreto` · `tags: []`
 ✗ `tags: ["entidad/personaje", "alcance/secreto"]` (dimensiones → campos propios)
@@ -141,7 +141,7 @@ tags: []
 ```
 
 > [!warning]
-> Si una entidad tiene `spoilers`, **no se la referencia** desde atlas, relatos ni cartas de forma que exponga el secreto. (Ver [[guia-de-personajes]].)
+> Si una entidad tiene `spoilers`, **no se la referencia** desde atlas, relatos ni cartas de forma que exponga el secreto. (Ver [[0_proyecto/guias-para-colaboradores/guia-de-personajes|guia-de-personajes]].)
 
 ---
 

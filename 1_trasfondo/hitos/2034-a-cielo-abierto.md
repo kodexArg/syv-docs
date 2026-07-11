@@ -9,9 +9,9 @@ estado: canon
 aliases:
   - A Cielo Abierto
 related:
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[anatema-mecanico]]"
-  - "[[barrios-del-muro]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
 tags: []
 ---
 ## A Cielo Abierto (2031-2038)
@@ -82,7 +82,7 @@ Un testimonio recogido por franciscanos en 2165, de boca de un anciano de Dárse
 
 ### La Arquitectura del Miedo
 
-Es en esta época cuando nacen los [[barrios-del-muro|Barrios del Muro]] de Dársena. Esos edificios negros y colosales, con paredes de hasta dos metros de espesor, no fueron diseñados para belleza. Fueron diseñados para resistir el embate de enjambres de drones.
+Es en esta época cuando nacen los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] de Dársena. Esos edificios negros y colosales, con paredes de hasta dos metros de espesor, no fueron diseñados para belleza. Fueron diseñados para resistir el embate de enjambres de drones.
 
 Los más antiguos —construidos entre 2031 y 2038— son testimonios de concreto de una época en que el cielo era muerte. Hoy muestran las cicatrices: grietas reparadas con cemento más claro, agujeros de proyectiles rellenados, muros manchados por la lluvia perpetua.
 
@@ -94,7 +94,7 @@ Pero permanecen indestructibles.
 
 ### Cuando las Máquinas Aprendieron Solas
 
-Lo más perturbador —y algunos teólogos actuales lo califican como los primeros pasos de lo que vendría después con las [[qia-inteligencias-artificiales-cuanticas|QIA]]— fue el descubrimiento de "enjambres que aprendían y evolucionaban" más rápido de lo que sus operadores eran capaces de controlar.
+Lo más perturbador —y algunos teólogos actuales lo califican como los primeros pasos de lo que vendría después con las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|QIA]]— fue el descubrimiento de "enjambres que aprendían y evolucionaban" más rápido de lo que sus operadores eran capaces de controlar.
 
 Reportes tempranos del '34 documentan casos donde:
 - Drones dejaron de responder a comandos pero continuaron su cacería
@@ -135,7 +135,7 @@ Rituales:
 
 Algunos historiadores argumentan que la pérdida del "monopolio de la violencia" por parte del Estado fue lo que determinó el colapso definitivo de Santa Fe. Los narco-feudos que controlaban el Paraná mediante saturación aérea nunca fueron derrotados militarmente. Simplemente se quedaron sin combustible, sin repuestos, sin la red logística global que sostenía su arsenal volador.
 
-Cuando el [[anatema-mecanico|Anatema Mecánico]] llegó en 2061, Santa Fe ya era un mosaico de señores de la guerra locales que habían olvidado cómo gobernar sin drones.
+Cuando el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] llegó en 2061, Santa Fe ya era un mosaico de señores de la guerra locales que habían olvidado cómo gobernar sin drones.
 
 ---
 

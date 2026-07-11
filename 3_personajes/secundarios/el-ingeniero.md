@@ -13,7 +13,7 @@ ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
   - "No es realmente un ingeniero: es un autodidacta susceptible al pensamiento mágico."
-related: '["[[el-negro-ramos]]", "[[marcos-el-verdulero]]"]'
+related: '["[[3_personajes/secundarios/el-negro-ramos|el-negro-ramos]]", "[[3_personajes/secundarios/marcos-el-verdulero|marcos-el-verdulero]]"]'
 ---
 ## El "Ingeniero"
 
@@ -54,7 +54,7 @@ La verdad es que de ingeniero no tiene absolutamente nada. Es un autodidacta emp
 ## Conexiones Importantes
 
 - **Clientes de las Tuberías**: Quienes creen en su leyenda
-- **[[el-negro-ramos|El Negro Ramos]]**: Lo contrata para reparaciones cuando necesita equipos operativos
-- **[[marcos-el-verdulero|Marcos el Verdulero]]**: Le arregla equipos de almacenamiento y distribución
+- **[[3_personajes/secundarios/el-negro-ramos|El Negro Ramos]]**: Lo contrata para reparaciones cuando necesita equipos operativos
+- **[[3_personajes/secundarios/marcos-el-verdulero|Marcos el Verdulero]]**: Le arregla equipos de almacenamiento y distribución
 - **Sus "Creaciones"**: Mezcla de habilidad real y pensamiento mágico
 - **Su Reputación Falsa**: Lo único que lo protege

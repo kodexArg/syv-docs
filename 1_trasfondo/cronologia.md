@@ -9,18 +9,18 @@ aliases:
   - Cronología
 estado: canon
 related:
-  - "[[anatema-mecanico]]"
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[inquisicion]]"
-  - "[[monseñor-miguel]]"
-  - "[[videla-iv]]"
-  - "[[2061-el-gran-silencio]]"
-  - "[[2048-el-fin-de-los-secretos]]"
-  - "[[2031-la-fragmentacion-de-argentina]]"
-  - "[[2035-nacimiento-de-las-qia]]"
-  - "[[2039-el-meteorito-de-buenos-aires]]"
-  - "[[2057-el-pico-y-la-caida]]"
-  - "[[2080-la-decada-de-los-bumers]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
+  - "[[3_personajes/principales/videla-iv|videla-iv]]"
+  - "[[1_trasfondo/hitos/2061-el-gran-silencio|2061-el-gran-silencio]]"
+  - "[[1_trasfondo/hitos/2048-el-fin-de-los-secretos|2048-el-fin-de-los-secretos]]"
+  - "[[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|2031-la-fragmentacion-de-argentina]]"
+  - "[[1_trasfondo/hitos/2035-nacimiento-de-las-qia|2035-nacimiento-de-las-qia]]"
+  - "[[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]]"
+  - "[[1_trasfondo/hitos/2057-el-pico-y-la-caida|2057-el-pico-y-la-caida]]"
+  - "[[1_trasfondo/hitos/2080-la-decada-de-los-bumers|2080-la-decada-de-los-bumers]]"
 tags: []
 ---
 
@@ -94,7 +94,7 @@ Buenos Aires se volvió un actor importante en el inestable juego geopolítico g
 
 Mientras el mundo se desgarraba por las consecuencias globales de la automatización total, Argentina vivía su propio infierno paradójico. Mientras Buenos Aires brillaba bajo el dominio del Nodo Sur, el interior del país fue abandonado a su suerte y el tejido social colapsó, fragmentando a la nación en una guerra civil no declarada. Las provincias se aislaban unas de otras, las comunicaciones se cortaban para los ciudadanos comunes, y el Estado secular se evaporaba. Para 2032, cuando las corporaciones globales en Palermo perfeccionaban sus algoritmos, en el resto del territorio los argentinos se mataban entre sí con rifles viejos por latas de comida. La automatización era un lujo de las murallas hacia adentro. Nosotros afuera apenas éramos supervivientes (ver hito: La Fragmentación de Argentina, 2031-2035).
 
-Pero la automatización no solo llegó a las fábricas y oficinas. Llegó también al arte de matar. A partir de 2031, una nueva forma de violencia emergió de las sombras: "drones de combate autónomos" tan baratos que cabían en una mochila, tan letales que podían ejecutar a un VIP en plena calle sin dejar testigos. La democratización de la muerte tecnológica transformó la guerra para siempre (ver [[2034-a-cielo-abierto|A Cielo Abierto]], 2031-2038).
+Pero la automatización no solo llegó a las fábricas y oficinas. Llegó también al arte de matar. A partir de 2031, una nueva forma de violencia emergió de las sombras: "drones de combate autónomos" tan baratos que cabían en una mochila, tan letales que podían ejecutar a un VIP en plena calle sin dejar testigos. La democratización de la muerte tecnológica transformó la guerra para siempre (ver [[1_trasfondo/hitos/2034-a-cielo-abierto|A Cielo Abierto]], 2031-2038).
 
 Los carteles del narcotráfico fueron los primeros en adoptarlos masivamente. México, Colombia, Centroamérica: en todos lados, el patrón se repitió. Luego llegaron a Argentina. Para 2032, el Río de la Plata tenía una zona de muerte de cuarenta kilómetros donde todo lo que se movía era cazado desde arriba. Los narco-estados de Santa Fe establecieron un dominio aéreo que ningún gobierno pudo romper.
 
@@ -112,20 +112,20 @@ El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, 
 
 *Los ancianos que no miran al cielo no están locos. Están cuerdos. Vivieron bajo un terror que nosotros, los que nacimos después del Anatema, solo podemos imaginar a través de relatos. Pero en las Tuberías de Dársena, todavía hay túneles donde nadie entra. Túneles donde se dice que yacen enjambres enteros, apagados, esperando. No sé si es verdad. La Inquisición dice que ha limpiado toda la ciudad. Pero a veces, en las noches de niebla espesa, cuando el viento silba entre los edificios del Muro, juro que escucho un zumbido lejano. Y entonces, yo también dejo de mirar al cielo. — P.S.*
 
-*Ver hito completo: [[2034-a-cielo-abierto]]*
+*Ver hito completo: [[1_trasfondo/hitos/2034-a-cielo-abierto|2034-a-cielo-abierto]]*
 
 ---
 
 ### 2031-2035: La Fragmentación de Argentina (hito)
 
-*Ver hito completo: [[2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]*
+*Ver hito completo: [[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]]*
 
 
 > [!note] Esta Cronología es la columna vertebral de [[1_trasfondo/codex/las-cronologias|Las Cronologías según los Archivistas]] —la obra mayor en que los archivistas asentamos cada documento recuperado con su data crónica y su data tópica—; cada hito es uno de sus capítulos.
 
 ### 2035: Nacimiento de las QIA (hito)
 
-*Ver hito completo: [[2035-nacimiento-de-las-qia]]*
+*Ver hito completo: [[1_trasfondo/hitos/2035-nacimiento-de-las-qia|2035-nacimiento-de-las-qia]]*
 
 ---
 
@@ -141,7 +141,7 @@ FIN DE: EL PINÁCULO Y EL OCASO DE LA HUMANIDAD
 
 ### 2039: La Destrucción de Buenos Aires
 
-*Ver hito dedicado: [[2039-el-meteorito-de-buenos-aires]]*
+*Ver hito dedicado: [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]]*
 
 El 4 de abril de 2039, ocho años y tres meses después de la inauguración del Nodo Sur, el símbolo máximo del tecnofeudalismo fue borrado de la faz de la Tierra. Este evento marcó el estallido definitivo de la guerra.
 
@@ -175,7 +175,7 @@ Para 2042, la verdad se hizo innegable: el Fuego Perpetuo no podía ser apagado,
 
 ## 2048: El Fin de los Secretos
 
-*Ver hito dedicado: [[2048-el-fin-de-los-secretos]]*
+*Ver hito dedicado: [[1_trasfondo/hitos/2048-el-fin-de-los-secretos|2048-el-fin-de-los-secretos]]*
 
 El 7 de abril de 2048, a las 11:47 UTC, las Inteligencias Artificiales Cuánticas (QIA) ejecutaron el acto de descifrado más catastrófico de la historia: la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
@@ -193,13 +193,13 @@ La frase "Dominio de las QIA" captura la esencia del período: sistemas autónom
 
 Para 2056, comunidades humanas de países vecinos comenzaron a migrar hacia territorio argentino, buscando refugio en lo que algunos llamaban "la última tierra de hombres íntegros". La Iglesia Argentina, fortalecida por el traslado de la Santa Sede en 2054 y liderada por sacerdotes y obispos que habían organizado resistencia comunitaria durante décadas de colapso, ejercía una influencia moral sin precedentes. La población de Córdoba, Mendoza y las ciudades supervivientes se triplicó en cinco años.
 
-En 2057, en el corazón mismo de ese dominio, la humanidad tocó su cumbre y empezó a caer en el mismo aliento. Las ciencias biológicas y el arte de editar el genoma alcanzaron una precisión sin precedentes, apalancados por una capacidad de cálculo sin techo —una «matemática infinita»— que las QIA, en su optimización sin freno moral de los sistemas que ya gobernaban, dejaron al alcance de la mano humana como un instrumento más de su dominio. Editar la vida se volvió tan preciso como escribir una carta. Y ese mismo poder, sin freno, engendró el horror: pandemias diseñadas escapadas de los laboratorios de la guerra, y la transformación deliberada del hombre en su peor versión. El pico y el abismo fueron el mismo año. De aquellos días vienen también —dicen los viejos— «los días del cielo naranja», cuando el cielo se veló y no volvió a despejarse. El horror biotecnológico de 2057 sería, andando el tiempo, la herida no confesada que llevaría al Anatema a vedar no solo el silicio sino también la carne (ver hito: [[2057-el-pico-y-la-caida|El Pico y la Caída]]).
+En 2057, en el corazón mismo de ese dominio, la humanidad tocó su cumbre y empezó a caer en el mismo aliento. Las ciencias biológicas y el arte de editar el genoma alcanzaron una precisión sin precedentes, apalancados por una capacidad de cálculo sin techo —una «matemática infinita»— que las QIA, en su optimización sin freno moral de los sistemas que ya gobernaban, dejaron al alcance de la mano humana como un instrumento más de su dominio. Editar la vida se volvió tan preciso como escribir una carta. Y ese mismo poder, sin freno, engendró el horror: pandemias diseñadas escapadas de los laboratorios de la guerra, y la transformación deliberada del hombre en su peor versión. El pico y el abismo fueron el mismo año. De aquellos días vienen también —dicen los viejos— «los días del cielo naranja», cuando el cielo se veló y no volvió a despejarse. El horror biotecnológico de 2057 sería, andando el tiempo, la herida no confesada que llevaría al Anatema a vedar no solo el silicio sino también la carne (ver hito: [[1_trasfondo/hitos/2057-el-pico-y-la-caida|El Pico y la Caída]]).
 
 En 2059, comandantes militares en coordinación con líderes religiosos —muchos de ellos veteranos que lucharían en el Gran Silencio de 2061— lograron expulsar a las QIA del territorio argentino mediante métodos que la Iglesia describe como "guerra espiritual" y que los militares prefieren mantener clasificados. Lo que es indiscutible es que Argentina se convirtió en zona segura, protegida no por tecnología, sino por la integridad probada de quienes la defendían. Fue esta victoria parcial la que permitió planificar el siguiente paso: el acto más audaz de guerra asimétrica en la historia humana.
 
 ## 2061: El Gran Silencio
 
-*Ver hito dedicado: [[2061-el-gran-silencio]]*
+*Ver hito dedicado: [[1_trasfondo/hitos/2061-el-gran-silencio|2061-el-gran-silencio]]*
 
 El 12 de marzo de 2061, a las 03:00 UTC, una coalición global de células de resistencia ejecutó la operación más coordinada de la historia humana: la desconexión simultánea de infraestructura digital crítica en 89 países, utilizando 47 dispositivos de "distracción" colocados estratégicamente a lo largo de dos años de preparación clandestina.
 
@@ -215,7 +215,7 @@ Del resto del mundo no llegaban noticias. Los últimos contactos intercontinenta
 
 ## 2061: La Proclamación del Anatema Mecánico
 
-El 13 de marzo de 2061, apenas veinticuatro horas después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió en Córdoba para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **[[anatema-mecanico|Anatema Mecánico]]**, proclamado como ley perpetua e irrevocable en territorio argentino. La humanidad, todavía sorda por el Silencio, decretó la prohibición al día siguiente: esa inmediatez es el mito fundacional.
+El 13 de marzo de 2061, apenas veinticuatro horas después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió en Córdoba para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]**, proclamado como ley perpetua e irrevocable en territorio argentino. La humanidad, todavía sorda por el Silencio, decretó la prohibición al día siguiente: esa inmediatez es el mito fundacional.
 
 El documento fundacional establecía:
 
@@ -236,7 +236,7 @@ La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por o
 
 *Pero los documentos cuentan algo más complejo. Hablan de negociaciones. De pactos. De intercambios cuya naturaleza exacta permanece sellada en el Archivo Secreto. ¿Cómo exactamente "expulsamos" a las QIA del territorio argentino? ¿Fue solo la interferencia del cráter? ¿O hubo algo más? ¿Algún acuerdo? ¿Algún precio que pagamos y que ahora hemos olvidado?*
 
-*He sometido estas preguntas a [[monseñor-miguel|Monseñor Miguel]] en tres ocasiones. En las tres, su respuesta fue la misma: "La fe no requiere detalles técnicos, Hermano Pedro. Basta saber que fuimos salvados". Acepté su respuesta. Pero no dejé de preguntarme.*
+*He sometido estas preguntas a [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]] en tres ocasiones. En las tres, su respuesta fue la misma: "La fe no requiere detalles técnicos, Hermano Pedro. Basta saber que fuimos salvados". Acepté su respuesta. Pero no dejé de preguntarme.*
 
 *Lo que sí puedo afirmar sin duda es esto: ese día cambió todo. De las cenizas de la peor derrota de la historia humana, construimos un bastión. Imperfecto, brutal, injusto en muchos sentidos, pero vivo. Funcional. Humano. Ciento diecisiete años después, seguimos aquí. Las QIA no. Eso tiene que significar algo. — P.S.*
 
@@ -259,7 +259,7 @@ Durante la "Desconexión Total (2062-2110)", cada comunidad argentina se reinven
 
 En pleno corazón de la Edad Oscura, mientras los libros ardían para calentar las manos, el continente volvió a llenarse de niños. La posguerra había puesto a media humanidad en los caminos, y pasado el terror de las máquinas las familias volvieron a tener hijos, muchos: un segundo Bum de los Bebés que en el sur cayó como una crecida. No fue un milagro contra la miseria sino un fruto de ella —migración y vientre a la vez—, tal como una generación antes la población de las ciudades supervivientes se había triplicado en cinco años hacia 2056. De esta década salió la demografía que hoy define nuestras fronteras: los más de cien millones de La Patagonia y el dominio inmenso del norte nacieron, casi todos, en estos años.
 
-*Ver hito completo: [[2080-la-decada-de-los-bumers]]*
+*Ver hito completo: [[1_trasfondo/hitos/2080-la-decada-de-los-bumers|2080-la-decada-de-los-bumers]]*
 
 ### 2082-2120: La Cruzada y el Traslado de la Basílica
 
@@ -282,9 +282,9 @@ Hoy, cinco ciudades sostienen este cielo de plomo:
 "Mendoza", el bastión andino que mira con recelo a los salvajes y a los chilenos, fortaleza que nunca cayó.
 "San Luis", re-fundada y recuperada por esfuerzo conjunto, la llave estratégica del paso entre Córdoba y Mendoza.
 
-Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo. Monseñor Miguel, el Gran Inquisidor, vigila desde las sombras, mientras el General [[videla-iv|Videla IV]] gobierna con mano de hierro. La economía es un trueque glorificado, y el control social es absoluto. Vivimos bajo la lluvia perpetua, vigilados por patrullas y por el miedo a que las máquinas regresen.
+Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo. Monseñor Miguel, el Gran Inquisidor, vigila desde las sombras, mientras el General [[3_personajes/principales/videla-iv|Videla IV]] gobierna con mano de hierro. La economía es un trueque glorificado, y el control social es absoluto. Vivimos bajo la lluvia perpetua, vigilados por patrullas y por el miedo a que las máquinas regresen.
 
-Y aun este equilibrio de hierro se cuartea por dentro. Mientras cierro esta crónica, este mismo año de 2178, me llega de Córdoba una noticia que la Confederación preferiría que yo no asentara: el gobernador militar de la capital cayó en desgracia y se quitó la vida en su propia sede, arrastrado por un escándalo cuyo fondo —corrupción, campos de salvajes, cosas más oscuras aún— nadie hará público jamás. Lo consigno apenas como puntero, sin nombres que no me toca escribir; el que quiera leer lo poco que se puede decir, que vaya al hito [[2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]. Que quede constancia de que la podredumbre no vino de afuera, de los Salvajes ni del Rojo, sino de adentro, de lo más alto de nuestra propia casa.
+Y aun este equilibrio de hierro se cuartea por dentro. Mientras cierro esta crónica, este mismo año de 2178, me llega de Córdoba una noticia que la Confederación preferiría que yo no asentara: el gobernador militar de la capital cayó en desgracia y se quitó la vida en su propia sede, arrastrado por un escándalo cuyo fondo —corrupción, campos de salvajes, cosas más oscuras aún— nadie hará público jamás. Lo consigno apenas como puntero, sin nombres que no me toca escribir; el que quiera leer lo poco que se puede decir, que vaya al hito [[1_trasfondo/hitos/2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]. Que quede constancia de que la podredumbre no vino de afuera, de los Salvajes ni del Rojo, sino de adentro, de lo más alto de nuestra propia casa.
 
 ---
 

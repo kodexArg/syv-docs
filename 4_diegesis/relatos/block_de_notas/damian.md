@@ -10,19 +10,19 @@ aliases:
   - El Sabueso
 tags: []
 related:
-  - "[[damian-diconte]]"
+  - "[[3_personajes/principales/damian-diconte|damian-diconte]]"
 facciones:
-  - "[[fuerzas-armadas]]"
-  - "[[iglesia]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 spoilers:
   - "El Teniente Coronel Gobernador de Córdoba lidera una facción radical del Ejército que manipula la Iglesia para controlar Estado y fe."
   - "Videla IV podría ignorar la magnitud de la conspiración bajo su mandato."
 ---
 ### **Trama:**
 
-En el año 2178, en la ciudad de Córdoba, [[damian-diconte|Damián]], conocido como **El Sabueso**, es un detective veterano que trabaja para la [[direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]]. En medio de la opresión política y las restricciones religiosas impuestas por la [[iglesia|Iglesia]] y el Estado, un nuevo caso lo lleva a descubrir una serie de crímenes aparentemente desconectados, pero que ocultan algo mucho más profundo: una red de poder encubierta dentro del **[[fuerzas-armadas|Ejército Argentino]]**, donde las fuerzas militares están infiltradas en todos los niveles de la vida pública.
+En el año 2178, en la ciudad de Córdoba, [[3_personajes/principales/damian-diconte|Damián]], conocido como **El Sabueso**, es un detective veterano que trabaja para la [[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|Dirección Nacional de Seguridad]]. En medio de la opresión política y las restricciones religiosas impuestas por la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] y el Estado, un nuevo caso lo lleva a descubrir una serie de crímenes aparentemente desconectados, pero que ocultan algo mucho más profundo: una red de poder encubierta dentro del **[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército Argentino]]**, donde las fuerzas militares están infiltradas en todos los niveles de la vida pública.
 
 Los asesinatos comienzan de manera casi accidental. Un profesor de teología, crítico moderado de la influencia de la Iglesia en el gobierno, es hallado muerto en su casa, en lo que parece ser un suicidio. Días después, un industrial vinculado al desarrollo de tecnología agrícola es encontrado muerto en circunstancias similares. Aparentemente, ambos crímenes parecen carecer de relación alguna. Sin embargo, Damián comienza a notar que, en ambos casos, las víctimas habían estado investigando algo peligroso: **la infiltración de ciertos elementos radicales del Ejército Argentino en la Iglesia**, con el propósito de manipular el poder eclesiástico en su favor.
 

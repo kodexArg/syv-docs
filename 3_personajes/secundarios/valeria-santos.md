@@ -51,12 +51,12 @@ Su verdadera pasión es la historia y el conocimiento. Como archivista, ha descu
 <!-- /🔐 -->
 
 <!-- 🔐☠️ (DM - Secreto Mortal) -->
-Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia. Esta investigación la ha puesto en un camino extremadamente peligroso, pues si sus conexiones con los [[guardianes-de-la-memoria|Guardianes de la Memoria]] se descubrieran, podría ser perseguida tanto por la [[inquisicion|SIA]] como por la aristocracia local.
+Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia. Esta investigación la ha puesto en un camino extremadamente peligroso, pues si sus conexiones con los [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]] se descubrieran, podría ser perseguida tanto por la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]] como por la aristocracia local.
 <!-- /🔐☠️ -->
 
 ## Conexiones Importantes
 
 - **Ricardo Vélez**: Relación profesional o académica
-- **[[arpistas|Arpistas]]**: Facción a la que pertenece
-- **[[guardianes-de-la-memoria|Guardianes de la Memoria]]**: Facción dedicada a preservar la verdad
+- **[[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]**: Facción a la que pertenece
+- **[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]]**: Facción dedicada a preservar la verdad
 - **Clientes de Barrio Norte**: Fuentes de información

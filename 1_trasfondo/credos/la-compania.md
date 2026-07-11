@@ -9,18 +9,18 @@ aliases:
   - La Compañía
 tags: []
 related:
-  - "[[iglesia-maradoniana]]"
-  - "[[umbanda]]"
-  - "[[san-la-muerte]]"
-  - "[[inquisicion]]"
-  - "[[ecologistas]]"
-  - "[[peronismo]]"
-  - "[[hijos-del-pantano]]"
+  - "[[1_trasfondo/credos/iglesia-maradoniana|iglesia-maradoniana]]"
+  - "[[1_trasfondo/credos/umbanda|umbanda]]"
+  - "[[1_trasfondo/credos/san-la-muerte|san-la-muerte]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/credos/ecologistas|ecologistas]]"
+  - "[[1_trasfondo/credos/peronismo|peronismo]]"
+  - "[[1_trasfondo/credos/hijos-del-pantano|hijos-del-pantano]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[barrios-del-muro]]"
-  - "[[tuberias]]"
-  - "[[microcentro]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
+  - "[[2_atlas/ciudades/darsena/microcentro|microcentro]]"
 ---
 
 **Tipo:** Ideología-credo

@@ -11,9 +11,9 @@ aliases:
 tags: []
 facciones: []
 ubicaciones:
-  - "[[zona-centro]]"
-  - "[[darsena]]"
-related: '["[[qia-inteligencias-artificiales-cuanticas|Luz Silente]]"]'
+  - "[[2_atlas/ciudades/darsena/zona-centro|zona-centro]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+related: '["[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Luz Silente]]"]'
 spoilers:
   - Lleva un registro extraoficial de pacientes catatónicos por agotamiento del sueño; el patrón se acelera (víctimas de El Soñador / Luz Silente).
 ---
@@ -53,6 +53,6 @@ Como médico de emergencias, Carlos ha observado un patrón alarmante en los úl
 <!-- /🔐 -->
 ## Conexiones Importantes
 
-- **Pacientes Catatónicos**: El patrón que lo inquieta profundamente (víctimas de [[qia-inteligencias-artificiales-cuanticas|Luz Silente]])
-- **Hospital de Caridad**: Institución eclesiástica con la que colabora cuando los recursos de la clínica se agotan; ignora que quien lo sostiene desde las sombras es [[las-manos-calladas|Las Manos Calladas]]
+- **Pacientes Catatónicos**: El patrón que lo inquieta profundamente (víctimas de [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Luz Silente]])
+- **Hospital de Caridad**: Institución eclesiástica con la que colabora cuando los recursos de la clínica se agotan; ignora que quien lo sostiene desde las sombras es [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]
 - **Clínica del Centro**: Su lugar de trabajo y responsabilidad

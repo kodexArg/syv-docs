@@ -10,8 +10,8 @@ aliases:
 tags: []
 facciones: []
 related:
-  - "[[diego-herrera]]"
-  - "[[agente-luis-navarro]]"
+  - "[[3_personajes/secundarios/diego-herrera|diego-herrera]]"
+  - "[[3_personajes/secundarios/agente-luis-navarro|agente-luis-navarro]]"
 ---
 ## Sofía Ríos, Inspectora de Seguridad Nacional
 

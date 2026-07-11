@@ -10,14 +10,14 @@ aliases:
   - Los Hijos del Pantano
 tags: []
 related:
-  - "[[inquisicion]]"
-  - "[[iglesia]]"
-  - "[[ecologistas]]"
-  - "[[peronismo]]"
-  - "[[anatema-mecanico]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/credos/ecologistas|ecologistas]]"
+  - "[[1_trasfondo/credos/peronismo|peronismo]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 spoilers:
   - "El liderazgo es un Consejo de Cinco de identidades secretas que se comunican por mensajeros."
   - "Su objetivo real es el colapso demográfico de la humanidad mediante sabotaje de infraestructura alimentaria."
@@ -31,7 +31,7 @@ spoilers:
 
 ## Profetas del Colapso
 
-Los Hijos del Pantano son lo que la [[ecologistas|Hermandad Verde]] niega ser: fanáticos. Quinientos militantes organizados en células de acción directa, operando desde los márgenes contaminados del Riachuelo y zonas muertas donde el Estado no patrulla. Su teología es apocalíptica: la humanidad es plaga que debe ser reducida drásticamente para que la Tierra sobreviva. El Anatema Mecánico fue insuficiente; eliminó tecnología digital pero permitió industria contaminante, agricultura intensiva, superpoblación urbana que sigue devorando recursos. Entonces ellos completan la obra que Dios o la naturaleza (no distinguen claramente) comenzó: forzar reducción demográfica mediante sabotaje.
+Los Hijos del Pantano son lo que la [[1_trasfondo/credos/ecologistas|Hermandad Verde]] niega ser: fanáticos. Quinientos militantes organizados en células de acción directa, operando desde los márgenes contaminados del Riachuelo y zonas muertas donde el Estado no patrulla. Su teología es apocalíptica: la humanidad es plaga que debe ser reducida drásticamente para que la Tierra sobreviva. El Anatema Mecánico fue insuficiente; eliminó tecnología digital pero permitió industria contaminante, agricultura intensiva, superpoblación urbana que sigue devorando recursos. Entonces ellos completan la obra que Dios o la naturaleza (no distinguen claramente) comenzó: forzar reducción demográfica mediante sabotaje.
 
 Su nombre viene de hábitat: el Riachuelo y pantanos mutados que rodean Dársena. Aguas negras donde nada vivo del Viejo Mundo sobrevive, donde plantas mutadas crecen con anatomía imposible (tres tallos, flores que brillan en oscuridad, raíces que filtran metales pesados). Los Hijos consideran estos pantanos sagrados: tierra que la humanidad destruyó pero que se regenera sola, probando que naturaleza es más fuerte. Viven en chozas de chapa sobre pilotes, se alimentan de peces mutados (tóxicos para consumo humano pero que ellos comen igual, desarrollando resistencias o muriendo jóvenes), beben agua filtrada con técnicas primitivas que a veces fallan.
 
@@ -43,7 +43,7 @@ La doctrina es nihilista con barniz ecológico:
 No metafóricamente. Literalmente. Crecimiento poblacional es tumor que consume planeta hasta matarlo. Las ciudades son metástasis. La industria es toxina. La única cura es reducción radical: de doce millones y medio en Dársena a un millón y cuarto. De 8 mil millones globales pre-colapso a 800 millones. El 90% debe morir o dejar de nacer.
 
 **2. Tecnología es herejía, incluso la permitida.**
-El [[anatema-mecanico|Anatema]] prohibió computadoras pero permitió electricidad, mecánica compleja, Torres Hidropónicas. Los Hijos argumentan que eso no basta. Toda tecnología post-neolítica es corrupción. Deben regresar a cazadores-recolectores. Agricultura es el pecado original: cultivar tierra destruye ecosistemas, crea excedentes que permiten crecimiento demográfico.
+El [[1_trasfondo/codex/anatema-mecanico|Anatema]] prohibió computadoras pero permitió electricidad, mecánica compleja, Torres Hidropónicas. Los Hijos argumentan que eso no basta. Toda tecnología post-neolítica es corrupción. Deben regresar a cazadores-recolectores. Agricultura es el pecado original: cultivar tierra destruye ecosistemas, crea excedentes que permiten crecimiento demográfico.
 
 **3. Muerte es bendición.**
 No temen muerte. La celebran. Cada humano que muere libera recursos para otras especies. Entonces no matan directamente (aún), pero sabotean infraestructura que sostiene vida: envenenan cultivos hidropónicos con químicos que matan plantas, destruyen depósitos de alimentos, sabotean sistemas de purificación de agua. Las hambrunas resultantes son "correcciones naturales".
@@ -62,7 +62,7 @@ Introducen químicos (herbicidas caseros, metales pesados extraídos de residuos
 Incendian depósitos de semillas para plantación futura. Sin semillas, la siguiente cosecha fracasa. Es sabotaje con efecto retardado: el daño se manifiesta meses después, dificultando atribución.
 
 **Sabotaje de redes de agua:**
-Rompen tuberías de agua potable en zonas periféricas. No explotan (eso atraería [[direccion-nacional-de-seguridad|Seguridad Nacional]]). Perforan pequeños agujeros que generan filtraciones. El agua se pierde gradualmente. Los vecinos sufren escasez pero no hay evento dramático que justifique intervención militar.
+Rompen tuberías de agua potable en zonas periféricas. No explotan (eso atraería [[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|Seguridad Nacional]]). Perforan pequeños agujeros que generan filtraciones. El agua se pierde gradualmente. Los vecinos sufren escasez pero no hay evento dramático que justifique intervención militar.
 
 **Ataques a convoyes de suministros:**
 Emboscadas en caminos rurales. No matan conductores (aún mantienen línea de "no matar directamente"). Los drogan con extractos de plantas mutadas, roban carga (alimentos, medicamentos), queman camiones. Los conductores despiertan horas después, desorientados pero vivos.
@@ -80,7 +80,7 @@ Los mensajes aterrorizan porque son genuinos. No demandan dinero. No negocian. N
 
 ## Persecución y Resiliencia
 
-La [[iglesia|Iglesia]] los persigue con furia porque son herejía ecológica: mientras el catolicismo predica que Creación existe para servir humanidad (bajo administración responsable), los Hijos predican que humanidad es cáncer. Peor: reclutan en Barrios del Muro entre jóvenes desesperados, prometiendo propósito trascendente. La SIA los infiltra, los arresta, los tortura hasta obtener nombres de células. Seguridad Nacional los cataloga como terroristas nivel máximo.
+La [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] los persigue con furia porque son herejía ecológica: mientras el catolicismo predica que Creación existe para servir humanidad (bajo administración responsable), los Hijos predican que humanidad es cáncer. Peor: reclutan en Barrios del Muro entre jóvenes desesperados, prometiendo propósito trascendente. La SIA los infiltra, los arresta, los tortura hasta obtener nombres de células. Seguridad Nacional los cataloga como terroristas nivel máximo.
 
 Pero siguen operando porque el Riachuelo —su base principal— es laberinto tóxico donde patrullas no entran sin trajes de protección. El aire es irrespirable (gases de desechos industriales, vapores químicos, metano de materia orgánica pudriéndose). El agua quema piel al contacto. Los pantanos son trampa mortal: fango que succiona, aguas profundas ocultas bajo vegetación, fauna mutada agresiva. Los Hijos conocen cada sendero seguro, cada refugio elevado, cada ruta de escape. Seguridad Nacional envía operativos. Regresan con bajas o no regresan.
 

@@ -11,7 +11,7 @@ aliases:
 tags: []
 facciones: []
 related:
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 spoilers:
   - "Opera en secreto para evitar el escrutinio de la SIA, buscando aliados contra amenazas paranormales."
 ---
@@ -50,7 +50,7 @@ Cintia Herrera es una criptógrafa competente en Seguridad Nacional, conocida po
 Cintia ha descubierto patrones paranormales en las señales que analiza: interferencias en ondas de radio que no deberían existir, comunicaciones que parecen venir de lugares imposibles, frecuencias que causan efectos inexplicables en quienes las escuchan. Ha comenzado una investigación no autorizada sobre estos fenómenos.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Opera en absoluto secreto para evitar el escrutinio de la [[inquisicion|SIA]] (Santa Inquisición Argentina), que consideraría su investigación como herejía. Está buscando discretamente aliados dentro de Seguridad Nacional y el Ejército que compartan sus preocupaciones. Si la SIA descubre lo que está haciendo, no solo perdería su trabajo: sería juzgada por herejía. Pero los patrones que ha encontrado la aterrorizan demasiado como para ignorarlos.
+Opera en absoluto secreto para evitar el escrutinio de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]] (Santa Inquisición Argentina), que consideraría su investigación como herejía. Está buscando discretamente aliados dentro de Seguridad Nacional y el Ejército que compartan sus preocupaciones. Si la SIA descubre lo que está haciendo, no solo perdería su trabajo: sería juzgada por herejía. Pero los patrones que ha encontrado la aterrorizan demasiado como para ignorarlos.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

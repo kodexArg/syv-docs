@@ -12,22 +12,22 @@ aliases:
   - Los Cirujanos del Alma
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[exorcistas]]"
-  - "[[arpistas]]"
-  - "[[los-criptografos]]"
-  - "[[los-hackers]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|exorcistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-hackers|los-hackers]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 spoilers:
   - "La SIA mantiene una profunda rivalidad con los Exorcistas, a quienes considera blandos."
   - "La SIA no destruye todo el conocimiento que confisca: emplea criptógrafos y hackers capturados para descifrar tecnología prohibida en su propio beneficio."
 ---
-Conocidos en susurros como "Los Cirujanos del Alma", la "Santa Inquisición Argentina (SIA)" es el brazo más temido y poderoso de la [[iglesia|Iglesia de Dársena]][^iglesia]. Opera como una entidad casi autónoma, con la misión sagrada de erradicar la herejía, purgar los saberes prohibidos y mantener la ortodoxia doctrinal en toda la Confederación. Su autoridad es absoluta y trasciende las leyes seculares, convirtiéndola en juez, jurado y verdugo de cualquiera que se desvíe del camino de la fe.
+Conocidos en susurros como "Los Cirujanos del Alma", la "Santa Inquisición Argentina (SIA)" es el brazo más temido y poderoso de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]][^iglesia]. Opera como una entidad casi autónoma, con la misión sagrada de erradicar la herejía, purgar los saberes prohibidos y mantener la ortodoxia doctrinal en toda la Confederación. Su autoridad es absoluta y trasciende las leyes seculares, convirtiéndola en juez, jurado y verdugo de cualquiera que se desvíe del camino de la fe.
 
 El modus operandi de la SIA es el terror y la vigilancia. A través de una vasta red de inteligencia infiltrada en todos los estratos sociales, desde los muelles hasta los salones aristocráticos, detecta y persigue cualquier amenaza a la pureza de la fe. Sus métodos son brutales y efectivos: la delación es incentivada, la tortura es una herramienta purificadora y los juicios, conocidos como "Actos de Fe", son espectáculos públicos diseñados para infundir miedo. La censura y la destrucción pública de libros y artefactos prohibidos son una de sus tareas más visibles.
 
-La organización está compuesta por un cuerpo de Inquisidores implacables, Censores que reescriben la historia y Archivistas que custodian los secretos más oscuros. Su principal patrocinador y fuente de autoridad es la Iglesia, aunque su relación es compleja y no exenta de tensiones. Son enemigos declarados de todos los cultos proscritos y facciones tecnófilas como los [[arpistas|Arpistas]][^arpistas], a quienes cazan sin piedad.
+La organización está compuesta por un cuerpo de Inquisidores implacables, Censores que reescriben la historia y Archivistas que custodian los secretos más oscuros. Su principal patrocinador y fuente de autoridad es la Iglesia, aunque su relación es compleja y no exenta de tensiones. Son enemigos declarados de todos los cultos proscritos y facciones tecnófilas como los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]][^arpistas], a quienes cazan sin piedad.
 
 ## Identidad visual
 

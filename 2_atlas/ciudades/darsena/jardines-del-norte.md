@@ -9,10 +9,10 @@ aliases:
   - Jardines del Norte
 tags: []
 related:
-  - "[[masones]]"
+  - "[[1_trasfondo/facciones/facciones-menores/masones|masones]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[zona-residencial-alta-sociedad]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|zona-residencial-alta-sociedad]]"
 spoilers:
   - "Alberga una estatua masónica usada como punto de reunión secreto, vigilado por la SIA."
 ---
@@ -21,5 +21,5 @@ Ficha por desarrollar. Stub creado para una ubicación referenciada en aventuras
 
 ## Menciones conocidas
 
-- Espacio ajardinado en la [[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad]].
-- Contiene una estatua piramidal con simbología de los [[masones|Masones]].
+- Espacio ajardinado en la [[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad]].
+- Contiene una estatua piramidal con simbología de los [[1_trasfondo/facciones/facciones-menores/masones|Masones]].

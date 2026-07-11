@@ -11,13 +11,13 @@ aliases:
 region: Mendoza
 tags: []
 related:
-  - "[[confederacion-argentina]]"
-  - "[[ejercito-rojo]]"
-  - "[[caudillos-del-norte]]"
-  - "[[san-luis]]"
-  - "[[2031-la-fragmentacion-de-argentina]]"
+  - "[[1_trasfondo/facciones/confederacion-argentina|confederacion-argentina]]"
+  - "[[1_trasfondo/facciones/ejercito-rojo|ejercito-rojo]]"
+  - "[[1_trasfondo/facciones/caudillos-del-norte|caudillos-del-norte]]"
+  - "[[2_atlas/ciudades/san-luis/san-luis|san-luis]]"
+  - "[[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|2031-la-fragmentacion-de-argentina]]"
 ubicaciones:
-  - "[[universidad-de-cuyo]]"
+  - "[[2_atlas/ciudades/mendoza/universidad-de-cuyo|universidad-de-cuyo]]"
 ---
 
 > El granero de la Confederación. Ciudad andina que conservó sus sistemas de riego desde el Viejo Mundo, transformada en proveedor principal de alimentos para Dársena y Córdoba.
@@ -41,7 +41,7 @@ La estructura de poder en Mendoza se asienta sobre una **Comandancia Militar que
 
 ### **Comandancia Militar (3% de población)**
 - Encargada de defensa territorial, vigilancia de fronteras, contraespionaje
-- Reporta directamente al Ejército Argentino en Córdoba **sobre el papel**; en los hechos, Mendoza no está realmente dentro de la [[confederacion-argentina|Confederación]] —entra y sale del pacto sólo para lo que le conviene—. La cadena de mando existe en los formularios; la lealtad, apenas en la conveniencia
+- Reporta directamente al Ejército Argentino en Córdoba **sobre el papel**; en los hechos, Mendoza no está realmente dentro de la [[1_trasfondo/facciones/confederacion-argentina|Confederación]] —entra y sale del pacto sólo para lo que le conviene—. La cadena de mando existe en los formularios; la lealtad, apenas en la conveniencia
 - Especialización única: **Inteligencia y Espionaje**
 - Control de las comunicaciones (Torre de Señales andina), monitoreo de movimientos en frontera chilena
 - Reclutamiento selectivo entre clases medias urbanas
@@ -146,7 +146,7 @@ En superficie, Mendoza es estable: autosustentable, gobernada militarmente, sin 
 
 2. **Resentimiento de clase**: Los peones no hablan abiertamente (represión militar lo impide), pero el resentimiento es palpable. Sabotajes ocasionales de cosechas, incendios de campos "accidentales," deserción de trabajadores.
 
-3. **Vigilancia de frontera**: La Comandancia usa su especialización en contraespionaje para justificar control doméstico extremo. Todo disidente es potencial "agente chileno." Pero la Comandancia vigila ahora dos frentes: al viejo espectro chileno se le sumó, por el sur, el olor de la agitación del [[ejercito-rojo|Ejército Rojo]] que sube por la Ruta 40. Los rumores del "despertar" en las favelas rurales ya no huelen sólo a Chile; huelen también a rojo. Que la resistencia campesina tenga raíces de clase propias, hondas y locales, no le impide a la Comandancia sospechar que alguien, desde el sur, le sopla las brasas.
+3. **Vigilancia de frontera**: La Comandancia usa su especialización en contraespionaje para justificar control doméstico extremo. Todo disidente es potencial "agente chileno." Pero la Comandancia vigila ahora dos frentes: al viejo espectro chileno se le sumó, por el sur, el olor de la agitación del [[1_trasfondo/facciones/ejercito-rojo|Ejército Rojo]] que sube por la Ruta 40. Los rumores del "despertar" en las favelas rurales ya no huelen sólo a Chile; huelen también a rojo. Que la resistencia campesina tenga raíces de clase propias, hondas y locales, no le impide a la Comandancia sospechar que alguien, desde el sur, le sopla las brasas.
 
 4. **Crisis migrante silenciosa**: Trabajadores rurales continúan migrando a otras ciudades, causando despoblamiento rural. Pero la Comandancia intenta restringir movimiento mediante "permisos de tránsito."
 
@@ -166,7 +166,7 @@ Mendoza no usa dinero formalmente; opera por **trueque ponderado**:
 - Comercio local es economía de supervivencia (dinero colonial sin validez)
 
 ### **La Ruta 40: la arteria y el contrabando**
-La [[confederacion-argentina|Ruta 40]] se ha mantenido como la única arteria que marca el pulso del comercio terrestre de largo aliento, la cuerda tendida al pie de la cordillera por donde suben y bajan los bienes que ningún barco lleva. Y el paso pasa por Mendoza. El paso mendocino está envuelto en disputas permanentes, y eso lo convierte, más que en un camino, en una **zona de contrabando**: la Comandancia cobra su diezmo a lo que cruza y hace la vista gorda con lo que le rinde. Los [[caudillos-del-norte|Caudillos del Norte]] comercian con los señores del sur —los del [[ejercito-rojo|Ejército Rojo]] y su órbita— únicamente a través de esta arteria; cuando un fardo del norte llega al sur, o del sur al norte, casi con seguridad cruzó el cuello de piedra de Mendoza y pagó su peaje. Es la posición que le da a la ciudad su verdadero poder de negociación: quien controla el paso no controla la franja, pero le aprieta la garganta.
+La [[1_trasfondo/facciones/confederacion-argentina|Ruta 40]] se ha mantenido como la única arteria que marca el pulso del comercio terrestre de largo aliento, la cuerda tendida al pie de la cordillera por donde suben y bajan los bienes que ningún barco lleva. Y el paso pasa por Mendoza. El paso mendocino está envuelto en disputas permanentes, y eso lo convierte, más que en un camino, en una **zona de contrabando**: la Comandancia cobra su diezmo a lo que cruza y hace la vista gorda con lo que le rinde. Los [[1_trasfondo/facciones/caudillos-del-norte|Caudillos del Norte]] comercian con los señores del sur —los del [[1_trasfondo/facciones/ejercito-rojo|Ejército Rojo]] y su órbita— únicamente a través de esta arteria; cuando un fardo del norte llega al sur, o del sur al norte, casi con seguridad cruzó el cuello de piedra de Mendoza y pagó su peaje. Es la posición que le da a la ciudad su verdadero poder de negociación: quien controla el paso no controla la franja, pero le aprieta la garganta.
 
 ### **Desigualdad de Acumulación**
 - **Top 1% (terratenientes)**: Controla 80% de tierra, acumula excedentes, vive en opulencia

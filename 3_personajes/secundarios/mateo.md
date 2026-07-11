@@ -12,7 +12,7 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 related:
-  - "[[luisa-pescadora]]"
+  - "[[3_personajes/secundarios/luisa-pescadora|luisa-pescadora]]"
 spoilers:
   - "Su posesión por el Ensoñador y su verdadera condición."
 ---
@@ -47,7 +47,7 @@ No tiene motivaciones conscientes en su estado actual. Solo existe, atrapado ent
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-Mateo es un niño desaparecido de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]. Su madre, [[luisa-pescadora|Luisa]], lo busca desesperadamente, pero nadie sabe dónde está. Algunos dicen haberlo visto vagando por lugares oscuros, pero cuando intentan acercarse, desaparece.
+Mateo es un niño desaparecido de [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]. Su madre, [[3_personajes/secundarios/luisa-pescadora|Luisa]], lo busca desesperadamente, pero nadie sabe dónde está. Algunos dicen haberlo visto vagando por lugares oscuros, pero cuando intentan acercarse, desaparece.
 <!-- /📖 -->
 
 <!-- 🔐☠️ (DM - Peligro) -->

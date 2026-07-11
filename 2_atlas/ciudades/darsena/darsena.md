@@ -10,21 +10,21 @@ aliases:
   - Ciudad Dársena
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[fuerzas-armadas]]"
-  - "[[gremio-de-comercio]]"
-  - "[[resistencia-subterranea]]"
-  - "[[arpistas]]"
-  - "[[los-criptografos]]"
-  - "[[masones]]"
-  - "[[traficantes-de-almas]]"
-  - "[[buenos-aires-nombre-tabu]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"
+  - "[[1_trasfondo/facciones/facciones-menores/masones|masones]]"
+  - "[[1_trasfondo/facciones/facciones-menores/traficantes-de-almas|traficantes-de-almas]]"
+  - "[[1_trasfondo/codex/buenos-aires-nombre-tabu|buenos-aires-nombre-tabu]]"
 ubicaciones:
-  - "[[zona-militar-eclesiastica]]"
-  - "[[microcentro]]"
-  - "[[zona-residencial-alta-sociedad]]"
-  - "[[barrios-del-muro]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|zona-militar-eclesiastica]]"
+  - "[[2_atlas/ciudades/darsena/microcentro|microcentro]]"
+  - "[[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|zona-residencial-alta-sociedad]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 
 > La capital de facto de la Confederación. El censo oficial cuenta cinco millones de almas; en verdad son doce millones y medio las que se comprimen entre el muro de 20 metros y el Río de la Plata contaminado, en un oasis templado que un cinturón de niebla rodea por todos lados.
@@ -37,11 +37,11 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 
 -   **Década 2020-2030**: En los años previos al colapso, Buenos Aires ya construía el muro que hoy define a Dársena, inicialmente como una barrera para segregar las crecientes desigualdades sociales.
 -   **27 de diciembre de 2030**: Inauguración del Nodo Sur en Palermo. Las corporaciones tecnofeudalistas capturan el Estado argentino; comienza la desintegración política. El muro perfila el perímetro de la futura ciudad.
--   **4 de abril de 2039**: El [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] cae sobre el centro del Nodo Sur, abriendo un cráter de ochocientos metros en Palermo. Buenos Aires deja de existir como ciudad. El muro preserva el núcleo de Dársena, que nace de las ruinas. (La hipótesis del bombardeo cinético orbital fue sostenida durante décadas; los análisis del cráter indican un impacto celeste de hielo puro, no un arma.)
+-   **4 de abril de 2039**: El [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] cae sobre el centro del Nodo Sur, abriendo un cráter de ochocientos metros en Palermo. Buenos Aires deja de existir como ciudad. El muro preserva el núcleo de Dársena, que nace de las ruinas. (La hipótesis del bombardeo cinético orbital fue sostenida durante décadas; los análisis del cráter indican un impacto celeste de hielo puro, no un arma.)
 -   **2031-2068**: La guerra USA-China (2036) y la Gran Guerra Global (2039-2068) consumen Argentina. Córdoba y Dársena se enfrentan en guerra civil fragmentada mientras el caos global destruye infraestructura. Dársena se consolida como fortaleza gobernada por aristocracia local y la incipiente Iglesia.
 -   **2040-2050**: Comienza la reconstrucción y un período de reclusión. En 2082-2120, las ruinas de la Basílica de San Pedro son trasladadas desde el Vaticano y reconstruidas, estableciendo a Dársena como el nuevo centro del poder eclesiástico.
 -   **2050-2060**: La aparición de la Inteligencia Artificial Quiescente (QAI) pone fin a la era tecnológica. En Dársena nace la Sagrada Inquisición Argentina (SIA) como brazo armado de la Iglesia contra la herejía científica. La ciudad-estado se declara autónoma.
--   **2060-2070**: Se construyen las [[torres-hidroponicas|Torres Hidropónicas]] para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
+-   **2060-2070**: Se construyen las [[2_atlas/ciudades/darsena/torres-hidroponicas|Torres Hidropónicas]] para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
 -   **2070-2100**: La presión demográfica se vuelve innegable —no por obra nueva, sino porque la masa que el censo nunca contó (Muro y Tuberías) ya desborda la ciudad—; el Estado responde con el cierre de fronteras y la promulgación de la "Ley de Sangre" para prohibir la inmigración. La DMZ al otro lado del muro es despejada por la fuerza.
 -   **2100-2170**: Dársena se consolida como la capital de la Confederación, una potencia comercial y un centro de peregrinación mundial, manteniendo su dominio a través del control religioso y naval.
 
@@ -49,14 +49,14 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 
 El poder en Dársena se asienta sobre un trípode de facciones dominantes que cooperan y compiten por el control:
 
--   **[[iglesia|La Iglesia]]**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
--   **[[fuerzas-armadas|Fuerzas Armadas]]**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
--   **[[gremio-de-comercio|Gremio de Comercio]]**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
+-   **[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|La Iglesia]]**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
+-   **[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]]**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
+-   **[[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]]**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
 
 Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
--   **Facciones Proscritas**: Grupos como la [[resistencia-subterranea|Resistencia Subterránea]], los anarquistas, y movimientos religiosos heterodoxos operan en secreto, principalmente desde los [[barrios-del-muro|Barrios del Muro]] y [[tuberias|Las Tuberías]], escapando del control teológico de la Iglesia oficial.
--   **Redes Ocultas**: Los [[los-criptografos|Criptógrafos]] (hackers), los [[masones|Masones]] y los [[arpistas|Arpistas]] (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
--   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los [[traficantes-de-almas|Traficantes de Almas]], que operan en el corazón de las zonas más desfavorecidas.
+-   **Facciones Proscritas**: Grupos como la [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]], los anarquistas, y movimientos religiosos heterodoxos operan en secreto, principalmente desde los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] y [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]], escapando del control teológico de la Iglesia oficial.
+-   **Redes Ocultas**: Los [[1_trasfondo/facciones/facciones-menores/los-criptografos|Criptógrafos]] (hackers), los [[1_trasfondo/facciones/facciones-menores/masones|Masones]] y los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
+-   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los [[1_trasfondo/facciones/facciones-menores/traficantes-de-almas|Traficantes de Almas]], que operan en el corazón de las zonas más desfavorecidas.
 
 ## Estructura de Clases Sociales
 
@@ -103,7 +103,7 @@ La sociedad de Dársena está profundamente estratificada, aunque nominalmente i
 
 ### **Pobreza Extrema / Marginales (~50% de población)**
 -   **Estimado**: 6.250.000 personas (50 % de 12,5 M)
--   **Composición**: Habitantes de [[barrios-del-muro|Barrios del Muro]], [[tuberias|Las Tuberías]], refugiados, sin ciudadanía formal. Trabajadores precarios, mendigos, criminales, disidentes políticos.
+-   **Composición**: Habitantes de [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]], [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]], refugiados, sin ciudadanía formal. Trabajadores precarios, mendigos, criminales, disidentes políticos.
 -   **Vivienda**: Chabolas de lona, cartón, madera podrida. Ubicadas en zonas de máxima humedad (alrededor del río, en tuberías subterráneas). Estructuras que literalmente se pudren con los años.
 -   **Alimentación**: Inseguridad alimentaria crónica. Comen descartes de mercados, "sopa de hueso" de carnicerías, alimentos robados. Hambre es condición normal.
 -   **Salud**: Catastrófica. Tasa de tuberculosis 40%. Micosis pulmonar 45%. Dermatitis fúngica crónica 60%. Esperanza de vida 42-45 años (vs 60+ en clases media).
@@ -135,20 +135,20 @@ Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres
 
 ## Zonas Principales
 
-*   **[[zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso. La isla tiene tres lugares: la [[santa-sede|Santa Sede]] (los jardines de la Iglesia y la Nueva Basílica, apodada *Pulmón Superior*), el [[barrio-de-la-armada|Barrio de la Armada]] y el [[barrio-de-los-pescadores|Barrio de los Pescadores]] —estos dos en la franja sur que la gente apoda *Bajo Pulmón*—.
-*   **[[microcentro|Microcentro]]**: El corazón administrativo y comercial de la ciudad.
-*   **[[zona-centro|Zona Centro]]**: El núcleo productivo y educativo.
-*   **[[zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
-*   **[[barrios-del-muro|Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
-*   **[[tuberias|Las Tuberías]]**: La ciudad subterránea, un mundo aparte.
+*   **[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Zona Militar y Eclesiástica (Isla Oriental)]]**: El centro del poder militar y religioso. La isla tiene tres lugares: la [[2_atlas/ciudades/darsena/santa-sede|Santa Sede]] (los jardines de la Iglesia y la Nueva Basílica, apodada *Pulmón Superior*), el [[2_atlas/ciudades/darsena/barrio-de-la-armada|Barrio de la Armada]] y el [[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de los Pescadores]] —estos dos en la franja sur que la gente apoda *Bajo Pulmón*—.
+*   **[[2_atlas/ciudades/darsena/microcentro|Microcentro]]**: El corazón administrativo y comercial de la ciudad.
+*   **[[2_atlas/ciudades/darsena/zona-centro|Zona Centro]]**: El núcleo productivo y educativo.
+*   **[[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
+*   **[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
+*   **[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]**: La ciudad subterránea, un mundo aparte.
 
 ## Superficie y población por zona (mapa)
 
-El reparto espacial de los **12 500 000 de almas** reales por zona —superficie en km², población y densidad de cada distrito— vive en la [[leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada del mapa interactivo `syv-map`. En síntesis: los [[barrios-del-muro|Barrios del Muro]] concentran el **75 % (9 375 000)** sobre 5,73 km² —una densidad de ~1 635 000 hab/km² que iguala y supera el récord histórico de Kowloon—; el [[zona-centro|Centro]] ronda los **2 900 000** (incluye 1–2 M de residentes temporales); y el gradiente cae hacia el [[barrio-de-la-armada|Barrio de la Armada]] (200 000), el [[barrio-de-los-pescadores|Barrio de Pescadores]] (16 000), los jardines secos del [[zona-residencial-alta-sociedad|Barrio Norte]] (6 600) y la [[santa-sede|Santa Sede]] (882 —la misma población que el Vaticano real). La guarnición urbana de la Zona Militar Norte apenas suma un centenar de efectivos. Las [[tuberias|Tuberías]] (~500 000) son un subconjunto subterráneo y off-censo del Muro. Las zonas exteriores —[[dmz|la DMZ (ZDM)]], [[el-pantano|El Pantano]] y el [[lago-muerto|Lago Muerto]]— quedan fuera del reparto (población permanente ~0).
+El reparto espacial de los **12 500 000 de almas** reales por zona —superficie en km², población y densidad de cada distrito— vive en la [[2_atlas/ciudades/darsena/leyenda-del-mapa|Leyenda del Mapa de Dársena]], derivada del mapa interactivo `syv-map`. En síntesis: los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] concentran el **75 % (9 375 000)** sobre 5,73 km² —una densidad de ~1 635 000 hab/km² que iguala y supera el récord histórico de Kowloon—; el [[2_atlas/ciudades/darsena/zona-centro|Centro]] ronda los **2 900 000** (incluye 1–2 M de residentes temporales); y el gradiente cae hacia el [[2_atlas/ciudades/darsena/barrio-de-la-armada|Barrio de la Armada]] (200 000), el [[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de Pescadores]] (16 000), los jardines secos del [[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|Barrio Norte]] (6 600) y la [[2_atlas/ciudades/darsena/santa-sede|Santa Sede]] (882 —la misma población que el Vaticano real). La guarnición urbana de la Zona Militar Norte apenas suma un centenar de efectivos. Las [[2_atlas/ciudades/darsena/tuberias|Tuberías]] (~500 000) son un subconjunto subterráneo y off-censo del Muro. Las zonas exteriores —[[2_atlas/ciudades/darsena/dmz|la DMZ (ZDM)]], [[2_atlas/ciudades/darsena/el-pantano|El Pantano]] y el [[2_atlas/ciudades/darsena/lago-muerto|Lago Muerto]]— quedan fuera del reparto (población permanente ~0).
 
 ## El desdoble censal: cinco millones oficiales, doce millones y medio reales
 
-Durante décadas, el Estado de la Confederación declaró **5 000 000** de habitantes en Ciudad Dársena. Esa cifra —repetida en la liturgia oficial, en los edictos y en la propaganda— es el **censo de los registrados**: los ciudadanos con papeles, los que el aparato quiere ver. La población **real** siempre fue de **12 500 000** almas. La diferencia —siete millones y medio— son los **no contados**: el gentío de los [[barrios-del-muro|Barrios del Muro]] y los habitantes off-censo de las [[tuberias|Tuberías]], nacidos, muertos y hacinados sin que ninguna planilla los reconozca.
+Durante décadas, el Estado de la Confederación declaró **5 000 000** de habitantes en Ciudad Dársena. Esa cifra —repetida en la liturgia oficial, en los edictos y en la propaganda— es el **censo de los registrados**: los ciudadanos con papeles, los que el aparato quiere ver. La población **real** siempre fue de **12 500 000** almas. La diferencia —siete millones y medio— son los **no contados**: el gentío de los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] y los habitantes off-censo de las [[2_atlas/ciudades/darsena/tuberias|Tuberías]], nacidos, muertos y hacinados sin que ninguna planilla los reconozca.
 
 No hubo obra nueva que explique el salto: la ciudad siempre fue esta. Lo que cambió no es la piedra sino la contabilidad —y el Estado prefiere la mentira redonda de «cinco millones» al vértigo de admitir el doble y medio. Donde una fuente hable con voz oficial del Estado, «cinco millones» es la cifra que dirá; donde hable el atlas o la crónica, la verdad es doce millones y medio.
 
@@ -157,13 +157,13 @@ No hubo obra nueva que explique el salto: la ciudad siempre fue esta. Lo que cam
 Más allá del perímetro urbano, el territorio que Dársena administra suma **~15 000 000** de personas:
 
 -   **12 500 000** — la ciudad propiamente dicha (reparto de arriba).
--   **2 000 000** — los internos de los [[campos-de-reeducacion|Campos de Reeducación]], tendidos al **norte** del muro, en la Zona del Cráter que rodea el [[lago-muerto|Lago Muerto]].
+-   **2 000 000** — los internos de los [[2_atlas/ciudades/darsena/campos-de-reeducacion|Campos de Reeducación]], tendidos al **norte** del muro, en la Zona del Cráter que rodea el [[2_atlas/ciudades/darsena/lago-muerto|Lago Muerto]].
 -   **500 000** — el **ejército de tierra** acantonado en el cinturón, distinto de la Armada y distinto también de la guarnición urbana de la **Zona Militar Norte** (~100 efectivos). *(El grueso del Ejército conserva su sede en Córdoba; esta es la fuerza terrestre destacada en el territorio de Dársena.)*
 
 Sobre el **Río de la Plata**, además, viven ~**10 000 almas a bordo** de una flota de cerca de **1000 barcos** de la clase «Dársena». Todo lo que entra o sale por agua —incluidos los pescadores locales— pasa por la Dársena: el puerto es el único ojo de la aguja de la ciudad.
 
 ## Ver también
 
-- [[leyenda-del-mapa|Leyenda del Mapa de Dársena]] — superficie, población y densidad por zona.
-- [[campos-de-reeducacion|Campos de Reeducación (Dársena)]] — los ~2 M de internos del cinturón norte, en la Zona del Cráter.
-- [[piratas-del-plata|Piratas del Plata]] — la piratería y el turismo oculto marítimo sobre el Río de la Plata.
+- [[2_atlas/ciudades/darsena/leyenda-del-mapa|Leyenda del Mapa de Dársena]] — superficie, población y densidad por zona.
+- [[2_atlas/ciudades/darsena/campos-de-reeducacion|Campos de Reeducación (Dársena)]] — los ~2 M de internos del cinturón norte, en la Zona del Cráter.
+- [[2_atlas/ciudades/darsena/piratas-del-plata|Piratas del Plata]] — la piratería y el turismo oculto marítimo sobre el Río de la Plata.

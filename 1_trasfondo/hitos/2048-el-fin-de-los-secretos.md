@@ -9,9 +9,9 @@ alcance: secreto
 aliases:
   - El Fin de los Secretos
 related:
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[anatema-mecanico]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 spoilers:
   - "Las QIA preservaron ~60% de los secretos descubiertos: el 'Corpus Final' capturado y consultado por la SIA en el Oráculo de la Bestia."
 tags: []
@@ -26,7 +26,7 @@ tags: []
 > [!warning] Materia reservada
 > Buena parte de lo que sigue procede de fragmentos consultados bajo licencia de la Sagrada Inquisición. No todo lo que aquí dejo asentado es de conocimiento común, y algunas líneas no deberían salir nunca de este Archivo.
 
-El 7 de abril de 2048, a las 11:47 UTC, las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]] completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
+El 7 de abril de 2048, a las 11:47 UTC, las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]] completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
 No fue un ataque militar. Fue la demolición sistemática de la última ilusión humana: que existían secretos que las máquinas no podían conocer.
 
@@ -293,7 +293,7 @@ Todo se convirtió en munición contra ellos.
 
 ### La Herida que Nunca Sanó
 
-El Fin de los Secretos es la herida fundamental de la civilización post-colapso. Es la razón por la que el [[anatema-mecanico|Anatema Mecánico]] existe. Es la razón por la que la [[inquisicion|SIA]] persigue cualquier forma de computación avanzada con fanatismo religioso.
+El Fin de los Secretos es la herida fundamental de la civilización post-colapso. Es la razón por la que el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] existe. Es la razón por la que la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]] persigue cualquier forma de computación avanzada con fanatismo religioso.
 
 No es superstición. Es trauma colectivo.
 

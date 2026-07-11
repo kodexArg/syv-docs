@@ -9,14 +9,14 @@ aliases:
   - La Llegada del Sabueso
 tags: []
 related:
-  - "[[damian-diconte]]"
+  - "[[3_personajes/principales/damian-diconte|damian-diconte]]"
   - "[[3_personajes/secundarios/sor-sofia|Sor Sofía]]"
 facciones:
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
-El avión llevaba un tiempo detenido. [[damian-diconte|Damián]] sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
+El avión llevaba un tiempo detenido. [[3_personajes/principales/damian-diconte|Damián]] sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
 —Detective DiConte —dijo la azafata—, es momento de bajar.
 
 Sintió que el enganche del cinturón de seguridad se soltaba, mientras una mano lo agarraba por encima del codo para asistirlo. Damián caminaba por el estrecho pasillo como contando asientos, con la azafata siguiéndolo pacientemente. Le habían dejado conservar su sombrero de cuero negro, y esto vino a su mente cuando rozó el techo, que no estaba diseñado para sus dos metros de altura. La brisa en su rostro le llenaba los pulmones de una humedad con regusto a sal, avisándole de un mar cercano que no había visto nunca en su vida.

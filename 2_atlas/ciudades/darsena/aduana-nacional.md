@@ -10,17 +10,17 @@ aliases:
   - Edificio de la Aduana Nacional
 tags: []
 related:
-  - "[[gremio-de-comercio]]"
-  - "[[arpistas]]"
-  - "[[los-criptografos]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[microcentro]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/microcentro|microcentro]]"
 ---
 
 Ficha por desarrollar. Stub creado para una ubicación referenciada en el atlas y aventuras pero sin ficha propia; canon no verificado (estado: propuesta).
 
 ## Menciones conocidas
 
-- Centro administrativo aduanero en el [[microcentro|Microcentro]], en la antigua Casa Rosada; gestiona el flujo de bienes y personas.
-- Sus archivos guardan registros de envío de interés para facciones como los [[arpistas|Arpistas]] y el [[gremio-de-comercio|Gremio de Comercio]].
+- Centro administrativo aduanero en el [[2_atlas/ciudades/darsena/microcentro|Microcentro]], en la antigua Casa Rosada; gestiona el flujo de bienes y personas.
+- Sus archivos guardan registros de envío de interés para facciones como los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] y el [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]].

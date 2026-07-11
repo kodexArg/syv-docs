@@ -13,7 +13,7 @@ facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 related:
-  - "[[guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
 spoilers:
   - "Sus métodos esotéricos, su contacto con los Guardianes de la Memoria y la alteración de memoria mediante rituales."
 ---
@@ -56,7 +56,7 @@ Las Túberías susurran leyendas sobre Marta que rozan lo divino y lo diabólico
 Marta posee textos médicos pre-Catástrofe que documentan cirugía, farmacopea y técnicas de sanación que han desaparecido del mundo moderno. Pero sus textos van más allá: incluyen rituales, encantamientos, procedimientos que mezclan medicina con algo que solo podría llamarse magia. Utiliza estos textos no como manual sino como diálogo—consultándolos, aprendiendo de ellos, evolucionando sus técnicas. Sus conocimientos genuinamente transcienden la medicina convencional.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Guardianes de la Memoria) -->
-Marta trabaja con los [[guardianes-de-la-memoria|Guardianes de la Memoria]], aunque "trabaja con" subestima la profundidad de su entanglement. Es filtro, reclutadora y sacerdotisa—utilizando sus sesiones de sanación para identificar candidatos cuyas mentes y espíritus podrían soportar iniciación en órdenes de preservación del conocimiento. Algunos de sus "milagros" son acondicionamiento psicológico disfrazado de cura. Otros incluyen implantación de memoria, alteración ritual de identidad, incluso borrado selectivo de recuerdos traumáticos. El precio de sus curas nunca es dinero. Siempre es lealtad, información, o acceso a secretos. Los hilos que teje no son solo decorativos: son mapas de sus alianzas invisibles.
+Marta trabaja con los [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]], aunque "trabaja con" subestima la profundidad de su entanglement. Es filtro, reclutadora y sacerdotisa—utilizando sus sesiones de sanación para identificar candidatos cuyas mentes y espíritus podrían soportar iniciación en órdenes de preservación del conocimiento. Algunos de sus "milagros" son acondicionamiento psicológico disfrazado de cura. Otros incluyen implantación de memoria, alteración ritual de identidad, incluso borrado selectivo de recuerdos traumáticos. El precio de sus curas nunca es dinero. Siempre es lealtad, información, o acceso a secretos. Los hilos que teje no son solo decorativos: son mapas de sus alianzas invisibles.
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

@@ -10,19 +10,19 @@ aliases:
   - La Máquina
 tags: []
 related:
-  - "[[inquisicion]]"
-  - "[[anatema-mecanico]]"
-  - "[[baterias]]"
-  - "[[torres-hidroponicas]]"
-  - "[[dmz]]"
-  - "[[fuera-del-muro]]"
-  - "[[barrios-del-muro]]"
-  - "[[direccion-nacional-de-seguridad]]"
-  - "[[campos-de-reeducacion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[2_atlas/tecnologia-y-ciencia/baterias|baterias]]"
+  - "[[2_atlas/ciudades/darsena/torres-hidroponicas|torres-hidroponicas]]"
+  - "[[2_atlas/ciudades/darsena/dmz|dmz]]"
+  - "[[2_atlas/ciudades/darsena/fuera-del-muro|fuera-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|direccion-nacional-de-seguridad]]"
+  - "[[2_atlas/ciudades/darsena/campos-de-reeducacion|campos-de-reeducacion]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[zona-centro]]"
-  - "[[zona-militar-eclesiastica]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/zona-centro|zona-centro]]"
+  - "[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|zona-militar-eclesiastica]]"
 ---
 
 # Infraestructura Energética de Dársena
@@ -81,7 +81,7 @@ El Departamento de Red Eléctrica opera con un sistema estricto de compartimenta
 **Conocimiento**:
 - Comprenden funcionamiento básico de Nodos (son distribuidores de voltaje)
 - Entienden arquitectura de red (qué sector está conectado a dónde)
-- **CONOCEN LA UBICACIÓN REAL**: los generadores NO están bajo las Torres (ése es el error que cree la ciudad), sino bajo el extremo norte de la [[zona-militar-eclesiastica|Isla Oriental]], enterrados más profundo que el río
+- **CONOCEN LA UBICACIÓN REAL**: los generadores NO están bajo las Torres (ése es el error que cree la ciudad), sino bajo el extremo norte de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], enterrados más profundo que el río
 - Capacidad de calcular consumo y detectar sobrecargas
 - Prohibido hablar sobre lo que saben con Nivel 1
 
@@ -159,7 +159,7 @@ El Departamento de Red Eléctrica opera con un sistema estricto de compartimenta
 ### Especificaciones de Transmisión
 
 **Sistema de tarjetas (el verdadero techo del hogar)**:
-El techo de cada hogar no es un número fijo: lo fijan **tarjetas** instaladas en la red, algo **legal y transparente**. El cupo se reparte **por cabeza**: **240 W por persona**, hasta un máximo de **960 W permanentes por hogar** (= 20 A @ 48 V CC). Como el tope se cuenta por habitante, un hogar semivacío queda sin potencia útil: para llegar a los 960 W —una ducha caliente, o incluso un microondas chico— hay que **llenar la casa a cuatro**. La red es, de hecho, una **máquina de incentivo al hacinamiento**, coherente con el 75 % de la población apiñada en los [[barrios-del-muro|Barrios del Muro]].
+El techo de cada hogar no es un número fijo: lo fijan **tarjetas** instaladas en la red, algo **legal y transparente**. El cupo se reparte **por cabeza**: **240 W por persona**, hasta un máximo de **960 W permanentes por hogar** (= 20 A @ 48 V CC). Como el tope se cuenta por habitante, un hogar semivacío queda sin potencia útil: para llegar a los 960 W —una ducha caliente, o incluso un microondas chico— hay que **llenar la casa a cuatro**. La red es, de hecho, una **máquina de incentivo al hacinamiento**, coherente con el 75 % de la población apiñada en los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]].
 
 **Piso garantizado**: **480 W mínimos para todo departamento**, esté documentado o no. Como buena parte de la ciudad es indocumentada y corre en el piso, **el estándar de 480 W es el mejor indicador de la mediana** de consumo doméstico de Dársena. El rango real del hogar va, entonces, de **480 W (piso)** a **960 W (techo)**.
 
@@ -197,10 +197,10 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 
 > [!warning] Mito vs. verdad
 > **Lo que la ciudad cree**: que los generadores están *directamente bajo las dos Torres Hidropónicas* —una simetría teológica cómoda, el motor debajo del sistema que hace la comida—. Es el error común, repetido incluso por técnicos de bajo nivel.
-> **La verdad**: ambas plantas —el complejo que los custodios llaman **«La Máquina»**— están enterradas bajo la [[zona-militar-eclesiastica|Isla Oriental]], en su **extremo norte**, muy profundo, **más hondo que el propio río**. Torres y generadores están *próximos*, pero **separados por la Zona Militar Norte** (guarnición del [[fuerzas-armadas|Ejército]], sin ficha propia).
+> **La verdad**: ambas plantas —el complejo que los custodios llaman **«La Máquina»**— están enterradas bajo la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], en su **extremo norte**, muy profundo, **más hondo que el propio río**. Torres y generadores están *próximos*, pero **separados por la Zona Militar Norte** (guarnición del [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército]], sin ficha propia).
 
 **Localización real**:
-- Bajo el extremo norte de la [[zona-militar-eclesiastica|Isla Oriental]], no bajo las Torres
+- Bajo el extremo norte de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], no bajo las Torres
 - Profundidad: por debajo del lecho del río; el punto más hondo excavado de Dársena
 - Torres y «La Máquina» quedan a poca distancia horizontal, pero la **Zona Militar Norte** se interpone entre ambas
 
@@ -210,9 +210,9 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 - El grueso del consumo lo siguen llevando las **Torres Hidropónicas** por ser la **industria pesada de la comida** (~60 % de la energía de Dársena), no por estar encima de los generadores
 
 **Acceso y custodia**:
-- El **[[fuerzas-armadas|Ejército]]** controla todas las entradas de ambos recintos
-- En los estratos inferiores mandan **Inquisidores** ([[inquisicion|SIA]]); algunos eligen terminar sus días ahí, en la luz —ésa sí infinita— de «La Máquina»
-- El acceso final lo realizan **veinte técnicos** de origen mezclado: condenados a perpetua conmutando pena desde los [[campos-de-reeducacion|Campos]], hackers que cambian servicio por su vida, y eclesiásticos ingenieros
+- El **[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército]]** controla todas las entradas de ambos recintos
+- En los estratos inferiores mandan **Inquisidores** ([[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]]); algunos eligen terminar sus días ahí, en la luz —ésa sí infinita— de «La Máquina»
+- El acceso final lo realizan **veinte técnicos** de origen mezclado: condenados a perpetua conmutando pena desde los [[2_atlas/ciudades/darsena/campos-de-reeducacion|Campos]], hackers que cambian servicio por su vida, y eclesiásticos ingenieros
 - Ningún técnico de bajo nivel sabe lo que hay adentro; solo los cuadros altos acceden al interior de las cámaras
 
 **Vigilancia**:
@@ -261,9 +261,9 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 - Agua que regresa de Torres Hidropónicas (después de riego) se canaliza a plantas de ósmosis térmica
 - Proceso de ósmosis térmica usa energía térmica (no eléctrica) para eliminar salinidad del agua
 - El agua desalinizada alimenta un **servicio de agua de red que funciona con regularidad y es gratis por costumbre**: nadie cobra el agua, y cuidarla es un deber cuasi religioso —«se cuida bien»—. El servicio llega bien al Centro, a las zonas residenciales y al puerto, y por toda la ciudad hay **puntos públicos para beber**, repartidos como pequeños altares donde la gente llena bidones. Los ~9 millones de litros diarios ya no describen un hambre cotidiana: al nivel del suelo, la ciudad bebe sin sobresaltos.
-- **El cuello de botella del agua no es el caudal: es la presión.** La red corre con bomba chica, de presión baja. Llega con holgura al nivel del suelo y a las plantas bajas de toda Dársena, pero **no trepa los monobloques de cuarenta a cien pisos de los [[barrios-del-muro|Barrios del Muro]]**. La escasez es **vertical**: cuanto más alto el piso, menos agua, hasta que arriba no llega nada. Subirla exige **acarrear baldes por la escalera o bombear**, y bombear pide una potencia que las tarjetas no dan —así que se roba de la red o se usa [[baterias|batería]] prohibida—. Ahí el agua se enreda con la electricidad.
-- El agua **contaminada** (el Río sucio, el Pantano tóxico, la lluvia y la niebla cargadas del polvo de la [[clima-2178|Nube Roja]]) **no es lo que bebe la mayoría**: es la **caída** del que se quedó sin servicio —los pisos altos, los cortados, los sin conexión—. Beber del cielo o del río es el desastre, no la norma.
-- **Eje teológico**: el **agua es sagrada** y la **electricidad es satánica**. El agua desalinizada sale del reactor-milagro de «La Máquina», la humedad es el «velo divino», y cuidar el agua —no envenenarla, no cortarla— es deber religioso; profanarla es sacrilegio. Es el contrapunto exacto de la mancha del [[anatema-mecanico|Anatema Mecánico]] que arrastra la electricidad: una se venera, la otra apenas se tolera.
+- **El cuello de botella del agua no es el caudal: es la presión.** La red corre con bomba chica, de presión baja. Llega con holgura al nivel del suelo y a las plantas bajas de toda Dársena, pero **no trepa los monobloques de cuarenta a cien pisos de los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]**. La escasez es **vertical**: cuanto más alto el piso, menos agua, hasta que arriba no llega nada. Subirla exige **acarrear baldes por la escalera o bombear**, y bombear pide una potencia que las tarjetas no dan —así que se roba de la red o se usa [[2_atlas/tecnologia-y-ciencia/baterias|batería]] prohibida—. Ahí el agua se enreda con la electricidad.
+- El agua **contaminada** (el Río sucio, el Pantano tóxico, la lluvia y la niebla cargadas del polvo de la [[2_atlas/climas/clima-2178|Nube Roja]]) **no es lo que bebe la mayoría**: es la **caída** del que se quedó sin servicio —los pisos altos, los cortados, los sin conexión—. Beber del cielo o del río es el desastre, no la norma.
+- **Eje teológico**: el **agua es sagrada** y la **electricidad es satánica**. El agua desalinizada sale del reactor-milagro de «La Máquina», la humedad es el «velo divino», y cuidar el agua —no envenenarla, no cortarla— es deber religioso; profanarla es sacrilegio. Es el contrapunto exacto de la mancha del [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] que arrastra la electricidad: una se venera, la otra apenas se tolera.
 
 **Dependencia existencial**:
 - Sin reactores = sin electricidad
@@ -275,7 +275,7 @@ Cada sector tiene Nodo principal. Anomalías en sector específico pueden aislar
 
 Si la fuente es infinita, **el límite real de la electricidad de Dársena es el cable**. La escasez eléctrica de la ciudad no es escasez de generación: es **escasez de conductor**.
 
-- Los conductores se fabrican **casi exclusivamente con material recolectado en las Tierras Baldías** ([[dmz|Zona Desmilitarizada]] y [[fuera-del-muro|Fuera del Muro]]): cobre y metal recuperado de las ruinas del exterior
+- Los conductores se fabrican **casi exclusivamente con material recolectado en las Tierras Baldías** ([[2_atlas/ciudades/darsena/dmz|Zona Desmilitarizada]] y [[2_atlas/ciudades/darsena/fuera-del-muro|Fuera del Muro]]): cobre y metal recuperado de las ruinas del exterior
 - Un **ejército de electricistas estatales** los tiende, los repara y los vigila sin descanso; su trabajo invisible es lo que decide cuánta potencia llega a cada barrio
 - Toda restricción de potencia —cada tarjeta apretada, cada barrio a media luz— es, en el fondo, **falta de cobre, no falta de reactor**
 
@@ -397,37 +397,37 @@ Lo que alimenta la paranoia de "La Bestia" en las Torres es específico: estas i
 
 ## La carga satánica de la electricidad (Anatema Mecánico)
 
-La electricidad **nunca es del todo una cosa buena**: arrastra la mancha del [[anatema-mecanico|Anatema Mecánico]]. Se tolera porque la ciudad no vive sin ella, pero jamás se celebra. Usarla en un arma —y peor aún como **picana**— no es apenas ilegal: es un **crimen aberrante**, herejía en su forma más obscena. Por eso las **muertes por electricidad son raras y «complejas»**, cargadas de un peso ritual que ninguna otra muerte tiene.
+La electricidad **nunca es del todo una cosa buena**: arrastra la mancha del [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]. Se tolera porque la ciudad no vive sin ella, pero jamás se celebra. Usarla en un arma —y peor aún como **picana**— no es apenas ilegal: es un **crimen aberrante**, herejía en su forma más obscena. Por eso las **muertes por electricidad son raras y «complejas»**, cargadas de un peso ritual que ninguna otra muerte tiene.
 
 Esto le da a la vigilancia obsesiva de «La Bestia» su verdadera lógica: no es antirrobo, es **horror religioso**. Cada anomalía de consumo se persigue como se perseguiría una profanación.
 
 ## Contrabando de energía
 
-El contrabando eléctrico es **enorme e imposible de rastrear**. Nadie conserva ya el mapa completo de todos los hilos vivos que corren bajo la ciudad: la rejilla pre-guerra es más vieja que cualquier archivo que la describa. Alguien **encuentra un hilo vivo** —casi siempre por las malas, cavando o muriendo— y lo aprovecha, a veces durante años, hasta que lo cazan los técnicos de red o [[direccion-nacional-de-seguridad|Seguridad Nacional]].
+El contrabando eléctrico es **enorme e imposible de rastrear**. Nadie conserva ya el mapa completo de todos los hilos vivos que corren bajo la ciudad: la rejilla pre-guerra es más vieja que cualquier archivo que la describa. Alguien **encuentra un hilo vivo** —casi siempre por las malas, cavando o muriendo— y lo aprovecha, a veces durante años, hasta que lo cazan los técnicos de red o [[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|Seguridad Nacional]].
 
-Es la escala industrial de los **TAPs** que ya construyen las bandas de los [[barrios-del-muro|Barrios del Muro]]: del pinchazo puntual a redes clandestinas enteras alimentadas de un caño olvidado. Buena parte de esa energía robada se guarda en [[baterias|baterías]] para soltarla de golpe.
+Es la escala industrial de los **TAPs** que ya construyen las bandas de los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]: del pinchazo puntual a redes clandestinas enteras alimentadas de un caño olvidado. Buena parte de esa energía robada se guarda en [[2_atlas/tecnologia-y-ciencia/baterias|baterías]] para soltarla de golpe.
 
 ## Baterías
 
-Las [[baterias|baterías]] son **pesadas, utilísimas y están formalmente prohibidas, pero se usan en todos lados**. El objeto —arena y sal— no es tóxico ni explosivo: lo peligroso y prohibido es **lo que permiten hacer, la descarga de alta potencia**. Acumulan el hilito de potencia a cuentagotas para soltarlo de una sola vez, y por eso son la pieza que vuelve viable el contrabando y el alto consumo puntual donde la tarjeta no alcanza. Los [[barrios-del-muro|Barrios del Muro]] están llenos de ellas, igual que los tranvías y los hogares acomodados; el **[[fuerzas-armadas|Ejército]]** abusa de ellas sin recato y mantiene una **zona de alta recarga** propia dentro de la zona militar. La prohibición, entonces, es más **gancho legal** que barrera: se aplica de forma selectiva, a plena luz para la casta y como ruina para el pobre al que se le encuentra una.
+Las [[2_atlas/tecnologia-y-ciencia/baterias|baterías]] son **pesadas, utilísimas y están formalmente prohibidas, pero se usan en todos lados**. El objeto —arena y sal— no es tóxico ni explosivo: lo peligroso y prohibido es **lo que permiten hacer, la descarga de alta potencia**. Acumulan el hilito de potencia a cuentagotas para soltarlo de una sola vez, y por eso son la pieza que vuelve viable el contrabando y el alto consumo puntual donde la tarjeta no alcanza. Los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]] están llenos de ellas, igual que los tranvías y los hogares acomodados; el **[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército]]** abusa de ellas sin recato y mantiene una **zona de alta recarga** propia dentro de la zona militar. La prohibición, entonces, es más **gancho legal** que barrera: se aplica de forma selectiva, a plena luz para la casta y como ruina para el pobre al que se le encuentra una.
 
 ## Vehículos y transporte
 
-Dársena casi no tiene vehículos privados. Los pocos que circulan tienden a ser eléctricos, y el **transporte público es eléctrico sin excepción** —los tranvías a la cabeza—. El vehículo eléctrico depende, como todo lo de alto consumo, de [[baterias|baterías]] para alejarse del cable.
+Dársena casi no tiene vehículos privados. Los pocos que circulan tienden a ser eléctricos, y el **transporte público es eléctrico sin excepción** —los tranvías a la cabeza—. El vehículo eléctrico depende, como todo lo de alto consumo, de [[2_atlas/tecnologia-y-ciencia/baterias|baterías]] para alejarse del cable.
 
 ## Combustibles y energía doméstica
 
 **No existe el gas.** De ningún tipo: ni gas de red, ni envasado, ni garrafa. En Dársena nadie cocina ni se calienta a gas porque el gas, sencillamente, no está —nunca se lo nombra ni como servicio ni como mercadería.
 
-**El petróleo y los combustibles líquidos sí existen, y se comercian** —gasoil, nafta y derivados—, pero van casi todos, en cantidades inmensas, a las [[fuerzas-armadas|Fuerzas Armadas]]. De facto, el combustible líquido es **monopolio militar**: lo que se filtra al circuito civil es marginal.
+**El petróleo y los combustibles líquidos sí existen, y se comercian** —gasoil, nafta y derivados—, pero van casi todos, en cantidades inmensas, a las [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]]. De facto, el combustible líquido es **monopolio militar**: lo que se filtra al circuito civil es marginal.
 
-Por eso **se cocina y se calienta de muchísimas formas, la electricidad incluida.** Quien tiene cupo de tarjetas —o una [[baterias|batería]]— cocina eléctrico; muchísimos cocinan con fuego (leña, carbón, braseros, alambiques); otros con **barras químicas**. La regla es la diversidad: ninguna forma domina, cada hogar arma la suya con lo que consigue.
+Por eso **se cocina y se calienta de muchísimas formas, la electricidad incluida.** Quien tiene cupo de tarjetas —o una [[2_atlas/tecnologia-y-ciencia/baterias|batería]]— cocina eléctrico; muchísimos cocinan con fuego (leña, carbón, braseros, alambiques); otros con **barras químicas**. La regla es la diversidad: ninguna forma domina, cada hogar arma la suya con lo que consigue.
 
-Las **barras químicas** son el caso extremo. Arden como troncos y **no las apaga nada** —ni agua, ni ahogo, ni tiempo—: una vez encendidas, se consumen hasta el final. De ahí el peligro. Están **prohibidas por física, no por moral**: en un monobloque de decenas de pisos con miles de personas, una barra descontrolada puede **vaciar una torre entera**. Aun así se usan por todos lados —mismo patrón que las [[baterias|baterías]]: prohibidas de jure, ubicuas de facto—, porque no hay alternativa barata para comer caliente.
+Las **barras químicas** son el caso extremo. Arden como troncos y **no las apaga nada** —ni agua, ni ahogo, ni tiempo—: una vez encendidas, se consumen hasta el final. De ahí el peligro. Están **prohibidas por física, no por moral**: en un monobloque de decenas de pisos con miles de personas, una barra descontrolada puede **vaciar una torre entera**. Aun así se usan por todos lados —mismo patrón que las [[2_atlas/tecnologia-y-ciencia/baterias|baterías]]: prohibidas de jure, ubicuas de facto—, porque no hay alternativa barata para comer caliente.
 
 En algunas terrazas hay **generación eólica marginal**: molinetes que aportan poco, un chorrito extra donde el viento pega.
 
-**Cada energía tiene su carga teológica**: el **agua es sagrada**, la **electricidad satánica** (mancha del [[anatema-mecanico|Anatema Mecánico]]), el **fuego tolerado** —viejo y humano, sin pecado— y la **barra química prohibida** por puro peligro material. Ver también [[sistemas-energeticos|Sistemas Energéticos]] para la división civil vs. militar del almacenamiento.
+**Cada energía tiene su carga teológica**: el **agua es sagrada**, la **electricidad satánica** (mancha del [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]), el **fuego tolerado** —viejo y humano, sin pecado— y la **barra química prohibida** por puro peligro material. Ver también [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|Sistemas Energéticos]] para la división civil vs. militar del almacenamiento.
 
 ## Nodos públicos de alto consumo
 
@@ -437,14 +437,14 @@ Ciertos lugares reciben un **extra importante de electricidad** y quedan marcado
 - La **marina**
 - Y, por encima de todos, el **Club de Oficiales**, donde se autorizan rarísimos partidos nocturnos con luz eléctrica: un lujo obsceno, puro alarde de la casta militar sobre una ciudad a media luz
 
-Cada uno de estos nodos concentra potencia suficiente para atraer tanto al contrabandista como al censor de la [[inquisicion|SIA]].
+Cada uno de estos nodos concentra potencia suficiente para atraer tanto al contrabandista como al censor de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]].
 
 ## Referencias Cruzadas
 
-- [[electricidad|Electricidad]] - Red pública 48V DC y vigilancia básica
-- [[sistemas-energeticos|Sistemas Energéticos]] - Comparación civil vs militar
-- [[procesador-argentino-pia|Procesador de Industria Argentina (PIA)]] - Consumo energético en Torres
-- [[celdas-radionuclidos|Celdas de Radionúclidos]] - Tecnología militar alternativa
-- [[iglesia|Iglesia de Dársena]] - Supervisión del Ministerio
-- [[inquisicion|Sagrada Inquisición Argentina]] - Vigilancia de anomalías
-- [[baterias|Baterías]] - Acumulación prohibida de energía, contrabando y vehículos eléctricos
+- [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad]] - Red pública 48V DC y vigilancia básica
+- [[2_atlas/tecnologia-y-ciencia/sistemas-energeticos|Sistemas Energéticos]] - Comparación civil vs militar
+- [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina (PIA)]] - Consumo energético en Torres
+- [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos]] - Tecnología militar alternativa
+- [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]] - Supervisión del Ministerio
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] - Vigilancia de anomalías
+- [[2_atlas/tecnologia-y-ciencia/baterias|Baterías]] - Acumulación prohibida de energía, contrabando y vehículos eléctricos

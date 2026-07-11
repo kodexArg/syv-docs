@@ -10,13 +10,13 @@ aliases:
   - Zona Militar-Eclesiástica
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
-  - "[[fuerzas-armadas]]"
-  - "[[monseñor-miguel]]"
-  - "[[madre-superiora-maria]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
+  - "[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 La Isla Oriental es todo el territorio al este de la antigua dársena de Buenos Aires. Su morfología ha variado con los siglos: tierra ganada al mar ha ampliado su superficie más allá de lo que fue Puerto Madero en tiempos previos al Colapso. Separada del resto de la ciudad por la vieja dársena —un canal de aguas oscuras que ha ascendido hasta casi el nivel de la calle—, la isla alberga a 200.000 habitantes y constituye el corazón del poder en Ciudad Dársena. Aquí se materializa el mandato del **Preámbulo** de la Constitución: la unión de la Iglesia y las Fuerzas Armadas para afianzar la Justicia Divina y proveer a la defensa común.
 
@@ -24,9 +24,9 @@ Del lado occidental de la dársena, la calle San Martín es probablemente la má
 
 > [!info] Los tres lugares de la isla
 > La Isla Oriental tiene **tres lugares directos**, hermanos entre sí. Los apodos "Pulmón Superior" (la Santa Sede, arriba) y "Pulmón Inferior" o "Bajo Pulmón" (la franja sur que baja al Mar) son solo cómo la gente reconoce las zonas, no divisiones administrativas ni contenedores.
-> - **[[santa-sede|Santa Sede]]** *(apodo: Pulmón Superior)* — los jardines de la Iglesia: lomas, médanos de pasto, la Nueva Basílica de San Pedro y la Universidad. Contiene la [[villa-de-los-oficiales|Villa de los Oficiales]], parque reservado custodiado por los [[albatros|Albatros]] (entrar es crimen).
-> - **[[barrio-de-la-armada|Barrio de la Armada]]** *(franja sur)* — los oficiales, la Fortaleza de la Luz, los Muelles Interiores y el gobierno de facto de la ciudad.
-> - **[[barrio-de-los-pescadores|Barrio de los Pescadores]]** *(franja sur)* — mercado, contrabando y frente de conflicto.
+> - **[[2_atlas/ciudades/darsena/santa-sede|Santa Sede]]** *(apodo: Pulmón Superior)* — los jardines de la Iglesia: lomas, médanos de pasto, la Nueva Basílica de San Pedro y la Universidad. Contiene la [[2_atlas/ciudades/darsena/villa-de-los-oficiales|Villa de los Oficiales]], parque reservado custodiado por los [[1_trasfondo/facciones/fuerzas-armadas/albatros|Albatros]] (entrar es crimen).
+> - **[[2_atlas/ciudades/darsena/barrio-de-la-armada|Barrio de la Armada]]** *(franja sur)* — los oficiales, la Fortaleza de la Luz, los Muelles Interiores y el gobierno de facto de la ciudad.
+> - **[[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de los Pescadores]]** *(franja sur)* — mercado, contrabando y frente de conflicto.
 
 ## Calle Los Patos
 
@@ -40,7 +40,7 @@ Sobre la calle Los Patos se encuentra el **Hospital de la Ciudad**, una estructu
 
 La franja sur de la isla se conoce coloquialmente como **Bajo Pulmón** (o *Pulmón Inferior*), por oposición a la Santa Sede de las alturas: la lengua de tierra —buena parte ganada al mar— que baja al oriente y al sur del agua de la dársena, hasta el borde que da a "el Mar". El apodo no designa un distrito: nombra el tramo donde conviven, pegados, dos de los tres lugares de la isla, de temple opuesto.
 
-De un lado se concentran los edificios militares de la [[fuerzas-armadas|Armada Argentina]] —el **[[barrio-de-la-armada|Barrio de la Armada]]**—, con vista al Río y sus puertos interiores, que se adentran hacia el final de la dársena. Es una presencia de orden, tolerada por su propia fuerza. Del otro, contiguo y sin transición clara, hierve el bullicioso **[[barrio-de-los-pescadores|Barrio de los Pescadores]]**: mercado central, turismo barato y zonas rojas, cuyos pescadores "verdaderos" no faenan en los muelles interiores sino que salen por los **puertos de fuera del muro**, con todo el contrabando y el conflicto que eso arrastra. Desde el Barrio de los Pescadores, el Barrio de la Armada es "el vecino contiguo hacia el oriente".
+De un lado se concentran los edificios militares de la [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Armada Argentina]] —el **[[2_atlas/ciudades/darsena/barrio-de-la-armada|Barrio de la Armada]]**—, con vista al Río y sus puertos interiores, que se adentran hacia el final de la dársena. Es una presencia de orden, tolerada por su propia fuerza. Del otro, contiguo y sin transición clara, hierve el bullicioso **[[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de los Pescadores]]**: mercado central, turismo barato y zonas rojas, cuyos pescadores "verdaderos" no faenan en los muelles interiores sino que salen por los **puertos de fuera del muro**, con todo el contrabando y el conflicto que eso arrastra. Desde el Barrio de los Pescadores, el Barrio de la Armada es "el vecino contiguo hacia el oriente".
 
 El viejo **Gremio de Pescadores**, modesto y controlado, es la cara tolerada de esa comunidad: sus puertos interiores viven a la sombra de la Armada, aparte del hervidero de fuera del muro.
 
@@ -50,7 +50,7 @@ Centro de operaciones militares avanzadas. Aquí se entrenan las unidades especi
 
 ### Muelles Interiores
 
-Punto clave para la logística militar y el comercio controlado por la élite. Controlados férreamente por el Comando Nacional, los muelles son un hervidero de actividad oficial, pero también un punto caliente para el contrabando de alto nivel, a menudo con la connivencia de oficiales corruptos. Los muelles de los pescadores, más modestos, ocupan el tramo final de la dársena; son los interiores del Gremio de Pescadores, distintos de los puertos de fuera del muro que usa el [[barrio-de-los-pescadores|Barrio de los Pescadores]].
+Punto clave para la logística militar y el comercio controlado por la élite. Controlados férreamente por el Comando Nacional, los muelles son un hervidero de actividad oficial, pero también un punto caliente para el contrabando de alto nivel, a menudo con la connivencia de oficiales corruptos. Los muelles de los pescadores, más modestos, ocupan el tramo final de la dársena; son los interiores del Gremio de Pescadores, distintos de los puertos de fuera del muro que usa el [[2_atlas/ciudades/darsena/barrio-de-los-pescadores|Barrio de los Pescadores]].
 
 ## El Bosque
 
@@ -62,7 +62,7 @@ Entre los árboles, aquí y allá, aparecen pequeñas dependencias: estructuras 
 
 ## Complejo Norte — la Santa Sede: La Basílica y la Universidad
 
-El norte y lo alto de la isla forman la **[[santa-sede|Santa Sede]]** —que la gente apoda *Pulmón Superior*—: los jardines de la Iglesia, lomas y médanos de pasto recorridos por un tranvía eléctrico a cronómetro. Hacia su borde sur se cierra la prohibida [[villa-de-los-oficiales|Villa de los Oficiales]]. Aquí se encuentra uno de los puntos religiosos más importantes del planeta.
+El norte y lo alto de la isla forman la **[[2_atlas/ciudades/darsena/santa-sede|Santa Sede]]** —que la gente apoda *Pulmón Superior*—: los jardines de la Iglesia, lomas y médanos de pasto recorridos por un tranvía eléctrico a cronómetro. Hacia su borde sur se cierra la prohibida [[2_atlas/ciudades/darsena/villa-de-los-oficiales|Villa de los Oficiales]]. Aquí se encuentra uno de los puntos religiosos más importantes del planeta.
 
 ### La Nueva Basílica de San Pedro
 
@@ -100,12 +100,12 @@ La luz del Faro mismo —la que barre la niebla de Dársena cada noche— funcio
 
 El Faro alberga a miles de inquisidores e inquisidoras, pero también a miles de **Iniciados e Iniciadas**: jóvenes que eligen este paso como un voto, una prueba de su fe y convicciones, o por el prestigio que completar la iniciación les representará. Muchos no continuarán en la vía de la Sagrada Inquisición, pero el paso por el Faro los marca para siempre. Quienes prosperan son más que probos.
 
-Las leyes son distintas dentro del Faro. Una frontera invisible lo separa de la humanidad: un código propio, una jurisdicción que responde directamente a [[monseñor-miguel|Monseñor Miguel]].
+Las leyes son distintas dentro del Faro. Una frontera invisible lo separa de la humanidad: un código propio, una jurisdicción que responde directamente a [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]].
 
 ### Residentes principales
 
 - **Monseñor Miguel**: Máxima autoridad de la SIA. Reside en el Faro sin rastro de tecnología ni electricidad a su alrededor.
-- **[[madre-superiora-maria|Madre Superiora María]]**: Directora Espiritual del Faro. Vive en soledad en la cúspide de la torre, confinada voluntariamente a 100 metros de toda tecnología. Su pelo canoso flota con la estática perpetua de la torre.
+- **[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]**: Directora Espiritual del Faro. Vive en soledad en la cúspide de la torre, confinada voluntariamente a 100 metros de toda tecnología. Su pelo canoso flota con la estática perpetua de la torre.
 
 ### Las celdas
 
@@ -113,7 +113,7 @@ Los inquisidores, las Hermanas de Batalla y los iniciados habitan celdas subterr
 
 ## Seguridad y Acceso
 
-La Isla Oriental está prácticamente cerrada al público general. El acceso se realiza por puente controlado, servicio de barcaza o el tranvía celeste, todos vigilados por la **Armada Argentina** y los [[inquisicion|Censores de la SIA]]. Los civiles pueden acceder únicamente para:
+La Isla Oriental está prácticamente cerrada al público general. El acceso se realiza por puente controlado, servicio de barcaza o el tranvía celeste, todos vigilados por la **Armada Argentina** y los [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Censores de la SIA]]. Los civiles pueden acceder únicamente para:
 - Peregrinaje religioso a la Nueva Basílica (jornadas específicas, altamente controladas)
 - Procedimientos médicos de emergencia en el Hospital de la Ciudad
 - Trabajos de mantenimiento y servicios (bajo supervisión directa)

@@ -10,9 +10,9 @@ aliases:
   - Los Curatores
 tags: []
 related:
-  - "[[iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 ---
 
 Ficha por desarrollar. Stub creado para una rama operativa de la Iglesia referenciada en personajes pero sin ficha propia; canon no verificado (estado: propuesta).
@@ -20,4 +20,4 @@ Ficha por desarrollar. Stub creado para una rama operativa de la Iglesia referen
 ## Menciones conocidas
 
 - Responden al Dicasterio para el Desarrollo Humano Integral; coordinan la medicina ortodoxa y la supervisión teológica de prácticas médicas.
-- Rama operativa de la [[iglesia|Iglesia]].
+- Rama operativa de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]].

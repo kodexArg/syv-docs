@@ -10,8 +10,8 @@ Aquí se cartografían las urbes que resisten la inundación perpetua: muros que
 
 ## Ciudades
 
-- [[darsena]] — capital de facto; doce millones y medio bajo la niebla del Río de la Plata
-- [[cordoba]] — megalópolis industrial; treinta millones bajo el régimen Videla
-- [[mendoza]] — potencia cuyana que controla el agua de los Andes
-- [[san-luis]] — ciudad intermedia del corredor interior
-- [[fuerte-san-martin]] — bastión fronterizo en el norte
+- [[2_atlas/ciudades/darsena/darsena|darsena]] — capital de facto; doce millones y medio bajo la niebla del Río de la Plata
+- [[2_atlas/ciudades/cordoba/cordoba|cordoba]] — megalópolis industrial; treinta millones bajo el régimen Videla
+- [[2_atlas/ciudades/mendoza/mendoza|mendoza]] — potencia cuyana que controla el agua de los Andes
+- [[2_atlas/ciudades/san-luis/san-luis|san-luis]] — ciudad intermedia del corredor interior
+- [[2_atlas/ciudades/fuerte-san-martin/fuerte-san-martin|fuerte-san-martin]] — bastión fronterizo en el norte

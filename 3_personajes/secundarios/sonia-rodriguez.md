@@ -47,7 +47,7 @@ Sonia Rodríguez es conocida en los Barrios del Muro como la dueña de una canti
 <!-- /📖 -->
 
 <!-- 🔐☠️ (DM) -->
-En secreto, Sonia mantiene vínculos activos con [[resistencia-subterranea|La Resistencia]]. Su cantina actúa como punto de encuentro y refugio para activistas, y ella facilita información y recursos a la red de resistencia. Si su afiliación fuera descubierta, tanto por la SIA como por las autoridades locales, enfrentaría persecución inmediata.
+En secreto, Sonia mantiene vínculos activos con [[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|La Resistencia]]. Su cantina actúa como punto de encuentro y refugio para activistas, y ella facilita información y recursos a la red de resistencia. Si su afiliación fuera descubierta, tanto por la SIA como por las autoridades locales, enfrentaría persecución inmediata.
 <!-- /🔐☠️ -->
 
 ## Conexiones Importantes

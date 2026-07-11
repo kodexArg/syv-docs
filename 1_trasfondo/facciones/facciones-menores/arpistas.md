@@ -12,16 +12,16 @@ aliases:
   - Los Custodios del Silencio
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
-  - "[[exorcistas]]"
-  - "[[guardianes-de-la-memoria]]"
-  - "[[traficantes-de-almas]]"
-  - "[[los-hackers]]"
-  - "[[fuerzas-armadas]]"
-  - "[[gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|exorcistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/facciones/facciones-menores/traficantes-de-almas|traficantes-de-almas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-hackers|los-hackers]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
   - "[[1_trasfondo/codex/la-nube-roja-verdad-oculta|La Nube Roja (verdad oculta)]]"
-  - "[[anatema-mecanico]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
 spoilers:
   - "Objetivo oculto: preparar el conocimiento tecnológico para la próxima civilización tras un colapso futuro."
   - "Mantienen el Pacto de las Sombras con la Hermandad de San Jerónimo el Traductor dentro de la Iglesia."
@@ -36,13 +36,13 @@ spoilers:
 
 **Alias conocidos**: Los Cazadores de Reliquias, Los Neutralizadores, Los Custodios del Silencio, Los Cazadores de Demonios (apodo popular durante la Edad Oscura)
 
-**Naturaleza**: Secta católica especializada con estatus oficial dentro de la [[iglesia|Iglesia Católica]]
+**Naturaleza**: Secta católica especializada con estatus oficial dentro de la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia Católica]]
 
 **Estatus legal en la Confederación Argentina**:
 - **Reconocimiento oficial**: Secta autorizada por la Iglesia desde 2089
 - **Jurisdicción**: Departamento de Arqueología Sagrada de la Iglesia Católica
 - **Privilegios**: Autoridad para confiscar, estudiar y neutralizar tecnología prohibida bajo supervisión eclesiástica
-- **Restricción**: Antagonismo latente con la [[inquisicion|SIA]], aunque ambos operan bajo el paraguas de la Iglesia
+- **Restricción**: Antagonismo latente con la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]], aunque ambos operan bajo el paraguas de la Iglesia
 
 **Nivel de secretismo**: Alto (la mitad de sus miembros opera en las sombras con paradero desconocido; el resto tiene roles públicos en instituciones oficiales)
 
@@ -171,7 +171,7 @@ Los **Arpistas** operan mediante un protocolo estricto basado en sus **Cinco Sel
 
 **PRIMER SELLO - Recolección Sagrada**:
 - Confiscación de artefactos reportados por feligreses, descubiertos en excavaciones o decomisados por Aduanas
-- Colaboración con [[exorcistas|**Exorcistas**]] cuando hay sospecha de "posesión maquínica"
+- Colaboración con [[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|**Exorcistas**]] cuando hay sospecha de "posesión maquínica"
 - Expediciones a ruinas conocidas (bunkers, laboratorios, fábricas abandonadas)
 - Adquisición de artefactos en mercados negros mediante intermediarios
 
@@ -483,7 +483,7 @@ Dentro de una Cámara Arpista:
 
 ### Aliados No Oficiales
 
-[[guardianes-de-la-memoria|**Guardianes de la Memoria**]][^guardianes]:
+[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|**Guardianes de la Memoria**]][^guardianes]:
 - **Tipo de relación**: Alianza secreta, colaboración discreta
 - **Diferencia filosófica**:
   - Guardianes: Preservar conocimiento en bibliotecas ocultas, potencialmente reutilizable
@@ -495,7 +495,7 @@ Dentro de una Cámara Arpista:
 
 ### Enemigos
 
-[[traficantes-de-almas|**Traficantes de Almas**]][^traficantes]:
+[[1_trasfondo/facciones/facciones-menores/traficantes-de-almas|**Traficantes de Almas**]][^traficantes]:
 - **Tipo de relación**: Enemistad absoluta
 - **Motivo**: Compiten por los mismos artefactos; los traficantes los venden, los Arpistas los neutralizan
 - **Conflicto**: Los Arpistas sabotean subastas, decomisan cargamentos; los Traficantes emboscan expediciones Arpistas
@@ -545,7 +545,7 @@ Dentro de una Cámara Arpista:
 - **Célula Académica**: Infiltrados en UBA, Biblioteca Nacional, museos
 - **Célula Portuaria**: Monitores de tráfico de artefactos en puerto
 - **Célula Mercado Negro**: Operan en subastas clandestinas de La Boca
-- **Puntos de contacto**: Café "El Silencio" (San Telmo), Librería "Borges Eterno" (Palermo), [[cementerio-de-chacarita|Cementerio de Chacarita]] (buzón muerto en tumba de ingeniero pre-colapso)
+- **Puntos de contacto**: Café "El Silencio" (San Telmo), Librería "Borges Eterno" (Palermo), [[2_atlas/ciudades/darsena/cementerio-de-chacarita|Cementerio de Chacarita]] (buzón muerto en tumba de ingeniero pre-colapso)
 
 **Córdoba** (15-25 miembros estimados):
 - **Célula Militar**: Monitorean arsenales de Fuerzas Armadas
@@ -621,7 +621,7 @@ Dentro de una Cámara Arpista:
 
 **Operación Coral del Cielo** (Código Negro — máxima compartimentación):
 - **Objetivo**: Amparar y financiar en secreto a un puñado de microbiólogos herejes (apenas tres o cuatro en toda la Confederación) que sostienen una tesis imposible de probar: que el velo que atempera el mundo —lo que el vulgo llama la "Nube Roja"— no es partícula muerta sino una **forma de vida** que habita las capas altas del aire, y que sin ese techo vivo el planeta, recalentado sin freno, sería invivible
-- **Por qué a los Arpistas**: encaja de lleno en el Quinto Sello (Custodia Eterna). Si la tesis es cierta, es el conocimiento más importante que se podría legar a la próxima civilización — y también el más herético, porque estudiarlo roza de frente el [[anatema-mecanico|Anatema Mecánico]]: la criatura vive donde la ciencia mutilada tiene prohibido llegar, y medirla exigiría exactamente las herramientas vedadas
+- **Por qué a los Arpistas**: encaja de lleno en el Quinto Sello (Custodia Eterna). Si la tesis es cierta, es el conocimiento más importante que se podría legar a la próxima civilización — y también el más herético, porque estudiarlo roza de frente el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]: la criatura vive donde la ciencia mutilada tiene prohibido llegar, y medirla exigiría exactamente las herramientas vedadas
 - **Estado**: puramente teórico y sin pruebas. Los herejes no pueden alcanzar lo que estudian; los Arpistas se limitan a preservar sus notas cifradas en el Scriptorium y a garantizar que ninguna caiga en manos de la SIA. Ni siquiera los Archivistas Mayores creen del todo la tesis — la guardan por si acaso, que es la doctrina entera de la orden
 - **El origen, fracturado**: entre los pocos herejes que sostienen la tesis, el origen del velo se disputa en conjeturas irreconciliables y ninguna probable. Alguno murmura que nació en el pico biotecnológico de la Guerra —y, sin saberlo, acierta—, pero no tiene cómo demostrarlo, de modo que su palabra pesa lo mismo que las erradas: el viejo rumor del laboratorio belga, el del hielo caído del cielo, el del ser que "siempre estuvo". Los Arpistas archivan todas las versiones por igual, sin fallar cuál es cierta, fieles a su regla: guardar el dato hasta que alguien, algún día, pueda al fin probarlo
 - **Riesgo**: si la SIA supiera que los Arpistas amparan a quienes afirman que "el cielo está vivo", sería herejía existencial, castigada con la hoguera para todos los implicados. El nombre de la operación jamás se pronuncia fuera de las duplas asignadas

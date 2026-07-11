@@ -11,7 +11,7 @@ aliases:
 tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ---
 
 # Procesador de Industria Argentina (PIA)
@@ -22,7 +22,7 @@ El **Procesador de Industria Argentina (PIA)** define el estándar de cómputo p
 
 **Estatus**: Tecnología permitida bajo supervisión eclesiástica (Corpus Licitus, Post-2061)
 
-**Regulación**: Controlada por el Ministerio de Infraestructura y la [[inquisicion|Sagrada Inquisición Argentina (SIA)]]
+**Regulación**: Controlada por el Ministerio de Infraestructura y la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]
 
 **Disponibilidad**: Limitada. La mayoría de PIAs operativos pertenecen a la administración pública confederada.
 
@@ -159,20 +159,20 @@ Sin embargo, solo un clérigo muy mal aconsejado se animaría a usar esta expres
 ## Referencias Cruzadas
 
 ### Contexto Técnico Relacionado
-- [[celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]] - Fundamentación del limitador de 48V en equipos militares
-- [[los-rezagos|Los Rezagos - El Vestigio y la Herejía Material]] - Prohibición de silicio y control estatal de materiales
-- [[computacion-y-datos|Computación y Datos: PDAs de Tinta Electrónica]]
-- [[electricidad|Electricidad: Red Pública 48V DC]]
+- [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]] - Fundamentación del limitador de 48V en equipos militares
+- [[2_atlas/tecnologia-y-ciencia/los-rezagos|Los Rezagos - El Vestigio y la Herejía Material]] - Prohibición de silicio y control estatal de materiales
+- [[2_atlas/tecnologia-y-ciencia/computacion-y-datos|Computación y Datos: PDAs de Tinta Electrónica]]
+- [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad: Red Pública 48V DC]]
 - [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico: Restricciones Tecnológicas]]
 
 ### Contexto Geográfico
-- [[zona-centro|Torres Hidropónicas de Dársena]]
-- [[tuberias|Las Tuberías: Sistema de Transporte Neumático]]
+- [[2_atlas/ciudades/darsena/zona-centro|Torres Hidropónicas de Dársena]]
+- [[2_atlas/ciudades/darsena/tuberias|Las Tuberías: Sistema de Transporte Neumático]]
 
 ### Contexto Político
-- [[inquisicion|Sagrada Inquisición Argentina (SIA)]]
-- [[arpistas|Los Arpistas: Preservadores de Tecnología]]
-- [[iglesia|Ministerio de Infraestructura: Control de Recursos]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]
+- [[1_trasfondo/facciones/facciones-menores/arpistas|Los Arpistas: Preservadores de Tecnología]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Ministerio de Infraestructura: Control de Recursos]]
 
 ---
 

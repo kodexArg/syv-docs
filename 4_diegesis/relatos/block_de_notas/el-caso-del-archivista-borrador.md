@@ -10,14 +10,14 @@ aliases:
   - El Caso del Archivista (borrador)
 related:
   - "[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]"
-  - "[[el-caso-del-archivista-notas|El Caso del Archivista — block de notas]]"
+  - "[[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|El Caso del Archivista — block de notas]]"
 tags: []
 ---
 
 # El Caso del Archivista — borrador previo
 
 > [!info] Qué es este archivo
-> Borrador previo del arranque, archivado acá el 2026-07-05 al empezar la reescritura larga por capítulos. La versión nueva vive en [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]; el material de trabajo, en [[el-caso-del-archivista-notas|el block de notas]].
+> Borrador previo del arranque, archivado acá el 2026-07-05 al empezar la reescritura larga por capítulos. La versión nueva vive en [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]; el material de trabajo, en [[4_diegesis/relatos/block_de_notas/el-caso-del-archivista-notas|el block de notas]].
 
 Toda la pared del séptimo piso es un solo vidrio, de los que desde la calle no dejan ver hacia adentro. Contra él, el hombre mira la San Martín correr pegada a la dársena, un habano apagado entre los dedos. Desde acá arriba la avenida no hace ruido: los autos, el gentío que se apura antes del toque de queda, todo queda mudo detrás del vidrio. Sobre el agua quieta, los cargueros esperan turno en la Aduana; más allá, la Isla se borra bajo un cielo gris de bordes naranjas que nunca termina de abrirse. Una postal, casi. La mira como quien tasa una mercadería que todavía no decide comprar.
 

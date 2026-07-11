@@ -7,8 +7,8 @@ aliases:
   - Guía de Facciones
 tags: []
 related:
-  - "[[guia-de-metadatos]]"
-  - "[[PLANTILLA_FACCION]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]]"
+  - "[[0_proyecto/guias-para-colaboradores/PLANTILLA_FACCION|PLANTILLA_FACCION]]"
 ---
 Esta guía te orienta para crear y documentar facciones en el universo de Subordinación y Valor de forma clara, coherente y conectada con el resto del corpus. El objetivo es que cada facción se entienda como parte de un entramado mayor, con sus motivaciones, recursos y relaciones, pero sin rigidez ni exceso de subtítulos.
 
@@ -73,7 +73,7 @@ Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocult
 1. **Narrativa fluida**: Evita listas y subtítulos innecesarios. Integra la información de forma natural en el texto.
 2. **Información secreta**: Marca claramente la información que no debe ser expuesta a jugadores.
 3. **Conexiones**: Menciona las relaciones con otras facciones de forma orgánica en el texto.
-4. **Metadatos, relaciones y campos**: Incluí todos los metadatos requeridos según la [[guia-de-metadatos]]. Las relaciones con otras facciones van como **wikilinks** en `related` (`"[[slug]]"`). Las dimensiones controladas (`entidad: faccion`, `alcance: publico/secreto`, `estado: canon/propuesta`) van como **campos propios** del frontmatter, no dentro de `tags`. `tags` es el vivero open/closed para etiquetas emergentes. Ver [[glosario-de-tags]].
+4. **Metadatos, relaciones y campos**: Incluí todos los metadatos requeridos según la [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]]. Las relaciones con otras facciones van como **wikilinks** en `related` (`"[[slug]]"`). Las dimensiones controladas (`entidad: faccion`, `alcance: publico/secreto`, `estado: canon/propuesta`) van como **campos propios** del frontmatter, no dentro de `tags`. `tags` es el vivero open/closed para etiquetas emergentes. Ver [[0_proyecto/guias-para-colaboradores/glosario-de-tags|glosario-de-tags]].
 
 ---
 

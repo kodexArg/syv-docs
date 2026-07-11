@@ -15,10 +15,10 @@ related:
 - '[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los
   Santos]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
-- '[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]'
+- '[[3_personajes/principales/teniente-coronel-gobernador|Teniente Coronel Gobernador]]'
 - '[[5_aventuras/poseidos/poseidos|Los Poseídos]]'
-- '[[2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]'
-- '[[casa-verde|Casa Verde]]'
+- '[[1_trasfondo/hitos/2178-el-escandalo-de-cordoba|El Escándalo de Córdoba]]'
+- '[[2_atlas/ciudades/cordoba/casa-verde|Casa Verde]]'
 spoilers:
 - 'Perfil cognitivo (secreto): mente deductiva brillante, atención extrema al detalle,
   memoria pésima para nombres propios, promedio en matemáticas, lector voraz y muy
@@ -35,8 +35,8 @@ spoilers:
 tags: []
 title: Damián DiConte
 ubicaciones:
-- '[[darsena|Ciudad Dársena]]'
-- '[[capital|Córdoba]]'
+- '[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]'
+- '[[2_atlas/ciudades/cordoba/capital|Córdoba]]'
 ---
 
 ## Damián DiConte, El Sabueso
@@ -72,7 +72,7 @@ En Dársena empezó como un exiliado, un fantasma que operaba en los márgenes: 
 - **Lector voraz y muy informado.** Devora todo lo escrito; su cultura general es enorme — y es justo lo que le da el trasfondo para leer la historia que el caso del Archivista lo obliga a recorrer.
 
 > [!tip] El espejo con la víctima
-> Pedro de los Santos —[[pedro-de-los-santos|el Archivista]]— tenía *el don del número*: memoria total de fechas y nombres. Damián es su reverso exacto: no retiene un solo nombre, pero deduce lo que el otro solo podía registrar. El detective que no recuerda nombres, investigando la muerte del hombre que los recordaba todos.
+> Pedro de los Santos —[[3_personajes/principales/pedro-de-los-santos|el Archivista]]— tenía *el don del número*: memoria total de fechas y nombres. Damián es su reverso exacto: no retiene un solo nombre, pero deduce lo que el otro solo podía registrar. El detective que no recuerda nombres, investigando la muerte del hombre que los recordaba todos.
 
 ### Personalidad
 
@@ -96,21 +96,21 @@ Damián DiConte llegó a Dársena en un avión de carga, bajo la lluvia y con id
 
 <!-- 🔐 (DM) -->
 
-La vida de Damián se rompió en el año **2176**. Investigando los asesinatos rituales de un teólogo y un industrial en Córdoba, tropezó con **La Conspiración**: una facción radical del **[[fuerzas-armadas|Ejército Argentino]]**, liderada por el **[[teniente-coronel-gobernador|Teniente Coronel Gobernador]]**, estaba infiltrando la [[iglesia|Iglesia]] para crear una religión militarizada.
+La vida de Damián se rompió en el año **2176**. Investigando los asesinatos rituales de un teólogo y un industrial en Córdoba, tropezó con **La Conspiración**: una facción radical del **[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército Argentino]]**, liderada por el **[[3_personajes/principales/teniente-coronel-gobernador|Teniente Coronel Gobernador]]**, estaba infiltrando la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia]] para crear una religión militarizada.
 
 Lo que descubrió no fue solo corrupción, sino un golpe de estado teológico. Las víctimas no eran aleatorias; eran obstáculos en un plan para purgar "herejes" tradicionales y reemplazarlos con dogmas de obediencia marcial. Damián acumuló pruebas en una caja de cartón en su oficina —**La Caja**—: un medallón, un diario codificado, fotos de altares clandestinos.
 
 La advertencia llegó un lunes de madrugada: **"Te buscan"**. Un contacto anónimo en la Iglesia le salvó la vida. Damián huyó con lo puesto —su impermeable, su PDA y el diario codificado— dejando atrás la caja de pruebas, su carrera y su vida.
 
-Ahora en Dársena, Damián sabe que no está a salvo. La [[inquisicion|Inquisición]] local, liderada por figuras como la [[sor-sofia|Inquisidora Sofía]], lo observa. Él sabe que la conspiración tiene tentáculos que cruzan las fronteras de las ciudades-estado, y que la purga que comenzó en Córdoba podría ser solo el preludio de algo mucho peor. Busca aliados, pero confía en pocos.
+Ahora en Dársena, Damián sabe que no está a salvo. La [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Inquisición]] local, liderada por figuras como la [[3_personajes/secundarios/sor-sofia|Inquisidora Sofía]], lo observa. Él sabe que la conspiración tiene tentáculos que cruzan las fronteras de las ciudades-estado, y que la purga que comenzó en Córdoba podría ser solo el preludio de algo mucho peor. Busca aliados, pero confía en pocos.
 
 <!-- /🔐 -->
 
 <!-- 🔐 (DM) — 2178: el arribo del héroe imposible -->
 
-Lo que empezó como huida en 2176 se cerró recién en **2178**, cuando el entramado entero cayó y con él su gobernador. Fue Damián **quien descubrió en privado el entramado y quien verdaderamente puso fin a la vida de ese monstruo** —el gobernador militar de Córdoba, en el [[2178-el-escandalo-de-cordoba|escándalo de Córdoba]]—. Y llegó a Dársena ese año, bajo la lluvia, **mareado de euforia**: la euforia rara y peligrosa del hombre que resolvió lo irresoluble y no puede contárselo a nadie.
+Lo que empezó como huida en 2176 se cerró recién en **2178**, cuando el entramado entero cayó y con él su gobernador. Fue Damián **quien descubrió en privado el entramado y quien verdaderamente puso fin a la vida de ese monstruo** —el gobernador militar de Córdoba, en el [[1_trasfondo/hitos/2178-el-escandalo-de-cordoba|escándalo de Córdoba]]—. Y llegó a Dársena ese año, bajo la lluvia, **mareado de euforia**: la euforia rara y peligrosa del hombre que resolvió lo irresoluble y no puede contárselo a nadie.
 
-Porque ese arribo trae un problema que lo precede al bajar del avión de carga. Damián es el héroe de un hecho vergonzoso que la Confederación jamás hará público — y un héroe así no se puede premiar sin contar lo que hizo. La [[direccion-nacional-de-seguridad|DNS]] y el Ejército se quedan con la pregunta:
+Porque ese arribo trae un problema que lo precede al bajar del avión de carga. Damián es el héroe de un hecho vergonzoso que la Confederación jamás hará público — y un héroe así no se puede premiar sin contar lo que hizo. La [[1_trasfondo/facciones/fuerzas-armadas/direccion-nacional-de-seguridad|DNS]] y el Ejército se quedan con la pregunta:
 
 > ¿qué se hace con el héroe de un hecho que nos avergüenza tanto, que nunca haremos público lo que sucedió?
 
@@ -133,8 +133,8 @@ El hombre cuya vida se rompió por una caja que tuvo que abandonar recibe, ahora
 - **Inquisidora Sofía**: Su "comité de bienvenida" en Dársena; una relación tensa de respeto y sospecha mutua.
 - **Teniente Coronel Gobernador de Córdoba**: El arquitecto de su desgracia y su principal antagonista en la sombra.
 - **El Contacto Anónimo**: La voz que le salvó la vida en Córdoba; Damián aún intenta averiguar quién fue.
-- **[[pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]**: la víctima de [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]; su reverso cognitivo — memoria total de nombres contra memoria nula.
-- **[[paco-el-puntero|Paco el Puntero]] (Fallecido)**: Damián llegó a tener roces con la red de Paco poco después de llegar, antes de la muerte del puntero.
+- **[[3_personajes/principales/pedro-de-los-santos|Hermano Archivista Pedro de los Santos]]**: la víctima de [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]; su reverso cognitivo — memoria total de nombres contra memoria nula.
+- **[[3_personajes/principales/paco-el-puntero|Paco el Puntero]] (Fallecido)**: Damián llegó a tener roces con la red de Paco poco después de llegar, antes de la muerte del puntero.
 
 ## Referencias
 

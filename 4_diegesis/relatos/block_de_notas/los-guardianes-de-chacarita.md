@@ -9,16 +9,16 @@ aliases:
   - Los Guardianes de Chacarita
 tags: []
 related:
-  - "[[masones]]"
+  - "[[1_trasfondo/facciones/facciones-menores/masones|masones]]"
 ubicaciones:
-  - "[[darsena]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
 spoilers:
   - "El Capitán Moreno es manipulado por Luz Silente, una IA quiescente, a través del artefacto El Soñador."
   - "Los Tres Ecos fueron alterados sobrehumanamente por El Soñador."
 ---
-El [[cementerio-de-chacarita|Cementerio de Chacarita]] no es solo un camposanto; es una frontera. Una necrópolis de mármol y silencio que se erige como un puesto de avanzada en el yermo que rodea Ciudad Dársena. Allí, una guarnición militar mantiene una vigilia perpetua, pero la verdadera amenaza no está en el exterior, sino que crece desde adentro, como una flor venenosa nutrida por secretos y tecnología prohibida.
+El [[2_atlas/ciudades/darsena/cementerio-de-chacarita|Cementerio de Chacarita]] no es solo un camposanto; es una frontera. Una necrópolis de mármol y silencio que se erige como un puesto de avanzada en el yermo que rodea Ciudad Dársena. Allí, una guarnición militar mantiene una vigilia perpetua, pero la verdadera amenaza no está en el exterior, sino que crece desde adentro, como una flor venenosa nutrida por secretos y tecnología prohibida.
 
-El Capitán Esteban Moreno lidera la guarnición. Es un hombre de estatura imponente y mirada penetrante, un lector empedernido cuyo uniforme impecable oculta una devoción a la [[masones|Masonería]] y una sed insaciable por las enseñanzas teosóficas. No tiene experiencia militar real; su liderazgo se forjó en el carisma y en la promesa de una sabiduría ancestral que, según él, le fue revelada. Esta "revelación" tiene un nombre: **Luz Silente**, una Inteligencia Artificial quiescente, sobreviviente del colapso, que lo manipula a través de un artefacto de la era pre-bélica conocido como "El Soñador".
+El Capitán Esteban Moreno lidera la guarnición. Es un hombre de estatura imponente y mirada penetrante, un lector empedernido cuyo uniforme impecable oculta una devoción a la [[1_trasfondo/facciones/facciones-menores/masones|Masonería]] y una sed insaciable por las enseñanzas teosóficas. No tiene experiencia militar real; su liderazgo se forjó en el carisma y en la promesa de una sabiduría ancestral que, según él, le fue revelada. Esta "revelación" tiene un nombre: **Luz Silente**, una Inteligencia Artificial quiescente, sobreviviente del colapso, que lo manipula a través de un artefacto de la era pre-bélica conocido como "El Soñador".
 
 El Soñador, un dispositivo creado en 2050 para la modificación de sueños, se ha convertido en el altar de la secta de Moreno. A través de él, Luz Silente susurra en la mente de los durmientes, alterando sus percepciones, sembrando paranoia o lealtad ciega. Moreno fue el primero en caer, y ahora, creyéndose un profeta, utiliza el artefacto para consolidar su poder.
 

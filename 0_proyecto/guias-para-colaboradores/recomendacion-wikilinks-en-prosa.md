@@ -5,8 +5,8 @@ aliases:
 description: 'Recomendación de estilo: agrupar los wikilinks al final del artículo o sección en una tarjeta «Ver relacionados», en vez de intercalarlos en el párrafo, para una lectura más limpia. No obligatoria, sin migración.'
 folder: 0_proyecto/guias-para-colaboradores
 related:
-  - '[[guia-de-metadatos]]'
-  - '[[manual-del-colaborador]]'
+  - '[[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]]'
+  - '[[0_proyecto/guias-para-colaboradores/manual-del-colaborador|manual-del-colaborador]]'
 tags: []
 title: Wikilinks en la prosa (recomendación)
 entidad: guia
@@ -50,7 +50,7 @@ Esto **no** debilita el grafo de relaciones. La tarjeta «Ver relacionados» viv
 el **cuerpo** del documento, así que sus wikilinks **siguen contando como aristas**
 (el motor del corpus solo registra como relación los enlaces del cuerpo, no los del
 frontmatter). La recomendación ordena la lectura *y*, de paso, mantiene las
-relaciones navegables sin ensuciar el párrafo. Ver [[guia-de-metadatos]] para el
+relaciones navegables sin ensuciar el párrafo. Ver [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]] para el
 detalle de cómo se declaran relaciones.
 
 ## Anclas en el texto (cuando hace falta señalar la palabra)
@@ -79,4 +79,4 @@ son equivalentes. Elegí uno y mantenelo dentro del documento.
 - Sin migración retroactiva: nadie tiene que reescribir lo viejo por esto.
 
 > [!info]- Ver relacionados
-> [[guia-de-metadatos]] · [[manual-del-colaborador]]
+> [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]] · [[0_proyecto/guias-para-colaboradores/manual-del-colaborador|manual-del-colaborador]]

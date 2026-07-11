@@ -37,37 +37,49 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende, iluminando una celda gris. Hay un lavabo y un espejo amurados en la pared de su habitación. También una biblioteca cómoda, con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental. Se sienta en su cama un momento, para tensar la cola de caballo, y comienza su ritual matutino.
+<mark style="background: #BBFABBA6;">Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero.</mark> <mark style="background: #CACFD9A6;">Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende, iluminando una celda gris.</mark> <mark style="background: #CACFD9A6;">Hay un lavabo y un espejo amurados en la pared de su habitación.</mark> <mark style="background: #CACFD9A6;">También una biblioteca cómoda,</mark> <mark style="background: #BBFABBA6;">con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.</mark> <mark style="background: #BBFABBA6;">Se sienta en la cama, lo que tarda en tensar la cola de caballo, se levanta y mecánicamente comienza su ritual matutino.</mark>
 
-Se lava con agua que no tuvo tiempo de calentar. Toma dos pastillas que no recuerda para qué sirven. El espejo la observa, distraída, cepillándose los dientes mientras descubre sus primeras arrugas en los ojos. "Treinta". Cepilla un poco más.
+<mark style="background: #BBFABBA6;">Se lava con agua que no tuvo tiempo de calentar. Toma dos pastillas que no recuerda para qué sirven. El espejo la observa, distraída, cepillándose los dientes mientras descubre sus primeras arrugas en los ojos. "Treinta". Cepilla un poco más.</mark>
 
-Mecánicamente gira ciento ochenta grados hacia su cama y, como si le hubieran disparado, se arrodilla y agarra el rosario de su mesa de luz, lo aprieta con fuerza, con ambas manos contra su frente.
+<mark style="background: #BBFABBA6;">Termina y gira hacia su cama y, como si le hubieran disparado, se arrodilla a rezar, presionando ambas manos contra su frente.</mark> <mark style="background: #BBFABBA6;">Sofía reza con pasión durante siete minutos más.</mark>
 
-Sofía reza con pasión durante siete minutos.
+<mark style="background: #CACFD9A6;">Luego saca de su cómoda una calza gruesa y una primera piel de invierno, blanca y de textura esponjosa, que se coloca inmediatamente. Desde abajo de su cama recupera un par de zapatillas de cuero cordobés, con cámara de aire.</mark>
 
-De su cómoda saca una calza gruesa y una primera piel de invierno, blanca y de textura esponjosa, que se coloca inmediatamente. Desde abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire.
+<mark style="background: #BBFABBA6;">Se ata los cordones, pensando en los inaturales bordes curvos de su celda. Una placenta. Cambia de zapatilla. Una colmena. No lo recordaba tan opresivo. Sonrió ante lo obvio: era ella la que ahora podía tocar el techo con la mano.</mark>
 
-Sale de su celda en el momento en que el temporizador hace un click y la habitación se oscurece.
+<mark style="background: #BBFABBA6;">Sale de su celda en el momento en que el temporizador hace un click y la habitación se oscurece.</mark>
 
 ---
 
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior, bajo el Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. 
+<mark style="background: #BBFABBA6;">Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. </mark>
 
-El patio subterráneo, ovalado, del tamaño de una cancha de tenis, sigue en penumbras bajo la neblina que entra, espesa, por la rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar. Lo que ve, alrededor y hacia arriba, es el caracol: la misma rampa enroscándose al óvalo del patio, y balcones suaves, redondeados, que la siguen vuelta a vuelta sobre catenarias de Gaudí — cientos de puertas cerradas, todas a oscuras, todas en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose en el techo.
+<mark style="background: #BBFABBA6;">El patio subterráneo es ovalado, del tamaño de una cancha de tenis, y sigue en penumbras bajo la neblina que entra como un río fantasmal por la única rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar su hombro. Mira arriba, una escalera enroscándose entre pasillos y balcones, serpenteando el interior de la torre, ascendiendo piso tras piso, en ondas y descansos según los caprichos de Gaudí, los mismos que inspiraron El Faro.</mark>
 
-El Faro amanece por dentro. El primer resplandor gana la corona del caracol y baja a su ritmo, balcón por balcón, aclarando barandas, catenarias, plantas colgantes, hasta el fondo del óvalo donde una mujer sola estira contra la niebla. El día baja a buscarla.
+<mark style="background: #BBFABBA6;">Sofía recuerda, mientras atrapa su otro brazo y estira, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante,</mark> <mark style="background: #FFF3A3A6;">replicando la estética de la obra incluso en la Puerta de Piedra del cénit.</mark> <mark style="background: #FFB86CA6;">En la piedra,</mark> <mark style="background: #BBFABBA6;">su analogía no quedó clara, pero quienes sí lo recuerdan son los Iniciados de los pisos más alto, que viven con las cabezas moradas por protuberancias inadecuadas.</mark> <mark style="background: #BBFABBA6;">Como Gaudí, el arquitecto tampoco vivió para ver terminada su obra ."¿Cómo se llamaba...?", intenta recordar Sofía,</mark> <mark style="background: #FFF3A3A6;">que obtuvo la licenciatura en historia, su optativa.</mark>
 
-Sofía sostiene la vista en lo alto un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
 
-Al lado de su puerta espera una escalera lateral, ajena al caracol, hecha para resolver un solo piso: el que la separa del pasto. Los peldaños son del mismo material que todo lo demás, una piedra clara y continua, vertida de una sola vez, como si el edificio entero hubiera sido rezado en un solo aliento. Le devuelven los pasos con la cadencia de un metrónomo. La escalera es el único lugar donde el eco le pertenece.
+<mark style="background: #BBFABBA6;">Los iniciados pasaban sirviendo un par de años aquí. Ella había estado uno solo. Y no había vuelto, hasta hace un par de semanas, cuando la Reverenda Madre le asignó la número nueve.</mark>
 
-Durante años, ese eco fue otro. Sofía fue la escolta personal de la [[3_personajes/principales/madre-superiora-maria|Reverenda Madre]]: su sombra, su muro, la última distancia entre el mundo y ese hábito blanco. Después la Madre se retiró de la sociedad, a la corona de la Torre, donde vive de oración y de silencio, y la escolta quedó abajo, aceitada, sin nada que escoltar. "Te quiere cerca", le explicaron. Cerca. La Madre habita la cima del Faro y Sofía la base, tres metros bajo tierra; entre ambas, una torre entera de peldaños que nadie sube. A Sofía le dieron un cargo que cabe en una palabra —custodia— y un jardín que se custodia solo. Al otro lado de la Dársena, la ciudad inmensa peca, arde y necesita: trabajo de campo para diez vidas. Acá: pinos, tilos, turistas. Y el amanecer.
+<mark style="background: #FF5582A6;">Se dio vuelta, de espalda a cualquier pensamiento inapropiado, y se dirigió a la escalera lateral
 
-Arriba, el pasto, gris de niebla. Detrás, recortado contra el cielo bajo de [[2_atlas/ciudades/darsena/darsena|Dársena]], el Faro de Gaudí recibe la primera luz. Blanco. Muerto.
 
-La reciben la penumbra y el olor a resina. Sofía corre primero: el circuito de sendas que bordea el bosque, cuarenta minutos a ritmo de letanía, el cuero cordobés mordiendo la tierra de la senda. La niebla se abre a su paso y se cierra detrás, como una sutura. Después, el banco de hierro.
 
-El frío, la neblina que le lame los brazos: una remera negra sin mangas y unas calzas gruesas; la primera piel, doblada sobre el respaldo. Deja las zapatillas junto al banco. Apoya el talón en el respaldo y se abre la cadera, despacio, con la paciencia de quien le exige a su cuerpo el diezmo cada mañana. Los ojos grises esperan el horizonte, la niebla, el primer rayo. Una hija de la Sagrada Inquisición Argentina se prepara para recibir el amanecer.
+
+
+
+Los mismos caprichos y los cuatro niveles de habitaciones de cientas de almas torturadas por ventanas incómodas y caminatas diarias insoportables en nombre de
+
+el estilo orgánico que tomaron la mayoría de las con vivió hace cuatrocientos años. Sube por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose orgánicamente en el techo, en la Puerta de Piedra.</mark>
+
+Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la vista un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
+
+A medida que su vista se adapta, aprecia cómo el interior del Faro comienza a iluminarse, por pequeños conductos de vidrio que transportan la claridad del Este hacia el interior, pasando entre las paredes de las habitaciones en una proeza de ingeniería. Aquí el amanecer se parece más a un cielo estrellado, un resplandor que baja, balcón por balcón, hasta el fondo del óvalo, donde una mujer sola estira y estira entre la neblina.
+
+Al lado de su puerta espera una escalera, y ella asciende para resolver un solo piso. Los peldaños están inscrustados en la misma roca clara y continua. Artificial. Le devuelven los pasos con la cadencia de un metrónomo.
+
+La escalera la entrega por un costado del Faro, a ras de tierra. Atrás, el caracol enterrado; adelante, el bosque. El aire se abre y trae olor a resina, el de los pinos, y el pasto amanece gris de neblina. Sofía cruza el umbral y la torre se le impone entera desde afuera: una sola pieza de piedra clara, lisa, sin junturas, que trepa más allá de la neblina. Blanco. Muerto.
+
+La esperan cuarenta minutos de circuito a ritmo de letanía. Encara las sendas y el cuero cordobés muerde la tierra. La niebla se abre a su paso y se cierra detrás, como una sutura.
 
 El sol florece, danzando con su reflejo en el Río de la Plata. Baila tras la neblina mientras todo se tiñe de naranja. El Faro de la Inquisición es siempre el que recibe los primeros rayos, brillantes en su inaccesible torre. Luego los árboles de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], los pinos, los únicos a la redonda. A miles de kilómetros a la redonda.
 

@@ -11,14 +11,14 @@ aliases:
 tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 ---
 
 # Los Rezagos: El Vestigio y la Herejía Material
 
 En la Confederación Argentina de 2178, el término **Rezago** no designa una categoría técnica, sino una condición de existencia. Se denomina Rezago a todo objeto, fragmento o materia prima que ha sobrevivido al **Ocaso de Prometeo** (2030-2048) y que, por su mera presencia, desafía el orden del [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]].
 
-Bajo la mirada de la [[inquisicion|Sagrada Inquisición Argentina (SIA)]], un Rezago puede ser un trozo de hardware fundido, una aleación industrial desconocida o incluso un objeto antiguo de naturaleza inofensiva —una brújula analógica o un reloj de cuerda—. Sin embargo, la inocencia del objeto no lo exime de sospecha; la doctrina establece que el vínculo con el pasado es, en sí mismo, un vector de corrupción espiritual.
+Bajo la mirada de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]], un Rezago puede ser un trozo de hardware fundido, una aleación industrial desconocida o incluso un objeto antiguo de naturaleza inofensiva —una brújula analógica o un reloj de cuerda—. Sin embargo, la inocencia del objeto no lo exime de sospecha; la doctrina establece que el vínculo con el pasado es, en sí mismo, un vector de corrupción espiritual.
 
 ---
 
@@ -80,7 +80,7 @@ Un caso documentado: en 2164, la SIA ejecutó a una familia completa de fabrican
 
 ## Límites del Techo Tecnológico
 
-El conocimiento sobreviviente se encuentra hoy encajonado en la física de los materiales permitidos. Mientras la tecnología militar utiliza **celdas de radionúclidos de ciclo eterno** (véase: [[celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]]) para alimentar sus terminales de seguridad, estas generan naturalmente 48V con potencia limitada (medida en watts, no voltaje).
+El conocimiento sobreviviente se encuentra hoy encajonado en la física de los materiales permitidos. Mientras la tecnología militar utiliza **celdas de radionúclidos de ciclo eterno** (véase: [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]]) para alimentar sus terminales de seguridad, estas generan naturalmente 48V con potencia limitada (medida en watts, no voltaje).
 
 Lo que verdaderamente impide reanimar Rezagos de silicio no es el voltaje (48V es técnicamente suficiente para alimentar procesadores antiguos con un regulador simple), sino:
 
@@ -96,8 +96,8 @@ El mundo de 2178 es un mundo de metalurgia, calor y flujos magnéticos, donde el
 
 ## Referencias Cruzadas
 
-- [[celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]] - Fundamentación del límite de 48V
-- [[procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia estratégica de cobre OFHC
-- [[electricidad|Electricidad y Energía]] - Infraestructura de distribución de Rezagos
+- [[2_atlas/tecnologia-y-ciencia/celdas-radionuclidos|Celdas de Radionúclidos - Americio-241 y la Barrera de Saturación Dieléctrica]] - Fundamentación del límite de 48V
+- [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina]] - Dependencia estratégica de cobre OFHC
+- [[2_atlas/tecnologia-y-ciencia/electricidad|Electricidad y Energía]] - Infraestructura de distribución de Rezagos
 - [[2_atlas/tecnologia-y-ciencia/vida-bajo-el-anatema-mecanico|Ciencia y Tecnología bajo el Anatema Mecánico]] - Marco legal y doctrinal
-- [[computacion-y-datos|Computación y Gestión de Datos]] - Prohibiciones de silicio nanométrico
+- [[2_atlas/tecnologia-y-ciencia/computacion-y-datos|Computación y Gestión de Datos]] - Prohibiciones de silicio nanométrico

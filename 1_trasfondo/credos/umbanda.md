@@ -9,18 +9,18 @@ aliases:
   - Umbanda (credo)
 tags: []
 related:
-  - "[[los-umbanda]]"
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
-  - "[[guarani]]"
+  - "[[1_trasfondo/facciones/facciones-menores/los-umbanda|los-umbanda]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/credos/guarani|guarani]]"
   - "[[1_trasfondo/credos/el-camino-del-kene|El Camino del Kené]]"
-  - "[[san-la-muerte]]"
-  - "[[iglesia-maradoniana]]"
-  - "[[hijos-del-pantano]]"
+  - "[[1_trasfondo/credos/san-la-muerte|san-la-muerte]]"
+  - "[[1_trasfondo/credos/iglesia-maradoniana|iglesia-maradoniana]]"
+  - "[[1_trasfondo/credos/hijos-del-pantano|hijos-del-pantano]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[barrios-del-muro]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 
 **Tipo:** Proscrito
@@ -95,7 +95,7 @@ La más extrema y sincrética. Incorpora elementos tecnológicos prohibidos: ofr
 
 **IMPORTANTE:** Umbanda es el CREDO (sistema de creencias). Cualquiera puede practicar Umbanda: abuelas que rezan a Iemanjá, mecánicos que ofrendan a Ogún, prostitutas que consultan mães de santo.
 
-[[los-umbanda|**Los Umbanda**]] es la FACCIÓN: red clandestina organizada con agenda política, estructura jerárquica de pais y mães de santo coordinados, recursos para contrabando y protección de terreiros. No todos los umbandistas pertenecen a la facción. Pero todos los miembros de la facción practican el credo.
+[[1_trasfondo/facciones/facciones-menores/los-umbanda|**Los Umbanda**]] es la FACCIÓN: red clandestina organizada con agenda política, estructura jerárquica de pais y mães de santo coordinados, recursos para contrabando y protección de terreiros. No todos los umbandistas pertenecen a la facción. Pero todos los miembros de la facción practican el credo.
 
 ---
 

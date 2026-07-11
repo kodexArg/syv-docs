@@ -10,7 +10,7 @@ aliases:
 tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-  - "[[iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
 ---
 
 # Arte en la Confederación Argentina: Existencia Regulada

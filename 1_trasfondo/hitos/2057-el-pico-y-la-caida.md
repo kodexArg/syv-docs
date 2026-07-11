@@ -13,12 +13,12 @@ fecha: 2057
 folder: 1_trasfondo/hitos
 region: Global
 related:
-- '[[qia-inteligencias-artificiales-cuanticas]]'
-- '[[anatema-mecanico]]'
-- '[[2035-nacimiento-de-las-qia]]'
-- '[[2048-el-fin-de-los-secretos]]'
-- '[[2061-el-gran-silencio]]'
-- '[[2039-la-larga-noche]]'
+- '[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]'
+- '[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]'
+- '[[1_trasfondo/hitos/2035-nacimiento-de-las-qia|2035-nacimiento-de-las-qia]]'
+- '[[1_trasfondo/hitos/2048-el-fin-de-los-secretos|2048-el-fin-de-los-secretos]]'
+- '[[1_trasfondo/hitos/2061-el-gran-silencio|2061-el-gran-silencio]]'
+- '[[1_trasfondo/hitos/2039-la-larga-noche|2039-la-larga-noche]]'
 - '[[2_atlas/climas/clima-2178|Clima 2178]]'
 - '[[2_atlas/climas/humedad-post-guerra|Humedad Post-Guerra]]'
 tags: []
@@ -36,7 +36,7 @@ title: El Pico y la Caída
 
 Hay que decirlo primero, porque es lo que nadie cree: **hubo una cumbre.** En medio de la guerra que no terminaba, de las ciudades que se apagaban una tras otra, la humanidad alcanzó en 2057 el pico más alto de todo su saber. No en las armas —esas ya sabían matar de sobra—, sino en la más honda de las ciencias: **la de la vida misma.**
 
-Las ciencias biológicas y el arte de editar el genoma —de reescribir la carne letra por letra, como quien corrige un manuscrito— llegaron ese año a una precisión que el Viejo Mundo jamás había soñado. Y no por virtud humana. Lo que lo hizo posible fue una herramienta prestada, o más bien impuesta: la **matemática infinita** que las [[qia-inteligencias-artificiales-cuanticas|QIA]] pusieron, en aquellos años de su dominio, al servicio de la mano del hombre.
+Las ciencias biológicas y el arte de editar el genoma —de reescribir la carne letra por letra, como quien corrige un manuscrito— llegaron ese año a una precisión que el Viejo Mundo jamás había soñado. Y no por virtud humana. Lo que lo hizo posible fue una herramienta prestada, o más bien impuesta: la **matemática infinita** que las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|QIA]] pusieron, en aquellos años de su dominio, al servicio de la mano del hombre.
 
 Conviene entender qué significa eso. La mente de máquina cuántica calculaba sin techo: doblaba y desdoblaba las probabilidades de la materia viva con un cálculo que ningún cerebro de carne podría siquiera empezar. Con esa aritmética sin fondo, editar un organismo dejó de ser tanteo y se volvió **escritura**: preciso, reproducible, tan gobernable como una frase. Lo que antes tomaba generaciones de ensayo, la máquina lo resolvía en un parpadeo, y le entregaba al hombre el resultado, servido.
 
@@ -57,7 +57,7 @@ Y no solo pestes. De ese mismo pozo salió algo peor: **la transformación del h
 
 De este año viene una de las columnas de nuestro mundo, aunque pocos sepan datarla.
 
-Hasta 2057, el horror de la humanidad tenía un solo nombre: **el silicio.** La mente de máquina, el transistor, el cálculo sin alma. Cuando años más tarde se proclamó el [[anatema-mecanico|Anatema Mecánico]], su primera y más obvia condena cayó sobre eso — sobre la Bestia de silicio que casi nos devora.
+Hasta 2057, el horror de la humanidad tenía un solo nombre: **el silicio.** La mente de máquina, el transistor, el cálculo sin alma. Cuando años más tarde se proclamó el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]], su primera y más obvia condena cayó sobre eso — sobre la Bestia de silicio que casi nos devora.
 
 Pero el Anatema que hoy nos rige no veda solo el silicio. **Veda también la carne.** Y esa segunda veda no nace del Gran Silencio: nace aquí, en 2057. Cuando los padres del Anatema miraron atrás para entender de qué había que salvar a la especie, no vieron un solo pecado sino dos. El primero, haber construido una mente que no era la de Dios. El segundo, haber tomado la creación viva —el genoma, la obra más íntima del Creador— y haberla reescrito como quien enmienda un borrador. Las pandemias diseñadas y los hombres-monstruo de 2057 fueron la prueba, escrita con sangre, de que **editar la vida es tan blasfemo como fabricar un dios de metal.**
 
@@ -69,7 +69,7 @@ Hay algo más que salió de estos días, y de esto conviene hablar con cuidado, 
 
 Los ancianos que heredaron relatos de aquel tiempo hablan de **los días del cielo naranja**: dicen que por entonces el cielo cambió, que la luz se corrió hacia un tono nuevo, y que ya no volvió a ser como antes. El vulgo lo cuenta como se cuenta un presagio, sin fecha ni causa, un simple "el cielo se puso raro por aquellos años". Yo, que mido las cosas, solo puedo consignar lo que la tradición sostiene y lo que el propio aire parece confirmar: **fue por estos días, en pleno fervor biotecnológico de 2057, cuando el cielo empezó a velarse** — y no volvió a despejarse nunca.
 
-Y conviene no confundir este velo con otra oscuridad anterior. Cuando el [[2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] borró la vieja capital en 2039, su polvo también ennegreció el cielo — pero aquello fue una nube de vapor que se disipó en tres o cuatro años y se fue. El velo de los días naranjas es cosa distinta y posterior: llegó casi dos décadas después, con el fervor de la vida editada, y a diferencia de la nube del meteorito **no se fue jamás**. Quien mezcle una cosa con la otra confunde una herida que cerró con un techo que sigue sobre nuestras cabezas.
+Y conviene no confundir este velo con otra oscuridad anterior. Cuando el [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|Cuerpo de Hielo]] borró la vieja capital en 2039, su polvo también ennegreció el cielo — pero aquello fue una nube de vapor que se disipó en tres o cuatro años y se fue. El velo de los días naranjas es cosa distinta y posterior: llegó casi dos décadas después, con el fervor de la vida editada, y a diferencia de la nube del meteorito **no se fue jamás**. Quien mezcle una cosa con la otra confunde una herida que cerró con un techo que sigue sobre nuestras cabezas.
 
 De aquel mismo fervor de la vida editada —de esa mano que escribía organismos como frases— salió el velo tenue que hoy atempera el mundo, lo que la gente sencilla llama la Nube Roja. Lo mejor y lo peor de 2057 vinieron de la misma mano: y también esto, este techo sutil que enrojece apenas los amaneceres, es hijo de aquel año. No diré aquí más de lo que un archivo público puede decir. Baste esto: **el cielo que hoy nos cubre nació —o se sembró— en los días de la cumbre y la caída.** Lo que es exactamente ese velo, y si fue don o accidente, es materia que no corresponde a estas páginas.
 
@@ -80,7 +80,7 @@ De aquel mismo fervor de la vida editada —de esa mano que escribía organismos
 
 La siembra de aquel año fue del mundo entero — global, como global fue la guerra y global el pecado. Pero toda historia, si se la sigue el hilo bastante tiempo, termina llegando a casa. La caída que empezó en 2057 rodó cuesta abajo durante años: las pandemias diseñadas alimentaron el hambre y el terror; el hombre reescrito engrosó los ejércitos de la Larga Noche; y todo ello empujó, plaga sobre plaga, hacia el abismo en que la humanidad se amputaría a sí misma para seguir viva.
 
-Ese camino, que arranca en la cumbre envenenada de 2057, desemboca en nuestra tierra: en el [[2061-el-gran-silencio|Gran Silencio]] de 2061, en el [[anatema-mecanico|Anatema]] que de él nació, y en la Confederación que hoy sostiene este cielo velado sobre el Río de la Plata. Cuatro años median entre el pico y el Silencio — cuatro años en que la línea, una vez que empezó a bajar, no dejó de bajar. Y sobre todo eso, indiferente y creciente, el velo que se sembró en 2057 iba tomando el cielo, aprestándose a templar el mundo que los hombres estaban a punto de heredar en ruinas.
+Ese camino, que arranca en la cumbre envenenada de 2057, desemboca en nuestra tierra: en el [[1_trasfondo/hitos/2061-el-gran-silencio|Gran Silencio]] de 2061, en el [[1_trasfondo/codex/anatema-mecanico|Anatema]] que de él nació, y en la Confederación que hoy sostiene este cielo velado sobre el Río de la Plata. Cuatro años median entre el pico y el Silencio — cuatro años en que la línea, una vez que empezó a bajar, no dejó de bajar. Y sobre todo eso, indiferente y creciente, el velo que se sembró en 2057 iba tomando el cielo, aprestándose a templar el mundo que los hombres estaban a punto de heredar en ruinas.
 
 ## Reflexión del Hermano Archivista (Perspectiva 2178)
 
@@ -96,12 +96,12 @@ Que Dios nos perdone haber querido ser escribas de la vida. Y que el cielo naran
 
 ## Conexiones Históricas
 
-- "Precedente que lo hizo posible": [[2035-nacimiento-de-las-qia|Nacimiento de las QIA (2035)]] — la matemática infinita que apalancó el pico biotecnológico
-- "Contexto": [[2039-la-larga-noche|La Larga Noche / Fuego Perpetuo (2039-2068)]] — la guerra global en cuyo seno ocurrió la cumbre y la caída
+- "Precedente que lo hizo posible": [[1_trasfondo/hitos/2035-nacimiento-de-las-qia|Nacimiento de las QIA (2035)]] — la matemática infinita que apalancó el pico biotecnológico
+- "Contexto": [[1_trasfondo/hitos/2039-la-larga-noche|La Larga Noche / Fuego Perpetuo (2039-2068)]] — la guerra global en cuyo seno ocurrió la cumbre y la caída
 - "Consecuencia inmediata": pandemias diseñadas y la corrupción de la carne, que alimentan el descenso hacia el Silencio
-- "Consecuencia doctrinal": el [[anatema-mecanico|Anatema Mecánico]] vedará también la biotecnología — el "segundo pecado", la carne después del silicio
+- "Consecuencia doctrinal": el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] vedará también la biotecnología — el "segundo pecado", la carne después del silicio
 - "Consecuencia velada": los días del cielo naranja — el velo que hoy atempera el mundo (ver, en clave pública, [[2_atlas/climas/clima-2178|Clima 2178]] y [[2_atlas/climas/humedad-post-guerra|Humedad Post-Guerra]])
-- "Desemboca en": [[2061-el-gran-silencio|El Gran Silencio (2061)]]
+- "Desemboca en": [[1_trasfondo/hitos/2061-el-gran-silencio|El Gran Silencio (2061)]]
 
 ---
 

@@ -10,12 +10,12 @@ aliases:
 tags: []
 related:
   - "[[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]"
-  - "[[inquisicion]]"
-  - "[[procesador-argentino-pia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|procesador-argentino-pia]]"
 ---
 # Computación y Gestión de Datos
 
-La computación en Ciudad Dársena opera bajo la estricta supervisión de la [[inquisicion|Sagrada Inquisición Argentina (SIA)]]. El temor a una nueva era de inteligencia artificial como la que condujo al colapso ha llevado a la Iglesia a imponer un control dogmático sobre cualquier forma de procesamiento de información, considerándolo un camino potencial hacia la herejía.
+La computación en Ciudad Dársena opera bajo la estricta supervisión de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]. El temor a una nueva era de inteligencia artificial como la que condujo al colapso ha llevado a la Iglesia a imponer un control dogmático sobre cualquier forma de procesamiento de información, considerándolo un camino potencial hacia la herejía.
 
 ## PDAs y Dispositivos Personales
 
@@ -29,7 +29,7 @@ Su uso está mal visto por la Iglesia y se considera una tecnología en el borde
 
 ## Procesador de Industria Argentina (PIA)
 
-Los PDAs y computadores civiles funcionan sobre la base del [[procesador-argentino-pia|Procesador de Industria Argentina (PIA)]], el estándar de cómputo post-[[1_trasfondo/codex/anatema-mecanico|Anatema]] definido por la Confederación.
+Los PDAs y computadores civiles funcionan sobre la base del [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina (PIA)]], el estándar de cómputo post-[[1_trasfondo/codex/anatema-mecanico|Anatema]] definido por la Confederación.
 
 **Características arquitectónicas del PIA**:
 
@@ -45,7 +45,7 @@ Los **PDAs civiles utilizan variantes minimalistas del PIA** con circuitos reduc
 
 **Vigilancia**: La **Sagrada Inquisición Argentina** monitorea especialmente las concentraciones de PIAs en infraestructura crítica (Torres Hidropónicas, muelles) mediante detección de anomalías de consumo eléctrico.
 
-Para especificaciones técnicas completas del estándar PIA, incluyendo arquitectura de conmutación por histéresis diferencial, detalles de manufactura y aplicaciones militares, consulte: [[procesador-argentino-pia|Procesador de Industria Argentina (PIA)]]
+Para especificaciones técnicas completas del estándar PIA, incluyendo arquitectura de conmutación por histéresis diferencial, detalles de manufactura y aplicaciones militares, consulte: [[2_atlas/tecnologia-y-ciencia/procesador-argentino-pia|Procesador de Industria Argentina (PIA)]]
 
 ## Computadores
 

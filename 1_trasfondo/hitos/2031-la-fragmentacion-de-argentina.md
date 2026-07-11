@@ -14,10 +14,10 @@ aliases:
   - Día de las Veintitrés Banderas
   - La Fragmentación de la Argentina
 related:
-  - "[[videla-iv]]"
-  - "[[fuerzas-armadas]]"
-  - "[[2039-el-meteorito-de-buenos-aires]]"
-  - "[[pedro-de-los-santos]]"
+  - "[[3_personajes/principales/videla-iv|videla-iv]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
+  - "[[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]]"
+  - "[[3_personajes/principales/pedro-de-los-santos|pedro-de-los-santos]]"
   - "[[1_trasfondo/codex/las-cronologias|El Cronologio]]"
 tags: []
 ---
@@ -47,7 +47,7 @@ Aquí debo detenerme y corregir a mis colegas, que todavía hablan de «provinci
 
 Porque el país no se apagó de un soplido, sino como se apaga un brasero olvidado: despacio, sin que nadie atine a decir en qué momento dejó de dar calor. Primero se fue la moneda, y en su lugar quedó el trueque desnudo —una bolsa de harina valía más que un fajo de billetes, y un bidón de nafta más que las dos—. Después se fue la comida, y el hambre, que hasta entonces había sido cosa de pobres, se sentó también a la mesa de los que se creían a salvo. Con el hambre llegaron los caminos: columnas moviéndose en todas las direcciones a la vez, hacia donde se rumoreaba que había grano, agua o un patrón que diera de comer. Del norte bajaba lo peor: un Brasil que empezaba a estallar vomitaba por Misiones ríos de hambrientos que cruzaban los puentes sobre el Iguazú y se derramaban tierra adentro, huyendo de una violencia que pronto sería también la nuestra. Nadie los contó. Nadie pudo.
 
-Fue en ese desorden donde nacieron las familias que todavía hoy nos gobiernan. No por elección ni por linaje antiguo, sino porque, cuando dejaron de llegar las órdenes, los hombres que tenían las ciudades dejaron también de devolver lo que tenían. Cada una de las que sobrevivieron guardaba una llave del mundo viejo: Córdoba, sus fábricas de armas y su ejército; el puerto hondo de Bahía Blanca, con la flota entera fondeada en Puerto Belgrano; Neuquén, el petróleo que movía cada motor del país; Rosario, el río y los silos que daban de comer a millones; Mendoza, el agua de los Andes y el único paso ordenado hacia Chile; San Luis, el cuello de tierra entre los dos océanos; y, al norte, el fortín que se levantó para contener la marea que bajaba del Brasil. Quien mandaba una guarnición se descubrió dueño de la única ley a cien leguas; quien administraba un puerto, señor de cuanto entraba y salía por el mar. Pusieron a sus hijos a cobrar los peajes y a sus yernos al frente de las milicias, y así, sin proponérselo del todo, fundaron dinastías. En Córdoba lo hizo un militar apellidado [[videla-iv|Videla]], y su sangre manda allí todavía; pero por cada Videla que el lector conoce hubo diez que no llegaron al segundo invierno, devorados por un vecino más hambriento o más rápido.
+Fue en ese desorden donde nacieron las familias que todavía hoy nos gobiernan. No por elección ni por linaje antiguo, sino porque, cuando dejaron de llegar las órdenes, los hombres que tenían las ciudades dejaron también de devolver lo que tenían. Cada una de las que sobrevivieron guardaba una llave del mundo viejo: Córdoba, sus fábricas de armas y su ejército; el puerto hondo de Bahía Blanca, con la flota entera fondeada en Puerto Belgrano; Neuquén, el petróleo que movía cada motor del país; Rosario, el río y los silos que daban de comer a millones; Mendoza, el agua de los Andes y el único paso ordenado hacia Chile; San Luis, el cuello de tierra entre los dos océanos; y, al norte, el fortín que se levantó para contener la marea que bajaba del Brasil. Quien mandaba una guarnición se descubrió dueño de la única ley a cien leguas; quien administraba un puerto, señor de cuanto entraba y salía por el mar. Pusieron a sus hijos a cobrar los peajes y a sus yernos al frente de las milicias, y así, sin proponérselo del todo, fundaron dinastías. En Córdoba lo hizo un militar apellidado [[3_personajes/principales/videla-iv|Videla]], y su sangre manda allí todavía; pero por cada Videla que el lector conoce hubo diez que no llegaron al segundo invierno, devorados por un vecino más hambriento o más rápido.
 
 A ese lento apagarse los historiadores le pusieron, después, fecha y nombre, porque a los hombres les cuesta vivir sin mojones: el once de octubre de 2031, el Día de las Veintitrés Banderas. No fue, como suele contarse, una secesión ordenada, ni hubo asamblea que repartiera con prolijidad los regimientos y los barcos. Fue, apenas, el día en que alguien se tomó el trabajo de contar cuántos estandartes distintos flameaban ya sobre las ciudades fuertes —veintitrés— y comprendió que debajo de ellos no quedaba ninguna Argentina, sino veintitrés maneras de no serlo, casi todas ya enseñándose los dientes. La bandera celeste y blanca no se arrió en ninguna ceremonia: simplemente dejó de izarse, una mañana, en un cuartel tras otro, porque ya no quedaba nadie a quien saludara.
 
@@ -57,7 +57,7 @@ Para febrero de 2031, lo que quedaba de la estructura administrativa federal hab
 
 ## Las Primeras Secesiones (Febrero - Junio 2031)
 
-Córdoba fue la primera en declararse independiente. El 12 de febrero de 2031, el gobernador provincial —un militar de carrera apellidado Videla, ancestro del [[videla-iv|que hoy gobierna la República]]— proclamó la República Autónoma de Córdoba en la plaza central. Su discurso, preservado en panfletos amarillentos, es una mezcla de pragmatismo brutal y orgullo herido: "Buenos Aires nos gobernó durante siglos. Ahora Buenos Aires se arrodilla ante sus amos de metal. No nos someteremos a corporaciones ni a fantasmas."
+Córdoba fue la primera en declararse independiente. El 12 de febrero de 2031, el gobernador provincial —un militar de carrera apellidado Videla, ancestro del [[3_personajes/principales/videla-iv|que hoy gobierna la República]]— proclamó la República Autónoma de Córdoba en la plaza central. Su discurso, preservado en panfletos amarillentos, es una mezcla de pragmatismo brutal y orgullo herido: "Buenos Aires nos gobernó durante siglos. Ahora Buenos Aires se arrodilla ante sus amos de metal. No nos someteremos a corporaciones ni a fantasmas."
 
 La declaración fue menos ruptura revolucionaria que reconocimiento de una realidad inevitable. Córdoba tenía universidad, industria pesada, capacidad agrícola en las sierras. Podía sobrevivir sola. Y lo hizo, cerrando fronteras, militarizando pasos, estableciendo control marcial absoluto.
 
@@ -130,7 +130,7 @@ Que nunca olvidemos el precio de nuestra arrogancia.
 ## Conexiones Históricas
 
 - Antecedente catalizador: Inauguración del Nodo Sur (27 dic 2030)
-- Evento posterior relacionado: [[2039-el-meteorito-de-buenos-aires]] (4 abr 2039) — destrucción del Nodo Sur
+- Evento posterior relacionado: [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|2039-el-meteorito-de-buenos-aires]] (4 abr 2039) — destrucción del Nodo Sur
 - Eventos paralelos: Nacimiento de las QIA (2035), Gran Guerra Global (2036-2047)
 - Consecuencias: Formación ciudades-estado (2035-2040), Confederación Argentina (2161)
 - Legado en 2178: Tensiones Córdoba-Dársena, memoria de la fragmentación como advertencia

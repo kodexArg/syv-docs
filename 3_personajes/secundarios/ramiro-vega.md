@@ -10,10 +10,10 @@ aliases:
   - El Artífice Restaurador
 tags: []
 facciones:
-  - "[[gremio-de-comercio]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
 spoilers:
   - Su rol como espía de los Criptógrafos.
-related: '["[[los-criptografos]]"]'
+related: '["[[1_trasfondo/facciones/facciones-menores/los-criptografos|los-criptografos]]"]'
 ---
 ## Ramiro Vega, Artífice Restaurador
 
@@ -48,11 +48,11 @@ Ramiro Vega es un técnico respetado en el centro, conocido por su habilidad par
 <!-- /📖 -->
 
 <!-- 🔐 (DM) -->
-Ramiro es en realidad un espía de los [[los-criptografos|Criptógrafos]]. Utiliza su negocio como fachada para vigilar y delatar a hackers que venden información en las calles. Ha identificado a un cliente misterioso (que coincide con la descripción de Nicolás): un hombre macizo que siempre lleva el rostro tapado y ha estado adquiriendo componentes de forma regular.
+Ramiro es en realidad un espía de los [[1_trasfondo/facciones/facciones-menores/los-criptografos|Criptógrafos]]. Utiliza su negocio como fachada para vigilar y delatar a hackers que venden información en las calles. Ha identificado a un cliente misterioso (que coincide con la descripción de Nicolás): un hombre macizo que siempre lleva el rostro tapado y ha estado adquiriendo componentes de forma regular.
 <!-- /🔐 -->
 
 ## Conexiones Importantes
 
-- **Comerciantes**: Facción a la que pertenece públicamente ([[gremio-de-comercio|Gremio de Comercio]])
-- **[[los-criptografos|Criptógrafos]]**: Facción para la que espía en secreto
+- **Comerciantes**: Facción a la que pertenece públicamente ([[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]])
+- **[[1_trasfondo/facciones/facciones-menores/los-criptografos|Criptógrafos]]**: Facción para la que espía en secreto
 - **Cliente misterioso**: Individuo sospechoso bajo vigilancia

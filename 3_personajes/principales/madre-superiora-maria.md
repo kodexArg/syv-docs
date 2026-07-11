@@ -12,9 +12,9 @@ aliases:
   - Campeona de la Iglesia
   - Directora Espiritual del Faro
 facciones:
-  - "[[inquisicion]]"
-  - "[[iglesia]]"
-related: '["[[sor-sofia]]", "[[las-manos-calladas]]", "[[exorcistas]]", "[[sor-nikole]]", "[[sor-catalina]]"]'
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+related: '["[[3_personajes/secundarios/sor-sofia|sor-sofia]]", "[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|las-manos-calladas]]", "[[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|exorcistas]]", "[[3_personajes/secundarios/sor-nikole|sor-nikole]]", "[[3_personajes/secundarios/sor-catalina|sor-catalina]]"]'
 spoilers:
   - Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'.
   - Su celo contra las posesiones nace de un encuentro demoníaco que le reveló su nombre verdadero.
@@ -25,7 +25,7 @@ tags: []
 
 57 años, Torre del Faro (Isla Oriental) / origen: Barrios del Muro y Tuberías
 
-Directora Espiritual de la [[inquisicion|Sagrada Inquisición Argentina]] y alma fundadora de [[las-manos-calladas|Las Manos Calladas]]
+Directora Espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] y alma fundadora de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]
 
 ## Aspecto
 
@@ -37,14 +37,14 @@ Un espectro de autoridad que habita el Faro como si fuera el único lugar del mu
 
 ### Rol y Posición
 
-María es la cabeza administrativa y espiritual de la [[inquisicion|Sagrada Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
+María es la cabeza administrativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
 
 - Operaciones de todas las Monjas y Hermanas de Batalla en Dársena
 - Administración del Sistema de Iniciados en El Faro (selección, entrenamiento, "derivación")
 - Coordinación con el Comando Nacional de Dársena en asuntos de herejía y paranormalidad
 - Custodia del Archivo Secreto bajo la Nueva Basílica (en colaboración con el Obispo Eclesiástico)
 
-Mantiene también la conducción tácita de [[las-manos-calladas|Las Manos Calladas]] — la red clandestina que ella misma contribuyó a gestar, antes de que la orden de caridad oficial fuera disuelta. Nadie desde el Faro conecta ambas identidades: la Directora Espiritual que autoriza exorcismos y la mujer que hace décadas convenció a un puñado de hermanas de que era más honesto operar ocultas.
+Mantiene también la conducción tácita de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]] — la red clandestina que ella misma contribuyó a gestar, antes de que la orden de caridad oficial fuera disuelta. Nadie desde el Faro conecta ambas identidades: la Directora Espiritual que autoriza exorcismos y la mujer que hace décadas convenció a un puñado de hermanas de que era más honesto operar ocultas.
 
 Su palabra es final. Sus decisiones son inmutables.
 
@@ -73,9 +73,9 @@ Su confinamiento voluntario a 100 metros de toda tecnología es tanto deber reli
 <!-- /📖 -->
 
 <!-- 🔐 (Iglesia de Dársena / Las Manos Calladas) -->
-Antes de llegar al Faro, María ya sabía que la orden de caridad oficial tenía los días contados. No porque hubiera fracasado — sino porque una institución con edificios, presupuestos y asiento en los consejos del poder deja de servir a los pobres y empieza a reclutarlos. Fue [[sor-catalina|Sor Catalina]] quien lo articuló primero con claridad; pero fue María quien lo llevó hasta sus consecuencias: trabajó durante años desde adentro, filtrando lo necesario a la [[inquisicion|SIA]], dejando que la orden se enredara en sus propias contradicciones, hasta que la Curia la disolvió. Para el mundo, una orden caída en desgracia. Para ella, una liberación calculada.
+Antes de llegar al Faro, María ya sabía que la orden de caridad oficial tenía los días contados. No porque hubiera fracasado — sino porque una institución con edificios, presupuestos y asiento en los consejos del poder deja de servir a los pobres y empieza a reclutarlos. Fue [[3_personajes/secundarios/sor-catalina|Sor Catalina]] quien lo articuló primero con claridad; pero fue María quien lo llevó hasta sus consecuencias: trabajó durante años desde adentro, filtrando lo necesario a la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]], dejando que la orden se enredara en sus propias contradicciones, hasta que la Curia la disolvió. Para el mundo, una orden caída en desgracia. Para ella, una liberación calculada.
 
-Lo que quedó de esa purga —un puñado de personas que se deben todo entre sí— es hoy [[las-manos-calladas|Las Manos Calladas]]. María las conduce sin mandar: su autoridad sobre la red no es un cargo sino el peso de haber sido quien vio el final primero y les mostró el camino. [[sor-nikole|Nikole]], [[hermana-laura-castillo|Laura]], [[padre-alejandro-soria|Alejandro]]: los reclutó o los heredó, pero todos la llaman por su nombre cuando hablan entre sí, y eso en la red equivale a todo.
+Lo que quedó de esa purga —un puñado de personas que se deben todo entre sí— es hoy [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]. María las conduce sin mandar: su autoridad sobre la red no es un cargo sino el peso de haber sido quien vio el final primero y les mostró el camino. [[3_personajes/secundarios/sor-nikole|Nikole]], [[3_personajes/secundarios/hermana-laura-castillo|Laura]], [[3_personajes/secundarios/padre-alejandro-soria|Alejandro]]: los reclutó o los heredó, pero todos la llaman por su nombre cuando hablan entre sí, y eso en la red equivale a todo.
 
 Fue ese episodio de frialdad calculada —la disolución de la orden sin levantar sospechas— más el exorcismo que salió mal, lo que llamó la atención de la jerarquía eclesiástica y aceleró su nombramiento como Directora del Faro.
 <!-- /🔐 -->
@@ -104,11 +104,11 @@ Nadie más lo sabe. Si lo saben, serían un problema que María resolvería del 
 
 - **Obispo Arzobispo de Dársena**: Superior jerárquico nominal (relación frágil, basada en mutua ignorancia deliberada)
 - **Comando Nacional de Dársena**: Colaborador en operaciones de seguridad y contención paranormal
-- **Hermanas de Batalla ([[sor-sofia|Sor Sofía]])**: Ejecutora de órdenes que otros no pueden cumplir
-- **[[las-manos-calladas|Las Manos Calladas]]**: La red clandestina que ella contribuyó a gestar; la conduce sin mandar, por peso moral y deuda acumulada
-- **[[sor-nikole|Sor Nikole]]**: La reclutó personalmente — vio en ella la rebeldía que ella tuvo a los veinte años; le tiene un afecto que no admite en voz alta
-- **[[sor-catalina|Sor Catalina]]**: Quien le dio la claridad intelectual para tomar la decisión de disolver la orden; una deuda que María no olvida
-- **[[exorcistas|Exorcistas]]**: Orden aliada con tensiones jurisdiccionales; reconocen su autoridad y su historial de campo
+- **Hermanas de Batalla ([[3_personajes/secundarios/sor-sofia|Sor Sofía]])**: Ejecutora de órdenes que otros no pueden cumplir
+- **[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]]**: La red clandestina que ella contribuyó a gestar; la conduce sin mandar, por peso moral y deuda acumulada
+- **[[3_personajes/secundarios/sor-nikole|Sor Nikole]]**: La reclutó personalmente — vio en ella la rebeldía que ella tuvo a los veinte años; le tiene un afecto que no admite en voz alta
+- **[[3_personajes/secundarios/sor-catalina|Sor Catalina]]**: Quien le dio la claridad intelectual para tomar la decisión de disolver la orden; una deuda que María no olvida
+- **[[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|Exorcistas]]**: Orden aliada con tensiones jurisdiccionales; reconocen su autoridad y su historial de campo
 - **Iniciadas del Sistema del Faro**: Materia prima de su visión de perfección teológica
 - **El Archivo Secreto**: Custodio de secretos más antiguos que su propio reinado
 

@@ -15,7 +15,7 @@ ubicaciones:
   - "[[2_atlas/ciudades/darsena/tuberias|Las Tuberías]]"
 spoilers:
   - Su verdadero nombre es Francisco Praga, ex-sacerdote fugitivo de un crimen pasional.
-related: '["[[guardianes-de-la-memoria]]", "[[marta-la-curandera]]"]'
+related: '["[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]", "[[3_personajes/secundarios/marta-la-curandera|marta-la-curandera]]"]'
 ---
 ## Juan, el Coleccionista de Ecos
 
@@ -57,7 +57,7 @@ El verdadero nombre de Juan es Francisco Praga. Fue un sacerdote y profesor de h
 
 - **Las Tuberías**: Su refugio y prisión
 - **Su Tienda de Recuerdos**: El laberinto donde se esconde
-- **[[guardianes-de-la-memoria|Guardianes de la Memoria]]**: Posible contacto; su oficio de mercader de objetos con historia lo hace un recurso valioso para quienes custodian el pasado
-- **[[marta-la-curandera|Marta la Curandera]]**: Vecina de las Tuberías; se conocen de los pasillos inundados, comparten el peso de sobrevivir en los márgenes
+- **[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]]**: Posible contacto; su oficio de mercader de objetos con historia lo hace un recurso valioso para quienes custodian el pasado
+- **[[3_personajes/secundarios/marta-la-curandera|Marta la Curandera]]**: Vecina de las Tuberías; se conocen de los pasillos inundados, comparten el peso de sobrevivir en los márgenes
 - **Su Pasado Como Francisco Praga**: El secreto que debe permanecer enterrado
 - **Clientes Curiosos**: Quienes buscan historias sin saber la del propio mercader

@@ -8,16 +8,16 @@ aliases:
   - Herejía Tecnológica y Conocimiento Prohibido
   - Tecnologías Prohibidas
 related:
-  - "[[anatema-mecanico]]"
-  - "[[inquisicion]]"
-  - "[[iglesia]]"
-  - "[[arpistas]]"
-  - "[[constitucion-argentina]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/codex/constitucion-argentina|constitucion-argentina]]"
 tags: []
 ---
 # Herejía Tecnológica y Conocimiento Prohibido
 
-En la Confederación Argentina, la línea que separa la investigación legítima de la herejía es definida y custodiada, ante todo, por los "Censores Eclesiásticos". Esta vigilancia se fundamenta en el "Prólogo de la Verdad" y la "[[constitucion-argentina|Ley 0: Del Anatema Mecánico]]", que establecen la mente humana como templo de Dios y la inteligencia artificial como guarida del Adversario. Son científicos-teólogos, integrados en la estructura de la Iglesia, quienes establecen las leyes que rigen la curiosidad, determinan hasta dónde puede llegar la investigación y cómo debe aplicarse la ética religiosa en cada avance.
+En la Confederación Argentina, la línea que separa la investigación legítima de la herejía es definida y custodiada, ante todo, por los "Censores Eclesiásticos". Esta vigilancia se fundamenta en el "Prólogo de la Verdad" y la "[[1_trasfondo/codex/constitucion-argentina|Ley 0: Del Anatema Mecánico]]", que establecen la mente humana como templo de Dios y la inteligencia artificial como guarida del Adversario. Son científicos-teólogos, integrados en la estructura de la Iglesia, quienes establecen las leyes que rigen la curiosidad, determinan hasta dónde puede llegar la investigación y cómo debe aplicarse la ética religiosa en cada avance.
 
 La Iglesia cuenta con una red de laboratorios y archivos secretos, cuidadosamente custodiados y diseñados para el análisis y resguardo de artefactos y documentos considerados peligrosos o heréticos. Uno de los centros más importantes para estos estudios es la llamada "Cripta de la Razón", ubicada en los sótanos de la Universidad de Dársena. Allí, bajo estricta vigilancia de los "Censores Eclesiásticos", se almacenan y examinan tecnologías recuperadas, manuscritos prohibidos y reliquias científicas, en un entorno controlado que permite su estudio sin riesgo de propagación o uso indebido.
 
@@ -25,7 +25,7 @@ Muchos son también científicos, que no solo vigilan desde la distancia, sino q
 
 Este modelo de "ciencia vigilada" no es exclusivo de la Confederación: se sabe que otras regiones del mundo han adoptado sistemas similares, donde la figura del censor es central para el desarrollo de nuevas soluciones.
 
-La "[[inquisicion|Sagrada Inquisición Argentina (SIA)]]", por su parte, actúa como el brazo ejecutor: interviene solo ante las contravenciones más graves, persiguiendo y castigando los delitos de herejía tecnológica cuando los límites impuestos por los Censores han sido cruzados.
+La "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]", por su parte, actúa como el brazo ejecutor: interviene solo ante las contravenciones más graves, persiguiendo y castigando los delitos de herejía tecnológica cuando los límites impuestos por los Censores han sido cruzados.
 
 Afirmar que este control cuenta con la aprobación de la mayoría sería una simplificación. No obstante, tras el fracaso del llamado "siglo de las libertades", este sistema de vigilancia y restricción se ha consolidado como la norma durante más de cien años. El celo institucional ha permeado profundamente en la cultura, hasta el punto de que incluso las generaciones más jóvenes lo asumen como parte natural de su realidad cotidiana.
 
@@ -50,7 +50,7 @@ Principales áreas de prohibición y control:
 El conocimiento considerado peligroso es activamente suprimido y guardado bajo llave, en cumplimiento con la "Ley IV: Del Magisterio", que dicta que todo saber que no conduzca a Dios es vanidad o peligro.
 
 -   "El Archivo Secreto del Vaticano": Reubicado en un búnker bajo la Nueva Basílica de San Pedro, este archivo contiene no solo textos religiosos apócrifos, sino también tratados científicos, artefactos tecnológicos de la era pre-bélica y evidencia de fenómenos paranormales. Su acceso está restringido a la cúpula de la Iglesia.
--   "El Museo Anónimo": Esta galería subterránea secreta, cuya existencia es un rumor y una humillación para la SIA, alberga una colección de tecnología prohibida, desde IAs desactivadas hasta armas de energía exóticas. Es un santuario para los "[[arpistas|Arpistas]]", dedicados a preservar el conocimiento perdido.
+-   "El Museo Anónimo": Esta galería subterránea secreta, cuya existencia es un rumor y una humillación para la SIA, alberga una colección de tecnología prohibida, desde IAs desactivadas hasta armas de energía exóticas. Es un santuario para los "[[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]]", dedicados a preservar el conocimiento perdido.
 
 ## Persecución y Control
 
@@ -267,11 +267,11 @@ La Confederación, especialmente Dársena, es la más represiva porque:
 
 **Contexto Teológico y Legal**:
 - "Para contexto global del Anatema": [[1_trasfondo/codex/anatema-mecanico|El Anatema Mecánico]]
-- "Para fundamentación legal": [[constitucion-argentina|Constitución de la Confederación Argentina]] - Leyes 0, IV, V
+- "Para fundamentación legal": [[1_trasfondo/codex/constitucion-argentina|Constitución de la Confederación Argentina]] - Leyes 0, IV, V
 
 **Entidades Represoras y Resistencia**:
-- "Para la entidad perseguidora": [[inquisicion|La Santa Inquisición Argentina]]
-- "Para resistencia clandestina": [[arpistas|Los Arpistas]]
+- "Para la entidad perseguidora": [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Santa Inquisición Argentina]]
+- "Para resistencia clandestina": [[1_trasfondo/facciones/facciones-menores/arpistas|Los Arpistas]]
 
 **Especificaciones Técnicas**:
 - "Para detalles técnicos de tecnologías permitidas": Ver [[2_atlas/tecnologia-y-ciencia/tecnologia-y-ciencia|Atlas de Tecnología y Ciencia]] (especialmente Energías Alternativas, Tecnología Civil y Militar)

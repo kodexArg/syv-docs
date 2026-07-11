@@ -10,19 +10,19 @@ aliases:
   - Los Masones
 tags: []
 related:
-  - "[[inquisicion]]"
-  - "[[arpistas]]"
-  - "[[guardianes-de-la-memoria]]"
-  - "[[gremio-de-comercio]]"
-  - "[[anatema-mecanico]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|guardianes-de-la-memoria]]"
+  - "[[1_trasfondo/facciones/union/gremio-de-comercio|gremio-de-comercio]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[mendoza]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/mendoza/mendoza|mendoza]]"
 spoilers:
   - "Miembros de alto grado se infiltran como espías dobles en la Curia, el Gremio y la Guardia de Dársena."
   - "Los de grado más alto conocen ubicaciones de bunkers pre-colapso con tecnología intacta y rutas de escape al exterior."
 ---
-Los **Masones** son una hermandad exclusiva y clandestina que opera principalmente desde los Barrios del Norte de Ciudad Dársena, con células menores en [[mendoza|Mendoza]] y Córdoba. Fundada en los principios de Libertad de Pensamiento, Perfeccionamiento Moral y Fraternidad Universal, esta organización secreta se dedica a preservar el conocimiento filosófico, artístico y arquitectónico del mundo pre-colapso. A diferencia de los siglos XX y XXI, cuando operaban legalmente como sociedad cultural, los Masones actuales son perseguidos a muerte por la [[inquisicion|Sagrada Inquisición Argentina (SIA)]], que los considera herejía organizada. Su relación con el [[anatema-mecanico|Anatema Mecánico]] es ambigua: la mayoría de sus miembros respetan públicamente el dogma pero mantienen una búsqueda obsesiva de la verdad que incomoda al régimen.
+Los **Masones** son una hermandad exclusiva y clandestina que opera principalmente desde los Barrios del Norte de Ciudad Dársena, con células menores en [[2_atlas/ciudades/mendoza/mendoza|Mendoza]] y Córdoba. Fundada en los principios de Libertad de Pensamiento, Perfeccionamiento Moral y Fraternidad Universal, esta organización secreta se dedica a preservar el conocimiento filosófico, artístico y arquitectónico del mundo pre-colapso. A diferencia de los siglos XX y XXI, cuando operaban legalmente como sociedad cultural, los Masones actuales son perseguidos a muerte por la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]], que los considera herejía organizada. Su relación con el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] es ambigua: la mayoría de sus miembros respetan públicamente el dogma pero mantienen una búsqueda obsesiva de la verdad que incomoda al régimen.
 
 ## Operaciones y Métodos
 
@@ -36,7 +36,7 @@ El hermetismo es extremo. No se puede contactar a un Masón; solo atraer su aten
 
 ## Relaciones con Otras Facciones
 
-La Sagrada Inquisición Argentina (SIA)[^sia] los persigue como sociedad herética. Si los agarra, no hay santo. Sótano de la Prefectura. Para sobrevivir, muchos se infiltran en otras facciones. Los [[arpistas|Arpistas]][^arpistas]—con quienes comparten afinidad filosófica en la preservación cultural—son aliados naturales pero distantes. Colaboran pasándose microfilms en sobres que huelen a cera de velas eléctricas. [[guardianes-de-la-memoria|Guardianes de la Memoria]][^guardianes], [[gremio-de-comercio|Gremio de Comercio]], funcionarios menores de la Curia: la red es invisible porque está dispersa, fragmentada, encriptada en gestos.
+La Sagrada Inquisición Argentina (SIA)[^sia] los persigue como sociedad herética. Si los agarra, no hay santo. Sótano de la Prefectura. Para sobrevivir, muchos se infiltran en otras facciones. Los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]][^arpistas]—con quienes comparten afinidad filosófica en la preservación cultural—son aliados naturales pero distantes. Colaboran pasándose microfilms en sobres que huelen a cera de velas eléctricas. [[1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria|Guardianes de la Memoria]][^guardianes], [[1_trasfondo/facciones/union/gremio-de-comercio|Gremio de Comercio]], funcionarios menores de la Curia: la red es invisible porque está dispersa, fragmentada, encriptada en gestos.
 
 ## Archivos y Ubicaciones Secretas
 

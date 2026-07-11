@@ -4,7 +4,7 @@ folder: 1_trasfondo/credos
 description: Sistemas de creencias, sincretismos religiosos, hegemónicos, tolerados, proscritos.
 tags: []
 related:
-  - "[[anatema-mecanico]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
 ---
 
 ## Fe en Plural
@@ -21,22 +21,22 @@ En los Barrios del Muro, la Religión va en plural. Pero esa pluralidad es contr
 **Catolicismo Darseno** - La Iglesia oficial. No requiere archivo separado; es el Estado.
 
 ### Credos Tolerados
-- **[[religiones-del-viejo-mundo|Religiones del Viejo Mundo]]** - Judaísmo, Protestantismo, credos pre-colapso que sobrevivieron
-- **[[hermandades-y-ordenes-catolicas|Hermandades y Órdenes Católicas]]** - Variantes locales y órdenes internas de la Iglesia
+- **[[1_trasfondo/credos/religiones-del-viejo-mundo|Religiones del Viejo Mundo]]** - Judaísmo, Protestantismo, credos pre-colapso que sobrevivieron
+- **[[1_trasfondo/credos/hermandades-y-ordenes-catolicas|Hermandades y Órdenes Católicas]]** - Variantes locales y órdenes internas de la Iglesia
 
 ### Credos Proscritos
-- **[[umbanda|Umbanda]]** - Fe sincrética afroamericana, dominante en Barrios del Muro
-- **[[san-la-muerte|San La Muerte]]** - Culto del litoral, santo de los condenados
+- **[[1_trasfondo/credos/umbanda|Umbanda]]** - Fe sincrética afroamericana, dominante en Barrios del Muro
+- **[[1_trasfondo/credos/san-la-muerte|San La Muerte]]** - Culto del litoral, santo de los condenados
 - **[[1_trasfondo/credos/el-camino-del-kene|Shipibo-Conibo]]** - Chamanismo amazónico expatriado
-- **[[guarani|Guaraní]]** - Misticismo indígena del nordeste
-- **[[ancestros-del-silencio|Ancestros del Silencio]]** - Culto a los mártires del Gran Silencio
+- **[[1_trasfondo/credos/guarani|Guaraní]]** - Misticismo indígena del nordeste
+- **[[1_trasfondo/credos/ancestros-del-silencio|Ancestros del Silencio]]** - Culto a los mártires del Gran Silencio
 
 ### Ideologías-Credo
-- **[[iglesia-maradoniana|Iglesia Maradoniana]]** - Catolicismo sincrético futbolístico, el más popular en Barrios del Muro
-- **[[peronismo|Peronismo]]** - Secta ultra-nacionalista de elite
-- **[[ecologistas|Ecologistas]]** - Hermandad Verde, aliada de la Iglesia
-- **[[hijos-del-pantano|Hijos del Pantano]]** - Ultra-ecologismo radical terrorista
-- **[[la-compania|La Compañía]]** - Culto del azar y el sorteo universal
+- **[[1_trasfondo/credos/iglesia-maradoniana|Iglesia Maradoniana]]** - Catolicismo sincrético futbolístico, el más popular en Barrios del Muro
+- **[[1_trasfondo/credos/peronismo|Peronismo]]** - Secta ultra-nacionalista de elite
+- **[[1_trasfondo/credos/ecologistas|Ecologistas]]** - Hermandad Verde, aliada de la Iglesia
+- **[[1_trasfondo/credos/hijos-del-pantano|Hijos del Pantano]]** - Ultra-ecologismo radical terrorista
+- **[[1_trasfondo/credos/la-compania|La Compañía]]** - Culto del azar y el sorteo universal
 
 ## Geografía de Credos
 

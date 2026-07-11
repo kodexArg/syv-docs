@@ -9,16 +9,16 @@ aliases:
   - Guaraní
 tags: []
 related:
-  - "[[iglesia]]"
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
   - "[[1_trasfondo/credos/el-camino-del-kene|El Camino del Kené]]"
-  - "[[umbanda]]"
-  - "[[san-la-muerte]]"
-  - "[[peronismo]]"
+  - "[[1_trasfondo/credos/umbanda|umbanda]]"
+  - "[[1_trasfondo/credos/san-la-muerte|san-la-muerte]]"
+  - "[[1_trasfondo/credos/peronismo|peronismo]]"
 ubicaciones:
-  - "[[darsena]]"
-  - "[[barrios-del-muro]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/darsena|darsena]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 
 **Tipo:** Proscrito
@@ -58,7 +58,7 @@ Las fiestas patronales son híbridas. Procesión católica por día (santo lleva
 
 ## Relación con la Iglesia
 
-La [[iglesia|Iglesia de Dársena]] los clasifica como superstición folklórica más que herejía formal. Mientras no compitan por fieles urbanos, la [[inquisicion|SIA]] no gasta recursos persiguiéndolos. Es cálculo pragmático: enviar inquisidores al monte para arrestar chamanes que curan con yuyos no vale la logística. Las aldeas guaraníes están en zonas donde caminos son barro en verano y ríos en invierno, donde transporte es carreta tirada por bueyes, donde la Confederación es rumor más que realidad. Controlar esos territorios requeriría ejército. Y el ejército tiene frontera real que defender.
+La [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]] los clasifica como superstición folklórica más que herejía formal. Mientras no compitan por fieles urbanos, la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|SIA]] no gasta recursos persiguiéndolos. Es cálculo pragmático: enviar inquisidores al monte para arrestar chamanes que curan con yuyos no vale la logística. Las aldeas guaraníes están en zonas donde caminos son barro en verano y ríos en invierno, donde transporte es carreta tirada por bueyes, donde la Confederación es rumor más que realidad. Controlar esos territorios requeriría ejército. Y el ejército tiene frontera real que defender.
 
 Entonces el guaraní místico prospera en márgenes geográficos: aldeas sin cura permanente (un sacerdote visita tres veces al año), campos sin capilla (cruces de madera en claros sirven), zonas donde el Estado es ausencia. Los opyguá administran bautismos cuando el cura no llega, bendicen matrimonios (que luego se legalizan cuando el cura visita), ofician funerales. Son clero informal que la Iglesia tolera porque llenar ese vacío requeriría recursos que no tiene.
 

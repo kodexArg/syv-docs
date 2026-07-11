@@ -9,10 +9,10 @@ aliases:
   - Sofía
 tags: []
 facciones:
-  - "[[inquisicion]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 related:
-  - "[[madre-superiora-maria]]"
-  - "[[sor-catalina]]"
+  - "[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"
+  - "[[3_personajes/secundarios/sor-catalina|sor-catalina]]"
 ---
 
 ## Sor Sofía, Hermana de Batalla
@@ -31,7 +31,7 @@ Una guerrera monacal cuyo cuerpo y espíritu son un solo acto de disciplina.
 
 ### Rol y Posición
 
-Sor Sofía pertenece a las Hermanas de Batalla de la [[inquisicion|Sagrada Inquisición Argentina]], un brazo de guerra del clero entrenado para neutralizar amenazas paranormales y herejía armada. Bajo el mando directo de [[madre-superiora-maria|Madre Superiora María]], ejecuta órdenes que van desde seguridad del Faro hasta operaciones encubiertas en Ciudad Dársena. Su reputación entre las iniciadas es de precisión absoluta: no comete errores.
+Sor Sofía pertenece a las Hermanas de Batalla de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]], un brazo de guerra del clero entrenado para neutralizar amenazas paranormales y herejía armada. Bajo el mando directo de [[3_personajes/principales/madre-superiora-maria|Madre Superiora María]], ejecuta órdenes que van desde seguridad del Faro hasta operaciones encubiertas en Ciudad Dársena. Su reputación entre las iniciadas es de precisión absoluta: no comete errores.
 
 ### Personalidad
 
@@ -48,7 +48,7 @@ Sofía descarga su fuego interno en rutinas físicas impecables: combate contra 
 ### Trasfondo
 
 <!-- 📖 (Público) -->
-Sofía fue iniciada en el sistema de El Faro alrededor de los 8 años. A diferencia de sus compañeras, nunca mostró inclinación hacia las escrituras o el ministerio caritativo. Su talento era físico: reacción, equilibrio, capacidad de absorber dolor sin respuesta emocional. Siempre admiró a su compañera mayor, [[sor-catalina|Sor Catalina]], cuya iniciativa y liderazgo contrastaban con su propio silencio. Mientras Catalina seguía otro camino, María vio en Sofía el material de una Hermana de Batalla. Ahora, años después, Sofía es una de las custodias más eficientes del Faro.
+Sofía fue iniciada en el sistema de El Faro alrededor de los 8 años. A diferencia de sus compañeras, nunca mostró inclinación hacia las escrituras o el ministerio caritativo. Su talento era físico: reacción, equilibrio, capacidad de absorber dolor sin respuesta emocional. Siempre admiró a su compañera mayor, [[3_personajes/secundarios/sor-catalina|Sor Catalina]], cuya iniciativa y liderazgo contrastaban con su propio silencio. Mientras Catalina seguía otro camino, María vio en Sofía el material de una Hermana de Batalla. Ahora, años después, Sofía es una de las custodias más eficientes del Faro.
 /📖
 
 <!-- 🔐 (Sagrada Inquisición Argentina) -->

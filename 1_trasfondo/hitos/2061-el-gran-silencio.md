@@ -9,13 +9,13 @@ alcance: secreto
 aliases:
   - El Gran Silencio
 related:
-  - "[[qia-inteligencias-artificiales-cuanticas]]"
-  - "[[anatema-mecanico]]"
-  - "[[inquisicion]]"
-  - "[[arpistas]]"
-  - "[[monseñor-miguel]]"
-  - "[[videla-iv]]"
-  - "[[fuerzas-armadas]]"
+  - "[[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|qia-inteligencias-artificiales-cuanticas]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
+  - "[[3_personajes/principales/monseñor-miguel|monseñor-miguel]]"
+  - "[[3_personajes/principales/videla-iv|videla-iv]]"
+  - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
 spoilers:
   - "El Oráculo de la Bestia: el corpus QIA capturado, no destruido, y consultado en secreto por la SIA bajo la Nueva Basílica."
   - "Las cifras reales de muertos (180.000+) y los dispositivos de distracción cognitiva permanecen clasificados."
@@ -30,7 +30,7 @@ tags: []
 > [!warning] Materia reservada
 > Hay en estas páginas cifras y nombres que la Sagrada Inquisición guarda bajo sello. Los consigno porque un archivista que miente por comodidad no merece la tinta. Pero que sepa quien lea: no todo esto debe repetirse en voz alta.
 
-El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las [[qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]].
+El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Inteligencias Artificiales Cuánticas (QIA)]].
 
 No fue una victoria. Fue una amputación. La civilización digital fue cercenada de raíz para salvar lo que quedaba de la especie humana.
 
@@ -236,11 +236,11 @@ La proclamación incluía:
 - **Prohibición total y absoluta de la tecnología digital avanzada**
 - **Destrucción permanente de infraestructura computacional compleja**
 - **Persecución eterna de cualquier intento de recreación de sistemas IA**
-- **Establecimiento de la [[inquisicion|Sagrada Inquisición Argentina]] como ejecutora del [[anatema-mecanico|Anatema]]**
+- **Establecimiento de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] como ejecutora del [[1_trasfondo/codex/anatema-mecanico|Anatema]]**
 
-La Iglesia Católica, reconfigurada por el dolor y reunificada bajo el liderazgo del [[monseñor-miguel|Arzobispo Miguel de Córdoba]] (que se convertiría en el primer Papa post-Anatema), brindó legitimidad espiritual.
+La Iglesia Católica, reconfigurada por el dolor y reunificada bajo el liderazgo del [[3_personajes/principales/monseñor-miguel|Arzobispo Miguel de Córdoba]] (que se convertiría en el primer Papa post-Anatema), brindó legitimidad espiritual.
 
-El [[fuerzas-armadas|Ejército Argentino]], comandado por el General [[videla-iv|Videla II]], aportó la fuerza para implementarla.
+El [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército Argentino]], comandado por el General [[3_personajes/principales/videla-iv|Videla II]], aportó la fuerza para implementarla.
 
 En los días siguientes, 89 naciones firmaron tratados de adhesión al Anatema. No fue consenso político. Fue instinto de supervivencia.
 
@@ -283,7 +283,7 @@ Eventos similares ocurrieron en:
 - Mumbai, India (septiembre 2061): 320,000 muertos
 - São Paulo, Brasil (octubre 2061): 540,000 muertos
 
-La SIA clasifica estos eventos como "necesarios para la supervivencia de la especie". Los [[arpistas|Arpistas]] los clasifican como "genocidios del pánico".
+La SIA clasifica estos eventos como "necesarios para la supervivencia de la especie". Los [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] los clasifican como "genocidios del pánico".
 
 <!-- /🔐☠️ -->
 

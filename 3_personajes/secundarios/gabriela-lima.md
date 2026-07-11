@@ -10,7 +10,7 @@ tags: []
 facciones: []
 ubicaciones:
   - "[[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]"
-related: '["[[resistencia-subterranea]]", "[[veronica-suarez]]"]'
+related: '["[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|resistencia-subterranea]]", "[[3_personajes/secundarios/veronica-suarez|veronica-suarez]]"]'
 ---
 ## Gabriela Lima, la Muralista
 
@@ -47,5 +47,5 @@ Gabriela Lima es conocida en los Barrios del Muro como la artista que transforma
 
 - **Los Barrios del Muro**: Su lienzo y su hogar
 - **La Comunidad**: Sus historias y su inspiración
-- **[[resistencia-subterranea|Resistencia Subterránea]]**: Sus murales son actos de resistencia que alimentan la memoria colectiva
-- **[[veronica-suarez|Verónica Suárez]]**: Vecina del barrio, conexión personal cercana
+- **[[1_trasfondo/facciones/facciones-menores/resistencia-subterranea|Resistencia Subterránea]]**: Sus murales son actos de resistencia que alimentan la memoria colectiva
+- **[[3_personajes/secundarios/veronica-suarez|Verónica Suárez]]**: Vecina del barrio, conexión personal cercana

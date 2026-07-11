@@ -10,7 +10,7 @@ aliases:
   - CSE
 tags: []
 related:
-  - "[[arpistas]]"
+  - "[[1_trasfondo/facciones/facciones-menores/arpistas|arpistas]]"
 ---
 
 # Cámaras de Supresión Electromagnética (CSE)
@@ -19,7 +19,7 @@ related:
 
 **Nombre técnico**: Cámara de Supresión Electromagnética (CSE)
 
-**Nombre coloquial**: Cámara [[arpistas|Arpista]] (por quienes las usan principalmente)
+**Nombre coloquial**: Cámara [[1_trasfondo/facciones/facciones-menores/arpistas|Arpista]] (por quienes las usan principalmente)
 
 **Clasificación**: Tecnología de laboratorio especializado
 
@@ -274,6 +274,6 @@ Existe debate científico no resuelto sobre el mecanismo exacto de funcionamient
 
 ## Referencias Cruzadas
 
-- [[arpistas|Arpistas]] - Usuarios principales
-- [[inquisicion|Sagrada Inquisición Argentina]] - Usuarios institucionales
+- [[1_trasfondo/facciones/facciones-menores/arpistas|Arpistas]] - Usuarios principales
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] - Usuarios institucionales
 - [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]] - Contexto legal de artefactos

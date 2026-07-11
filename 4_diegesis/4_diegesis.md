@@ -11,7 +11,7 @@ Aquí vive la ficción dentro de la ficción: diarios de marineros perdidos en l
 
 ## Subsecciones
 
-- [[cartas]]
-- [[cronicas]]
-- [[relatos]]
+- [[4_diegesis/cartas/cartas|cartas]]
+- [[4_diegesis/cronicas/cronicas|cronicas]]
+- [[4_diegesis/relatos/relatos|relatos]]
 

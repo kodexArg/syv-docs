@@ -7,13 +7,13 @@ aliases:
   - Guía de Personajes
 tags: []
 related:
-  - "[[guia-de-metadatos]]"
-  - "[[manual-del-colaborador]]"
-  - "[[guia-de-facciones]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-metadatos|guia-de-metadatos]]"
+  - "[[0_proyecto/guias-para-colaboradores/manual-del-colaborador|manual-del-colaborador]]"
+  - "[[0_proyecto/guias-para-colaboradores/guia-de-facciones|guia-de-facciones]]"
 ---
 Esta guía establece el formato y las mejores prácticas para crear y documentar personajes dentro del universo de "Subordinación y Valor". Un personaje bien definido es clave para la coherencia narrativa y la inmersión en el mundo.
 
-Antes de crear un personaje, asegúrate de estar familiarizado con las guías generales, especialmente la [[guia-de-metadatos|Guía de Metadatos]] y el [[manual-del-colaborador|Manual del Colaborador]].
+Antes de crear un personaje, asegúrate de estar familiarizado con las guías generales, especialmente la [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|Guía de Metadatos]] y el [[0_proyecto/guias-para-colaboradores/manual-del-colaborador|Manual del Colaborador]].
 
 ## Categorías de Personajes
 
@@ -27,7 +27,7 @@ Los personajes se clasifican en tres categorías según su importancia en la nar
 
 La sección de metadatos (front matter YAML) es fundamental para la indexación y uso de los personajes por parte de herramientas automáticas y colaboradores.
 
-Además de los campos universales (`title`, `folder`, `description`) definidos en la [[guia-de-metadatos|Guía de Metadatos]], los personajes siguen estas convenciones:
+Además de los campos universales (`title`, `folder`, `description`) definidos en la [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|Guía de Metadatos]], los personajes siguen estas convenciones:
 
 - `nombre`: Nombre del personaje. **Obligatorio**.
 - `aliases`: Nombres alternativos / nombre propio para display y resistencia a renombres. **Recomendado**.
@@ -91,4 +91,4 @@ El cuerpo del archivo de un personaje debe organizarse con los siguientes aparta
 
 ---
 
-Finalmente, recuerda enlazar a otros personajes, lugares o documentos con **wikilinks** (`[[slug]]`) en el cuerpo y en propiedades como `facciones`, `ubicaciones`, `apariciones` o `related`. Las dimensiones controladas (`entidad`, `alcance`, `estado`) van como **campos propios** del frontmatter, no dentro de `tags`. `tags` es el vivero open/closed para etiquetas emergentes. Ver [[guia-de-metadatos|Guía de Metadatos]] y [[glosario-de-tags]].
+Finalmente, recuerda enlazar a otros personajes, lugares o documentos con **wikilinks** (`[[slug]]`) en el cuerpo y en propiedades como `facciones`, `ubicaciones`, `apariciones` o `related`. Las dimensiones controladas (`entidad`, `alcance`, `estado`) van como **campos propios** del frontmatter, no dentro de `tags`. `tags` es el vivero open/closed para etiquetas emergentes. Ver [[0_proyecto/guias-para-colaboradores/guia-de-metadatos|Guía de Metadatos]] y [[0_proyecto/guias-para-colaboradores/glosario-de-tags|glosario-de-tags]].

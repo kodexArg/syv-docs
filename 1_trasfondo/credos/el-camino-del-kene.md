@@ -12,15 +12,15 @@ aliases:
 tags: []
 related:
   - "[[1_trasfondo/facciones/facciones-menores/shipibo-conibo|Shipibo-Conibo (facción)]]"
-  - "[[umbanda]]"
-  - "[[guarani]]"
-  - "[[inquisicion]]"
-  - "[[kuna-mbarete]]"
-  - "[[hijos-del-pantano]]"
-  - "[[anatema-mecanico]]"
+  - "[[1_trasfondo/credos/umbanda|umbanda]]"
+  - "[[1_trasfondo/credos/guarani|guarani]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
+  - "[[1_trasfondo/facciones/facciones-menores/kuna-mbarete|kuna-mbarete]]"
+  - "[[1_trasfondo/credos/hijos-del-pantano|hijos-del-pantano]]"
+  - "[[1_trasfondo/codex/anatema-mecanico|anatema-mecanico]]"
 ubicaciones:
-  - "[[barrios-del-muro]]"
-  - "[[tuberias]]"
+  - "[[2_atlas/ciudades/darsena/barrios-del-muro|barrios-del-muro]]"
+  - "[[2_atlas/ciudades/darsena/tuberias|tuberias]]"
 ---
 
 > [!info] La fe y el pueblo
