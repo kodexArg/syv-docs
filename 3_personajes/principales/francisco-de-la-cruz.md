@@ -63,7 +63,7 @@ Francisco es fundador y líder actual de los **[[1_trasfondo/facciones/facciones
 - **Universidad de Dársena**: Control total sobre narrativa histórica y acceso a archivos
 - **Guardiane de la Memoria**: Líder efectivo, toma decisiones estratégicas críticas
 - **Red Arpista**: Co-fundador y coordinador principal en Ciudad Dársena
-- **Sagrada Inquisición Argentina**: Contactos internos que lo advierten de investigaciones
+- **Santa Inquisición Argentina**: Contactos internos que lo advierten de investigaciones
 
 ## Referencias
 
