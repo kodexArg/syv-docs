@@ -165,7 +165,7 @@ Los simbiotes se reconocen entre sí por señales sutiles: un olor particular, p
 
 Si este secreto se revelara públicamente:
 - La DNS clasificaría a los Shipibo-Conibo como amenaza biológica de nivel crítico
-- La Sagrada Inquisición los declararía abominaciones demoníacas
+- La Santa Inquisición los declararía abominaciones demoníacas
 - Científicos de todo tipo intentarían capturar y estudiar simbiotes
 - La comunidad sería exterminada
 
