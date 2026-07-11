@@ -51,7 +51,7 @@ Sofía descarga su fuego interno en rutinas físicas impecables: combate contra 
 Sofía fue iniciada en el sistema de El Faro alrededor de los 8 años. A diferencia de sus compañeras, nunca mostró inclinación hacia las escrituras o el ministerio caritativo. Su talento era físico: reacción, equilibrio, capacidad de absorber dolor sin respuesta emocional. Siempre admiró a su compañera mayor, [[3_personajes/secundarios/sor-catalina|Sor Catalina]], cuya iniciativa y liderazgo contrastaban con su propio silencio. Mientras Catalina seguía otro camino, María vio en Sofía el material de una Hermana de Batalla. Ahora, años después, Sofía es una de las custodias más eficientes del Faro.
 /📖
 
-<!-- 🔐 (Sagrada Inquisición Argentina) -->
+<!-- 🔐 (Santa Inquisición Argentina) -->
 Sofía recuerda con melancolía a Sor Catalina. Sus caminos se separaron cuando el sistema de Iniciados "filtró" sus destinos: Sofía hacia la espada, Catalina hacia la caridad y la investigación. Aunque no se han visto en años, la influencia de Catalina permanece en la memoria de Sofía como el contrapunto vital a su propia existencia estática.
 /🔐
 -->
