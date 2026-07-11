@@ -359,7 +359,7 @@ El ciclo nunca termina.
 
 - "El Gran Silencio (2061)" (1_trasfondo/hitos/2061-el-gran-silencio.md) - El evento que puso fin al dominio QIA
 - "Anatema Mecánico" (1_trasfondo/codex/anatema-mecanico.md) - La doctrina nacida del trauma
-- "Sagrada Inquisición Argentina" (1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Guardianes del Anatema
+- "Santa Inquisición Argentina" (1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md) - Guardianes del Anatema
 - "Scriptorium de Criptoanálisis" (ver cronología.md, línea 26) - Custodios del conocimiento prohibido
 - "Cronología general" (1_trasfondo/cronología.md) - Contexto histórico completo
 
