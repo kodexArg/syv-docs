@@ -80,7 +80,7 @@ apariciones:
 ```
 
 ✓ `facciones: ["[[inquisicion]]"]`
-✗ `facciones: ["Sagrada Inquisición Argentina"]` (nombre-display: no enlaza)
+✗ `facciones: ["Santa Inquisición Argentina"]` (nombre-display: no enlaza)
 ✗ `tags: [inquisicion]` (los tags no son relaciones)
 
 ### Desambiguación de basenames
