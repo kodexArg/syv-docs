@@ -10,7 +10,7 @@ description: 'Capítulo uno de El Caso del Archivista — prosa. Un día cualqui
 entidad: relato
 estado: borrador
 facciones:
-- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]'
 folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
@@ -37,34 +37,47 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende iluminando una celda gris. Se sienta en la cama, lo que tarda en tensar la cola de caballo, se levanta y mecánicamente comienza su ritual matutino.
+Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta el contorno de una perilla, y el techo entero ilumina la celda gris. Hay un lavabo y un espejo amurados en la pared opuesta de la habitación, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen para ella ni siquiera valor sentimental.
 
-Se lava con agua que no tuvo tiempo de calentar. Toma dos pastillas que no recuerda para qué sirven. El espejo la observa, distraída, cepillándose los dientes mientras descubre sus primeras arrugas en los ojos. "Treinta". Cepilla un poco más.
+Se sienta en la cama a tensar su cola de caballo.
 
-Termina y gira hacia su cama y, como si le hubieran disparado, se arrodilla a rezar, presionando ambas manos contra su frente. Sofía reza con pasión durante siete minutos más.
+"Qué hago acá".
 
-Luego saca de su cómoda una calza gruesa y una primera piel de invierno, blanca y de textura esponjosa, que se coloca inmediatamente. Desde abajo de su cama recupera un par de zapatillas de cuero cordobés, con cámara de aire.
+No le da tiempo al agua de calentarse y se lava todo el cuerpo. Toma del botiquín dos pastillas que no recuerda para qué sirven. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes, mientras descubre sus primeras arrugas en los ojos.
 
-Se ata los cordones, pensando en los inaturales bordes curvos de su celda. Una placenta. Cambia de zapatilla. Una colmena. No lo recordaba tan opresivo. Sonrió ante lo obvio: era ella la que ahora podía tocar el techo con la mano.
+Cepilla un poco más.
 
-Sale de su celda en el momento en que el temporizador hace un click y la habitación se oscurece.
+Termina y gira hacia su cama y, como si le hubieran disparado, se arrodilla a rezar con las manos contra su frente.
+
+Sofía reza con pasión durante siete minutos más.
+
+Aún desnuda, saca de su cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca justo antes de comenzar a tiritar. Desde abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se ata los cordones, mirando entre sus cejas en el techo los inaturales bordes curvos. "Una colmena". Comienza a atarse la otra zapatilla. No recordaba este lugar tan opresivo. Sonrie ante lo obvio: es ella la que ahora puede tocar el techo con la mano.
+
+Sale de su celda, en el momento en que el temporizador hace un click y la habitación se oscurece a su espalda.
 
 ---
 
 Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]].
 
-El patio subterráneo es ovalado, del tamaño de una cancha de tenis, y sigue en penumbras bajo la neblina que entra como un río fantasmal por la única rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar su hombro. Mira arriba, una escalera enroscándose entre pasillos y balcones, serpenteando el interior de la torre, ascendiendo piso tras piso, en ondas y descansos según los caprichos de Gaudí, los mismos que inspiraron El Faro.
+Es un predio subterráneo ovalado, del tamaño de una cancha de tenis y nueve pisos de alto. Nada se distingue en la penumbra, salvo la neblina que entra como un río fantasmal por la única rampa que desciende desde el este. Sofía atrapa su propio brazo recto y comienza a elongar. Mira enfrente, a la gran escalera, ascendiendo desde la neblina para enroscándose entre pasillos y balcones, serpenteando hacia la cúpula, piso tras piso, en ondas y descansos como la serpiente del génesis, según los caprichos de Gaudí, o mejor dicho los del arquitecto que lo interpretó.
 
-Sofía recuerda, mientras atrapa su otro brazo y estira, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, y lo llevó hasta la Puerta de Piedra del cénit. Grabada ahí, su analogía no quedó clara, pero quienes sí lo recuerdan son los Iniciados de los pisos más alto, que viven con las cabezas moradas por protuberancias inadecuadas. Como Gaudí, el arquitecto tampoco vivió para ver terminada su obra ."¿Cómo se llamaba...?", intenta recordar Sofía, que se licenció en historia, su materia optativa.
+Cien hermanos inquisidores hacen aquí algunos años de servicio, con sus tutores en sus propias labores, obserando desde los pisos medios.
 
+Su vista ya se ha adaptado, y aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, gracias a ingeniosos conductos de vidrio que transportan la claridad del exterior, pasando entre las paredes de las habitaciones, una proeza de ingeniería.
 
-Los iniciados pasaban sirviendo un par de años aquí. Ella había estado uno solo. Y no había vuelto, hasta hace un par de semanas, cuando la Reverenda Madre le asignó la número nueve.
+Lo cierto es que aquí, el amanecer se parece más a un cielo estrellado. Mientras el resplandor ahora baja, balcón por balcón, hasta ella.
 
-Se dio vuelta, de espalda a cualquier pensamiento inapropiado, y alzó la vista hacia la torre. Los mismos caprichos de Gaudí se repiten hacia arriba: cuatro niveles de celdas y sus almas alojadas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que las órdenes abrazaron cuando levantaron el Faro. La mirada sube por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose orgánicamente en el techo, en la Puerta de Piedra.
+Sofía recuerda ahora, mientras atrapa su otro brazo, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascención, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra <mark style="background: #FFF3A3A6;">como el opuesto a la entrada al infierno</mark>.
+
+Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó. Llevada a la roca, la idea del arquitecto nunca quedó clara. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
+
+Sofía se preguntaba si el Gaudí de dos siglos y medio atras habría sido igual de desconsiderado.
+
+Le dio la espalda a cualquier pensamiento inapropiado y dejó que la mirada subiera sola. Los mismos caprichos apilaban hacia el cénit cuatro niveles de celdas: cientos de almas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que la Inquisición hizo suyo hace cuatrocientos años. La vista trepa por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose, orgánica, en el techo: la Puerta de Piedra.
 
 Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la vista un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
 
-A medida que su vista se adapta, aprecia cómo el interior del Faro comienza a iluminarse, por pequeños conductos de vidrio que transportan la claridad del Este hacia el interior, pasando entre las paredes de las habitaciones en una proeza de ingeniería. Aquí el amanecer se parece más a un cielo estrellado, un resplandor que baja, balcón por balcón, hasta el fondo del óvalo, donde una mujer sola estira y estira entre la neblina.
+A medida que su vista se adapta, aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, pequeños conductos de vidrio que transportan la claridad del Este hacia el interior, pasando entre las paredes de las habitaciones en una proeza de ingeniería. Aquí el amanecer se parece más a un cielo estrellado, un resplandor que baja, balcón por balcón, hasta el fondo del óvalo, donde una mujer sola estira y estira entre la neblina.
 
 Al lado de su puerta espera una escalera, y ella asciende para resolver un solo piso. Los peldaños están inscrustados en la misma roca clara y continua. Artificial. Le devuelven los pasos con la cadencia de un metrónomo.
 
