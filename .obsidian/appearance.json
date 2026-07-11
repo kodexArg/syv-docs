@@ -2,6 +2,7 @@
   "nativeMenus": true,
   "showRibbon": true,
   "enabledCssSnippets": [
-    "presentation-orange"
+    "presentation-orange",
+    "syv-soft-highlights"
   ]
 }

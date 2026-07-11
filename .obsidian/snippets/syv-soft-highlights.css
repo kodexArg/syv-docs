@@ -13,8 +13,8 @@
 */
 
 body {
-  --syv-underline-thickness: 0.12em;
-  --syv-underline-offset: 0.16em;
+  --syv-underline-thickness: 0.06em;
+  --syv-underline-offset: 0.22em;
 }
 
 /* Shared: no fill, normal text tone, a clean underline. */
@@ -24,18 +24,19 @@ mark {
   text-decoration-line: underline !important;
   text-decoration-thickness: var(--syv-underline-thickness) !important;
   text-underline-offset: var(--syv-underline-offset) !important;
+  text-decoration-skip-ink: auto !important;   /* break the line at descenders (g, j, p, q, y) */
 }
 
 /* Per-colour: the underline takes the mark's own hue (same colour the fill had). */
-mark[style*="ffb8eb" i] { text-decoration-color: #FFB8EBA6 !important; } /* Pink   */
-mark[style*="ff5582" i] { text-decoration-color: #FF5582A6 !important; } /* Red    */
-mark[style*="ffb86c" i] { text-decoration-color: #FFB86CA6 !important; } /* Orange */
-mark[style*="fff3a3" i] { text-decoration-color: #FFF3A3A6 !important; } /* Yellow */
-mark[style*="bbfabb" i] { text-decoration-color: #BBFABBA6 !important; } /* Green  */
-mark[style*="abf7f7" i] { text-decoration-color: #ABF7F7A6 !important; } /* Cyan   */
-mark[style*="adccff" i] { text-decoration-color: #ADCCFFA6 !important; } /* Blue   */
-mark[style*="d2b3ff" i] { text-decoration-color: #D2B3FFA6 !important; } /* Purple */
-mark[style*="cacfd9" i] { text-decoration-color: #CACFD9A6 !important; } /* Grey   */
+mark[style*="ffb8eb" i] { text-decoration-color: #FFB8EB53 !important; } /* Pink   */
+mark[style*="ff5582" i] { text-decoration-color: #FF558253 !important; } /* Red    */
+mark[style*="ffb86c" i] { text-decoration-color: #FFB86C53 !important; } /* Orange */
+mark[style*="fff3a3" i] { text-decoration-color: #FFF3A353 !important; } /* Yellow */
+mark[style*="bbfabb" i] { text-decoration-color: #BBFABB53 !important; } /* Green  */
+mark[style*="abf7f7" i] { text-decoration-color: #ABF7F753 !important; } /* Cyan   */
+mark[style*="adccff" i] { text-decoration-color: #ADCCFF53 !important; } /* Blue   */
+mark[style*="d2b3ff" i] { text-decoration-color: #D2B3FF53 !important; } /* Purple */
+mark[style*="cacfd9" i] { text-decoration-color: #CACFD953 !important; } /* Grey   */
 
 /* Bare <mark> with no inline colour → neutral yellow underline ("media" default). */
-mark:not([style]) { text-decoration-color: #FFF3A3A6 !important; }
+mark:not([style]) { text-decoration-color: #FFF3A353 !important; }
