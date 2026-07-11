@@ -63,7 +63,9 @@ Al lado de su puerta espera una escalera lateral, ajena al caracol, hecha para r
 
 Durante años, ese eco fue otro. Sofía fue la escolta personal de la [[3_personajes/principales/madre-superiora-maria|Reverenda Madre]]: su sombra, su muro, la última distancia entre el mundo y ese hábito blanco. Después la Madre se retiró de la sociedad, a la corona de la Torre, donde vive de oración y de silencio, y la escolta quedó abajo, aceitada, sin nada que escoltar. "Te quiere cerca", le explicaron. Cerca. La Madre habita la cima del Faro y Sofía la base, tres metros bajo tierra; entre ambas, una torre entera de peldaños que nadie sube. A Sofía le dieron un cargo que cabe en una palabra —custodia— y un jardín que se custodia solo. Al otro lado de la Dársena, la ciudad inmensa peca, arde y necesita: trabajo de campo para diez vidas. Acá: pinos, tilos, turistas. Y el amanecer.
 
-Arriba la reciben la penumbra y el olor a resina. Sofía corre primero: el circuito de sendas que bordea el bosque, cuarenta minutos a ritmo de letanía, el cuero cordobés mordiendo la tierra de la senda. La niebla se abre a su paso y se cierra detrás, como una sutura. Después, el banco de hierro.
+Arriba, el pasto, gris de niebla. Detrás, recortado contra el cielo bajo de [[2_atlas/ciudades/darsena/darsena|Dársena]], el Faro de Gaudí recibe la primera luz. Blanco. Muerto.
+
+La reciben la penumbra y el olor a resina. Sofía corre primero: el circuito de sendas que bordea el bosque, cuarenta minutos a ritmo de letanía, el cuero cordobés mordiendo la tierra de la senda. La niebla se abre a su paso y se cierra detrás, como una sutura. Después, el banco de hierro.
 
 El frío, la neblina que le lame los brazos: una remera negra sin mangas y unas calzas gruesas; la primera piel, doblada sobre el respaldo. Deja las zapatillas junto al banco. Apoya el talón en el respaldo y se abre la cadera, despacio, con la paciencia de quien le exige a su cuerpo el diezmo cada mañana. Los ojos grises esperan el horizonte, la niebla, el primer rayo. Una hija de la Sagrada Inquisición Argentina se prepara para recibir el amanecer.
 
