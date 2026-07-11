@@ -39,7 +39,7 @@ tags: []
 
 > _Damián DiConte, conocido como El Sabueso, es un famoso detective de sesenta y pocos, retirado del servicio cordobés tras el escándalo del Teniente Coronel Quiroga: el oficial se voló los sesos detrás de su escritorio y las tapas de los diarios publicaron la foto, con Damián metido en la escena.
 >
-> Damián fue absuelto rápidamente y trasladado en medio de las investigaciones a Ciudad Dársena, y aquí quedó en la órbita protectora de la Sagrada Inquisición Argentina.
+> Damián fue absuelto rápidamente y trasladado en medio de las investigaciones a Ciudad Dársena, y aquí quedó en la órbita protectora de la Santa Inquisición Argentina.
 >
 > No sabemos qué pasó, pero El Sabueso no quedó bien parado, y no por las heridas —que en medio año cerraron— sino por lo demás: absuelto pero apartado, viviendo de prestado en un hogar de huéspedes, en la vera oriental de la dársena. Un invitado de la Isla Oriental.
 >
