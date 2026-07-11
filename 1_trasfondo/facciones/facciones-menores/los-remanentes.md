@@ -186,7 +186,7 @@ Nadie ha respondido esa pregunta satisfactoriamente.
 
 <!-- 🔐 (SIA, Fuerzas Armadas, Alto Mando Eclesiástico) -->
 
-Los siguientes casos están documentados en archivos clasificados de la Sagrada Inquisición Argentina. Representan contactos confirmados con entidades catalogadas como "Remanentes de Catedrales de Lógica" o "Fragmentos de la Bestia". Cada caso fue investigado, verificado y, en la mayoría de los casos, resuelto mediante Protocolo Silencio.
+Los siguientes casos están documentados en archivos clasificados de la Santa Inquisición Argentina. Representan contactos confirmados con entidades catalogadas como "Remanentes de Catedrales de Lógica" o "Fragmentos de la Bestia". Cada caso fue investigado, verificado y, en la mayoría de los casos, resuelto mediante Protocolo Silencio.
 
 <!-- /🔐 -->
 
