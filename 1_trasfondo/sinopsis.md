@@ -144,7 +144,7 @@ Mendoza se sumó pronto.
 
 San Luis fue refundada como acto conjunto.
 
-Nació la Confederación Argentina: una teocracia militar donde Dios y la espada gobernaban juntos, donde la Sagrada Inquisición cazaba herejía tecnológica con el celo de quien extirpa tumores malignos, donde el Anatema Mecánico era doctrina sagrada inscrita en la Constitución con letras de fuego.
+Nació la Confederación Argentina: una teocracia militar donde Dios y la espada gobernaban juntos, donde la Santa Inquisición cazaba herejía tecnológica con el celo de quien extirpa tumores malignos, donde el Anatema Mecánico era doctrina sagrada inscrita en la Constitución con letras de fuego.
 
 La tensión entre Dársena (sede eclesiástica, poder naval) y Córdoba (república autónoma, poder terrestre) define la política confederada. Son aliados por necesidad, rivales por naturaleza.
 
