@@ -55,7 +55,7 @@ Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre
 
 El patio subterráneo, ovalado, del tamaño de una cancha de tenis, sigue en penumbras bajo la neblina que entra, espesa, por la rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar. Lo que ve, alrededor y hacia arriba, es el caracol: la misma rampa enroscándose al óvalo del patio, y balcones suaves, redondeados, que la siguen vuelta a vuelta sobre catenarias de Gaudí — cientos de puertas cerradas, todas a oscuras, todas en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose en el techo.
 
-El Faro amanece por dentro. El primer resplandor gana la corona del caracol y baja a su ritmo, balcón por balcón, aclarando barandas, puertas cerradas, plantas colgantes, hasta el fondo del óvalo donde una mujer sola estira contra la niebla. El día baja a buscarla.
+El Faro amanece por dentro. El primer resplandor gana la corona del caracol y baja a su ritmo, balcón por balcón, aclarando barandas, catenarias, plantas colgantes, hasta el fondo del óvalo donde una mujer sola estira contra la niebla. El día baja a buscarla.
 
 Sofía sostiene la vista en lo alto un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
 
