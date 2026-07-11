@@ -170,7 +170,7 @@ Sin embargo, solo un clérigo muy mal aconsejado se animaría a usar esta expres
 - [[2_atlas/ciudades/darsena/tuberias|Las Tuberías: Sistema de Transporte Neumático]]
 
 ### Contexto Político
-- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]]
 - [[1_trasfondo/facciones/facciones-menores/arpistas|Los Arpistas: Preservadores de Tecnología]]
 - [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Ministerio de Infraestructura: Control de Recursos]]
 
