@@ -37,39 +37,30 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-<mark style="background: #BBFABBA6;">Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero.</mark> <mark style="background: #CACFD9A6;">Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende, iluminando una celda gris.</mark> <mark style="background: #CACFD9A6;">Hay un lavabo y un espejo amurados en la pared de su habitación.</mark> <mark style="background: #CACFD9A6;">También una biblioteca cómoda,</mark> <mark style="background: #BBFABBA6;">con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.</mark> <mark style="background: #BBFABBA6;">Se sienta en la cama, lo que tarda en tensar la cola de caballo, se levanta y mecánicamente comienza su ritual matutino.</mark>
+Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende iluminando una celda gris. Se sienta en la cama, lo que tarda en tensar la cola de caballo, se levanta y mecánicamente comienza su ritual matutino.
 
-<mark style="background: #BBFABBA6;">Se lava con agua que no tuvo tiempo de calentar. Toma dos pastillas que no recuerda para qué sirven. El espejo la observa, distraída, cepillándose los dientes mientras descubre sus primeras arrugas en los ojos. "Treinta". Cepilla un poco más.</mark>
+Se lava con agua que no tuvo tiempo de calentar. Toma dos pastillas que no recuerda para qué sirven. El espejo la observa, distraída, cepillándose los dientes mientras descubre sus primeras arrugas en los ojos. "Treinta". Cepilla un poco más.
 
-<mark style="background: #BBFABBA6;">Termina y gira hacia su cama y, como si le hubieran disparado, se arrodilla a rezar, presionando ambas manos contra su frente.</mark> <mark style="background: #BBFABBA6;">Sofía reza con pasión durante siete minutos más.</mark>
+Termina y gira hacia su cama y, como si le hubieran disparado, se arrodilla a rezar, presionando ambas manos contra su frente. Sofía reza con pasión durante siete minutos más.
 
-<mark style="background: #CACFD9A6;">Luego saca de su cómoda una calza gruesa y una primera piel de invierno, blanca y de textura esponjosa, que se coloca inmediatamente. Desde abajo de su cama recupera un par de zapatillas de cuero cordobés, con cámara de aire.</mark>
+Luego saca de su cómoda una calza gruesa y una primera piel de invierno, blanca y de textura esponjosa, que se coloca inmediatamente. Desde abajo de su cama recupera un par de zapatillas de cuero cordobés, con cámara de aire.
 
-<mark style="background: #BBFABBA6;">Se ata los cordones, pensando en los inaturales bordes curvos de su celda. Una placenta. Cambia de zapatilla. Una colmena. No lo recordaba tan opresivo. Sonrió ante lo obvio: era ella la que ahora podía tocar el techo con la mano.</mark>
+Se ata los cordones, pensando en los inaturales bordes curvos de su celda. Una placenta. Cambia de zapatilla. Una colmena. No lo recordaba tan opresivo. Sonrió ante lo obvio: era ella la que ahora podía tocar el techo con la mano.
 
-<mark style="background: #BBFABBA6;">Sale de su celda en el momento en que el temporizador hace un click y la habitación se oscurece.</mark>
+Sale de su celda en el momento en que el temporizador hace un click y la habitación se oscurece.
 
 ---
 
-<mark style="background: #BBFABBA6;">Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. </mark>
+Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]].
 
-<mark style="background: #BBFABBA6;">El patio subterráneo es ovalado, del tamaño de una cancha de tenis, y sigue en penumbras bajo la neblina que entra como un río fantasmal por la única rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar su hombro. Mira arriba, una escalera enroscándose entre pasillos y balcones, serpenteando el interior de la torre, ascendiendo piso tras piso, en ondas y descansos según los caprichos de Gaudí, los mismos que inspiraron El Faro.</mark>
+El patio subterráneo es ovalado, del tamaño de una cancha de tenis, y sigue en penumbras bajo la neblina que entra como un río fantasmal por la única rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar su hombro. Mira arriba, una escalera enroscándose entre pasillos y balcones, serpenteando el interior de la torre, ascendiendo piso tras piso, en ondas y descansos según los caprichos de Gaudí, los mismos que inspiraron El Faro.
 
-<mark style="background: #BBFABBA6;">Sofía recuerda, mientras atrapa su otro brazo y estira, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante,</mark> <mark style="background: #FFF3A3A6;">replicando la estética de la obra incluso en la Puerta de Piedra del cénit.</mark> <mark style="background: #FFB86CA6;">En la piedra,</mark> <mark style="background: #BBFABBA6;">su analogía no quedó clara, pero quienes sí lo recuerdan son los Iniciados de los pisos más alto, que viven con las cabezas moradas por protuberancias inadecuadas.</mark> <mark style="background: #BBFABBA6;">Como Gaudí, el arquitecto tampoco vivió para ver terminada su obra ."¿Cómo se llamaba...?", intenta recordar Sofía,</mark> <mark style="background: #FFF3A3A6;">que obtuvo la licenciatura en historia, su optativa.</mark>
-
-
-<mark style="background: #BBFABBA6;">Los iniciados pasaban sirviendo un par de años aquí. Ella había estado uno solo. Y no había vuelto, hasta hace un par de semanas, cuando la Reverenda Madre le asignó la número nueve.</mark>
-
-<mark style="background: #FF5582A6;">Se dio vuelta, de espalda a cualquier pensamiento inapropiado, y se dirigió a la escalera lateral
+Sofía recuerda, mientras atrapa su otro brazo y estira, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, y lo llevó hasta la Puerta de Piedra del cénit. Grabada ahí, su analogía no quedó clara, pero quienes sí lo recuerdan son los Iniciados de los pisos más alto, que viven con las cabezas moradas por protuberancias inadecuadas. Como Gaudí, el arquitecto tampoco vivió para ver terminada su obra ."¿Cómo se llamaba...?", intenta recordar Sofía, que se licenció en historia, su materia optativa.
 
 
+Los iniciados pasaban sirviendo un par de años aquí. Ella había estado uno solo. Y no había vuelto, hasta hace un par de semanas, cuando la Reverenda Madre le asignó la número nueve.
 
-
-
-
-Los mismos caprichos y los cuatro niveles de habitaciones de cientas de almas torturadas por ventanas incómodas y caminatas diarias insoportables en nombre de
-
-el estilo orgánico que tomaron la mayoría de las con vivió hace cuatrocientos años. Sube por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose orgánicamente en el techo, en la Puerta de Piedra.</mark>
+Se dio vuelta, de espalda a cualquier pensamiento inapropiado, y alzó la vista hacia la torre. Los mismos caprichos de Gaudí se repiten hacia arriba: cuatro niveles de celdas y sus almas alojadas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que las órdenes abrazaron cuando levantaron el Faro. La mirada sube por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose orgánicamente en el techo, en la Puerta de Piedra.
 
 Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la vista un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
 
