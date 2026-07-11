@@ -18,6 +18,7 @@ related:
   - "[[fuerzas-armadas]]"
   - "[[gremio-de-comercio]]"
   - "[[sumo-pontifice]]"
+  - "[[vestimenta]]"
 ubicaciones:
   - "[[darsena]]"
 spoilers:
