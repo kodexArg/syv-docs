@@ -30,7 +30,7 @@ spoilers:
 
 Las Fuerzas Armadas de la Confederación Argentina constituyen uno de los pilares fundamentales del régimen, encargadas de defender el territorio de amenazas externas y, de manera igualmente crucial, de mantener el orden interno y la sumisión ciudadana bajo la estricta "Doctrina de la Pureza Nacional". Operan como un poder monolítico que combina la organización militar tradicional con un omnipresente y temido aparato de seguridad. Su lealtad no es solo al Estado, sino a la [[1_trasfondo/facciones/iglesia-de-darsena/iglesia|Iglesia de Dársena]][^iglesia], que proporciona la legitimación ideológica para su existencia y operaciones.
 
-La estructura de defensa se organiza en tres ramas militares tradicionales, un comando unificado y un poderoso aparato de seguridad nacional. Sus recursos incluyen no solo armamento convencional, sino también artefactos "santificados" y tecnología limitada, supervisada de cerca por la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]][^sia].
+La estructura de defensa se organiza en tres ramas militares tradicionales, un comando unificado y un poderoso aparato de seguridad nacional. Sus recursos incluyen no solo armamento convencional, sino también artefactos "santificados" y tecnología limitada, supervisada de cerca por la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]][^sia].
 
 ## Comando Nacional
 
