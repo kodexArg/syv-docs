@@ -36,7 +36,7 @@ Esos pocos son hoy **Las Manos Calladas**: una secta clandestina sin hábito, si
 
 El credo de Las Manos Calladas es una herejía silenciosa contra la propia idea de orden eclesiástica. Sostienen que toda caridad institucionalizada se corrompe: que en cuanto la compasión adquiere edificios, presupuestos y un asiento en los consejos del poder, deja de servir a los pobres y empieza a reclutarlos. Su conclusión fue radical y la llevaron hasta el final: **si la estructura es la que envenena la caridad, hay que destruir la estructura.**
 
-Por eso trabajaron, durante años y desde adentro, para que la Congregación oficial dejara de existir. Filtraron expedientes, alimentaron sospechas de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]], dejaron que la orden se enredara en sus propias contradicciones hasta que la Curia la disolvió. Para el mundo, una orden caída en desgracia. Para ellas, una liberación: lo que sobrevivió a la purga fue lo único que les importaba —las personas y los vínculos entre ellas—, ya libres del peso de ser oficiales.
+Por eso trabajaron, durante años y desde adentro, para que la Congregación oficial dejara de existir. Filtraron expedientes, alimentaron sospechas de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]], dejaron que la orden se enredara en sus propias contradicciones hasta que la Curia la disolvió. Para el mundo, una orden caída en desgracia. Para ellas, una liberación: lo que sobrevivió a la purga fue lo único que les importaba —las personas y los vínculos entre ellas—, ya libres del peso de ser oficiales.
 
 Ahora la doctrina es simple:
 
