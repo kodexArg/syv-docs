@@ -78,7 +78,7 @@ La Curia Romana en Dársena constituye el aparato administrativo y gubernamental
 
 La Iglesia opera a través de varias ramas que se encargan de distintas funciones, manteniendo el control sobre la población y la ortodoxia.
 
-- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Sagrada Inquisición Argentina (SIA)]][^sia]: Considerada por muchos el verdadero poder detrás del trono, la SIA es el brazo autárquico de la Iglesia y la guardiana de la ortodoxia. Opera con métodos secretos y un poder inapelable para castigar herejías y amenazas sobrenaturales. Mantiene una abierta rivalidad con los Exorcistas, a quienes considera un brazo blando e ineficaz de la Santa Sede.
+- [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|La Santa Inquisición Argentina (SIA)]][^sia]: Considerada por muchos el verdadero poder detrás del trono, la SIA es el brazo autárquico de la Iglesia y la guardiana de la ortodoxia. Opera con métodos secretos y un poder inapelable para castigar herejías y amenazas sobrenaturales. Mantiene una abierta rivalidad con los Exorcistas, a quienes considera un brazo blando e ineficaz de la Santa Sede.
 
 - [[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|Exorcistas]]: Esta unidad especializada combate fuerzas oscuras combinando rituales, ciencia prohibida y un riguroso entrenamiento. Sus métodos, menos dramáticos y más efectivos que los de la Inquisición, les han ganado el favor popular y una reputación de héroes silenciosos.
 
