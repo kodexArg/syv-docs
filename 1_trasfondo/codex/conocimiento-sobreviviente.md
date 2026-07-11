@@ -162,7 +162,7 @@ Tasa de Preservación Estimada: 30-40% (altamente selectivo, sesgado hacia docum
 
 ### La Quema Sagrada
 
-En 2061, junto al cráter de Buenos Aires, se proclamó el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]. Lo que siguió fue una campaña de destrucción deliberada que duró tres décadas. La Sagrada Inquisición, con apoyo del Ejército, purgó la tierra de tecnología digital.
+En 2061, junto al cráter de Buenos Aires, se proclamó el [[1_trasfondo/codex/anatema-mecanico|Anatema Mecánico]]. Lo que siguió fue una campaña de destrucción deliberada que duró tres décadas. La Santa Inquisición, con apoyo del Ejército, purgó la tierra de tecnología digital.
 
 Lo que se destruyó activamente:
 - Computadoras, laptops, servidores
