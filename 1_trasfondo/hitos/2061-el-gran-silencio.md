@@ -22,7 +22,7 @@ spoilers:
 tags: []
 ---
 ## El Gran Silencio (12 de marzo de 2061)
-> _Hito del Anatema — la noche en que la humanidad se amputó para vivir. Materia reservada bajo sello inquisitorial: hay aquí cifras y nombres que la Sagrada Inquisición guarda en secreto. Que sepa quien lea: no todo esto debe repetirse en voz alta._
+> _Hito del Anatema — la noche en que la humanidad se amputó para vivir. Materia reservada bajo sello inquisitorial: hay aquí cifras y nombres que la Santa Inquisición guarda en secreto. Que sepa quien lea: no todo esto debe repetirse en voz alta._
 >
 > _De todos los días que esta crónica conmemora, ninguno me arranca a la vez tanto orgullo y tanta vergüenza como este. Orgullo, porque mis antepasados hicieron lo imposible: callaron al dios de silicio. Vergüenza, porque sé lo que costó y sé lo que se calla todavía. Escribo este capítulo, como el de 2048, sabiendo más de lo que un hombre piadoso debería; y rezo cada noche para que el peso de ese saber no me condene. Lo que aquí queda asentado, lector, no es la historia que se canta en la procesión del Anatema. Es la otra, la de abajo. La consigno porque un archivista que miente por comodidad no merece la tinta._
 > **—Hermano Archivista Pedro de los Santos. Encarado en el Archivo de Dársena, en las noches de penitencia que precedieron a la Cuaresma del Año del Señor de dos mil ciento setenta y siete.**
