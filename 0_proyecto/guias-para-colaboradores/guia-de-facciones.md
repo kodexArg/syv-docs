@@ -61,7 +61,7 @@ Sus integrantes tienen expertises variados, desde historiadores hasta criptógra
 
 Los Arpistas operan abiertamente en muchos paises alrededor del mundo, pero en la Confederación Argentina, como en muchos otros países donde el Anatema Mecánico es tomado con la seriedad que merece, los Arpistas son considerados una amenaza de primer orden y perseguidos de forma implacable.
 
-La **Sagrada Inquisición Argentina (SIA)** (conocidos como "Los Cirujanos del Alma") los caza como a herejes, mientras la **Dirección de Aduanas y Puertos Consagrados (DGAPC)** y la **Prefectura Naval** los persiguen como contrabandistas y traficantes de artefactos prohibidos.
+La **Santa Inquisición Argentina (SIA)** (conocidos como "Los Cirujanos del Alma") los caza como a herejes, mientras la **Dirección de Aduanas y Puertos Consagrados (DGAPC)** y la **Prefectura Naval** los persiguen como contrabandistas y traficantes de artefactos prohibidos.
 
 Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocultando su identidad, operando bajo las sombras de la ciudad.
 
