@@ -79,7 +79,7 @@ Junto a la Basílica se alza la **Universidad de la Luz Divina**, centro de form
 
 Una instalación médica de vanguardia, pero de acceso exclusivo para el personal militar y los miembros de la Iglesia. Aquí se tratan heridas de combate y se investigan aflicciones de origen anómalo.
 
-## El Faro de la Sagrada Inquisición Argentina
+## El Faro de la Santa Inquisición Argentina
 
 > [!info] Ficha propia
 > Medidas canónicas, la colmena de celdas, la gran escalera y la vivienda de la Reverenda Madre: [[2_atlas/ciudades/darsena/faro-de-la-sia|Faro de la SIA]].
