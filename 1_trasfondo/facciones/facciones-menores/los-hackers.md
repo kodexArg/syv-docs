@@ -112,6 +112,6 @@ A pesar de la tolerancia limitada bajo Corpus Licitus, la arqueología digital s
 
 - La Iglesia Católica
 - Dirección Nacional de Seguridad (DNS)
-- Sagrada Inquisición Argentina (SIA)
+- Santa Inquisición Argentina (SIA)
 - Arpistas
 - Guardianes de la Memoria
