@@ -14,6 +14,7 @@ related:
   - "[[inquisicion]]"
   - "[[fuerzas-armadas]]"
   - "[[canales-ocultos]]"
+  - "[[vestimenta]]"
 ubicaciones:
   - "[[darsena]]"
 spoilers:
