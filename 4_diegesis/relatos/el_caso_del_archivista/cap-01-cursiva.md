@@ -10,10 +10,10 @@ description: 'Capítulo uno de El Caso del Archivista — prosa. Un día cualqui
 entidad: relato
 estado: borrador
 facciones:
-- '[[inquisicion|Sagrada Inquisición]]'
+- '[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición]]'
 folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
-- '[[el-caso-del-archivista|El Caso del Archivista]]'
+- '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
 - '[[4_diegesis/relatos/cursiva|Cursiva]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
 - '[[3_personajes/principales/padre-rafa|Padre Rafa]]'
@@ -29,7 +29,7 @@ spoilers:
 tags: []
 title: Cursiva
 ubicaciones:
-- '[[darsena|Ciudad Dársena]]'
+- '[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]'
 - '[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]'
 ---
 
@@ -37,23 +37,29 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende, iluminando una celda gris sin ángulos rectos, con un lavabo y un espejo amurados en la pared de su habitación. Al lado, una biblioteca cómoda, con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental. Se sienta en su cama un momento, para tensar la cola de caballo, y comienza su ritual matutino.
+Suena el beep de un reloj o [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea una pared plástica hasta el contorno de una perilla, un click, y el techo se enciende, iluminando una celda gris. Hay un lavabo y un espejo amurados en la pared de su habitación. También una biblioteca cómoda, con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental. Se sienta en su cama un momento, para tensar la cola de caballo, y comienza su ritual matutino.
 
 Se lava con agua que no tuvo tiempo de calentar. Toma dos pastillas que no recuerda para qué sirven. El espejo la observa, distraída, cepillándose los dientes mientras descubre sus primeras arrugas en los ojos. "Treinta". Cepilla un poco más.
 
-Mecánicamente gira ciento ochenta grados hacia su cama y, como si le hubieran disparado, se arrodilla y agarra el rosario de su mesa de luz, lo aprieta con fuerza, con ambas manos contra su frente. Sofía reza con pasión durante siete minutos.
+Mecánicamente gira ciento ochenta grados hacia su cama y, como si le hubieran disparado, se arrodilla y agarra el rosario de su mesa de luz, lo aprieta con fuerza, con ambas manos contra su frente.
 
-De su cómoda saca una remera negra sin mangas, una calza gruesa y una primera piel de invierno, blanca de textura esponjosa. Desde abajo de su cama recupera un par de zapatillas, con cámara de aire, de cuero cordobés. Sale en el momento en que el temporizador de la luz hace un click y la habitación se oscurece.
+Sofía reza con pasión durante siete minutos.
+
+De su cómoda saca una calza gruesa y una primera piel de invierno, blanca y de textura esponjosa, que se coloca inmediatamente. Desde abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire.
+
+Sale de su celda en el momento en que el temporizador hace un click y la habitación se oscurece.
 
 ---
 
-Han pasado diez minutos desde las cinco de la mañana, y una de las puertas de la inmensa colmena interior se abre, bajo el Faro de la [[inquisicion|Sagrada Inquisición Argentina]]. El patio subterráneo, ovalado, tiene el tamaño de una cancha de tenis, con tres pisos de balcones y unas catenarias estilo Gaudí. El arquitecto debió haber escatimado algún elemento gótico, porque desafortunadamente su obra fue conocida como "El Paladar".
+Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior, bajo el Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]]. 
 
-Sofía atrapa su propio brazo recto y comienza a estirar. Abajo, un zumbido proviene de la rampa: es un carro contenedor de basura verde, bajando a toda velocidad, siguiendo el riel que lo hará girar adentro del playón, en este caso al límite de velocidad. Dos niños —totalmente rapados, de yoguin marrón— frenan y se bajan riendo, mientras recogen la basura del contenedor de enfrente. Sofía los ve correr de vuelta al carro, mientras la niña bombea algún pedal o palanca (Sofía no tiene idea, en su época no le dejaban tocar esas cosas) y el vehículo acelera por la vía que rodea el patio, avanzando en un silencio de engranajes aceitados por las puertas de los Maestros Inquisidores. Y, demasiado tarde, ven a la Hermana de Batalla. Sus rostros palidecen y las sonrisas se apagan al momento, mientras se concentran en recoger este último contenedor de basura, saludando con una pronunciada reverencia, antes de desaparecer rampa arriba. A una velocidad muy moderada.
+El patio subterráneo, ovalado, del tamaño de una cancha de tenis, sigue en penumbras bajo la neblina que entra, espesa, por la rampa del este. Sofía atrapa su propio brazo recto y comienza a estirar. Alrededor y hacia arriba, el caracol: cientos de habitaciones enroscadas a la escalera interior, nueve pisos de balcones asomados al óvalo del patio, todos a oscuras, todos en silencio. Sofía abajo, en el centro exacto: una figura pequeña estirando en el fondo de una caracola dormida.
 
-Aunque al principio Sofía se fastidió, la mirada de terror de los iniciados la desconcertó. No pudo siquiera tirarles la reprimenda que había redactado. En ese momento sintió que era realmente muy, muy nueva aquí. "Para qué me querés acá, Madre", suspiró. Al lado de su puerta estaba la escalera que, en tres tramos, la llevaría a los bosques de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], en [[darsena|Ciudad Dársena]], la Ciudad de las Nubes.
+El Faro amanece por dentro. El primer resplandor gana la corona del caracol y baja a su ritmo, balcón por balcón, aclarando barandas, puertas cerradas, plantas colgantes, hasta el fondo del óvalo donde una mujer sola estira contra la niebla. El día baja a buscarla.
 
-Sofía golpea los peldaños con la cadencia de un metrónomo. Peldaños, Faro y hasta su propia habitación están hechos de un único material, una piedra gris y continua, vertida de una sola vez, como si el edificio entero hubiera sido rezado en un solo aliento. La escalera es el único lugar donde el eco le pertenece.
+Sofía sostiene la vista en lo alto un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
+
+Al lado de su puerta espera una escalera lateral, ajena al caracol, hecha para resolver un solo piso: el que la separa del pasto. Los peldaños son del mismo material que todo lo demás, una piedra clara y continua, vertida de una sola vez, como si el edificio entero hubiera sido rezado en un solo aliento. Le devuelven los pasos con la cadencia de un metrónomo. La escalera es el único lugar donde el eco le pertenece.
 
 Durante años, ese eco fue otro. Sofía fue la escolta personal de la [[3_personajes/principales/madre-superiora-maria|Reverenda Madre]]: su sombra, su muro, la última distancia entre el mundo y ese hábito blanco. Después la Madre se retiró de la sociedad, a la corona de la Torre, donde vive de oración y de silencio, y la escolta quedó abajo, aceitada, sin nada que escoltar. "Te quiere cerca", le explicaron. Cerca. La Madre habita la cima del Faro y Sofía la base, tres metros bajo tierra; entre ambas, una torre entera de peldaños que nadie sube. A Sofía le dieron un cargo que cabe en una palabra —custodia— y un jardín que se custodia solo. Al otro lado de la Dársena, la ciudad inmensa peca, arde y necesita: trabajo de campo para diez vidas. Acá: pinos, tilos, turistas. Y el amanecer.
 
