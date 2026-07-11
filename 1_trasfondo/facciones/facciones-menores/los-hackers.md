@@ -45,7 +45,7 @@ En un mundo donde la información es controlada con puño de hierro, "Los Hacker
 
 Los Hackers operan en pequeñas células dispersas, utilizando equipos de radio y computación caseros, a menudo ensamblados con chatarra tecnológica. Prefieren métodos pasivos para evitar ser detectados, escuchando las arterias invisibles de la comunicación de la ciudad. No tienen líderes visibles; el reclutamiento se basa en la afinidad ideológica y la confianza mutua, creando una comunidad unida por el deseo de saber.
 
-Su existencia es una afrenta directa a la "Dirección Nacional de Seguridad (DNS)" y a la "Sagrada Inquisición Argentina (SIA)", quienes los cazan sin descanso. Sin embargo, su relación con estas entidades es paradójica y peligrosa.
+Su existencia es una afrenta directa a la "Dirección Nacional de Seguridad (DNS)" y a la "Santa Inquisición Argentina (SIA)", quienes los cazan sin descanso. Sin embargo, su relación con estas entidades es paradójica y peligrosa.
 
 Información secreta (no exponer a jugadores): El talento de Los Hackers es un recurso demasiado valioso como para simplemente eliminarlo. Los miembros más hábiles no siempre son ejecutados al ser capturados. A menudo, la DNS los recluta a la fuerza para que sirvan como "Criptógrafos oficiales" en sus propias filas. Peor aún, la SIA los captura y los "quiebra" en sus mazmorras, forzándolos a trabajar en operaciones de espionaje contra otras facciones, convirtiendo su pasión por el conocimiento en una herramienta de opresión. Mantienen contactos secretos con redes de hackers fuera de Dársena, un hilo de esperanza en su precaria existencia.
 
