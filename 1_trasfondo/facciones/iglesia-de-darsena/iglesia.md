@@ -102,7 +102,7 @@ La Iglesia opera a través de varias ramas que se encargan de distintas funcione
 
 <!-- /🔐 -->
 
-Información secreta (no exponer a jugadores): La Iglesia es un nido de intrigas. La rivalidad entre los Exorcistas y la Sagrada Inquisición es mucho más profunda de lo que se percibe, llegando a sabotajes y conflictos velados. Además, en sus archivos más secretos, la Iglesia no solo destruye, sino que también custodia y estudia artefactos y textos prohibidos de extremo poder, considerándolos herramientas que solo la más alta jerarquía puede comprender y, eventualmente, utilizar. El verdadero secreto de Dársena no es la existencia de una fuente de energía poderosa, sino que depende completamente de una rejilla tecnológica pre-guerra cuyo funcionamiento es un misterio incluso para la Iglesia; los técnicos del Departamento de Red Eléctrica simplemente la mantienen sin comprender completamente cómo funciona.
+Información secreta (no exponer a jugadores): La Iglesia es un nido de intrigas. La rivalidad entre los Exorcistas y la Santa Inquisición es mucho más profunda de lo que se percibe, llegando a sabotajes y conflictos velados. Además, en sus archivos más secretos, la Iglesia no solo destruye, sino que también custodia y estudia artefactos y textos prohibidos de extremo poder, considerándolos herramientas que solo la más alta jerarquía puede comprender y, eventualmente, utilizar. El verdadero secreto de Dársena no es la existencia de una fuente de energía poderosa, sino que depende completamente de una rejilla tecnológica pre-guerra cuyo funcionamiento es un misterio incluso para la Iglesia; los técnicos del Departamento de Red Eléctrica simplemente la mantienen sin comprender completamente cómo funciona.
 
 ---
 
