@@ -30,7 +30,7 @@ En la Confederación Argentina, el término ""Criptógrafo"" tiene "dos signific
 "NO son una facción independiente", sino "roles profesionales" dentro del Estado:
 
 - "Criptógrafos estatales": Especialistas que trabajan para la "Dirección Nacional de Seguridad (DNS)" o las "Fuerzas Armadas", encargados de comunicaciones cifradas, interceptación de señales y recuperación de información para el régimen.
-- "Criptógrafos clericales": Especialistas que trabajan para la "Sagrada Inquisición Argentina (SIA)", realizando tareas similares pero bajo supervisión eclesiástica.
+- "Criptógrafos clericales": Especialistas que trabajan para la "Santa Inquisición Argentina (SIA)", realizando tareas similares pero bajo supervisión eclesiástica.
 
 Estos profesionales son funcionarios legítimos del Estado, con salarios, rangos y lealtad institucional.
 
