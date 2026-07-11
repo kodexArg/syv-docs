@@ -25,7 +25,7 @@ Muchos son también científicos, que no solo vigilan desde la distancia, sino q
 
 Este modelo de "ciencia vigilada" no es exclusivo de la Confederación: se sabe que otras regiones del mundo han adoptado sistemas similares, donde la figura del censor es central para el desarrollo de nuevas soluciones.
 
-La "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina (SIA)]]", por su parte, actúa como el brazo ejecutor: interviene solo ante las contravenciones más graves, persiguiendo y castigando los delitos de herejía tecnológica cuando los límites impuestos por los Censores han sido cruzados.
+La "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]]", por su parte, actúa como el brazo ejecutor: interviene solo ante las contravenciones más graves, persiguiendo y castigando los delitos de herejía tecnológica cuando los límites impuestos por los Censores han sido cruzados.
 
 Afirmar que este control cuenta con la aprobación de la mayoría sería una simplificación. No obstante, tras el fracaso del llamado "siglo de las libertades", este sistema de vigilancia y restricción se ha consolidado como la norma durante más de cien años. El celo institucional ha permeado profundamente en la cultura, hasta el punto de que incluso las generaciones más jóvenes lo asumen como parte natural de su realidad cotidiana.
 
