@@ -114,7 +114,7 @@ En las mañanas de verano, Sofía corre bordeando la costa sur, llenando sus pul
 ✓ **Padre Rafa** - Exorcista, ligado a Monseñor Miguel y al Papa (cf. `3_personajes/principales/padre-rafa.md`)
 
 ### Facciones
-✓ **Sagrada Inquisición Argentina (SIA)** - Facción principal
+✓ **Santa Inquisición Argentina (SIA)** - Facción principal
 ✓ **Sistema de Iniciados del Faro** - Programa de entrenamiento espiritual/militar
 ✓ **Hermanas de Batalla** - Brazo de guerra de la Inquisición
 
