@@ -236,7 +236,7 @@ La proclamación incluía:
 - **Prohibición total y absoluta de la tecnología digital avanzada**
 - **Destrucción permanente de infraestructura computacional compleja**
 - **Persecución eterna de cualquier intento de recreación de sistemas IA**
-- **Establecimiento de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] como ejecutora del [[1_trasfondo/codex/anatema-mecanico|Anatema]]**
+- **Establecimiento de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] como ejecutora del [[1_trasfondo/codex/anatema-mecanico|Anatema]]**
 
 La Iglesia Católica, reconfigurada por el dolor y reunificada bajo el liderazgo del [[3_personajes/principales/monseñor-miguel|Arzobispo Miguel de Córdoba]] (que se convertiría en el primer Papa post-Anatema), brindó legitimidad espiritual.
 
