@@ -69,7 +69,7 @@ El fin de año nuevo del 2030 no fue televisado de manera global, y los fuegos a
 El fin del mundo no nos tomó por sorpresa; simplemente elegimos mirar hacia otro lado mientras nos ocurría en la cara.
 
 > [!info]- Ver también
-> [[1_trasfondo/facciones/facciones-menores/los-cartoneros-del-sur|Los Cartoneros del Sur]] · [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Sagrada Inquisición Argentina]] · [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] · [[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|Barrios del Norte]] · [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires]] · [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Las QIA]] · [[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]] · [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]]
+> [[1_trasfondo/facciones/facciones-menores/los-cartoneros-del-sur|Los Cartoneros del Sur]] · [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] · [[2_atlas/ciudades/darsena/tuberias|Las Tuberías]] · [[2_atlas/ciudades/darsena/zona-residencial-alta-sociedad|Barrios del Norte]] · [[1_trasfondo/hitos/2039-el-meteorito-de-buenos-aires|El Meteorito de Buenos Aires]] · [[1_trasfondo/codex/qia-inteligencias-artificiales-cuanticas|Las QIA]] · [[1_trasfondo/hitos/2031-la-fragmentacion-de-argentina|La Fragmentación de Argentina]] · [[3_personajes/principales/pedro-de-los-santos|Pedro de los Santos]]
 
 
 ---
