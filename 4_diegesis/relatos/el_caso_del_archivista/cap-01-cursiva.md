@@ -37,37 +37,39 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta el contorno de una perilla, y el techo entero ilumina la celda gris. Hay un lavabo y un espejo amurados en la pared opuesta de la habitación, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen para ella ni siquiera valor sentimental.
+Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta una perilla y el techo entero se ilumina. La celda es gris.
 
-Se sienta en la cama a tensar su cola de caballo.
+Se sienta en la cama a tensar su cola de caballo, mirando entre cejas el techo perlado, de innaturales bordes curvos. Nada tiene ángulos aquí. "Una colmena".
 
-"Qué hago acá".
+Hay un lavabo y un espejo amurados en la pared, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.
 
-No le da tiempo al agua de calentarse y se lava todo el cuerpo. Toma del botiquín dos pastillas que no recuerda para qué sirven. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes, mientras descubre sus primeras arrugas en los ojos.
+Se lava el cuerpo con una tohalla húmeda y agua que no ha tenido tiempo de calentar. Toma del botiquín dos pastillas -no recuerda para qué sirven- y se las traga. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes mientras se toca su primera arruga en el ojo. Cepilla un poco más.
 
-Cepilla un poco más.
+Saca de su cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca apurada justo antes de comenzar a tiritar.
 
-Termina y gira hacia su cama y, como si le hubieran disparado, se arrodilla a rezar con las manos contra su frente.
+Gira hacia su cama y, como si le hubieran disparado, se arrodilla. La mano se extiende hacia un rosario de madera, sobre su mesa de luz, y lo aprieta fuerte contra la frente mientras susurra.
 
 Sofía reza con pasión durante siete minutos más.
 
-Aún desnuda, saca de su cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca justo antes de comenzar a tiritar. Desde abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se ata los cordones, mirando entre sus cejas en el techo los inaturales bordes curvos. "Una colmena". Comienza a atarse la otra zapatilla. No recordaba este lugar tan opresivo. Sonrie ante lo obvio: es ella la que ahora puede tocar el techo con la mano.
-
-Sale de su celda, en el momento en que el temporizador hace un click y la habitación se oscurece a su espalda.
+De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se ata los cordones, mirando distraída el techo curvo una vez más. No recordaba este lugar tan alienígena. Cambia de pie y comienza a atarse la otra zapatilla. Es ella quien ha crecido, y sonríe: ahora podría tocar el techo con la mano. Lo hace: antes de salir estira la mano por encima de la cabeza. Sale en el momento en que el temporizador hace un click a su espalda y la habitación se apaga.
 
 ---
 
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre en el patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
+Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior del Faro de la Santa Inquisición Argentina.
 
-Es un predio subterráneo ovalado, del tamaño de una cancha de tenis y nueve pisos de alto. Nada se distingue en la penumbra, salvo la neblina que entra como un río fantasmal por la única rampa que desciende desde el este. Sofía atrapa su propio brazo recto y comienza a elongar. Mira enfrente, a la gran escalera, ascendiendo desde la neblina para enroscándose entre pasillos y balcones, serpenteando hacia la cúpula, piso tras piso, en ondas y descansos como la serpiente del génesis, según los caprichos de Gaudí, o mejor dicho los del arquitecto que lo interpretó.
+El patio es un óvalo subterráneo del tamaño de una cancha de tenis, oscuro y sin columnas, con nueve niveles de balcones enroscados hasta el techo. Poco se distingue en la penumbra, bajo la neblina que entra como un río fantasmal.
 
-Cien hermanos inquisidores hacen aquí algunos años de servicio, con sus tutores en sus propias labores, obserando desde los pisos medios.
+Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba, siguiendo la amplia escalera blanca, que trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después. Asciende como la serpiente del génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero imagina, más allá de la cúpula tan alta, negra y elevada como el mismo cielo.
 
-Su vista ya se ha adaptado, y aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, gracias a ingeniosos conductos de vidrio que transportan la claridad del exterior, pasando entre las paredes de las habitaciones, una proeza de ingeniería.
 
-Lo cierto es que aquí, el amanecer se parece más a un cielo estrellado. Mientras el resplandor ahora baja, balcón por balcón, hasta ella.
 
-Sofía recuerda ahora, mientras atrapa su otro brazo, que el arquitecto pensó el interior del faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascención, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra como el reverso de aquella otra que mandaba abandonar toda esperanza a quien entrara.
+Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero 
+
+Ancianos, sabios y ella.
+
+Su vista se ha adaptado, y ahora aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, a través de ingeniosos conductos de vidrio que transportan la claridad del exterior. Aquí, el amanecer se parece a un cielo estrellado, y el resplandor baja desde el cielo, balcón por balcón.
+
+Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó al faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascención, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra como el reverso de aquella otra que mandaba abandonar toda esperanza a quien entrara.
 
 Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó. 
 
