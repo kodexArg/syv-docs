@@ -67,8 +67,6 @@ Son cien los hermanos inquisidores de servicio, con otros tantos tutores observ�
 
 Ancianos, sabios y ella.
 
-Su vista se ha adaptado, y ahora aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, a través de ingeniosos conductos de vidrio que transportan la claridad del exterior. Aquí, el amanecer se parece a un cielo estrellado, y el resplandor baja desde el cielo, balcón por balcón.
-
 Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó al faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascensión, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra como el reverso de aquella otra que mandaba abandonar toda esperanza a quien entrara.
 
 Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó.
