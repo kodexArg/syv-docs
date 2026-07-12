@@ -83,7 +83,7 @@ Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la
 
 A medida que su vista se adapta, aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, pequeños conductos de vidrio que transportan la claridad del Este hacia el interior, pasando entre las paredes de las habitaciones en una proeza de ingeniería. Aquí el amanecer se parece más a un cielo estrellado, un resplandor que baja, balcón por balcón, hasta el fondo del óvalo, donde una mujer sola estira y estira entre la neblina.
 
-Al lado de su puerta espera una escalera, y ella asciende para resolver un solo piso. Los peldaños están inscrustados en la misma roca clara y continua. Artificial. Le devuelven los pasos con la cadencia de un metrónomo.
+Al lado de su puerta espera una escalera, y ella asciende para resolver un solo piso. Los peldaños están incrustados en la misma roca clara y continua. Artificial. Le devuelven los pasos con la cadencia de un metrónomo.
 
 La escalera la entrega por un costado del Faro, a ras de tierra. Atrás, el caracol enterrado; adelante, el bosque. El aire se abre y trae olor a resina, el de los pinos, y el pasto amanece gris de neblina. Sofía cruza el umbral y la torre se le impone entera desde afuera: una sola pieza de piedra clara, lisa, sin junturas, que trepa más allá de la neblina. Blanco. Muerto.
 
