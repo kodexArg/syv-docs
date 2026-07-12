@@ -77,7 +77,7 @@ Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la er
 
 Sofía se pregunta si el Gaudí de dos siglos y medio atrás habría sido igual de desconsiderado.
 
-Le dio la espalda a cualquier pensamiento inapropiado y dejó que la mirada subiera sola. Los mismos caprichos apilaban hacia el cénit cuatro niveles de celdas: cientos de almas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que la Inquisición hizo suyo hace cuatrocientos años. La vista trepa por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose, orgánica, en el techo: la Puerta de Piedra.
+Le da la espalda a cualquier pensamiento inapropiado y deja que la mirada suba sola. Los mismos caprichos apilan hacia el cénit cuatro niveles de celdas: cientos de almas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que la Inquisición hizo suyo hace cuatrocientos años. La vista trepa por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose, orgánica, en el techo: la Puerta de Piedra.
 
 Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la vista un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
 
