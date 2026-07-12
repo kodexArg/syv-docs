@@ -1,6 +1,22 @@
 # Changelog
 
 ## [Unreleased]
+- group: highlight-marks-pass
+  priority: high
+  commit: 56d320d
+  changes:
+    - feat(proyecto): traits g/h added to kodex-style-canon.md — voice characteristics distilled from highlight-marks approval
+    - feat(tools): syv-highlight-marks enhancements — README and highlight.py updates for mark tier system
+
+- group: narrative-cap-01-cursiva-polish
+  priority: normal
+  commit: 9409a72
+  changes:
+    - fix(narrativa): cap-01-cursiva.md — typos corrected (innaturales, ascensión, incrustados, atrás)
+    - fix(narrativa): cap-01-cursiva.md — tense slips smoothed to narrative present
+    - fix(narrativa): cap-01-cursiva.md — duplicated Faro-lighting paragraph consolidated
+    - chore(narrativa): trailing whitespace stripped
+
 - group: relato-archivista-refactor-frontmatter-cierre
   priority: critical
   commit: 55fdea9
