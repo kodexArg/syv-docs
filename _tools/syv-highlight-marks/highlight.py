@@ -46,25 +46,42 @@ import re
 import sys
 from pathlib import Path
 
-# Highlightr default palette (RGB; alpha = last 2 hex digits, ignored).
+# Mark palette (RGB; alpha = last 2 hex digits, ignored). Three axes:
+#   fidelity  — how much the MEANING may move: yellow < orange < red
+#   lyric+    — add lyricism: purple (a lot, any register) ·
+#               pink 🩷 (more creative in a TENDER key: sensual/calm/peace/love, no violence)
+#   calm      — lower the temperature: blue (was too purple/pompous → sober) ·
+#               cyan 🩵 (calmer & INTROSPECTIVE: inner quiet, a small pleasure)
+# Plus the two loop-structural colours: green (approve→canon), gray (flow/typo).
 PALETTE: dict[str, tuple[int, int, int]] = {
     "red": (0xFF, 0x55, 0x82),
     "orange": (0xFF, 0xB8, 0x6C),
     "yellow": (0xFF, 0xF3, 0xA3),
     "green": (0xBB, 0xFA, 0xBB),
     "gray": (0xCA, 0xCF, 0xD9),
-    "purple": (0xC0, 0xA0, 0xFF),
+    "purple": (0xBE, 0x9F, 0xFF),   # Highlightr lavender — add MUCH more lyric
+    "pink": (0xFF, 0x8A, 0xD8),     # 🩷 rose — more creative, TENDER register: sensual/calm/peace/love, no violence
+    "blue": (0x4C, 0x6E, 0xF5),     # strong blue — too purple/pompous → calm it
+    "cyan": (0x6C, 0xE0, 0xE8),     # 🩵 celeste heart — calmer, INTROSPECTIVE: inner quiet, a small pleasure
 }
 ACTION: dict[str, str] = {
-    "red": "rewrite-total",       # rechazo total → reescribir el fragmento
-    "orange": "refactor-strong",  # refactor fuerte
-    "yellow": "refactor-moderate",  # refactor moderado
+    "red": "negate",              # negar lo que se dice → reescribir el contenido
+    "orange": "paraphrase",       # decir LO MISMO con otras palabras
+    "yellow": "light-touch",      # retoque muy suave (typo/ritmo mínimo, sentido intacto)
     "gray": "flow",               # flujo / typo (lo nombra el brace)
     "green": "approve",           # aprobado → solo quitar la marca
-    "purple": "create-event",     # kodex pide creatividad: inventar un evento/arte
+    "purple": "lyric-more",       # agregar MUCHA más lírica
+    "pink": "tender",             # más creativo, registro tierno: sensual/calmo/paz/amor, sin violencia
+    "blue": "de-purple",          # demasiado cursi/rimbombante → tranquilizar
+    "cyan": "introspective",      # más tranquilo e introspectivo: quietud interior, algún placer
 }
-SEVERITY = {"purple": 6, "red": 5, "orange": 4, "yellow": 3, "gray": 2, "green": 1}
-DEFAULT_COLOR = "yellow"  # bare/class-only <mark>, no resolvable hex → medium
+# Higher = touch first. Meaning-moving reds/oranges rank above enhancers so
+# corrections land before embellishment; light-touch/flow/approve at the floor.
+SEVERITY = {
+    "red": 8, "orange": 7, "blue": 6, "purple": 5, "cyan": 4,
+    "pink": 3, "yellow": 2, "gray": 1, "green": 0,
+}
+DEFAULT_COLOR = "yellow"  # bare/class-only <mark>, no resolvable hex → light touch
 
 # Matches ANY closed <mark>, capturing an optional hex from `background:#…`
 # if present. Tolerant to spacing, 6- or 8-digit hex, and to marks with no

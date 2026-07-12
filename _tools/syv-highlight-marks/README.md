@@ -24,13 +24,20 @@ prose back to disk.
   typing → never matched (the regex requires `</mark>`), so the loop never fights
   live typing.
 
-| Color / case | Hex | Action (`action`) |
-|---|---|---|
-| 🔴 red | `#FF5582` (or nearest) | `rewrite-total` — reescritura total / suplir lo que falta |
-| 🟠 orange | `#FFB86C` (or nearest) | `refactor-strong` |
-| 🟡 yellow / **bare or class-only mark (default)** | `#FFF3A3` / no hex | `refactor-moderate` |
-| ⚪ gray | `#CACFD9` (or nearest) | `flow` — flujo / typo (lo nombra el `{brace}`) |
-| 🟢 green | `#BBFABB` (or nearest) | `approve` — no tocar el texto, solo quitar la marca |
+Three intent axes + two loop-structural colours. The `{brace}` note always
+overrides the colour.
+
+| Axis | Color | Hex | Action (`action`) |
+|---|---|---|---|
+| fidelity | 🟡 yellow / **bare or class-only (default)** | `#FFF3A3` / no hex | `light-touch` — retoque muy suave, sentido intacto |
+| fidelity | 🟠 orange | `#FFB86C` (or nearest) | `paraphrase` — decir lo mismo con otras palabras |
+| fidelity | 🔴 red | `#FF5582` (or nearest) | `negate` — negar el contenido / rehacer el fragmento |
+| lyric+ | 🟣 purple | `#BE9FFF` (or nearest) | `lyric-more` — mucha más lírica (cualquier registro) |
+| lyric+ | 🩷 pink | `#FF99C8` (or nearest) | `tender` — más creativo en clave tierna: sensual/calmo/paz/amor, sin violencia |
+| calm | 🔵 blue | `#5B8DEF` (or nearest) | `de-purple` — estabas cursi/rimbombante → tranquilizar |
+| calm | 🩵 cyan | `#8FE3F0` (or nearest) | `introspective` — más tranquilo e introspectivo: quietud interior, algún placer |
+| structural | ⚪ gray | `#CACFD9` (or nearest) | `flow` — flujo / typo (lo nombra el `{brace}`) |
+| structural | 🟢 green | `#BBFABB` (or nearest) | `approve` — no tocar el texto, solo quitar la marca |
 
 Color is classified by **nearest palette colour in RGB** (robust to alpha and to
 6- or 8-digit hex, and to unknown/custom hex values — general behaviour, not an
