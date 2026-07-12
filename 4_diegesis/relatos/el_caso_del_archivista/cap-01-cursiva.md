@@ -75,7 +75,7 @@ Pero lo que realmente recuerda es que, quince años atrás, antes de su licencia
 
 Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la erosión de la censura, que se llevó las mejores estatuas. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
 
-Sofía se preguntaba si el Gaudí de dos siglos y medio atras habría sido igual de desconsiderado.
+Sofía se pregunta si el Gaudí de dos siglos y medio atrás habría sido igual de desconsiderado.
 
 Le dio la espalda a cualquier pensamiento inapropiado y dejó que la mirada subiera sola. Los mismos caprichos apilaban hacia el cénit cuatro niveles de celdas: cientos de almas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que la Inquisición hizo suyo hace cuatrocientos años. La vista trepa por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose, orgánica, en el techo: la Puerta de Piedra.
 
