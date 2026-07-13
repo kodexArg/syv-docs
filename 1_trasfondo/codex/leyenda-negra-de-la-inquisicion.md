@@ -65,7 +65,7 @@ Concluyó que no había hallado *el menor indicio* de un solo acto real de herej
 
 > «No hubo brujas ni embrujamientos hasta que se habló y se escribió de ellos.»
 
-La Suprema le dio la razón. Los procesos se suprimieron. Frías es, dentro de la institución más temida de la Confederación, la prueba viviente de que el Santo Oficio puede mirar un pánico fabricado a los ojos y decir que no es nada — y sostenerlo, contra la presión de todo un pueblo que quería ver arder a alguien. Es, probablemente, el mejor personaje que este material le regala al canon: un escéptico entero, funcionando desde adentro de la maquinaria más fanática del mundo.
+La Suprema le dio la razón. Los procesos se suprimieron. Frías es, dentro de la institución más temida de la Confederación, la prueba viviente de que el Santo Oficio puede mirar un pánico fabricado a los ojos y decir que no es nada — y sostenerlo, contra la presión de todo un pueblo que quería ver arder a alguien. Un escéptico entero, funcionando desde adentro de la maquinaria más fanática del mundo — y esa es, precisamente, el arma más peligrosa del Santo Oficio: un tribunal que a veces absuelve es infinitamente más difícil de odiar, y de derrocar, que uno que siempre condena.
 
 ## El Santo Oficio como arma privada
 
