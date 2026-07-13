@@ -1,11 +1,12 @@
 ---
-title: Coronel Santiago Mendoza Reyes
+title: Teniente Coronel Santiago Mendoza Reyes
 folder: 3_personajes/principales
 description: Teniente Coronel Gobernador Militar de Córdoba, conspirador que lidera la infiltración de una facción radical del Ejército en la estructura eclesiástica para imponer una religión militarizada.
 entidad: personaje
 alcance: secreto
 nombre: Santiago Mendoza Reyes
 aliases:
+  - Teniente Coronel Santiago Mendoza Reyes
   - Coronel Santiago Mendoza Reyes
   - Teniente Coronel Gobernador
 facciones:
