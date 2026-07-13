@@ -32,6 +32,16 @@ Las Fuerzas Armadas de la Confederación Argentina constituyen uno de los pilare
 
 La estructura de defensa se organiza en tres ramas militares tradicionales, un comando unificado y un poderoso aparato de seguridad nacional. Sus recursos incluyen no solo armamento convencional, sino también artefactos "santificados" y tecnología limitada, supervisada de cerca por la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina (SIA)]][^sia].
 
+## Terminología: el conjunto y las tres fuerzas
+
+"Fuerzas Armadas" nombra el **conjunto**: las tres fuerzas bajo un mismo Comando Nacional y una misma cadena de mando hacia [[3_personajes/principales/videla-iv|Videla IV]]. "Ejército", "Armada" y "Fuerza Aérea" nombran cada una de esas **tres fuerzas** — nunca sinónimos entre sí ni del conjunto. El canon dice siempre **Armada**, nunca "Marina".
+
+Dentro de ese trío, el Ejército no es una fuerza más entre pares: es el **brazo operativo** del poder público, el instrumento con que el Estado toca el suelo en control interno, orden territorial y ejecución de la voluntad del Comando Nacional. Por eso la Fuerza Aérea, ya degradada en los hechos a reconocimiento y transporte, y la Armada, que gobierna Dársena en la práctica, siguen subordinadas a la misma cadena que el Ejército administra desde el centro.
+
+La primacía de la Armada en Dársena —dueña de facto de la ciudad, guardiana de sus aguas y sus puertos— es una **tensión operativa**, no una excepción jerárquica: la Armada responde al Emperador exactamente como el Ejército y la Fuerza Aérea, aunque en Dársena mande con más peso propio que cualquiera de sus pares en su respectivo territorio.
+
+Que el pueblo —y buena parte de los documentos oficiales— le diga "el Ejército" a todo el aparato militar, Armada y Fuerza Aérea incluidas, es un **atajo coloquial**: confunde el brazo operativo con el conjunto entero. Se lo documenta como lo que es, un hábito del habla, no como sinónimo correcto de Fuerzas Armadas.
+
 ## Comando Nacional
 
 En la cúspide de la estructura se encuentra el "Comando Nacional", responsable de coordinar la estrategia y la política de defensa a nivel superior. Está compuesto por el "Consejo de Defensa", que asesora en políticas de seguridad; la Secretaría de Estrategia y Asuntos Militares, que dirige la planificación; y la Oficina de Coordinación de Seguridad Nacional, que sincroniza las distintas ramas de las fuerzas armadas y de seguridad.
