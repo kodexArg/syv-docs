@@ -21,12 +21,12 @@ spoilers:
   - "La conspiración del Teniente Coronel Gobernador que opera potencialmente sin su conocimiento completo en Córdoba."
 tags: []
 ---
-## Videla IV, Generalísimo de Córdoba
+## Videla IV, el Emperador que firma como Presidente
 
 **Edad aproximada**: 62 años (nacido ~2116)
 **Lugar**: Córdoba
 
-Presidente de facto y comandante supremo del [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Ejército Argentino]]
+Presidente de la Confederación en el papel; Emperador en los hechos. Comandante en Jefe de las tres Fuerzas — Ejército, Armada y Fuerza Aérea — y cabeza de la cadena de mando a la que responde, en ejercicio de sus funciones, todo agente del Estado: desde el barrendero de la calle hasta el empleado de biblioteca, desde el general hasta el sacerdote que ocupa un cargo público.
 
 ## Aspecto
 
