@@ -36,14 +36,17 @@ Hombre robusto de mediana edad, con los rasgos típicos de la elite militar cord
 
 ### Rol y Posición
 
-Generalísimo de la República Autónoma de Córdoba y heredero de la **Dinastía Videla**, que ha gobernado la ciudad desde su reorganización en 2031. Como cuarta generación de Videla, es el depositario de 147 años de autoridad militar ininterrumpida. Ostenta el título oficial de "Presidente" pero funciona como dictador de facto, ejerciendo control absoluto sobre:
+Heredero de la **Dinastía Videla**, que gobierna Córdoba desde su reorganización en 2031. Como cuarta generación, es el depositario de 147 años de autoridad militar ininterrumpida. Su título oficial sigue siendo "Presidente" — se lo nombra *General Videla IV*, *Generalísimo*, *Comandante en Jefe*, pero nunca "Emperador", y nadie lo corona. La ironía es exacta: **la figura es la del Emperador; el papel que firma es el de un funcionario electo**. Nadie en la Confederación lo diría en voz alta, pero todos actúan en consecuencia.
 
-- Todas las fuerzas militares terrestres de la Confederación
-- El aparato estatal de Córdoba
-- La economía productiva (factorías, refinerías, agroindustria)
-- El sistema judicial (nominalmente independiente, pero bajo su influencia)
+Su autoridad, en tanto Emperador de facto, es la **completa expresión del poder ejecutivo** de la Confederación:
 
-Su autoridad es prácticamente incontestable dentro de Córdoba. En la Confederación, comparte poder (tensamente) con la Iglesia Católica a través del equilibrio de fuerzas.
+- Comandante en Jefe de las tres Fuerzas — Ejército, Armada, Fuerza Aérea — sin excepción de rama
+- Cabeza de la cadena de mando estatal completa: todo agente en ejercicio de función pública, civil o religioso, le responde en esa capacidad
+- El aparato estatal en su totalidad — Ministerios, factorías, refinerías, agroindustria — como lo operativo del Estado, del cual él es la cabeza
+
+Córdoba es su base y su casa, el asiento de la Dinastía; pero su dominio ya no se agota ahí — es la Confederación entera. Ese es el error que comete quien lo llama solamente "Generalísimo de Córdoba": lo confunde con un caudillo local cuando es, de hecho, el vértice del poder ejecutivo confederal.
+
+**El límite real de su poder es judicial.** La Iglesia calibra las leyes mediante edictos; el Estado las ejecuta, pero pierde jurisdicción en cuanto pisa terreno eclesiástico. La justicia, en general, es de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] (salvo la militar, la comercial, y la familiar, que es de la Iglesia). Videla IV manda sobre todos los cuerpos armados y toda función pública — y casi no manda sobre ningún juez. Es, probablemente, lo que más le duele.
 
 ### Personalidad
 
