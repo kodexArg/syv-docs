@@ -67,7 +67,7 @@ Un Tribunal no son dos inquisidores solos en un cuarto. Es una máquina de perso
 
 **Los Familiares** no son parientes de nadie: son la red civil de informantes de la SIA, infiltrada en cada estrato de cada ciudad. Para ingresar hace falta acreditar linaje impecable — ver la **limpieza de linaje** más abajo — y a cambio se recibe exención de impuestos y prebendas sociales. El vecino que te saluda cada mañana puede ser un Familiar. Nadie sabe cuántos hay. Ese es el punto.
 
-Y una regla dura, sostenida sin excepción: **al consagrado le está prohibido ejercer de verdugo.** Quien aplica el tormento, cuando el tormento se aplica, es un profesional de la justicia civil, prestado al Tribunal, no un hombre de sotana. La Iglesia interroga. La Iglesia no lastima con sus propias manos — eso está reservado a otro brazo, y ese detalle no es casualidad: ver la [[#IV. El Auto de Fe|relajación al brazo secular]].
+Y una regla dura, sostenida sin excepción: **al consagrado le está prohibido ejercer de verdugo.** Quien aplica el tormento, cuando el tormento se aplica, es un profesional de la justicia civil, prestado al Tribunal, no un hombre de sotana. La Iglesia interroga. La Iglesia no lastima con sus propias manos — eso está reservado a otro brazo, y ese detalle no es casualidad: ver la **relajación al brazo secular** más adelante.
 
 ## III. El procedimiento
 
