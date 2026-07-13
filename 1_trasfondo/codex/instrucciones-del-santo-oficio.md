@@ -36,10 +36,12 @@ Cuatro niveles, y ni uno de más:
 
 | Nivel | Quién |
 |---|---|
-| Cabeza del Estado | El Emperador, [[3_personajes/principales/videla-iv\|Videla IV]] |
-| Inquisidor General | [[3_personajes/principales/monseñor-miguel\|Monseñor Miguel]] |
+| Cabeza del Estado | El Emperador, Videla IV |
+| Inquisidor General | Monseñor Miguel |
 | La Suprema | Consejo presidido por el Inquisidor General |
 | Los Tribunales | Uno por ciudad-estado, dos inquisidores cada uno |
+
+Cabeza del Estado: [[3_personajes/principales/videla-iv|Videla IV]]. Inquisidor General: [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]].
 
 El Inquisidor General responde, dice el papel, al Emperador y al Sumo Pontífice — doble tutela, escrita para que nadie lo acuse de no responder a nadie. En los hechos responde a ninguno de los dos. Esto no es un misterio ni un capricho de Monseñor Miguel: es la arquitectura misma la que lo produce. Cuando una cadena de mando cuelga de dos cabezas que se vigilan entre sí y ninguna puede moverse sin el consentimiento tácito de la otra, la cadena no cuelga de ninguna. Cuelga de sí misma. Ahí está la autarquía de la SIA, no en un poder que se robó, sino en un poder que el diseño le dejó vacante.
 
