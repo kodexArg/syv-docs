@@ -40,7 +40,7 @@ La ironía no es un defecto de diseño: es el punto. El único Ministerio que se
 
 ## Lo que NO es
 
-No existe un Triunvirato que gobierne la Confederación. El **Triunvirato** es una institución estrictamente cordobesa —dos mujeres y un Cardenal, poder local de Córdoba, sin jurisdicción sobre las otras cuatro ciudades. A escala confederal no hay trono compartido: si acaso, Videla IV, Monseñor Miguel y el Papa forman un triunvirato de hecho, informal, sin sede ni acta.
+No existe un Triunvirato que gobierne la Confederación. El **Triunvirato** es una institución estrictamente cordobesa —dos mujeres y un Cardenal, poder local de Córdoba, sin jurisdicción sobre las otras cuatro ciudades. A escala confederal no hay trono compartido: si acaso, Videla IV, [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]] y [[3_personajes/principales/sumo-pontifice|el Papa]] forman un triunvirato de hecho, informal, sin sede ni acta.
 
 Lo que la gente de a pie imagina cuando piensa en "quién manda" es más simple y, en esencia, no se equivoca: el **binomio Videla IV y el Papa**. La Iglesia habla en nombre de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición]] como si fuera un ala más de sí misma, y esa fusión de voces basta para que el binomio parezca completo. Monseñor Miguel, en cambio, es desconocido para la mayoría de los habitantes de Dársena —una figura de sacristía y despacho, no de plaza pública. Y complica todo el cuadro la palabra **autarquía**: la SIA es autárquica, opera fuera de la jerarquía ordinaria, y no es exactamente un ala de nadie, ni de la Iglesia que la patrocina ni del Estado que la tolera.
 
