@@ -65,7 +65,7 @@ Un Tribunal no son dos inquisidores solos en un cuarto. Es una máquina de perso
 
 **El Médico del Tribunal** está presente, por mandato, en cada sesión de tormento. Su función no es asistir: es limitar. Vigila que no haya sangre, que el cuerpo no se rompa más de lo permitido, y tiene potestad — real, ejercida — de detener la sesión. Un verdugo que se excede ante el médico del Tribunal comete una falta contra el procedimiento, no una travesura.
 
-**Los Familiares** no son parientes de nadie: son la red civil de informantes de la SIA, infiltrada en cada estrato de cada ciudad. Para ingresar hace falta acreditar linaje impecable — ver la [[#V. La limpieza de linaje|limpieza de linaje]] más abajo — y a cambio se recibe exención de impuestos y prebendas sociales. El vecino que te saluda cada mañana puede ser un Familiar. Nadie sabe cuántos hay. Ese es el punto.
+**Los Familiares** no son parientes de nadie: son la red civil de informantes de la SIA, infiltrada en cada estrato de cada ciudad. Para ingresar hace falta acreditar linaje impecable — ver la **limpieza de linaje** más abajo — y a cambio se recibe exención de impuestos y prebendas sociales. El vecino que te saluda cada mañana puede ser un Familiar. Nadie sabe cuántos hay. Ese es el punto.
 
 Y una regla dura, sostenida sin excepción: **al consagrado le está prohibido ejercer de verdugo.** Quien aplica el tormento, cuando el tormento se aplica, es un profesional de la justicia civil, prestado al Tribunal, no un hombre de sotana. La Iglesia interroga. La Iglesia no lastima con sus propias manos — eso está reservado a otro brazo, y ese detalle no es casualidad: ver la [[#IV. El Auto de Fe|relajación al brazo secular]].
 
