@@ -32,7 +32,9 @@ Un enigma viviente envuelto en autoridad absoluta y terror reverencial.
 
 ### Rol y Posición
 
-Es la máxima autoridad de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]. Algunos consideran que su poder está al mismo nivel que el del Papa. Su autoridad sobre asuntos de fe, herejía y posesiones es absoluta e incuestionable.
+Es la máxima autoridad de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] (SIA), y con ella, el poder judicial real de la Confederación. La justicia, salvo la militar, la comercial y la familiar (esta última reservada a la Iglesia), es de la Inquisición: la SIA es el Juez, y el Ministerio de Justicia del Estado —aunque nominalmente parte del aparato de Videla IV— lo dirige siempre un Inquisidor puesto por Monseñor Miguel. El Emperador manda sobre todos los cuerpos armados; Monseñor Miguel manda sobre casi todos los jueces. Es, en los hechos, la única autoridad que no responde a la cadena de mando del Emperador ni a la jerarquía visible de la Iglesia: la SIA es **autárquica**, no rinde cuentas a nadie.
+
+Popularmente se cree que la Iglesia habla en nombre de la Inquisición, como si esta fuera un ala más bajo el [[3_personajes/principales/sumo-pontifice|Sumo Pontífice]]. La Inquisición se desentiende de esa lectura y la deja correr: le conviene el malentendido. El pueblo de Dársena piensa el poder como un binomio —Videla IV y el Papa, las dos caras públicas—, y en esencia no se equivoca del todo, porque esas son las dos caras que hablan. Pero el hombre que de verdad decide quién es culpable y quién no lo es, **Monseñor Miguel, es desconocido para la mayoría de los habitantes de Dársena**. Nadie lo vitorea, nadie lo teme por su rostro, nadie sabe nombrarlo. Es el tercero del vértice que nadie ve — y por eso mismo, probablemente, el más poderoso de los tres.
 
 ### Personalidad
 
