@@ -9,6 +9,7 @@ aliases:
   - Monseñor Miguel
   - Gran Inquisidor
   - El Inquisidor
+  - Inquisidor General
 facciones:
   - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
 related:
