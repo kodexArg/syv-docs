@@ -90,7 +90,7 @@ La Iglesia opera a través de varias ramas que se encargan de distintas funcione
 
 - [[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|Exorcistas]]: Esta unidad especializada combate fuerzas oscuras combinando rituales, ciencia prohibida y un riguroso entrenamiento. Sus métodos, menos dramáticos y más efectivos que los de la Inquisición, les han ganado el favor popular y una reputación de héroes silenciosos.
 
-- "Curatores": Administran los vastos recursos de salud pública de la Iglesia, incluyendo hospitales y clínicas, y velan por la ética en la práctica médica desde una perspectiva teológica. La mayoría de sus miembros son también médicos o especialistas, y los capellanes militares que prestan servicio en las [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]][^ffaa] forman parte de este grupo.
+- "[[1_trasfondo/facciones/iglesia-de-darsena/curatores|Curatores]]": Administran los vastos recursos de salud pública de la Iglesia, incluyendo hospitales y clínicas, y velan por la ética en la práctica médica desde una perspectiva teológica. La mayoría de sus miembros son también médicos o especialistas, y los capellanes militares que prestan servicio en las [[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|Fuerzas Armadas]][^ffaa] forman parte de este grupo.
 
 - "Educadores, [[1_trasfondo/facciones/iglesia-de-darsena/archivistas-y-cientificos-teologicos|Archivistas y Científicos Teológicos]]": Este conjunto de grupos eclesiásticos gestiona el sistema educativo, desde escuelas primarias hasta universidades. Se aseguran de que toda la enseñanza y el conocimiento se mantengan dentro de los estrictos límites del dogma, promoviendo una visión del mundo donde la fe es el único prisma válido para interpretar la realidad.
 
