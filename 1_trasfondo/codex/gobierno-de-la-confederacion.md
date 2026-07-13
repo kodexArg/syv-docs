@@ -44,6 +44,12 @@ No existe un Triunvirato que gobierne la Confederación. El **Triunvirato** es u
 
 Lo que la gente de a pie imagina cuando piensa en "quién manda" es más simple y, en esencia, no se equivoca: el **binomio Videla IV y el Papa**. La Iglesia habla en nombre de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición]] como si fuera un ala más de sí misma, y esa fusión de voces basta para que el binomio parezca completo. Monseñor Miguel, en cambio, es desconocido para la mayoría de los habitantes de Dársena —una figura de sacristía y despacho, no de plaza pública. Y complica todo el cuadro la palabra **autarquía**: la SIA es autárquica, opera fuera de la jerarquía ordinaria, y no es exactamente un ala de nadie, ni de la Iglesia que la patrocina ni del Estado que la tolera.
 
+## Lo que sí une a la Confederación
+
+La Concordia pide; la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Inquisición]] entra. Ahí está la diferencia entre un ministerio y un tribunal. El Sínodo negocia Concordancias que cada gabinete firma y después ignora a su propio ritmo; el [[1_trasfondo/codex/justicia-confederada|fuero inquisitorial]] no negocia nada, porque nunca dependió del consentimiento de los cinco gobiernos para operar en las cinco ciudades. Es, en los hechos, la única institución que atraviesa la Confederación entera sin fisuras —y por eso, más que ningún Ministerio, es la que de verdad la mantiene unida.
+
+Esa es la ironía final del Ministerio de la Concordia: se creó para coser lo que la autonomía descose, y el que de verdad cose es un tribunal que no fue diseñado para eso, que no lo busca y que no le rinde cuentas ni al Emperador ni al Sínodo. No contradice la desigualdad que sigue: el gobierno no logra igualar la calidad de vida entre ciudades, pero el Juez sí logra igualar una sola cosa en las cinco por igual —el miedo a que le agreguen a uno un cargo de fe al expediente.
+
 ## La desigualdad como consecuencia
 
 La Concordia fracasa, y ese fracaso tiene cuerpo. No hay dos formas de decirlo: la calidad de vida no se iguala entre ciudades, y la brecha no es un accidente climático ni geográfico, es la sombra directa de cinco gabinetes autónomos tirando cada uno para su lado sin nada que los frene. En San Luis la esperanza de vida ronda los treinta y cinco años. En Dársena, a la misma hora, un barrio de alta sociedad discute qué vino sirve con el pescado. Ambas cosas ocurren bajo la misma Constitución, bajo el mismo Emperador que no se llama Emperador, bajo el mismo Sínodo que firma Concordancias que nadie honra.
