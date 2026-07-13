@@ -66,6 +66,7 @@ Tradicional, erudito, diplomático, pero progresivamente **más consciente de su
 - **Gentil pero firme**: No es débil, pero tampoco es implacable como Monseñor Miguel
 - **Cada vez más amargado**: A los 76 años, Estanislao es consciente de que su pontificado ha estado bajo la sombra de Monseñor Miguel
 - **Ideólogo del control**: Cree sinceramente que la represión eclesiástica es necesaria, pero cree que debería haber límites, límites que Monseñor Miguel no reconoce
+- **Actor consciente de su propio papel**: Sabe que al hablar en nombre de la Inquisición sostiene, ante el pueblo, la ilusión de que la controla. Lo hace de todos modos — es el precio de seguir siendo la cara amable en vez de un cadáver más
 
 Frase característica: "La Iglesia debe gobernar con firmeza, pero firmeza no significa crueldad."
 
