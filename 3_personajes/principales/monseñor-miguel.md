@@ -59,8 +59,9 @@ Aquellos que han investigado demasiado profundamente sobre el pasado de Monseño
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 
-- **Santa Inquisición Argentina**: Lidera la organización con autoridad absoluta
-- **El Papa**: Su relación con Roma es compleja y su poder posiblemente equiparable
+- **Santa Inquisición Argentina**: Lidera la organización con autoridad absoluta; a través de ella, es el Juez de facto de la Confederación
+- **[[3_personajes/principales/videla-iv|Videla IV]]**: El Emperador manda sobre las Fuerzas y toda función pública; Monseñor Miguel manda sobre casi toda la justicia. No hay institución que los ponga en la misma sala — su equilibrio es tácito, no protocolar
+- **[[3_personajes/principales/sumo-pontifice|Sumo Pontífice]]**: La cara pública que el pueblo confunde con la autoridad real de la Iglesia; Monseñor Miguel deja correr esa confusión porque lo esconde
 - **Los Acusados**: Cada juicio es una manifestación de su voluntad inexorable
 - **[[3_personajes/principales/madre-superiora-maria|Madre Superiora María]]**: Directora del Faro, Campeona de la Iglesia; ejecuta casos bajo su autoridad y dirige la Inquisición con mano de hierro propia
 
