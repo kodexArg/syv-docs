@@ -21,7 +21,7 @@ spoilers:
   - "En 2178 cae por el escándalo de Córdoba y se suicida en la Casa Verde; fue DiConte quien descubrió en privado el entramado y quien verdaderamente puso fin a la vida de ese monstruo, hecho que nunca se hará público."
 tags: []
 ---
-## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
+## Teniente Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
 
 **Edad**: 58 años (nacido ~2120)
 **Posición**: Teniente Coronel Gobernador de Córdoba, segundo al mando militar después de [[3_personajes/principales/videla-iv|Videla IV]]
