@@ -11,7 +11,8 @@ aliases:
   - El Inquisidor
 facciones:
   - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
-related: '["[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"]'
+related:
+  - "[[3_personajes/principales/madre-superiora-maria|madre-superiora-maria]]"
 spoilers:
   - Su historia ha sido intencionadamente eliminada; su verdadero origen y naturaleza son un misterio.
 tags: []
