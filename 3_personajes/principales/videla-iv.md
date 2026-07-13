@@ -115,11 +115,12 @@ Este es el quid del conflicto narrativo: Videla IV se cree en control absoluto, 
 
 ## Recursos y Poder
 
-- Control absoluto del Ejército Argentino (excepto Armada, que responde a Dársena)
+- Comandancia en Jefe de las tres Fuerzas — Ejército, Armada y Fuerza Aérea — sin excepción jerárquica. La Armada tiene su asiento y su misión en Dársena, y en los hechos esa ciudad vive bajo su gobierno operativo: una **tensión viva**, no una excepción a la cadena de mando. Que la Armada gobierne Dársena en la práctica no la saca de responder al Emperador en su ejercicio de Fuerza.
 - Acceso a todos los recursos de Córdoba (factorías, tecnología permitida, infraestructura)
 - Red de espías internos (policía secreta cordobesa)
 - Legitimidad política casi incuestionable dentro de Córdoba
 - Alianzas con élite académica y técnica (clase Media-Alta que lo necesita)
+- Sin jurisdicción sobre la justicia salvo la militar, la comercial y las excepciones que la Iglesia le cede: el fuero de la Inquisición es su límite estructural
 
 ## Debilidades y Vulnerabilidades
 
