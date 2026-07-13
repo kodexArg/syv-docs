@@ -14,7 +14,12 @@ aliases:
 facciones:
   - "[[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|inquisicion]]"
   - "[[1_trasfondo/facciones/iglesia-de-darsena/iglesia|iglesia]]"
-related: '["[[3_personajes/secundarios/sor-sofia|sor-sofia]]", "[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|las-manos-calladas]]", "[[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|exorcistas]]", "[[3_personajes/secundarios/sor-nikole|sor-nikole]]", "[[3_personajes/secundarios/sor-catalina|sor-catalina]]"]'
+related:
+  - "[[3_personajes/secundarios/sor-sofia|sor-sofia]]"
+  - "[[1_trasfondo/facciones/facciones-menores/las-manos-calladas|las-manos-calladas]]"
+  - "[[1_trasfondo/facciones/iglesia-de-darsena/exorcistas|exorcistas]]"
+  - "[[3_personajes/secundarios/sor-nikole|sor-nikole]]"
+  - "[[3_personajes/secundarios/sor-catalina|sor-catalina]]"
 spoilers:
   - Contiene información sobre el sistema de Iniciados del Faro y sus 'consecuencias'.
   - Su celo contra las posesiones nace de un encuentro demoníaco que le reveló su nombre verdadero.
