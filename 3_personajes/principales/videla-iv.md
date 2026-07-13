@@ -1,7 +1,7 @@
 ---
 title: General Videla IV
 folder: 3_personajes/principales
-description: Presidente y Generalísimo de Córdoba, cuarta generación de la dinastía Videla que ha gobernado la ciudad desde su fundación en 2031.
+description: El Emperador de facto de la Confederación bajo el título oficial de Presidente. Cuarta generación de la dinastía Videla, cabeza de las tres Fuerzas y de todo ejercicio de función pública.
 entidad: personaje
 alcance: secreto
 nombre: Videla IV
@@ -9,6 +9,8 @@ aliases:
   - General Videla IV
   - Videla IV
   - Generalísimo de Córdoba
+  - El Emperador
+  - Presidente Videla IV
 facciones:
   - "[[1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas|fuerzas-armadas]]"
 related:
