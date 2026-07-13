@@ -50,6 +50,43 @@ La seña que los delata es litúrgica. Un destello de metal a la altura del pech
 
 Información secreta (no exponer a jugadores): La SIA mantiene una profunda rivalidad con los Exorcistas de la Iglesia, a quienes consideran blandos y poco ortodoxos. Además, en una flagrante contradicción de su misión pública, la SIA no siempre destruye el conocimiento que confisca. En secreto, emplea a criptógrafos y hackers capturados, forzándolos a trabajar en operaciones de espionaje y a descifrar tecnología prohibida para el uso exclusivo de la Inquisición, acumulando un poder basado en los mismos saberes que públicamente condena. Sus propias instalaciones —el Faro, sus búnkeres subterráneos— están construidas con cemento-plástico de grado militar, un compuesto químicamente avanzado que presentan al mundo como simple piedra.
 
+## La máquina: Suprema y Tribunales
+
+La SIA no es una idea abstracta de "juez, jurado y verdugo": es un organigrama, y el organigrama tiene una causa estructural para su autarquía, no solo un aura de misterio. En la cabeza está el **Inquisidor General** —[[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]—, que preside **la Suprema**, el consejo que decide cuando los inquisidores de un Tribunal no llegan a unanimidad. Debajo, un **Tribunal** por ciudad-estado —dos Inquisidores cada uno, teólogos expertos, que interrogan— con guarnición reforzada en Dársena y Córdoba.
+
+El Inquisidor General responde, formalmente, al Emperador **y** al Sumo Pontífice: doble dependencia, escrita en el papel de dos cadenas de mando distintas. En los hechos no responde a ninguna de las dos. Esa es la autarquía completa: el que debe obediencia a dos amos no le debe obediencia real a ninguno, porque cada uno asume que el otro lo tiene atado.
+
+## El cuerpo de oficiales
+
+Un proceso inquisitorial no lo lleva un solo hombre con una vela: lo lleva una burocracia entera, y esa es la parte que nadie caricaturiza porque no es cinematográfica.
+
+- **Calificador** — determina si los hechos constituyen delito contra la fe. El filtro previo a que el proceso exista siquiera.
+- **Consultores** — juristas que asesoran a los Inquisidores. Los técnicos del derecho detrás del teólogo.
+- **Fiscal** — acusa, informando someramente de la acusación sin especificar el delito concreto ni los denunciantes.
+- **Abogado de Oficio** — el reo tiene defensor, y si no lo tiene, se le asigna uno.
+- **Alguaciles** — detienen y ejecutan las órdenes del Tribunal.
+- **Notario de Secretos** — registra todo, meticulosamente. La burocracia es la memoria del terror: gracias a él se conservan los sumarios enteros.
+- **Médico del Tribunal** — presente obligatoriamente durante el tormento, con potestad de detenerlo. Su función no es la piedad: es que el instrumento no falle antes de tiempo.
+- **Familiares** — los informantes. No son parientes pese al nombre: es una red civil infiltrada en todos los estratos, que exige linaje impecable para ingresar y que paga con exención de impuestos y prebendas sociales. Tu vecino puede ser un Familiar y vos no lo sabés.
+
+## Las garantías, y por qué son lo peor
+
+Hay abogado. Hay recusación de enemigos —el reo entrega una lista, y si coincide con la de los denunciantes, el testimonio se cae—. Hay un médico que puede parar el tormento a media sesión. La sangre está prohibida. Y la confesión arrancada bajo tormento **no vale**: tiene que ser ratificada después, fuera de la sala, en frío. Los procesos duran años, no días.
+
+La SIA puede probar, con los sumarios en la mano, que es más justa que cualquier tribunal secular de la Confederación. Y lo prueba seguido. Eso no consuela a nadie: una inquisición que arranca uñas es un monstruo que se odia limpio. Una que te asigna defensor, te dobla la garantía, y se toma tres años en destruirte **correctamente**, no te deja ni el consuelo de la indignación. El horror no es el potro. Es el expediente.
+
+Detalle del procedimiento en [[1_trasfondo/codex/instrucciones-del-santo-oficio|las Instrucciones]] que Monseñor Miguel emite y puede reescribir.
+
+## La relajación al brazo secular
+
+La SIA no mata. Sentencia, y **relaja** al condenado al brazo secular: lo entrega, en público, al Ejército, que ya tiene preparado el patíbulo y a quien avisan de antemano. El consagrado tiene prohibido ejercer de verdugo. Este es el segundo filo, literal, de la Ley XI de la Constitución —*«la Iglesia calibra, el Estado ejecuta»*—: en el patíbulo, "ejecuta" quiere decir lo otro.
+
+Por eso "juez, jurado y verdugo" —la frase con la que abre esta ficha— hay que leerla con precisión cruel: la SIA es juez, es jurado, **pero verdugo no**. Y esa es la parte más terrible, porque le permite matar sin mancharse las manos.
+
+Los Actos de Fe que ya se mencionan arriba tienen forma concreta: el **Auto de Fe**, la procesión donde órdenes religiosas y notables se disputan el honor de escoltar el estandarte, y el condenado desfilando con el **sanbenito** y la **coroza** —la ropa codifica la condena a simple vista: se sabe de un vistazo si abjuró de levi, de vehementi, si es relapso o impenitente—.
+
+La doctrina oficial que la SIA sostiene sobre sí misma —procedimiento impecable, garantías reales, más justicia que cualquier fuero secular— es, en lo procesal, verdad comprobable. Su contracara, la [[1_trasfondo/codex/leyenda-negra-de-la-inquisicion|leyenda negra]] que le propagan sus enemigos, es la que no puede refutar del todo: la SIA no destruye todo lo que confisca.
+
 ---
 
 ### Referencias
