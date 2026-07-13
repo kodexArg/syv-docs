@@ -55,6 +55,8 @@ En la práctica:
 
 Esta es la tensión fundamental de la Iglesia Católica: un Papa nominalmente supremo que comparte poder con un Inquisidor que es prácticamente irremovible.
 
+**El truco que lo sostiene todo**: ante el pueblo y ante la diplomacia confederal, Estanislao habla en nombre de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] como si fuera un ala más de la Iglesia, subordinada a su Papado. Firma edictos, bendice sentencias, encarna la justicia inquisitorial ante el mundo. La gente ve eso y concluye que el poder es un binomio —él y Videla IV, las dos caras visibles del vértice—, sin saber que la SIA es autárquica y que [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]] no le rinde cuentas a él ni a nadie. Estanislao lo sabe. Firma de todos modos. Es, en privado, plenamente consciente de que está avalando con su nombre un poder que no controla.
+
 ### Personalidad
 
 Tradicional, erudito, diplomático, pero progresivamente **más consciente de su propia irrelevancia**. Es un hombre de fe sincera pero atrapado en un sistema político que lo supera. Características:
