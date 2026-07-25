@@ -37,9 +37,11 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta una perilla y el techo entero se ilumina. La celda es gris.
+Suena el bip de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero.
 
-Se sienta en la cama a tensar su cola de caballo, mirando entre cejas el techo perlado, de innaturales bordes curvos. Nada tiene ángulos aquí. "Una colmena".
+Su mano tantea la pared plástica hasta una perilla y el techo se ilumina, parpadea amenazante y se mantiene al fin prendido en la extraña celda gris.
+
+Sofía se sienta en la cama, recoje un colín y un rosario de madera de la mesa de luz. Las cuentas son grandes y marrones, y ella primero se lo envuelve en una mano, y luego con ambas ordena su pelo en una cola de caballo tirante. Pero en loque realmente se concentra, con su mirada depredadora fija, es en las innaturales aristas curvas de la habitación: un techo abovedado, una pared casi orgánica la separa de su celda vecina. "Una colmena", piensa.
 
 Hay un lavabo y un espejo amurados en la pared, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.
 
