@@ -7,10 +7,10 @@ aliases:
 - Faro de la Sagrada Inquisición Argentina
 - Faro de la Inquisición
 - Torre del Faro
+- Patio León XIV
 description: 'Sede de la Santa Inquisición Argentina en la Isla Oriental: colmena
-  catenaria de nueve pisos enterrada alrededor de un patio oval, bajo una plataforma
-  ciega de la que emerge la torre-faro monolítica blanca donde vive confinada la Reverenda
-  Madre, tras la Puerta de Piedra.'
+  catenaria de pie, nueve pisos cuya pared son las habitaciones, patio oval León XIV
+  y torre blanca sobre la Puerta de Piedra, donde vive confinada la Reverenda Madre.'
 entidad: ubicacion
 estado: canon
 facciones:
@@ -31,59 +31,85 @@ ubicaciones:
 
 # Faro de la SIA
 
-Sede operativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]], en el punto más oriental de [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]], sobre un peñasco artificial que sobresale al mar, entre los pinos de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]. Desde afuera solo existen la plataforma y la torre: un inmenso bloque cuadrado de cemento-plástico de grado militar que apenas sobresale un par de metros, y sobre él una sola pieza de piedra clara, lisa, sin junturas, que trepa más allá de la neblina y recibe cada mañana los primeros rayos del sol antes que ninguna otra cosa en Dársena. Blanca. Muerta. Todo lo demás —los nueve pisos, las ciento cuarenta celdas del anillo, los seiscientos metros de escalera— está enterrado bajo sus pies.
+Sede operativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]], en el punto más oriental de [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]], sobre un peñasco artificial que sobresale al mar, entre los pinos de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]].
+
+Por fuera no es un pedestal ciego con una aguja. Es **la catenaria de pie**: un óvalo que se ensancha en la base y se cierra hacia arriba, agujereado como una colmena — cada hueco es una habitación, porque **las paredes del Faro son las habitaciones**. De la clave nace la torre, lisa, a anillos, un cuello que la curva no pide. Blanca. Recibe cada mañana los primeros rayos del sol antes que ninguna otra cosa en Dársena. En la base, hacia el Este, el acceso es una boca de cueva: la rampa que entrega al patio.
+
+Detrás y bajo el peñasco sigue el complejo excavado (archivos, dependencias, miles de almas de paso). Eso no se ve. La colmena, sí.
 
 > [!info] Las cifras
-> Nueve pisos en hélice alrededor de un patio oval subterráneo de 24 × 11 m; ~140 celdas de anillo de 4 × 6 m; una torre monolítica de Ø 9 m; 57 m del piso del patio a la linterna — la mitad bajo tierra; unas trescientas almas en la colmena, miles en el complejo, y una sola por encima de la Puerta de Piedra.
+> Patio León XIV: óvalo interior 24 × 11 m (cancha de tenis). Nueve pisos, 27 m del piso del patio a la Puerta de Piedra. ~140 celdas que *son* el muro. Torre Ø 9 m sobre la clave. 57 m del patio a la linterna, casi todo visible. ~300 almas en la colmena; una sola por encima de la Puerta.
 
-## La catenaria enterrada
+## Geometría — catenaria de pie
 
-El corazón del complejo es una catenaria invertida trabajando en compresión pura, al modo de Gaudí — o mejor dicho, del arquitecto que lo interpretó dos siglos y medio después, y del que hoy solo se acuerdan los Iniciados más jóvenes. El material lo consiente: un biomineral blanco, tipo coral seco, moldeado en una sola colada continua, sin junta ni ladrillo. Sobresaliente en compresión, incapaz de tolerar tracción, y propenso a mancharse — bajo tierra no importa, y la torre se lava con la lluvia.
+El edificio es una **catenaria invertida** trabajando en compresión pura, al modo de Gaudí — o mejor dicho, del arquitecto que lo interpretó dos siglos y medio después, y del que hoy solo se acuerdan los Iniciados más jóvenes. No hay columnas en el patio. La curva se sostiene sola: es la misma familia que una cadena colgada, dada vuelta.
 
-Enterrar la bóveda no fue un accidente: la tierra que la cubre la zuncha por fuera, y una cáscara que solo sabe trabajar comprimida no encuentra mejor tumba. El interior fue pensado como el inverso del Infierno de Dante: nueve niveles que no descienden hacia el castigo sino que ascienden hacia la luz, moldeados en la roca para transmitir el mensaje camino a la ascensión. Llevada a la roca, la idea del arquitecto nunca quedó del todo clara; la Puerta de Piedra, diseñada según ese mismo texto pagano, es su remate.
+El material lo consiente: un biomineral blanco, tipo coral seco, moldeado en una sola colada continua, sin junta ni ladrillo. Sobresaliente en compresión, incapaz de tolerar tracción, propenso a mancharse. Afuera la lluvia lava la torre; el cuerpo de la colmena se ensucia y se ve.
+
+El hueco interior —el patio «León XIV»— es el inverso del Infierno de Dante: nueve niveles que no descienden hacia el castigo sino que ascienden hacia la luz. La Puerta de Piedra, en la clave, es el remate de ese texto pagano. Encima, el Faro nace derecho.
+
+### Qué carga qué
+
+| Pieza | Rol estructural |
+|---|---|
+| Anillo habitado (8 m de espesor) | La catenaria *es* este anillo. Cada celda es un alveolo del muro. No hay cáscara aparte. |
+| Patio 24 × 11 m | Vacío. Cero columnas. |
+| Clave / Puerta de Piedra | Remate a 27 m. De ahí nace la torre. |
+| Torre Ø 9 m | Peso en compresión, bajando por la colmena hasta el peñasco. |
+| Peñasco | Estribo. No tapa la colmena: la sostiene. |
+
+Alturas del vano: 27 m de patio a clave. Eje largo interior 24 m (H/luz ≈ 1,13). Eje corto 11 m (H/luz ≈ 2,45: más ojival). Afuera, en la base, el óvalo mide **40 × 27,5 m** (24+8+8 y 11+8+8). Nueve pisos cierran la cúpula; la Puerta trunca el vértice.
 
 ## Medidas canónicas
 
 | Elemento | Medida |
 |---|---|
-| Patio oval interior | 24 × 11 m (una cancha de tenis); piso a 27 m bajo la superficie |
-| Vacío interior | 9 pisos de alto — 27 m del piso del patio a la clave de la bóveda, a ras de la plataforma |
+| Patio León XIV | óvalo interior 24 × 11 m (cancha de tenis); piso a cota del acceso Este |
+| Vacío interior | 9 pisos — 27 m del piso del patio a la clave |
 | Paso de piso | 3,0 m (2,6–2,7 m libres; protuberancias orgánicas que bajan a ~2,0 m) |
-| Numeración | la casa cuenta desde la superficie: el «primer nivel» (−3 m) es el más alto; la base oval es el noveno hacia abajo |
-| Anillo habitado | 8 m por lado: celda de 6 m + galería-balcón de 2 m al patio |
+| Numeración | nueve balcones desde el patio; la casa a veces cuenta desde la Puerta hacia abajo (el «primero» es el más alto) |
+| Anillo habitado | 8 m: celda de 6 m de fondo + galería-balcón de 2 m al patio |
 | Celda de anillo | 4 m de frente × 6 m de fondo = 24 m² |
 | Celdas | 20 por vuelta en la base → 13 en la más alta; 155 en bruto, ~140 útiles |
-| Óvalo exterior de la cáscara | 40 × 27,5 m, sepultado bajo la plataforma |
-| Plataforma | bloque cuadrado de ~48 m de lado, cemento-plástico, aristas rematadas, ~2 m sobre el nivel |
-| Gran escalera | 9 vueltas completas al patio; ~635 m de desarrollo; pendiente media 4 % |
-| Conductos de luz | ~150 conductos de vidrio, uno por celda de anillo, desde la superficie hasta cada ventana |
-| Rampa Este | única entrada vehicular; 7,5 m de ancho (dos camiones militares); desciende 27 m en ~225 m bajo el bosque |
-| Puerta de Piedra | en la clave de la bóveda, 27 m sobre el patio, a ras de la superficie |
-| Vivienda de la Reverenda Madre | un solo ambiente vertical: Ø 7 m interior × 27 m de alto — tan alta como la torre |
-| Torre | Ø 9 m exterior, monolítica, sobre la plataforma; linterna en la cumbre, a ~30 m sobre rasante |
-| Altura total | 57 m del piso del patio a la linterna; solo la torre es visible |
-| Población | colmena del anillo: ~300 almas; complejo subterráneo completo: miles; la torre: una sola |
+| Óvalo exterior | 40 × 27,5 m, **visible**; la colmena es la fachada |
+| Peñasco | plinto de cemento-plástico, aristas rematadas; la catenaria se asienta encima, no debajo |
+| Gran escalera | 9 vueltas al patio; ~635 m de desarrollo; pendiente media 4 % |
+| Luz del patio | ~150 líneas de tubo y espejos, una por celda útil; atraviesan el muro-habitación |
+| Acceso Este | única entrada vehicular; 7,5 m de ancho (dos camiones); cueva a cota del patio, sin bajar 27 m |
+| Puerta de Piedra | en la clave, 27 m sobre el patio |
+| Vivienda de la Reverenda Madre | un ambiente vertical: Ø 7 m interior × 27 m de alto |
+| Torre | Ø 9 m exterior, monolítica, sobre la clave; linterna a ~30 m sobre la Puerta |
+| Altura total | 57 m del piso del patio a la linterna; la colmena y la torre se ven |
+| Población | colmena: ~300 almas; complejo excavado del peñasco: miles; la torre: una sola |
 
 ## El patio y la gran escalera
 
-El corazón es un predio subterráneo ovalado, del tamaño de una cancha de tenis y nueve pisos de alto. Ninguna ventana da al cielo: la neblina entra como un río fantasmal por la única rampa que desciende desde el este, y el amanecer llega por los conductos de vidrio, en decenas de puntos que se encienden balcón por balcón — aquí el alba se parece más a un cielo estrellado que baja hasta el fondo del óvalo.
+El León XIV es un óvalo del tamaño de una cancha de tenis, sin columnas, nueve pisos de balcones enroscados siguiendo la catenaria hacia un punto en lo alto. A las cinco es tan oscuro como la noche: el vano no tiene cielo. La neblina entra como un río fantasmal por el acceso Este.
 
-La gran escalera asciende desde esa neblina enroscándose entre pasillos y balcones, serpenteando hacia la cúpula piso tras piso, en ondas y descansos según los caprichos del estilo: nueve vueltas completas al patio, unos 635 m de desarrollo a pendiente de letanía, con los peldaños incrustados en la misma roca clara y continua. Nueve vueltas más arriba, la escalera termina hundiéndose, orgánica, en el techo. Del último piso del anillo —el «primer nivel», a tres metros bajo tierra— una escalera lateral resuelve un solo tramo y entrega a ras de tierra, por un costado del Faro.
+La gran escalera trepa desde esa neblina, nueve vueltas, unos 635 m a pendiente de letanía, peldaños incrustados en la misma colada. Se hunde, orgánica, en el techo: la Puerta de Piedra. Del anillo alto una galería lateral entrega al bosque, al costado del Faro. Del patio se sale por la cueva del Este.
 
-## Las celdas
+## Las paredes son las habitaciones
 
-Nueve plantas de celdas de 4 m de frente por 6 de fondo abren sus puertas a las galerías-balcón que miran al patio. Veinte celdas por vuelta en la base, trece en la más alta, a medida que la catenaria se acuesta: ciento cincuenta y cinco en bruto, unas ciento cuarenta útiles descontando los huecos de servicio. La pared del fondo de cada celda lleva su ventana hacia afuera: la boca de un conducto de vidrio que baja desde la superficie atravesando el anillo — una proeza de ingeniería, y una ventana incómoda, que muestra un disco de luz y nada más. Los techos ondulan entre 2,7 y 2,0 m según las protuberancias del moldeo orgánico; los Iniciados nuevos viven con las cabezas moradas.
+Nueve plantas. Cada celda abre al patio por la galería. Veinte puertas en la base, trece arriba, a medida que la catenaria se acuesta. Ciento cincuenta y cinco en bruto, ~140 útiles.
 
-El reparto habitual del anillo: unas 45 celdas funcionales (refectorio, capillas, archivo, armería, cocinas, enfermería), unas 60 individuales para Hermanas de Batalla, monjas y padres, y unas 35 convertidas en dormitorios de Iniciados, seis por celda. Los tutores observan desde los pisos medios. Unas trescientas almas viven en la colmena; en asedio el volumen tolera cuatrocientas cincuenta antes de que cedan las cocinas y las letrinas — la estructura, nunca.
+**Hacia afuera:** algunas celdas tienen ventana de verdad — bosque, mar, la niebla de Dársena. Se ve la colmena. No todas: hay alveolos ciegos al exterior.
 
-Más allá de la cáscara catenaria, el complejo sigue: archivos, cámaras y dependencias excavadas que albergan a los miles de inquisidores e iniciados de paso por el Faro (ver [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]). Esas celdas profundas son otra cosa: espacios mínimos, ciegos, sin conducto ni luz natural, con mecanismos plegables que comprimen una vida entera en pocos metros cuadrados.
+**Hacia adentro:** el patio sería de noche a cualquier hora. El vano se cierra. El portón Este trae niebla, no un día.
+
+**El truco (sin electricidad):** el sol no inunda el óvalo. Lo *atraviesa* el muro. Cada celda útil lleva una línea pasiva — tubo de vidrio y espejos — desde una boca en la piel exterior, a través de los 6 m de la habitación, hasta un punto en la galería. ~150 líneas. El Edicto de Pureza lo permite: no hay cable ni nodo. Al alba el interior se enciende en decenas de puntos, balcón por balcón, un cielo estrellado que baja hasta el fondo del óvalo.
+
+Los techos de celda ondulan entre 2,7 y 2,0 m según las protuberancias del moldeo; los Iniciados nuevos viven con las cabezas moradas.
+
+Reparto del anillo: unas 45 celdas funcionales (refectorio, capillas, archivo, armería, cocinas, enfermería), unas 60 individuales para Hermanas de Batalla, monjas y padres, y unas 35 en dormitorios de Iniciados, seis por celda. Los tutores miran desde los pisos medios. ~300 almas en la colmena; en asedio el volumen tolera cuatrocientas cincuenta antes de que cedan las cocinas — la catenaria, nunca.
+
+Más allá del anillo, excavado en el peñasco, el complejo sigue: archivos y dependencias para los miles de paso (ver [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]). Esas celdas profundas son otra cosa: ciegas, sin conducto ni ventana.
 
 ## La Puerta de Piedra y la vivienda de la Reverenda Madre
 
-En la clave de la bóveda, donde la escalera se hunde en el techo, espera la Puerta de Piedra. Del otro lado vive la [[3_personajes/principales/madre-superiora-maria|Reverenda Madre]], confinada en la torre por regla y por voluntad: su vivienda es una sola habitación tan alta como la torre — un vacío vertical de 7 m de diámetro y 27 m de alto, anillado por entrepisos que continúan la misma hélice del resto del edificio. Vive en la base de ese faro interior y habita, por lo general, el segundo de esos niveles. Es la única que puede, atravesando su gran vivienda que es su habitación, seguir ascendiendo todos los pisos del Faro hasta la linterna.
+En la clave, a 27 m, la Puerta de Piedra. Del otro lado vive la [[3_personajes/principales/madre-superiora-maria|Reverenda Madre]], confinada en la torre: una sola habitación tan alta como el fuste — Ø 7 m × 27 m, anillada por entrepisos que siguen la hélice. Habita, por lo general, el segundo de esos niveles. Es la única que puede seguir hasta la linterna.
 
-Más allá de ese segundo piso, el interior de la torre es desconocido para todos. Es algo que solo sabrá su heredera.
+Más allá de ese segundo piso el interior de la torre es desconocido. Eso solo lo sabrá su heredera.
 
 ## La linterna y el Edicto
 
-La luz que barre la niebla de Dársena cada noche nace a 30 m sobre el peñasco, en una linterna sin generadores, sin cables y sin circuitos: compuesto fosforescente, espejos parabólicos y lentes de cristal tallado. Solo química, fuego y geometría — como manda el Edicto de Pureza del Faro, que prohíbe toda electricidad en la torre y en cien metros a la redonda, la excomunión medida en pasos (ver [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]). Se enciende del otro lado de la Puerta de Piedra, en los niveles que nadie más pisa.
+La luz que barre la niebla de Dársena cada noche nace ~30 m sobre la Puerta, en una linterna sin generadores: compuesto fosforescente, espejos parabólicos y lentes de cristal tallado. Química, fuego y geometría — como manda el **Edicto de Pureza del Faro**, que prohíbe toda electricidad en la torre y en cien metros a la redonda (ver [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]). Se enciende del otro lado de la Puerta, en los niveles que nadie más pisa.

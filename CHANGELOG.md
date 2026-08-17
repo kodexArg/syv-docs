@@ -1,6 +1,13 @@
 # Changelog
 
 ## [Unreleased]
+- group: atlas-faro-catenaria-de-pie
+  priority: high
+  changes:
+    - fix(atlas): faro-de-la-sia — la colmena es catenaria de pie, no bóveda tapada; las paredes son las habitaciones
+    - feat(atlas): faro-de-la-sia — luz del patio por tubos y espejos que atraviesan el muro-celda; medidas y nota técnica
+    - fix(atlas): zona-militar-eclesiastica — deja de describir el Faro como bloque ciego con todo bajo tierra
+
 - group: narrative-cap-01-cursiva-corte
   priority: high
   changes:
