@@ -15,7 +15,7 @@ related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista-prd|PRD de la historia]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso|Damián, el Sabueso]]'
-- '[[4_diegesis/relatos/cursiva|Cursiva]]'
+- '[[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]]'
 - '[[3_personajes/principales/damian-diconte|Damián DiConte]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
 - '[[3_personajes/principales/padre-rafa|Padre Rafael]]'
@@ -37,7 +37,7 @@ ubicaciones:
 
 Es un amanecer muy inofensivo y relajante, idílico antes de describir una distopía muy compleja. Esta es la puerta de entrada a un bosque oscuro y complejo, donde las referencias políticas pasan siempre muy cerca de la historia que se está por contar. Es un libro serio —realmente serio— y toma responsabilidad de lo que cuenta, con un lenguaje asertivo y regular. La prosa es relajada e hiperdescriptiva, sin palabras complejas, muy sensorial.
 
-Esta historia comienza con lo escrito en [[4_diegesis/relatos/cursiva|Cursiva]], la utilizaremos para dar la instrucción a la historia.
+Esta historia comienza con lo escrito en [[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]], la utilizaremos para dar la instrucción a la historia.
 
 ## Guía · Escena principal
 

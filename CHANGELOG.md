@@ -1,6 +1,14 @@
 # Changelog
 
 ## [Unreleased]
+- group: narrative-cap-01-cursiva-corte
+  priority: high
+  changes:
+    - fix(narrativa): cap-01-cursiva.md — cerrado el corte del patio («El patio es el mejor lugar, pero»)
+    - fix(narrativa): cap-01-cursiva.md — tohalla→toalla; restaurado el par de fragmentos «Una placenta. Una colmena.»
+    - fix(narrativa): wikilink de origen [[4_diegesis/relatos/cursiva]] → [[4_diegesis/relatos/block_de_notas/cursiva]]
+    - chore(narrativa): eco de grafo en primera mención de Sofía y de la Santa Inquisición
+
 - group: highlight-marks-pass
   priority: high
   commit: 56d320d

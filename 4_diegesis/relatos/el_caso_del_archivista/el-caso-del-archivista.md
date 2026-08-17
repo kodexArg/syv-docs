@@ -24,7 +24,7 @@ La reescritura definitiva, por capítulos. Cada capítulo tiene dos archivos: `c
 
 ## Capítulos
 
-1. [[4_diegesis/relatos/el_caso_del_archivista/cap-01-cursiva|Cursiva]] — *en escritura* — la apertura toma lo escrito en [[4_diegesis/relatos/cursiva|Cursiva]]
+1. [[4_diegesis/relatos/el_caso_del_archivista/cap-01-cursiva|Cursiva]] — *en escritura* — la apertura toma lo escrito en [[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]]
 2. [[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso|Damián, el Sabueso]] — *a dictar* · guía: [[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso-prd|PRD]]
 3. [[4_diegesis/relatos/el_caso_del_archivista/cap-03-el-archivista|El Archivista]] — *a dictar* · guía: [[4_diegesis/relatos/el_caso_del_archivista/cap-03-el-archivista-prd|PRD]]
 4. *cap-04-sor-sofia — previsto; el quiebre vive en el [[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista-prd|PRD de la historia]]*
