@@ -13,7 +13,7 @@ related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso-prd|PRD del capítulo 2]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/cap-03-el-archivista-prd|PRD del capítulo 3]]'
-- '[[4_diegesis/relatos/cursiva|Cursiva]]'
+- '[[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
 - '[[3_personajes/secundarios/sor-catalina|Sor Catalina]]'
 - '[[3_personajes/principales/damian-diconte|Damián DiConte]]'
@@ -56,7 +56,7 @@ Sin duda no sera así de lineal, algo tiene que suceder.
 
 ## Mapa de capítulos (renumerado 2026-07-05)
 
-1. [[4_diegesis/relatos/el_caso_del_archivista/cap-01-cursiva|Cursiva]] — la apertura toma lo escrito en [[4_diegesis/relatos/cursiva|Cursiva]]: el amanecer en la Isla Oriental y la carta que el Padre Rafa le trae a Sor Sofía.
+1. [[4_diegesis/relatos/el_caso_del_archivista/cap-01-cursiva|Cursiva]] — la apertura toma lo escrito en [[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]]: el amanecer en la Isla Oriental y la carta que el Padre Rafa le trae a Sor Sofía.
 2. [[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso|Damián, el Sabueso]] — el recibimiento de Damián DiConte desde los ojos de Sor Sofía · [[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso-prd|PRD]].
 3. [[4_diegesis/relatos/el_caso_del_archivista/cap-03-el-archivista|El Archivista]] — el caso se presenta; el equipo dispar se instala en el séptimo piso de Seguridad Nacional · [[4_diegesis/relatos/el_caso_del_archivista/cap-03-el-archivista-prd|PRD]].
 4. cap-04-sor-sofia — durante la investigación, un quiebre gira a los protagonistas hacia la búsqueda de la hermana desaparecida de Sor Sofía ([[3_personajes/secundarios/sor-catalina|Sor Catalina]]). Mientras esta trama se desarrolla, capítulos entre medio siguen contando historias del viejo mundo a través de tuberías.

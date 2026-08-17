@@ -13,7 +13,7 @@ folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
 - '[[4_diegesis/relatos/el_caso_del_archivista/cap-02-el-sabueso-prd|PRD del capítulo]]'
-- '[[4_diegesis/relatos/cursiva|Cursiva]]'
+- '[[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]]'
 - '[[3_personajes/principales/damian-diconte|Damián DiConte]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
 tags: []

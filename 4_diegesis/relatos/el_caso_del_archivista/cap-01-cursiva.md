@@ -14,7 +14,7 @@ facciones:
 folder: 4_diegesis/relatos/el_caso_del_archivista
 related:
 - '[[4_diegesis/relatos/el_caso_del_archivista/el-caso-del-archivista|El Caso del Archivista]]'
-- '[[4_diegesis/relatos/cursiva|Cursiva]]'
+- '[[4_diegesis/relatos/block_de_notas/cursiva|Cursiva]]'
 - '[[3_personajes/secundarios/sor-sofia|Sor Sofía]]'
 - '[[3_personajes/principales/padre-rafa|Padre Rafa]]'
 - '[[3_personajes/secundarios/sor-catalina|Sor Catalina]]'
@@ -37,13 +37,13 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta una perilla y el techo entero se ilumina. La celda es gris.
+Suena el beep de un reloj o [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta una perilla y el techo entero se ilumina. La celda es gris.
 
-Se sienta en la cama a tensar su cola de caballo, mirando entre cejas el techo perlado, de innaturales bordes curvos. Nada tiene ángulos aquí. "Una colmena".
+Se sienta en la cama a tensar su cola de caballo, mirando entre cejas el techo perlado, de innaturales bordes curvos. Nada tiene ángulos aquí. Una placenta. Una colmena.
 
 Hay un lavabo y un espejo amurados en la pared, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.
 
-Se lava el cuerpo con una tohalla húmeda y agua que no ha tenido tiempo de calentar. Toma del botiquín dos pastillas -no recuerda para qué sirven- y se las traga. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes mientras se toca su primera arruga en el ojo. Cepilla un poco más.
+Se lava el cuerpo con una toalla húmeda y agua que no ha tenido tiempo de calentar. Toma del botiquín dos pastillas -no recuerda para qué sirven- y se las traga. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes mientras se toca su primera arruga en el ojo. Cepilla un poco más.
 
 Saca de su cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca apurada justo antes de comenzar a tiritar.
 
@@ -55,15 +55,13 @@ De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cáma
 
 ---
 
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior del Faro de la Santa Inquisición Argentina.
+Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
 
 El patio es un óvalo subterráneo del tamaño de una cancha de tenis, oscuro y sin columnas, con nueve niveles de balcones enroscados hasta el techo. Poco se distingue en la penumbra, bajo la neblina que entra como un río fantasmal.
 
-Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba, siguiendo la amplia escalera blanca, que trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después. Asciende como la serpiente del génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero imagina, más allá de la cúpula tan alta, negra y elevada como el mismo cielo.
+Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba, siguiendo la amplia escalera blanca, que trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después. Asciende como la serpiente del Génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero imagina, más allá de la cúpula tan alta, negra y elevada como el mismo cielo.
 
-
-
-Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero 
+Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero a las cinco no baja nadie.
 
 Ancianos, sabios y ella.
 
