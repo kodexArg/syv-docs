@@ -37,31 +37,36 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el bip de un reloj o Sofía abre los ojos, alguna de estas dos cosas sucede primero.
+Suena el bip de un reloj y Sofía abre los ojos, alguna de estas dos cosas sucede primero.
 
-Su mano tantea la pared plástica hasta una perilla y el techo se ilumina, parpadea amenazante y se mantiene al fin prendido en la extraña celda gris.
+Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue. La celda es de color gris exacto, liso.
 
-Sofía se sienta en la cama, recoje un colín y un rosario de madera de la mesa de luz. Las cuentas son grandes y marrones, y ella primero se lo envuelve en una mano, y luego con ambas ordena su pelo en una cola de caballo tirante. Pero en loque realmente se concentra, con su mirada depredadora fija, es en las innaturales aristas curvas de la habitación: un techo abovedado, una pared casi orgánica la separa de su celda vecina. "Una colmena", piensa.
+Sofía se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes. Una placenta, piensa. Una colmena.
 
-Hay un lavabo y un espejo amurados en la pared, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.
+En dos pasos —en los que aprovecha para estirar sus piernas, como una gata— llega a un lavabo y a un espejo adheridos a la pared. También hay una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos, que ni siquiera tienen valor sentimental.
 
-Se lava el cuerpo con una tohalla húmeda y agua que no ha tenido tiempo de calentar. Toma del botiquín dos pastillas -no recuerda para qué sirven- y se las traga. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes mientras se toca su primera arruga en el ojo. Cepilla un poco más.
+Comienza a lavarse el cuerpo con una tohalla húmeda. Toma del botiquín dos pastillas —no recuerda para qué sirven— y se las traga. El espejo la observa, desnuda y distraída, cepillándose los dientes mientras se toca una arruga en el ojo. Cepilla un poco más. La celda entera entra en el espejo. La aprieta.
 
-Saca de su cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca apurada justo antes de comenzar a tiritar.
+Saca de la cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca apurada justo antes de comenzar a tiritar.
 
-Gira hacia su cama y, como si le hubieran disparado, se arrodilla. La mano se extiende hacia un rosario de madera, sobre su mesa de luz, y lo aprieta fuerte contra la frente mientras susurra.
+A los once dormía en una celda como esta, con Bebe. Bebe se envolvía en el rosario como en una soga y se dormía.
+
+Veinte años afuera. Esta habitación se la asignaron ahora. Los cinco libros no son suyos. El poptus no es suyo. El rincón de Bebe está vacío y es más grande que toda aquella celda.
+
+Gira hacia su cama y, como si le hubieran disparado, se arrodilla, como ha hecho siempre desde que tiene memoria. La mano se extiende hacia un rosario de madera, debajo de su almohada, de cuentas gruesas de madera, y lo aprieta tintineante, contra su frente, mientras susurra.
 
 Sofía reza con pasión durante siete minutos más.
 
-De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se ata los cordones, mirando distraída el techo curvo una vez más. No recordaba este lugar tan alienígena. Cambia de pie y comienza a atarse la otra zapatilla. Es ella quien ha crecido, y sonríe: ahora podría tocar el techo con la mano. Lo hace: antes de salir estira la mano por encima de la cabeza. Sale en el momento en que el temporizador hace un click a su espalda y la habitación se apaga.
+De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se calza ambas y ata los cordones. No recordaba este lugar tan alienígena. Es ella quien ha crecido: ahora podría tocar el techo con la mano. Lo hace: antes de salir estira la mano por encima de la cabeza. Sale en el momento en que el temporizador hace un click a su espalda y su celda vuelve al negro. 
 
 ---
 
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior del Faro de la Santa Inquisición Argentina.
+Han pasado veinte minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior «León XIV», del Faro de la Santa Inquisición Argentina.
 
-El patio es un óvalo subterráneo del tamaño de una cancha de tenis, oscuro y sin columnas, con nueve niveles de balcones enroscados hasta el techo. Poco se distingue en la penumbra, bajo la neblina que entra como un río fantasmal.
+El patio es un óvalo del tamaño de una cancha de tenis, sin columnas, con nueve pisos de balcones enroscados, siguiendo la catenaria hacia un punto en el centro, a esta hora tan oscuro como la noche.
 
-Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba, siguiendo la amplia escalera blanca, que trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después. Asciende como la serpiente del génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero imagina, más allá de la cúpula tan alta, negra y elevada como el mismo cielo.
+Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba: la escalera blanca trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó dos siglos y medio después. Asciende como la serpiente del génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero conoce: de esa puerta el Faro nace derecho, un cilindro que la curva no explica.
+
 
 
 
@@ -73,7 +78,7 @@ Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto dise�
 
 Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó.
 
-Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la erosión de la censura, que se llevó las mejores estatuas. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
+Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la erosión de la censura, que se llevó las mejores estatuas. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en los lugares más inadecuados.
 
 Sofía se pregunta si el Gaudí de dos siglos y medio atrás habría sido igual de desconsiderado.
 
@@ -153,4 +158,4 @@ El Padre Rafa se aleja hacia el basamento del Faro con ese andar que en otro hom
 
 El jardín, por fin, es suyo. El sol ya está entero sobre el río y la niebla empieza a rendirse por sectores, como una fiebre que baja. Sofía recupera la primera piel, las zapatillas, la rutina interrumpida. Estira el cuello hacia un lado, hacia el otro. "Mañana", piensa, y la palabra le queda tibia en la boca, como las pastillas de las cinco. Trabajo de campo.
 
-Y mientras tanto, del otro lado de la vieja dársena, una vaina de transporte neumático corre por las arterias de latón que laten bajo la ciudad, rumbo al oriente. Adentro, doblado en cuatro, un pliego de fibra de lino escrito de punta a punta en una cursiva obsesiva, inclinada, perfecta. Una carta. Viene en camino.
+Y mientras tanto, del otro lado de la vieja dársena, una vaina de transporte neumático corre por las arterias de latón que laten bajo la ciudad, rumbo al oriente. Adentro, doblado en cuatro, un pliego de fibra de lino escrito de punta a punta en una cursiva obsesiva, inclinada, perfecta. Una carta. Viene en camino. Nadie la espera arriba. El tubo no se detiene.
