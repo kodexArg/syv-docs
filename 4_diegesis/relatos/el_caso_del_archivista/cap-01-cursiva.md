@@ -63,7 +63,9 @@ De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cáma
 
 Han pasado veinte minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior «León XIV», del Faro de la Santa Inquisición Argentina.
 
-El patio es un óvalo del tamaño de una cancha de tenis, sin columnas, con nueve pisos de balcones enroscados, siguiendo la catenaria hacia un punto en el centro, a esta hora tan oscuro como la noche.
+El patio es un óvalo del tamaño de una cancha de tenis, sin columnas, con nueve pisos de balcones enroscados.
+
+Los recorre con la vista, en la penumbra: la catenaria se le pierde arriba, un punto más negro que el resto, a esta hora tan oscuro como la noche.
 
 Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba: la escalera blanca trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó dos siglos y medio después. Asciende como la serpiente del génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero conoce: de esa puerta el Faro nace derecho, un cilindro que la curva no explica.
 
