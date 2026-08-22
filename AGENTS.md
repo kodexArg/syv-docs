@@ -161,3 +161,16 @@ backlinks/wikilinks in the running app. Its horizon is the whole `~/SyV/` vault
   `command_execute`, `active_file_get_path`, `periodic_note_get_path`
 - **Write/mutate** (only if `markdown-vault-syv` write is unavailable): `vault_write`,
   `vault_append`, `vault_patch`, `vault_move`, `vault_delete`
+
+## graphify (secondary index)
+
+Optional knowledge-graph tooling at `graphify-out/`. **Does not replace**
+`markdown-vault-syv` as corpus SSOT — MCP preflight and corpus I/O still win.
+
+- Install CLI: `pip install graphifyy` (PyPI name is temporarily `graphifyy`; CLI is `graphify`).
+  Or run `_tools/graphify-setup.sh`.
+- Skills: `.agents/skills/graphify/`, `.claude/skills/graphify/`, Cursor rule
+  `.cursor/rules/graphify.mdc`. Trigger: `/graphify`.
+- When `graphify-out/graph.json` exists, `graphify query` / `path` / `explain` help
+  with structural navigation (especially `_tools/` and harness config).
+- After modifying code/tooling, `graphify update .` refreshes the AST graph (no LLM).
