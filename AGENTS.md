@@ -121,3 +121,25 @@ actually connected. Corpus content work stays on the filesystem.
   `command_execute`, `active_file_get_path`, `periodic_note_get_path`
 - **Write/mutate**: prefer filesystem edits in this repo; Obsidian write tools only
   if the user explicitly asks for the live-app path.
+
+## graphify (secondary index)
+
+Optional knowledge-graph tooling at `graphify-out/`. Secondary structural index —
+does **not** replace corpus MCP / filesystem SSOT for note I/O (see above).
+
+**Naming (important):** the CLI is `graphify`. On PyPI the *official* Graphify-Labs
+package is currently named `graphifyy` (double-y); `graphify` alone is **not** on
+PyPI. Prefer installing from the GitHub source to avoid typo-squat confusion:
+
+```bash
+./_tools/graphify-setup.sh
+# or: uv tool install 'git+https://github.com/Graphify-Labs/graphify.git'
+```
+
+Cloud agents install the same way via `.cursor/environment.json` → `install`.
+
+- Skills: `.agents/skills/graphify/`, `.claude/skills/graphify/`, Cursor rule
+  `.cursor/rules/graphify.mdc`. Trigger: `/graphify`.
+- When `graphify-out/graph.json` exists, `graphify query` / `path` / `explain` help
+  with structural navigation (especially `_tools/` and harness config).
+- After modifying code/tooling, `graphify update .` refreshes the AST graph (no LLM).

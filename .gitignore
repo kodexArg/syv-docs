@@ -1,6 +1,8 @@
 .claude/*
 !.claude/agents/
 !.claude/commands/
+!.claude/skills/
+!.claude/CLAUDE.md
 !.claude/settings.json
 index.mdx.bak
 
@@ -20,3 +22,6 @@ __pycache__/
 
 # markdown-vault-syv MCP volatile state
 .markdown_vault_mcp/
+
+# graphify build output (regenerate with /graphify .)
+graphify-out/
