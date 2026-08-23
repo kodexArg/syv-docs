@@ -35,7 +35,7 @@ This file does the two deterministic halves of the loop:
 
 The REASONING half (what `new` should be, per color + note) is the caller's
 job (Opus, house prose voice). The MCP write path is the caller's job too
-(mcp__markdown-vault-syv__edit) — this engine is the filesystem backend.
+(markdown-vault MCP is disabled in this repo) — this engine edits on disk.
 
 Python 3.13, stdlib only.
 """

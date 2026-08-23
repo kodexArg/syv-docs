@@ -11,7 +11,7 @@ Uso:
 o, si pyyaml ya está disponible:
     python3 _tools/audit_tags.py
 
-El indexador `markdown-vault-syv` guarda los tags PLANOS (no parte por `/`),
+Los tags se guardan PLANOS en frontmatter (no parte por `/`);
 así que los reportamos verbatim como los ve el indexador.
 """
 from __future__ import annotations

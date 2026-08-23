@@ -33,12 +33,12 @@ context and never leave it. Sub-agents are dispatched by their owner.
 ## Laws (every agent obeys)
 
 1. **Spanish output, English prompts.** See language law above.
-2. **Corpus MCP first.** All corpus reads, searches and writes go through the
-   primary MCP `mcp__markdown-vault-syv__*` (the SSOT) — never raw filesystem for
-   content, never `obsidian-syv` as first option. The corpus is already
-   interconnected; nothing is written without checking backlinks, wikilinks and
-   tags first. `obsidian-syv` is the secondary "método Obsidian" (graph cascade,
-   UI). See `../.claude/rules/mcp-es-la-ssot.md` and the surface section below.
+2. **Corpus on disk.** All corpus reads, searches and writes use the workspace
+   filesystem (`Read` / `Grep` / `Glob` / `Write` / `StrReplace`). Check
+   wikilinks, backlinks (grep for `[[basename]]`) and frontmatter before writing.
+   Do **not** call `markdown-vault-*` or `codebase-cmp` / `codebase-memory*` tools
+   — those MCPs are **disabled in this repo** (see below). `obsidian-syv` remains
+   optional for live Obsidian UI/graph only, never required.
 3. **Stay in your context.** A teammate touches only its own folder(s). Cross-context
    needs go through the lead.
 4. **`syv-scout` is the only valid exit.** The web is **tool-enforced**: only
@@ -49,28 +49,29 @@ context and never leave it. Sub-agents are dispatched by their owner.
 6. **Frontmatter & relations.** Mandatory `title`/`folder`/`description`; controlled
    dimensions in their own fields (`entidad`/`alcance`/`estado`); relations as
    `[[wikilinks]]` (quoted in YAML); `tags` is the open vivero (not relations); unique
-   basenames; `spoilers` as a list. See `../.claude/rules/` and `[[glosario-de-tags]]`.
+   basenames; `spoilers` as a list. See `[[glosario-de-tags]]` and
+   `[[guia-de-metadatos]]`.
 7. **OFM through the skill.** Any `.md` write invokes the `obsidian-markdown` skill
    first (and `obsidian-bases` for `.base`). Writers carry the `Skill` tool for this.
 8. **Detectors flag, never clear on doubt.** The Haiku canon detectors are fast and
    shallow; when uncertain they return `needs-adjustment` and let `syv-canon` (Opus)
    decide. Model and effort are wired per agent (`model:` + `effort:` frontmatter).
 
-## Preflight — corpus MCP gate (BLOCKING)
+## Disabled MCPs (this repo)
 
-**Before any work, every session,** the lead pings the primary corpus MCP (a trivial
-`mcp__markdown-vault-syv__stats`). If the `mcp__markdown-vault-syv__*` tools are
-**absent or error**:
+`markdown-vault-mcp` / `markdown-vault-syv` and `codebase-cmp` /
+`codebase-memory` / `codebase-memory-mcp` are **fully disabled** for this
+repository:
 
-> ⛔ **HALT.** Do not touch corpus, do not dispatch teammates, do not edit notes.
-> Alert the user immediately, one line: «markdown-vault-syv caído — no opero sobre el
-> corpus hasta reconectarlo.» Then stop and wait. Do not fall back to filesystem as
-> the SSOT.
+| Surface | How |
+|---|---|
+| Claude Code | `.claude/settings.json` → `disabledMcpServers` + `disabledMcpjsonServers` |
+| Project MCP list | `.mcp.json` → empty `mcpServers` |
+| Cursor | `.cursor/mcp.json` → same server keys marked `"disabled": true` (overrides user-scope keys with the same name) |
 
-The corpus is densely interconnected; writing without the MCP risks silent breakage
-of backlinks, wikilinks and tags, and drifts the search index from disk. **Config is
-exempt** — `.claude/`, `AGENTS.md`, `.obsidian/`, `_tools/` live outside the corpus,
-so filesystem edits there are fine even with the MCP down.
+Do not re-enable them, add them to `.mcp.json`, or treat their absence as a
+blocker. If a global/user MCP with one of these names still appears in a session,
+ignore its tools and stay on the filesystem path.
 
 ## The loop (lead intake → close)
 
@@ -79,58 +80,20 @@ so filesystem edits there are fine even with the MCP down.
 2. **Classify** among the seven contexts (0–6). More than one ⇒ flag *la atención*.
 3. **Open DRY** — factor shared content once.
 4. **Dispatch** to the owning teammate(s); they call their sub-agents and `syv-scout`.
-5. **Close** with `syv-juez-de-codigo`; cascade-verify via MCP.
+5. **Close** with `syv-juez-de-codigo`; verify wikilinks / frontmatter on disk.
 6. **Synthesize** and report in Spanish.
 
 ## Vault horizon
 
-The Obsidian MCP sees the whole `~/SyV/` vault (syv-docs is a subfolder; siblings
-`syv-pj`, `kdx-pj-api`). Paths from the MCP are vault-relative.
-
-## The corpus MCP — `markdown-vault-syv` (PRIMARY, the SSOT)
-
-**Why it matters.** `markdown-vault-syv` is *our repo's own MCP*: a server scoped
-exactly to `syv-docs/` (`0_`–`6_`, root notes), with its own SQLite index and
-fastembed vectors. It is the **single source of truth** for the corpus — reads,
-hybrid (keyword + semantic) search **and** writes all flow through it. Every
-mutation updates the search index immediately, so search never drifts from disk.
-It runs **read-write** (`MARKDOWN_VAULT_MCP_READ_ONLY=false`). **Start every corpus
-lookup here, not with `Read`/`Grep`/`Glob`, and not with `obsidian-syv`.** See
-`../.claude/rules/mcp-es-la-ssot.md`.
-
-> **Preflight gate (BLOCKING).** Ping `mcp__markdown-vault-syv__stats` before any
-> work. If the `mcp__markdown-vault-syv__*` tools are absent or error: **HALT**,
-> one line — «⛔ markdown-vault-syv caído — no opero sobre el corpus hasta
-> reconectarlo.» — then stop. Do not fall back to filesystem as the SSOT.
-
-**Read & search** — first option, always
-- `search` — hybrid/semantic/keyword search (`mode="hybrid"` preferred); the workhorse
-- `read` — full content of a note (returns an `etag` for optimistic-concurrency writes)
-- `list_documents` — enumerate notes (optionally by folder/pattern); `list_folders` — folders that hold docs
-- `get_context` — assembled context around a note; `stats` — collection size/capabilities (also the preflight ping)
-- `get_backlinks` · `get_outlinks` — inbound / outbound links of a note
-- `get_broken_links` · `get_orphan_notes` — graph hygiene (verify hits before acting — table-cell `\|` pipes are false positives)
-- `get_most_linked` · `get_similar` · `get_recent` · `get_connection_path` — graph navigation
-- `get_history` · `get_diff` — change history and diffs of a note
-- `fetch` — retrieve a document/attachment by reference
-
-**Write & mutate** — index auto-updates after each; cascade-verify relations
-- `write` — create or overwrite a note (whole-file; pass `frontmatter` + `content`)
-- `edit` — surgical change; pass `if_match` with the `etag` from `read` to avoid clobbering
-- `rename` — move/rename a note; `delete` — remove a note (IRREVERSIBLE unless git history)
-
-**Index maintenance**
-- `reindex` — rebuild the search index; `build_embeddings` / `embeddings_status` — semantic vectors
-
-**Visual UI (do not use to retrieve content)** — `browse_vault`, `show_context` open a
-user-facing UI; for content use `search`/`read`/`list_documents`/`get_context`.
+This repo is the `syv-docs/` corpus. Sibling trees under `~/SyV/` (`syv-pj`,
+`kdx-pj-api`, etc.) are out of scope unless routed through `syv-scout-filesystem`.
+Optional `obsidian-syv` (when present) can see the whole vault for UI/graph only.
 
 ## Frontmatter del corpus (quick view)
 
-`markdown-vault-syv` is the **primary** SSOT and indexes frontmatter as exact-match
-facets (only declared fields). The controlled dimensions live in **their own fields**
-(`entidad` / `alcance` / `estado`, atom values — not inside `tags`); relations are
-quoted wikilinks; `tags` is the open vivero (usually `[]`).
+Controlled dimensions live in **their own fields** (`entidad` / `alcance` /
+`estado`, atom values — not inside `tags`); relations are quoted wikilinks;
+`tags` is the open vivero (usually `[]`).
 
 ```yaml
 title: Inquisidora Sofía
@@ -146,18 +109,15 @@ spoilers:
 tags: []                   # vivero open/closed, normalmente vacío
 ```
 
-Authority: `../.claude/rules/` (one contract per file) + the corpus SSOT
-`[[glosario-de-tags]]` and `[[guia-de-metadatos]]`.
+Authority: `[[glosario-de-tags]]` and `[[guia-de-metadatos]]`.
 
-## Obsidian MCP surface — `obsidian-syv` (SECONDARY, "método Obsidian")
+## Obsidian MCP surface — `obsidian-syv` (OPTIONAL)
 
-Not the first option. Reserve `mcp__obsidian-syv__*` for what `markdown-vault-syv`
-does not cover: the live Obsidian graph cascade, UI commands, and cross-checking
-backlinks/wikilinks in the running app. Its horizon is the whole `~/SyV/` vault
-(siblings `syv-pj`, `syv-pj-api`), so it is also the way to glance at sibling repos.
+Not required. Use only for live Obsidian UI / graph cascade when that server is
+actually connected. Corpus content work stays on the filesystem.
 
 - **Read/UI**: `vault_read`, `vault_list`, `vault_get_document_map`, `search_simple`,
   `search_query` (JsonLogic), `tag_list`, `open_file`, `command_list`,
   `command_execute`, `active_file_get_path`, `periodic_note_get_path`
-- **Write/mutate** (only if `markdown-vault-syv` write is unavailable): `vault_write`,
-  `vault_append`, `vault_patch`, `vault_move`, `vault_delete`
+- **Write/mutate**: prefer filesystem edits in this repo; Obsidian write tools only
+  if the user explicitly asks for the live-app path.

@@ -1,6 +1,13 @@
 # Changelog
 
 ## [Unreleased]
+- group: disable-markdown-vault-and-codebase-cmp
+  priority: high
+  changes:
+    - chore(harness): deshabilitados `markdown-vault-mcp`/`markdown-vault-syv` y `codebase-cmp`/`codebase-memory*` en este repo
+    - chore(harness): `.claude/settings.json` con `disabledMcpServers` + `disabledMcpjsonServers`; `.mcp.json` vacío; `.cursor/mcp.json` con las mismas keys en `disabled: true`
+    - refactor(harness): `AGENTS.md` — corpus por filesystem; eliminado el preflight gate blocking del vault MCP
+
 - group: narrative-cap-01-cursiva-corte
   priority: high
   changes:

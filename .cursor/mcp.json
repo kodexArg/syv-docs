@@ -1,0 +1,29 @@
+{
+  "mcpServers": {
+    "markdown-vault-mcp": {
+      "command": "true",
+      "args": [],
+      "disabled": true
+    },
+    "markdown-vault-syv": {
+      "command": "true",
+      "args": [],
+      "disabled": true
+    },
+    "codebase-cmp": {
+      "command": "true",
+      "args": [],
+      "disabled": true
+    },
+    "codebase-memory": {
+      "command": "true",
+      "args": [],
+      "disabled": true
+    },
+    "codebase-memory-mcp": {
+      "command": "true",
+      "args": [],
+      "disabled": true
+    }
+  }
+}

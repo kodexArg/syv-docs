@@ -61,21 +61,14 @@ echo '[{"file":"4_diegesis/relatos/x.md","old":"<mark ...>..</mark>","new":"text
 prose, notes`. `span` is the exact bytes to replace; `prose` is `inner` minus the
 `{notes}`.
 
-## Why filesystem editing (the default backend)
+## Why filesystem editing (the only backend)
 
-Editing through the corpus MCP (`mcp__markdown-vault-syv__edit` + `if_match`)
-**self-collides** during live writing: Obsidian Git auto-commits the `.md`, which
-mutates the etag even when the mark wasn't touched → *"Concurrent modification"*.
-So the proven path is: **literal span replace on disk** (this engine), then a
-single `mcp__markdown-vault-syv__reindex` to reconcile the SSOT search index.
+`markdown-vault-*` MCPs are **disabled in this repo** (`AGENTS.md`). The path is
+**literal span replace on disk** (this engine). No MCP reindex step.
 
 `apply` does `text.replace(old, new, 1)` — first occurrence only, UTF-8 safe — the
 spirit of `sed -i` but literal (no regex-escaping hazards on prose). It reports
 `ambiguous: true` if a span occurred more than once.
-
-The **MCP write backend** exists too (selectable in the command) for study /
-comparison — see the command doc. It does not need a reindex (the MCP updates the
-index itself) but is exposed to the auto-commit etag race.
 
 ## Learning loop
 
