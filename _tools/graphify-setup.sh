@@ -2,8 +2,10 @@
 # Install graphify CLI + project skills for Cursor / Claude / Agent Skills.
 # Safe to re-run. Does not build the graph (run /graphify . in the assistant for that).
 #
-# After the upstream installers, re-applies SyV overlays so markdown-vault-syv
-# stays the corpus SSOT (no PreToolUse read guards, soft Cursor rule).
+# Prefer GitHub source (Graphify-Labs/graphify). The CLI is `graphify`; the PyPI
+# distribution name is currently `graphifyy` (official double-y — not a typo-squat).
+# After upstream installers, re-applies SyV overlays (no PreToolUse read guards,
+# soft Cursor rule: secondary index only).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -11,18 +13,47 @@ cd "$ROOT"
 
 export PATH="${HOME}/.local/bin:${PATH}"
 
-if ! python3 -c "import graphify" 2>/dev/null; then
-  echo "Installing graphifyy (PyPI)…"
+GRAPHIFY_GIT_URL="${GRAPHIFY_GIT_URL:-https://github.com/Graphify-Labs/graphify.git}"
+
+ensure_uv() {
+  if command -v uv >/dev/null 2>&1; then
+    return 0
+  fi
+  echo "Installing uv…"
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+  # shellcheck disable=SC1091
+  source "${HOME}/.local/bin/env" 2>/dev/null || true
+  export PATH="${HOME}/.local/bin:${PATH}"
+}
+
+install_cli() {
+  if command -v graphify >/dev/null 2>&1; then
+    echo "graphify already on PATH: $(command -v graphify)"
+    graphify --version 2>/dev/null || true
+    return 0
+  fi
+
+  ensure_uv
+  if command -v uv >/dev/null 2>&1; then
+    echo "Installing graphify CLI from GitHub (${GRAPHIFY_GIT_URL})…"
+    uv tool install "git+${GRAPHIFY_GIT_URL}"
+    export PATH="${HOME}/.local/bin:${PATH}"
+    return 0
+  fi
+
+  echo "uv unavailable — falling back to official PyPI package name graphifyy…"
   python3 -m pip install --user -q graphifyy 2>/dev/null \
     || python3 -m pip install -q graphifyy --break-system-packages
-fi
+}
+
+install_cli
 
 if ! command -v graphify >/dev/null 2>&1; then
   echo "error: graphify CLI not on PATH after install; add ~/.local/bin to PATH" >&2
   exit 1
 fi
 
-echo "graphify $(python3 -c 'from importlib.metadata import version; print(version("graphifyy"))')"
+echo "graphify OK ($(command -v graphify))"
 
 graphify cursor install
 graphify install --platform agents --project
@@ -50,15 +81,17 @@ rule.parent.mkdir(parents=True, exist_ok=True)
 rule.write_text(
     """\
 ---
-description: graphify knowledge graph (secondary to markdown-vault-syv)
+description: graphify knowledge graph (secondary structural index)
 alwaysApply: true
 ---
 
 This project can use graphify (`graphify-out/`) as a **secondary** structural index.
 
 **SyV precedence (do not override):**
-1. Corpus reads/searches/writes go through `markdown-vault-syv` MCP first (see AGENTS.md). Graphify never replaces that SSOT.
+1. Corpus note I/O follows `AGENTS.md` (filesystem first in this repo; MCP vault tools are disabled). Graphify never replaces that SSOT.
 2. Config/tooling outside the corpus (`.claude/`, `_tools/`, `.cursor/`, etc.) may use graphify freely.
+
+**Install note:** CLI command is `graphify`. Official GitHub is Graphify-Labs/graphify; PyPI package name is currently `graphifyy`. Prefer `_tools/graphify-setup.sh` (GitHub via uv).
 
 When `graphify-out/graph.json` exists and the user asks structural/architecture questions (or types `/graphify`), prefer:
 - `graphify query "<question>"` — scoped subgraph
@@ -70,7 +103,7 @@ Also:
 - Read `graphify-out/GRAPH_REPORT.md` only for broad architecture review
 - After modifying tracked code/tooling files, run `graphify update .` to refresh the graph (AST-only)
 
-If `graphify-out/graph.json` does not exist yet, do not block on it — use MCP (corpus) or normal tools (config), and only build the graph when the user asks `/graphify`.
+If `graphify-out/graph.json` does not exist yet, do not block on it — use normal corpus tools, and only build the graph when the user asks `/graphify`.
 """,
     encoding="utf-8",
 )
@@ -82,11 +115,20 @@ text = agents.read_text(encoding="utf-8")
 section = """\
 ## graphify (secondary index)
 
-Optional knowledge-graph tooling at `graphify-out/`. **Does not replace**
-`markdown-vault-syv` as corpus SSOT — MCP preflight and corpus I/O still win.
+Optional knowledge-graph tooling at `graphify-out/`. Secondary structural index —
+does **not** replace the filesystem corpus SSOT for note I/O (see Laws above).
 
-- Install CLI: `pip install graphifyy` (PyPI name is temporarily `graphifyy`; CLI is `graphify`).
-  Or run `_tools/graphify-setup.sh`.
+**Naming (important):** the CLI is `graphify`. On PyPI the *official* Graphify-Labs
+package is currently named `graphifyy` (double-y); `graphify` alone is **not** on
+PyPI. Prefer installing from the GitHub source to avoid typo-squat confusion:
+
+```bash
+./_tools/graphify-setup.sh
+# or: uv tool install 'git+https://github.com/Graphify-Labs/graphify.git'
+```
+
+Cloud agents install the same way via `.cursor/environment.json` → `install`.
+
 - Skills: `.agents/skills/graphify/`, `.claude/skills/graphify/`, Cursor rule
   `.cursor/rules/graphify.mdc`. Trigger: `/graphify`.
 - When `graphify-out/graph.json` exists, `graphify query` / `path` / `explain` help

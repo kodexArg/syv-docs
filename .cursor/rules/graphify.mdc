@@ -1,13 +1,15 @@
 ---
-description: graphify knowledge graph (secondary to markdown-vault-syv)
+description: graphify knowledge graph (secondary structural index)
 alwaysApply: true
 ---
 
 This project can use graphify (`graphify-out/`) as a **secondary** structural index.
 
 **SyV precedence (do not override):**
-1. Corpus reads/searches/writes go through `markdown-vault-syv` MCP first (see AGENTS.md). Graphify never replaces that SSOT.
+1. Corpus note I/O follows `AGENTS.md` (filesystem first in this repo; MCP vault tools are disabled). Graphify never replaces that SSOT.
 2. Config/tooling outside the corpus (`.claude/`, `_tools/`, `.cursor/`, etc.) may use graphify freely.
+
+**Install note:** CLI command is `graphify`. Official GitHub is Graphify-Labs/graphify; PyPI package name is currently `graphifyy`. Prefer `_tools/graphify-setup.sh` (GitHub via uv).
 
 When `graphify-out/graph.json` exists and the user asks structural/architecture questions (or types `/graphify`), prefer:
 - `graphify query "<question>"` — scoped subgraph
@@ -19,4 +21,4 @@ Also:
 - Read `graphify-out/GRAPH_REPORT.md` only for broad architecture review
 - After modifying tracked code/tooling files, run `graphify update .` to refresh the graph (AST-only)
 
-If `graphify-out/graph.json` does not exist yet, do not block on it — use MCP (corpus) or normal tools (config), and only build the graph when the user asks `/graphify`.
+If `graphify-out/graph.json` does not exist yet, do not block on it — use normal corpus tools, and only build the graph when the user asks `/graphify`.

@@ -1,0 +1,4 @@
+{
+  "name": "syv-docs",
+  "install": "./_tools/graphify-setup.sh"
+}

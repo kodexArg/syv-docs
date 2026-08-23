@@ -125,7 +125,7 @@ actually connected. Corpus content work stays on the filesystem.
 ## graphify (secondary index)
 
 Optional knowledge-graph tooling at `graphify-out/`. Secondary structural index —
-does **not** replace corpus MCP / filesystem SSOT for note I/O (see above).
+does **not** replace the filesystem corpus SSOT for note I/O (see Laws above).
 
 **Naming (important):** the CLI is `graphify`. On PyPI the *official* Graphify-Labs
 package is currently named `graphifyy` (double-y); `graphify` alone is **not** on
