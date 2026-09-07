@@ -32,67 +32,66 @@ ubicaciones:
 - '[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]'
 - '[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]'
 ---
-
 # Cursiva
 
 > Ciudad Dársena - 17 de abril de 2178
 
 Suena el bip de un reloj y Sofía abre los ojos, alguna de estas dos cosas sucede primero.
 
-Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue. La celda es de color gris exacto, liso.
+Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue.
 
-Sofía se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes. Una placenta, piensa. Una colmena.
+La celda es de color gris exacto, liso.
 
-En dos pasos —en los que aprovecha para estirar sus piernas, como una gata— llega a un lavabo y a un espejo adheridos a la pared. También hay una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos, que ni siquiera tienen valor sentimental.
+Sofía se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes estilo Gaudí.
 
-Comienza a lavarse el cuerpo con una tohalla húmeda. Toma del botiquín dos pastillas —no recuerda para qué sirven— y se las traga. El espejo la observa, desnuda y distraída, cepillándose los dientes mientras se toca una arruga en el ojo. Cepilla un poco más. La celda entera entra en el espejo. La aprieta.
+«Una placenta», piensa. «Una colmena».
 
-Saca de la cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca apurada justo antes de comenzar a tiritar.
+En dos pasos —en los que aprovecha para estirar sus piernas, como una gata— llega a un lavatorio y un espejo, ambos adheridos a la pared. También hay una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos, que ni siquiera tienen valor sentimental.
 
-A los once dormía en una celda como esta, con Bebe. Bebe se envolvía en el rosario como en una soga y se dormía.
+Comienza a lavarse el cuerpo con una tohalla húmeda. Toma del botiquín dos pastillas —no recuerda para qué sirven— y se las traga. El espejo la observa, desnuda y distraída, cepillándose los dientes, mientras se toca una arruga en el ojo.
 
-Veinte años afuera. Esta habitación se la asignaron ahora. Los cinco libros no son suyos. El poptus no es suyo. El rincón de Bebe está vacío y es más grande que toda aquella celda.
+Descuelga un hábito deportivo —poco más que una vincha— y se lo coloca frente al espejo. Y su reflejo se confunde con el de una huérfana rubia, alta y escuálida. Confundida, furiosa.
 
-Gira hacia su cama y, como si le hubieran disparado, se arrodilla, como ha hecho siempre desde que tiene memoria. La mano se extiende hacia un rosario de madera, debajo de su almohada, de cuentas gruesas de madera, y lo aprieta tintineante, contra su frente, mientras susurra.
+La celda entera entra en el espejo. La aprieta.
 
-Sofía reza con pasión durante siete minutos más.
+Saca de la cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se calza apurada justo antes de comenzar a tiritar.
 
-De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se calza ambas y ata los cordones. No recordaba este lugar tan alienígena. Es ella quien ha crecido: ahora podría tocar el techo con la mano. Lo hace: antes de salir estira la mano por encima de la cabeza. Sale en el momento en que el temporizador hace un click a su espalda y su celda vuelve al negro. 
+Desde sus doce y hasta la misma noche de su Velación, dormía en una celda parecida a esta, con Bebe en la cama de enfrente. Bebe también se llamaba Sofía, tocaya, pero en algún momento perdió su nombre frente a ella.
+
+Se envolvía en el rosario como en una soga y se dormía. «Ahí, en esa esquina».
+
+Veinte años afuera. Los libros no son suyos. El poptus no es suyo. El rincón de Bebe está vacío y es más grande que toda la celda.
+
+Gira hacia su cama y, como si le hubieran disparado, se arrodilla. La mano se extiende hacia un rosario de madera, debajo de su almohada, de cuentas gruesas, con tintineos graves, y lo aprieta contra su frente.
+
+Sofía reza inmóvil durante cuarenta y cinco minutos más.
+
+De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se calza ambas y ata los cordones.
+
+No recordaba este lugar, tan alienígena. Ella es tan diferente: ahora podría tocar el techo con la mano. Lo hace: antes de salir, estira la mano por encima de la cabeza, y acaricia la textura plástica y gris.
+
+Sale, en el momento en que el temporizador hace un click a su espalda, y su celda vuelve al negro. 
 
 ---
 
-Han pasado veinte minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior «León XIV», del Faro de la Santa Inquisición Argentina.
+Son las seis de la mañana, y una puerta se abre en el atrio "León XIV", del Faro de la Sagrada Inquisición Argentina.
 
-El patio es un óvalo del tamaño de una cancha de tenis, sin columnas, con nueve pisos de balcones enroscados.
+Sofía atrapa su propio brazo recto y comienza a elongar.
 
-Los recorre con la vista, en la penumbra: la catenaria se le pierde arriba, un punto más negro que el resto, a esta hora tan oscuro como la noche.
+El patio interior un óvalo del tamaño de una cancha de tenis. Los canteros de plantas de interior son excusas para bancos, y estos quizá lo sean de estos simpes leds, muy pálidos, pero que marcan sendas serpenteantes en la penumbra. «Un jardín de piedras en una cueva». Su mirada sigue a la rampa blanca, que trepa en espiral durante nueve pisos, ciento veinte habitaciones sobre su cabeza, sostenidas por catenarias grotescas, como cartílagos adheridos a la pared. Y la rampa asciende, como la serpiente del génesis, enroscandose ahora más allá de su vista, alto en la bóveda oscura, donde aguarda la Puerta de Piedra.
 
-Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba: la escalera blanca trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó dos siglos y medio después. Asciende como la serpiente del génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero conoce: de esa puerta el Faro nace derecho, un cilindro que la curva no explica.
+«¿Para qué me querés acá, Madre?»
+
+Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó el Faro como el inverso del «Inferno» de la Divina Comedia, explotando el modernismo catalán. <mark class="hltr-purple">La roca del interior está tallada para empujar el mensaje hacia arriba, hacia la ascensión.</mark> La última Puerta de Piedra es el anverso de aquella otra, que mandaba abandonar toda esperanza. En su umbral {inventa una promesa o cita si la hay por la cual la madre superiora no abandona el umbral, no seas verboso, se lirico, eclesiastico} Madre Superiora.
 
 
 
+La idea del arquitecto no quedó clara. O quizá fue la erosión de la censura. Hoy solo recuerdan su nombre los Iniciados —sobre todo los jóvenes *velados* de los pisos superiores, cabezas moradas por protuberancias en los lugares más inadecuados.
 
-Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero 
+La rampa había sido para sus rodillas el infierno que Dante imaginó. El recuerdo la dispara: como un autómata que recibió la orden, comienza a trotar con cadencia de metrónomo.
 
-Ancianos, sabios y ella.
+Sofía encara la rampa, por donde sube el grado suave entre las dos vías. Las zancadas marcan un tempo que no va a detenerse por los próximos treinta minutos. Afuera no hay verde: hay niebla. Son las seis y cinco de un abril que todavía no abre. Las sendas apenas se adivinan; la neblina corre de oeste a este, baja hacia el acantilado, hacia el Río de la Plata. Sofía cruza. Desde fuera la torre es otra cosa: un monolito claro, sin junturas, que la niebla se come antes de dejar ver la corona. Blanco. Muerto.
 
-Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó al faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascensión, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra como el reverso de aquella otra que mandaba abandonar toda esperanza a quien entrara.
-
-Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó.
-
-Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la erosión de la censura, que se llevó las mejores estatuas. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en los lugares más inadecuados.
-
-Sofía se pregunta si el Gaudí de dos siglos y medio atrás habría sido igual de desconsiderado.
-
-Le da la espalda a cualquier pensamiento inapropiado y deja que la mirada suba sola. Los mismos caprichos apilan hacia el cénit cuatro niveles de celdas: cientos de almas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que la Inquisición hizo suyo hace cuatrocientos años. La vista trepa por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose, orgánica, en el techo: la Puerta de Piedra.
-
-Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la vista un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
-
-A medida que su vista se adapta, aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, pequeños conductos de vidrio que transportan la claridad del Este hacia el interior, pasando entre las paredes de las habitaciones en una proeza de ingeniería. Aquí el amanecer se parece más a un cielo estrellado, un resplandor que baja, balcón por balcón, hasta el fondo del óvalo, donde una mujer sola estira y estira entre la neblina.
-
-Al lado de su puerta espera una escalera, y ella asciende para resolver un solo piso. Los peldaños están incrustados en la misma roca clara y continua. Artificial. Le devuelven los pasos con la cadencia de un metrónomo.
-
-La escalera la entrega por un costado del Faro, a ras de tierra. Atrás, el caracol enterrado; adelante, el bosque. El aire se abre y trae olor a resina, el de los pinos, y el pasto amanece gris de neblina. Sofía cruza el umbral y la torre se le impone entera desde afuera: una sola pieza de piedra clara, lisa, sin junturas, que trepa más allá de la neblina. Blanco. Muerto.
 
 La esperan cuarenta minutos de circuito a ritmo de letanía. Encara las sendas y el cuero cordobés muerde la tierra. La niebla se abre a su paso y se cierra detrás, como una sutura.
 
