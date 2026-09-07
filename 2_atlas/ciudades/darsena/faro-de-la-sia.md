@@ -57,7 +57,7 @@ Enterrar la bóveda no fue un accidente: la tierra que la cubre la zuncha por fu
 | Plataforma | bloque cuadrado de ~48 m de lado, cemento-plástico, aristas rematadas, ~2 m sobre el nivel |
 | Gran escalera | 9 vueltas completas al patio; ~635 m de desarrollo; pendiente media 4 % |
 | Conductos de luz | ~150 conductos de vidrio, uno por celda de anillo, desde la superficie hasta cada ventana |
-| Rampa Este | única entrada vehicular; 7,5 m de ancho (dos camiones militares); desciende 27 m en ~225 m bajo el bosque |
+| Túnel del Este | único acceso vehicular al patio; ~20 m hacia el este; 7,5 m de ancho (dos camiones militares); sin especificar inclinación — es túnel, no rampa |
 | Puerta de Piedra | en la clave de la bóveda, 27 m sobre el patio, a ras de la superficie |
 | Custodia (vivienda de la Custodia Madre Superiora) | un solo ambiente vertical: Ø 7 m interior × 27 m de alto — tan alta como la torre; cámara última con tareas secretas |
 | Umbral de la Torre | zona de visita esporádica frente a / en el acceso de la Puerta de Piedra; no es la cámara última |
@@ -67,7 +67,7 @@ Enterrar la bóveda no fue un accidente: la tierra que la cubre la zuncha por fu
 
 ## El patio y la gran escalera
 
-El corazón es un predio subterráneo ovalado, del tamaño de una cancha de tenis y nueve pisos de alto. Ninguna ventana da al cielo: la neblina entra como un río fantasmal por la única rampa que desciende desde el este, y el amanecer llega por los conductos de vidrio, en decenas de puntos que se encienden balcón por balcón — aquí el alba se parece más a un cielo estrellado que baja hasta el fondo del óvalo.
+El corazón es un predio subterráneo ovalado, del tamaño de una cancha de tenis y nueve pisos de alto. Ninguna ventana da al cielo: la neblina entra como un río fantasmal por el único túnel desde el este (~20 m), y el amanecer llega por los conductos de vidrio, en decenas de puntos que se encienden balcón por balcón — aquí el alba se parece más a un cielo estrellado que baja hasta el fondo del óvalo.
 
 La gran escalera asciende desde esa neblina enroscándose entre pasillos y balcones, serpenteando hacia la cúpula piso tras piso, en ondas y descansos según los caprichos del estilo: nueve vueltas completas al patio, unos 635 m de desarrollo a pendiente de letanía, con los peldaños incrustados en la misma roca clara y continua. Nueve vueltas más arriba, la escalera termina hundiéndose, orgánica, en el techo. Del último piso del anillo —el «primer nivel», a tres metros bajo tierra— una escalera lateral resuelve un solo tramo y entrega a ras de tierra, por un costado del Faro.
 
