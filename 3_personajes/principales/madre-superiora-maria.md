@@ -6,6 +6,7 @@ entidad: personaje
 alcance: secreto
 nombre: Madre Superiora María
 aliases:
+  - Custodia Madre Superiora
   - Madre Superiora María
   - Hermana Superior María
   - Directora del Faro
@@ -42,12 +43,13 @@ Un espectro de autoridad que habita el Faro como si fuera el único lugar del mu
 
 ### Rol y Posición
 
-María es la cabeza administrativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]]. Vive en soledad absoluta en la cúspide de la Torre del Faro y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
+María es la cabeza administrativa y espiritual de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]] y, en el Faro, ostenta el título de **Custodia Madre Superiora**. Vive en la **Custodia** —la cámara vertical tras la Puerta de Piedra— y desde allí comanda a su rebaño — monjas, iniciadas y Hermanas de Batalla — como piezas en un tablero invisible. Puede designar a otra para el oficio; quien lo ejerce asume el mantenimiento de la torre y las tareas secretas de la cámara última. En la torre solo puede haber una persona a la vez; las visitas esporádicas se reciben en el **Umbral de la Torre** (ver [[2_atlas/ciudades/darsena/faro-de-la-sia|Faro de la SIA]]). No responde a obispos ni cardenales en asuntos operacionales; su autoridad emana directamente del Preámbulo Constitucional. Supervisa:
 
 - Operaciones de todas las Monjas y Hermanas de Batalla en Dársena
 - Administración del Sistema de Iniciados en El Faro (selección, entrenamiento, "derivación")
 - Coordinación con el Comando Nacional de Dársena en asuntos de herejía y paranormalidad
 - Custodia del Archivo Secreto bajo la Nueva Basílica (en colaboración con el Obispo Eclesiástico)
+- Mantenimiento de la torre del Faro y oficio de Custodia (o designación de quien lo ejerza)
 
 Mantiene también la conducción tácita de [[1_trasfondo/facciones/facciones-menores/las-manos-calladas|Las Manos Calladas]] — la red clandestina que ella misma contribuyó a gestar, antes de que la orden de caridad oficial fuera disuelta. Nadie desde el Faro conecta ambas identidades: la Directora Espiritual que autoriza exorcismos y la mujer que hace décadas convenció a un puñado de hermanas de que era más honesto operar ocultas.
 

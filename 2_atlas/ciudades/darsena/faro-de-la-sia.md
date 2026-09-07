@@ -10,7 +10,7 @@ aliases:
 description: 'Sede de la Santa Inquisición Argentina en la Isla Oriental: colmena
   catenaria de nueve pisos enterrada alrededor de un patio oval, bajo una plataforma
   ciega de la que emerge la torre-faro monolítica blanca donde vive confinada la Reverenda
-  Madre, tras la Puerta de Piedra.'
+  Madre (Custodia Madre Superiora), tras la Puerta de Piedra.'
 entidad: ubicacion
 estado: canon
 facciones:
@@ -59,7 +59,8 @@ Enterrar la bóveda no fue un accidente: la tierra que la cubre la zuncha por fu
 | Conductos de luz | ~150 conductos de vidrio, uno por celda de anillo, desde la superficie hasta cada ventana |
 | Rampa Este | única entrada vehicular; 7,5 m de ancho (dos camiones militares); desciende 27 m en ~225 m bajo el bosque |
 | Puerta de Piedra | en la clave de la bóveda, 27 m sobre el patio, a ras de la superficie |
-| Vivienda de la Reverenda Madre | un solo ambiente vertical: Ø 7 m interior × 27 m de alto — tan alta como la torre |
+| Custodia (vivienda de la Custodia Madre Superiora) | un solo ambiente vertical: Ø 7 m interior × 27 m de alto — tan alta como la torre; cámara última con tareas secretas |
+| Umbral de la Torre | zona de visita esporádica frente a / en el acceso de la Puerta de Piedra; no es la cámara última |
 | Torre | Ø 9 m exterior, monolítica, sobre la plataforma; linterna en la cumbre, a ~30 m sobre rasante |
 | Altura total | 57 m del piso del patio a la linterna; solo la torre es visible |
 | Población | colmena del anillo: ~300 almas; complejo subterráneo completo: miles; la torre: una sola |
@@ -78,11 +79,13 @@ El reparto habitual del anillo: unas 45 celdas funcionales (refectorio, capillas
 
 Más allá de la cáscara catenaria, el complejo sigue: archivos, cámaras y dependencias excavadas que albergan a los miles de inquisidores e iniciados de paso por el Faro (ver [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]). Esas celdas profundas son otra cosa: espacios mínimos, ciegos, sin conducto ni luz natural, con mecanismos plegables que comprimen una vida entera en pocos metros cuadrados.
 
-## La Puerta de Piedra y la vivienda de la Reverenda Madre
+## La Puerta de Piedra, el Umbral de la Torre y la Custodia
 
-En la clave de la bóveda, donde la escalera se hunde en el techo, espera la Puerta de Piedra. Del otro lado vive la [[3_personajes/principales/madre-superiora-maria|Reverenda Madre]], confinada en la torre por regla y por voluntad: su vivienda es una sola habitación tan alta como la torre — un vacío vertical de 7 m de diámetro y 27 m de alto, anillado por entrepisos que continúan la misma hélice del resto del edificio. Vive en la base de ese faro interior y habita, por lo general, el segundo de esos niveles. Es la única que puede, atravesando su gran vivienda que es su habitación, seguir ascendiendo todos los pisos del Faro hasta la linterna.
+En la clave de la bóveda, donde la escalera se hunde en el techo, espera la Puerta de Piedra. Del otro lado se abre el **Umbral de la Torre**: el único lugar donde la [[3_personajes/principales/madre-superiora-maria|Custodia Madre Superiora]] —o quien ella designe en el cargo— admite visitas esporádicas. Más adentro está la **Custodia**: una sola habitación tan alta como la torre — un vacío vertical de 7 m de diámetro y 27 m de alto, anillado por entrepisos que continúan la misma hélice del resto del edificio. Quien ostenta el cargo habita, por lo general, el segundo de esos niveles.
 
-Más allá de ese segundo piso, el interior de la torre es desconocido para todos. Es algo que solo sabrá su heredera.
+La Custodia Madre Superiora (o su designada) tiene a su cargo el **mantenimiento de la torre** y tareas **secretas** en la cámara última —lo que queda más allá de ese segundo piso—. Solo ella, o quien ella nombre para el oficio, puede atravesar la vivienda y seguir ascendiendo hasta la linterna.
+
+**Regla dura:** en todo momento puede haber **una sola persona** en la torre. Quien no sea la Custodia (ni su designada en funciones) no sube; las visitas se reciben en el Umbral de la Torre, no en la cámara última.
 
 ## La linterna y el Edicto
 
