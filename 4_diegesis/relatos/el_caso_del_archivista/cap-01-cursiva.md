@@ -78,19 +78,27 @@ Son las seis de la mañana, y una puerta se abre en el atrio "León XIV", del Fa
 
 Sofía atrapa su propio brazo recto y comienza a elongar.
 
-El patio interior un óvalo del tamaño de una cancha de tenis. Los canteros de plantas de interior son excusas para bancos, y estos quizá lo sean de estos simpes leds, muy pálidos, pero que marcan sendas serpenteantes en la penumbra. «Un jardín de piedras en una cueva». Su mirada sigue a la rampa blanca, que trepa en espiral durante nueve pisos, ciento veinte habitaciones sobre su cabeza, sostenidas por catenarias grotescas, como cartílagos adheridos a la pared. Y la rampa asciende, como la serpiente del génesis, enroscandose ahora más allá de su vista, alto en la bóveda oscura, donde aguarda la Puerta de Piedra.
+El patio interior un óvalo del tamaño de una cancha de tenis. Los canteros de plantas de interior son excusas para bancos, y estos quizá lo sean de  leds pálidos, que marcan las sendas serpenteantes en la penumbra. «Un jardín de piedras en una cueva». Su mirada sigue a la rampa blanca, que trepa en espiral durante nueve, ciento veinte habitaciones sobre su cabeza, sostenidas por catenarias grotescas, como cartílagos adheridos a la pared. Y la rampa asciende, como la serpiente del génesis, enroscandose ahora más allá de su vista, alto en la bóveda oscura, donde aguarda la Puerta de Piedra.
 
 «¿Para qué me querés acá, Madre?»
 
-Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó el Faro como el inverso del «Inferno» de la Divina Comedia, explotando el modernismo catalán. <mark class="hltr-purple">La roca del interior está tallada para empujar el mensaje hacia arriba, hacia la ascensión.</mark> La última Puerta de Piedra es el anverso de aquella otra, que mandaba abandonar toda esperanza. En su umbral {inventa una promesa o cita si la hay por la cual la madre superiora no abandona el umbral, no seas verboso, se lirico, eclesiastico} Madre Superiora.
+Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó el Faro como el anverso del «Inferno» de la Divina Comedia, explotando el modernismo catalán en balcones y esculturas. La última es la Puerta de Piedra, que recuerda a aquella que mandaba abandonar toda esperanza. En su umbral, la Custodia Madre Superiora.
+
+La idea del arquitecto no quedó clara. O quizá fue la erosión de la censura. Sofía no sabe el nombre, pero sabe que los Iniciados sí lo deben recordar, especialmente los *velados* de los pisos superiores, con las cabezas moradas por protuberancias en los lugares más inadecuados.
+
+La rampa había sido para sus rodillas el infierno que Dante imaginó. «!Prado!... ¿Miguel? ¿Manuel?».
+
+El recuerdo la dispara: como una autómata, las zancadas marcan el tempo que no va a variar por una hora, y que ahora se dirigen, con la cadencia de un metrónomo, hacia el túnel del Este. El resplandor rojizo enfrente le trae el aroma de los tilos, la humedad del Río de la Plata. El túnel asciende cien metros. La semana pasada se sobrecargó el gemelo, y mal: tenía perfectamente calibrado el esfuerzo, veinte años atrás. Había sido suficiente vergüenza que la Madre María la hubiera puesto en el piso de privilegio cuando llegó, como para haberlo necesitado. «Por estúpida». «No puedo tener Marta un piso arriva», menea la cebeza, sin decidir qué recuerdo la atormenta más.
+
+Son las seis y cuarto de la mañana cuando el frío de abril la empuja ahora por fin por la espalda, fuera del Faro y de cara al Río de la Plata. El sol es un pequeño fantasma dorado, lejano, danzando sobre su reflejo entre las nubes. Sofía encuentra el camino previamente elegido, y se deja guiar con la vista al frente por el chasquido de piedritas blancas. Una cascada blanca de neblina cae desde el acantilado aritificial hasta el río, diez metros debajo de Sofía. Los últimos tilos crecen con sus troncos torcidos por la neblina, que discurre como un río entre sus raices. La senda ha mostrado bastante, y gira en una rotonda, enfrentándola ahora a la niebla, que sigue su viaje hacia el río y más allá, al mar.
 
 
 
-La idea del arquitecto no quedó clara. O quizá fue la erosión de la censura. Hoy solo recuerdan su nombre los Iniciados —sobre todo los jóvenes *velados* de los pisos superiores, cabezas moradas por protuberancias en los lugares más inadecuados.
 
-La rampa había sido para sus rodillas el infierno que Dante imaginó. El recuerdo la dispara: como un autómata que recibió la orden, comienza a trotar con cadencia de metrónomo.
 
-Sofía encara la rampa, por donde sube el grado suave entre las dos vías. Las zancadas marcan un tempo que no va a detenerse por los próximos treinta minutos. Afuera no hay verde: hay niebla. Son las seis y cinco de un abril que todavía no abre. Las sendas apenas se adivinan; la neblina corre de oeste a este, baja hacia el acantilado, hacia el Río de la Plata. Sofía cruza. Desde fuera la torre es otra cosa: un monolito claro, sin junturas, que la niebla se come antes de dejar ver la corona. Blanco. Muerto.
+---(corte)---
+
+. Las sendas apenas se adivinan; la neblina corre de oeste a este, baja hacia el acantilado, hacia el Río de la Plata. Sofía cruza. Desde fuera la torre es otra cosa: un monolito claro, sin junturas, que la niebla se come antes de dejar ver la corona. Blanco. Muerto.
 
 
 La esperan cuarenta minutos de circuito a ritmo de letanía. Encara las sendas y el cuero cordobés muerde la tierra. La niebla se abre a su paso y se cierra detrás, como una sutura.
@@ -153,7 +161,7 @@ Sofía sostiene la mirada. Recién entonces lo ve entero: las manos vacías a lo
 
 —Él sabe todo, Hermana. Por eso lo queremos.
 
-El Padre Rafa se aleja hacia el basamento del Faro con ese andar que en otro hombre sería descuido y en él es liturgia: cada movimiento pesa como algo ensayado mil veces y desechado mil veces hasta parecer casual. Llega a la rampa de hormigón que desciende hacia las entrañas del Faro —ancha como para dos camiones militares, vacía a esta hora— y la penumbra se lo traga entero, de los pies a la corona del sombrero, como si la piedra lo reconociera.
+El Padre Rafa se aleja hacia el basamento del Faro con ese andar que en otro hombre sería descuido y en él es liturgia: cada movimiento pesa como algo ensayado mil veces y desechado mil veces hasta parecer casual. Llega al <mark class="hltr-green">túnel de hormigón hacia las entrañas del Faro —veinte metros al este, ancho como para dos camiones militares, vacío a esta hora—</mark> y la penumbra se lo traga entero, de los pies a la corona del sombrero, como si la piedra lo reconociera.
 
 ---
 
