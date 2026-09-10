@@ -19,6 +19,7 @@ El launcher de host (compat) vive en `/home/kodex/MCP/bin/mcp-markdown-vault-syv
 
 ```bash
 export MARKDOWN_VAULT_MCP_SOURCE_DIR="$(pwd)"
+export MARKDOWN_VAULT_MCP_INDEX_PATH="$(pwd)/.markdown_vault_mcp/index.db"
 markdown-vault-mcp index --force
 ```
 
