@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "markdown-vault-syv": {
+      "command": "markdown-vault-mcp",
+      "args": [
+        "serve"
+      ],
+      "env": {
+        "MARKDOWN_VAULT_MCP_SOURCE_DIR": "/home/kodex/SyV/syv-docs",
+        "MARKDOWN_VAULT_MCP_READ_ONLY": "false",
+        "MARKDOWN_VAULT_MCP_DEFAULT_SEARCH_MODE": "keyword",
+        "MARKDOWN_VAULT_MCP_FILE_WATCHER": "true",
+        "MARKDOWN_VAULT_MCP_KV_STORE_URL": "file:///home/kodex/SyV/syv-docs/.markdown_vault_mcp/kv"
+      }
+    }
+  }
+}
