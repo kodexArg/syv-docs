@@ -36,23 +36,13 @@ ubicaciones:
 
 > Ciudad Dársena - 17 de abril de 2178
 
-<<<<<<< HEAD
-Suena el beep de un reloj o [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta una perilla y el techo entero se ilumina. La celda es gris.
-
-Se sienta en la cama a tensar su cola de caballo, mirando entre cejas el techo perlado, de innaturales bordes curvos. Nada tiene ángulos aquí. Una placenta. Una colmena.
-=======
-Suena el bip de un reloj y Sofía abre los ojos, alguna de estas dos cosas sucede primero.
+Suena el bip de un reloj y [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero.
 
 Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue.
->>>>>>> origin/el_caso_del_archivista
 
 La celda es de color gris exacto, liso.
 
-<<<<<<< HEAD
-Se lava el cuerpo con una toalla húmeda y agua que no ha tenido tiempo de calentar. Toma del botiquín dos pastillas -no recuerda para qué sirven- y se las traga. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes mientras se toca su primera arruga en el ojo. Cepilla un poco más.
-=======
 Sofía se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes estilo Gaudí.
->>>>>>> origin/el_caso_del_archivista
 
 «Una placenta», piensa. «Una colmena».
 
@@ -84,19 +74,10 @@ Sale, en el momento en que el temporizador hace un click a su espalda, y su celd
 
 ---
 
-<<<<<<< HEAD
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
-=======
-Son las seis de la mañana, y una puerta se abre en el atrio "León XIV", del Faro de la Sagrada Inquisición Argentina.
->>>>>>> origin/el_caso_del_archivista
+Son las seis de la mañana, y una puerta se abre en el atrio "León XIV", del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
 
 Sofía atrapa su propio brazo recto y comienza a elongar.
 
-<<<<<<< HEAD
-Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba, siguiendo la amplia escalera blanca, que trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después. Asciende como la serpiente del Génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero imagina, más allá de la cúpula tan alta, negra y elevada como el mismo cielo.
-
-Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero a las cinco no baja nadie.
-=======
 El patio interior un óvalo del tamaño de una cancha de tenis. Los canteros de plantas de interior son excusas para bancos, y estos quizá lo sean de  leds pálidos, que marcan las sendas serpenteantes en la penumbra. «Un jardín de piedras en una cueva». Su mirada sigue a la rampa blanca, que trepa en espiral durante nueve pisos, ciento veinte habitaciones sobre su cabeza, sostenidas por catenarias grotescas, como cartílagos adheridos a la pared. Y la rampa asciende, como la serpiente del génesis, enroscandose ahora más allá de su vista, alto en la bóveda oscura, donde aguarda la Puerta de Piedra.
 
 «¿Para qué me querés acá, Madre?»
@@ -104,7 +85,8 @@ El patio interior un óvalo del tamaño de una cancha de tenis. Los canteros de 
 Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó el Faro como el anverso del «Inferno» de la Divina Comedia, explotando el modernismo catalán en balcones y esculturas. La última es la Puerta de Piedra, que recuerda a aquella que mandaba abandonar toda esperanza. En su umbral reside la Custodia Madre Superiora.
 
 La idea del arquitecto no quedó clara. O quizá fue la erosión de la censura,   especialmente los *velados* hartos de tener las cabezas moradas por protruberancias en los lugares más inadecuados.
->>>>>>> origin/el_caso_del_archivista
+
+<!-- merge 38b266d (main) — texto de main que no pasó al resuelto, a decidir por Gabriel: (a) la escalera blanca «según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después» y la Puerta de Piedra «más allá de la cúpula»; (b) «Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero a las cinco no baja nadie.» (choca con el horario de las seis de esta versión). -->
 
 La rampa había sido para sus rodillas el infierno que Dante imaginó. «!Prado!», recuerda. «¿Miguel? ¿Manuel?».
 
@@ -174,3 +156,5 @@ En la cima, la jaula se detiene a ras de la bóveda, frente al Umbral de la Torr
 La jaula se abre.
 
 La [[3_personajes/principales/madre-superiora-maria|Madre]] espera.
+
+<!-- merge 38b266d (main) — fuera de los hunks, la rama Cursiva ya había reemplazado en 41d1856/667f45d/d5a0b40 la segunda mitad de main: tranvía que frena en el bosque, encargo de Monseñor Miguel, Damián DiConte como escolta y la carta en cursiva por las arterias de latón. No están en este capítulo (la nota de presentación bajo el corte los da por «diferidos»); siguen en 38b266d y en cursiva-v3/f477877. -->
