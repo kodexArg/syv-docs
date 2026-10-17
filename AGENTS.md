@@ -83,6 +83,16 @@ ignore its tools and stay on the filesystem path.
 5. **Close** with `syv-juez-de-codigo`; verify wikilinks / frontmatter on disk.
 6. **Synthesize** and report in Spanish.
 
+## Co-writing Highlightr (Cronista bridge)
+
+When Gabriel marks prose live in Obsidian (Highlightr `<mark>` / `hltr-*` classes), the writing assistant (Cronista) owns the resolve loop for `4_diegesis` (and marked spans in `1_trasfondo`/`5_aventuras`):
+1. Prefer `_tools/syv-highlight-marks/highlight.py` scan→apply on the **single target file** (token discipline).
+2. Colour: hex palette, else `class="hltr-<color>"`, else yellow; `{brace}` / `@AI` notes override colour.
+3. Voice authority: `0_proyecto/kodex-style-canon.md`. Record generations with `_tools/syv-kodex-style/record_generation.py`.
+4. Red-line rule for Cursiva: never rewrite above Gabriel’s red line; only marked or explicitly requested spans.
+5. Corpus: filesystem. `markdown-vault-mcp` stays disabled (bb865b2); `_tools/mvmcp/` is documentation only until Gabriel re-enables it. Criptógrafo may execute local git/fs when Cronista cannot.
+6. `syv-narrativa-prosa` / juez still apply for Cursor-team commits; Cronista co-write may leave working-tree edits until Gabriel asks to commit.
+
 ## Vault horizon
 
 This repo is the `syv-docs/` corpus. Sibling trees under `~/SyV/` (`syv-pj`,
