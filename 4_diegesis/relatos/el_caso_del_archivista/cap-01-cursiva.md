@@ -32,121 +32,129 @@ ubicaciones:
 - '[[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]]'
 - '[[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]]'
 ---
-
 # Cursiva
 
 > Ciudad Dársena - 17 de abril de 2178
 
-Suena el beep de un reloj o [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero. Su mano tantea la pared plástica hasta una perilla y el techo entero se ilumina. La celda es gris.
+Suena el bip de un reloj y [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero.
 
-Se sienta en la cama a tensar su cola de caballo, mirando entre cejas el techo perlado, de innaturales bordes curvos. Nada tiene ángulos aquí. Una placenta. Una colmena.
+Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue.
 
-Hay un lavabo y un espejo amurados en la pared, también una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos que no tienen ni siquiera valor sentimental.
+La celda es de color gris exacto, liso.
 
-Se lava el cuerpo con una toalla húmeda y agua que no ha tenido tiempo de calentar. Toma del botiquín dos pastillas -no recuerda para qué sirven- y se las traga. El espejo la observa, desnuda y distraída, cepillándose ahora los dientes mientras se toca su primera arruga en el ojo. Cepilla un poco más.
+Sofía se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes estilo Gaudí.
 
-Saca de su cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se coloca apurada justo antes de comenzar a tiritar.
+«Una placenta», piensa. «Una colmena».
 
-Gira hacia su cama y, como si le hubieran disparado, se arrodilla. La mano se extiende hacia un rosario de madera, sobre su mesa de luz, y lo aprieta fuerte contra la frente mientras susurra.
+En dos pasos —en los que aprovecha para estirar sus piernas, como una gata— llega a un lavatorio y un espejo, ambos adheridos a la pared. También hay una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos, que ni siquiera tienen valor sentimental.
 
-Sofía reza con pasión durante siete minutos más.
+Comienza a lavarse el cuerpo con una tohalla húmeda. Toma del botiquín dos pastillas —no recuerda para qué sirven— y se las traga. El espejo la observa, desnuda y distraída, cepillándose los dientes, mientras se toca una arruga en el ojo.
 
-De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se ata los cordones, mirando distraída el techo curvo una vez más. No recordaba este lugar tan alienígena. Cambia de pie y comienza a atarse la otra zapatilla. Es ella quien ha crecido, y sonríe: ahora podría tocar el techo con la mano. Lo hace: antes de salir estira la mano por encima de la cabeza. Sale en el momento en que el temporizador hace un click a su espalda y la habitación se apaga.
+Descuelga un hábito deportivo —poco más que una vincha— y se lo coloca frente al espejo. Y su reflejo se confunde con el de una huérfana rubia, alta y escuálida. Confundida, furiosa.
 
----
+La celda entera entra en el espejo. La aprieta.
 
-Han pasado diez minutos desde las cinco de la mañana, cuando una puerta se abre al patio interior del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
+Saca de la cómoda una calza gruesa y una primera piel de invierno, de textura esponjosa y dos tonos diferentes de blanco, que se calza apurada justo antes de comenzar a tiritar.
 
-El patio es un óvalo subterráneo del tamaño de una cancha de tenis, oscuro y sin columnas, con nueve niveles de balcones enroscados hasta el techo. Poco se distingue en la penumbra, bajo la neblina que entra como un río fantasmal.
+Desde sus doce y hasta la misma noche de su Velación, dormía en una celda parecida a esta, con Bebe en la cama de enfrente. Bebe también se llamaba Sofía, tocaya, pero en algún momento perdió su nombre frente a ella.
 
-Sofía atrapa su propio brazo recto y comienza a elongar. Mira hacia arriba, siguiendo la amplia escalera blanca, que trepa en espiral desde la neblina, enroscándose según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después. Asciende como la serpiente del Génesis, entre balcones ondulantes y formas orgánicas, hasta llegar a una inmensa Puerta de Piedra que Sofía no alcanza a ver pero imagina, más allá de la cúpula tan alta, negra y elevada como el mismo cielo.
+Se envolvía en el rosario como en una soga y se dormía. «Ahí, en esa esquina».
 
-Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero a las cinco no baja nadie.
+Veinte años afuera. Los libros no son suyos. El poptus no es suyo. El rincón de Bebe está vacío y es más grande que toda la celda.
 
-Ancianos, sabios y ella.
+Gira hacia su cama y, como si le hubieran disparado, se arrodilla. La mano se extiende hacia un rosario de madera, debajo de su almohada, de cuentas gruesas, con tintineos graves, y lo aprieta contra su frente.
 
-Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó al faro como el inverso del Infierno de Dante, moldeando la roca para transmitir el mensaje camino a la ascensión, diseñando de acuerdo a ese texto -pagano, dicho sea de paso- a la Puerta de Piedra como el reverso de aquella otra que mandaba abandonar toda esperanza a quien entrara.
+Sofía reza inmóvil durante cuarenta y cinco minutos más.
 
-Pero lo que realmente recuerda es que, quince años atrás, antes de su licenciatura en historia y su ingreso al cuerpo de Hermanas de Batalla, esas escaleras eran para sus rodillas el infierno que Dante imaginó.
+De abajo de su cama recupera un par de zapatillas, de cuero cordobés, con cámara de aire. Se calza ambas y ata los cordones.
 
-Llevada a la roca, la idea del arquitecto nunca quedó clara. O quizá fue la erosión de la censura, que se llevó las mejores estatuas. Hoy sólo se acuerdan de él los Iniciados más jóvenes, que viven con las cabezas moradas por protuberancias en lugares más inadecuados.
+No recordaba este lugar, tan alienígena. Ella es tan diferente: ahora podría tocar el techo con la mano. Lo hace: antes de salir, estira la mano por encima de la cabeza, y acaricia la textura plástica y gris.
 
-Sofía se pregunta si el Gaudí de dos siglos y medio atrás habría sido igual de desconsiderado.
-
-Le da la espalda a cualquier pensamiento inapropiado y deja que la mirada suba sola. Los mismos caprichos apilan hacia el cénit cuatro niveles de celdas: cientos de almas tras ventanas incómodas, condenadas a caminatas diarias insoportables en nombre del estilo orgánico que la Inquisición hizo suyo hace cuatrocientos años. La vista trepa por cientos de puertas cerradas, todas a oscuras y en silencio. Nueve vueltas más arriba, la rampa termina hundiéndose, orgánica, en el techo: la Puerta de Piedra.
-
-Y Sofía la mira desde la base, un punto minúsculo allí abajo, que sostiene la vista un momento más del que la elongación pide. "Para qué me querés acá, Madre", suspira.
-
-A medida que su vista se adapta, aprecia cómo el interior del Faro comienza a iluminarse en decenas de puntos, pequeños conductos de vidrio que transportan la claridad del Este hacia el interior, pasando entre las paredes de las habitaciones en una proeza de ingeniería. Aquí el amanecer se parece más a un cielo estrellado, un resplandor que baja, balcón por balcón, hasta el fondo del óvalo, donde una mujer sola estira y estira entre la neblina.
-
-Al lado de su puerta espera una escalera, y ella asciende para resolver un solo piso. Los peldaños están incrustados en la misma roca clara y continua. Artificial. Le devuelven los pasos con la cadencia de un metrónomo.
-
-La escalera la entrega por un costado del Faro, a ras de tierra. Atrás, el caracol enterrado; adelante, el bosque. El aire se abre y trae olor a resina, el de los pinos, y el pasto amanece gris de neblina. Sofía cruza el umbral y la torre se le impone entera desde afuera: una sola pieza de piedra clara, lisa, sin junturas, que trepa más allá de la neblina. Blanco. Muerto.
-
-La esperan cuarenta minutos de circuito a ritmo de letanía. Encara las sendas y el cuero cordobés muerde la tierra. La niebla se abre a su paso y se cierra detrás, como una sutura.
-
-El sol florece, danzando con su reflejo en el Río de la Plata. Baila tras la neblina mientras todo se tiñe de naranja. El Faro de la Inquisición es siempre el que recibe los primeros rayos, brillantes en su inaccesible torre. Luego los árboles de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], los pinos, los únicos a la redonda. A miles de kilómetros a la redonda.
-
-Aquí es cuando la neblina gana cuerpo, se espesa entre los árboles, lame al césped y a la hojarasca, demasiado húmeda para crujir, y corre por sendas que miles de eclesiásticos gastaron antes. Sobre el final, al oriente, la niebla esquiva las raíces de los últimos tilos formando pequeños torbellinos, justo antes de caer en cascada humeante sobre la arena y los juncos bajo el acantilado. Y ni siquiera ahí se detiene la niebla infinita, que seguirá su camino por el río oscuro y más allá, hacia el mar.
-
-A lo lejos, justo donde ella mira, el chirrido metálico del puntual tranvía celeste anuncia su paso por el anillo perimetral. Circula tan cerca del Faro como el Edicto contra la electricidad lo tolera: cien metros, ni un palmo menos, la excomunión medida en pasos. Ventanas empañadas. Rostros aplastados contra el vidrio, buscando en la torre la cruz que el cielo perpetuo de Dársena casi siempre devora. Cruzarán el bosque sin paradas permitidas, harán la única estación consentida frente al mismo Faro —descender ahí, esa herejía tolerada que el turismo volvió costumbre—, y se irán por fin hacia el poniente. Peregrinos de un zoológico teológico, la nariz contra el vidrio de la jaula, sin saber de qué lado quedan los barrotes. Sofía cambia de pierna y sigue el vagón con la mirada. Cuando complete la curva y se hunda entre los tilos, el jardín será suyo.
+Sale, en el momento en que el temporizador hace un click a su espalda, y su celda vuelve al negro. 
 
 ---
 
-¿Y ese chirrido? Ha frenado.
+Son las seis de la mañana, y una puerta se abre en el atrio "León XIV", del Faro de la [[1_trasfondo/facciones/iglesia-de-darsena/inquisicion|Santa Inquisición Argentina]].
 
-El silencio vuelve mal, como un miembro dormido. Sofía deja la elongación a mitad de camino y el músculo le queda tenso, en guardia. Los turistas no descienden en la curva; el reglamento los suelta frente al Faro, cien metros más allá, y jamás antes. Un tranvía que frena donde el Edicto no lo consiente es una anomalía en la liturgia del amanecer, un renglón torcido en una partitura que ella se sabe de memoria. Aguza el oído. Bajo el chirrido agónico de los frenos, el chasquido de una puerta neumática que se abre donde ninguna puerta debería abrirse. Alguien baja del tranvía celeste en el corazón del bosque prohibido.
+Sofía atrapa su propio brazo recto y comienza a elongar.
 
-Entonces la figura se condensa desde la niebla del camino principal, como si el vapor mismo hubiera decidido tomar forma y caminar. Alto. Demasiado alto. La sotana negra bebe la luz del amanecer y la devuelve en nada, una incisión vertical en el tejido dorado del jardín. El ala ancha del sombrero le entierra los ojos en sombra. La barba canosa delata al hombre antes que el crucifijo de plata oxidada que le cuelga del cuello. El [[3_personajes/principales/padre-rafa|Padre Rafa]]. El Exorcista. El que purga los demonios del silicio y camina entre los vivos como quien atraviesa un cuarto lleno de muebles.
+El patio interior un óvalo del tamaño de una cancha de tenis. Los canteros de plantas de interior son excusas para bancos, y estos quizá lo sean de  leds pálidos, que marcan las sendas serpenteantes en la penumbra. «Un jardín de piedras en una cueva». Su mirada sigue a la rampa blanca, que trepa en espiral durante nueve pisos, ciento veinte habitaciones sobre su cabeza, sostenidas por catenarias grotescas, como cartílagos adheridos a la pared. Y la rampa asciende, como la serpiente del génesis, enroscandose ahora más allá de su vista, alto en la bóveda oscura, donde aguarda la Puerta de Piedra.
+
+«¿Para qué me querés acá, Madre?»
+
+Sofía recuerda, mientras atrapa y elonga su otro brazo, que el arquitecto diseñó el Faro como el anverso del «Inferno» de la Divina Comedia, explotando el modernismo catalán en balcones y esculturas. La última es la Puerta de Piedra, que recuerda a aquella que mandaba abandonar toda esperanza. En su umbral reside la Custodia Madre Superiora.
+
+La idea del arquitecto no quedó clara. O quizá fue la erosión de la censura,   especialmente los *velados* hartos de tener las cabezas moradas por protruberancias en los lugares más inadecuados.
+
+<!-- merge 38b266d (main) — texto de main que no pasó al resuelto, a decidir por Gabriel: (a) la escalera blanca «según los caprichos de Gaudí, o el arquitecto que lo interpretó doscientos años después» y la Puerta de Piedra «más allá de la cúpula»; (b) «Son cien los hermanos inquisidores de servicio, con otros tantos tutores observándolos desde el nivel medio. El patio es el mejor lugar, pero a las cinco no baja nadie.» (choca con el horario de las seis de esta versión). -->
+
+La rampa había sido para sus rodillas el infierno que Dante imaginó. «!Prado!», recuerda. «¿Miguel? ¿Manuel?».
+
+Está lista. Se dispara como una autómata, las zancadas a un tempo que no va a variar la próxima hora.
+
+El resplandor rojizo enfrente le trae el aroma de los tilos, la humedad del Río de la Plata. El túnel asciende veinte metros hasta los Jardines del Vaticano. La semana pasada se sobrecargó el gemelo: tenía perfectamente calibrado el esfuerzo, para veinte años atrás. «Idiota». Había sido suficiente vergüenza que la Madre María la hubiera puesto en el piso de privilegio cuando llegó, como para haberlo necesitado por demérito propio. «Por estúpida». «No puedo tener Marta un piso arriva», se distrae al pasar bajo el departamento de su tutora, sin decidir cuál de todas sus vergüenzas la atormenta más, si las nuevas o las viejas.
+
+Son las seis y cuarto de la mañana cuando el frío de abril la empuja ahora por fin por la espalda, fuera del Faro y de cara al Río de la Plata. El sol es un pequeño fantasma dorado, lejano, danzando sobre su reflejo entre las nubes. Sofía encuentra el camino, y se deja guiar con la vista al frente por el chasquido de piedritas que recuerda blancas, mientras la neblina cae por el acantilado hasta el río, lamiendo las raíces de los últimos tilos a su izquierda, los más valientes, los torcidos de tanto verle la cara al abismo.
+
+---(corte)---
+<!-- Presentación Cronista 2026-09-07 (bajo el corte): vista poética de Sofía (30+) tras el circuito matinal; bosque Isla Oriental (nombre «Vaticano» pendiente); primer tech no eléctrico del Faro = jaula a cable + operario ~14; Rafa sin sorpresa; subida en silencio a 9 pisos / Umbral Madre. DiConte/carta diferidos. -->
+
+La senda tira al sur. El cuero cordobés muerde la tierra a ritmo de letanía; la niebla se abre a su paso y se cierra detrás, como una sutura. <mark class="hltr-green">Este bosque —el de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], sostenido por la Iglesia, casi el único de su clase en el mundo que Sofía conoce— es su circuito de siempre: una hora, más o menos, de vuelta completa.</mark> <mark class="hltr-yellow">bosque del Vaticano — nombre mejor, después</mark> Hoy no cuenta la distancia. Solo corre.
+
+Al girar, a lo lejos, distingue los edificios de la [[2_atlas/ciudades/darsena/barrio-de-la-armada|Armada]]: orden, muelle, el Bajo Pulmón en silueta. Sigue el camino. Por suerte no los ve mucho tiempo. La senda le pide otra curva a la derecha —oeste otra vez— y ese tramo le pesa: territorio que le molesta sin que ella se digne a nombrarlo.
+
+De frente, con el alba a la espalda —han pasado unos minutos; no hace falta decirlo—, aparece [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]].
+
+Primero, al sur de la ciudad, los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]: lotes oscuros, humeantes, un gris de carbón que mancha hasta la neblina. Después el resto. <mark class="hltr-green">Dársena se levanta desde la bruma como si los edificios nacieran de las nubes —*Ciudad Entre Nubes*, dice la Constitución; ciudad de las nubes, piensa el cuerpo que corre— y hacia el centro, más lejos, las torres parecen casi hermosas.</mark>
+
+Del otro lado de la vieja dársena, fina como una cicatriz de agua a nivel de calle, se ve por fin la calle San Martín: comercios, extranjeros, el hervidero cosmopolita que la isla no tolera en Los Patos. Sofía no afloja el tempo. El metrónomo no discute con el paisaje.
+
+---
+
+El circuito cierra. El Faro vuelve a ser un bloque blanco entre pinos. Frente a la estación consentida del anillo —cien metros, ni un palmo menos del Edicto— el tranvía celeste ya vomitó su carga: turistas de cámara y abrigo de viaje, ahora sueltos en la plataforma como ganado bendecido. <mark class="hltr-green">Sofía los detesta. Los detesta con una precisión limpia, sin discurso.</mark> En un día normal se queda lejos, elongando a media distancia, espalda al peñasco, hasta que el rebaño se disuelva hacia el puente o el bosque.
+
+Hoy también. Estira el gemelo que protesta. Cuenta respiraciones. No mira la torre. <mark class="hltr-cyan">Tiene más de treinta. Lleva semanas —o más— esperando que la Madre diga para qué la trajo. Esta semana, al menos, el silencio se rompió: hay reunión.</mark> Cuando el último grupo se aleja y el silencio vuelve a ser del Faro —no del turismo—, arranca a pie los últimos metros de regreso.
+
+Entonces lo ve.
+
+Alto. Demasiado alto. Sotana negra que bebe la luz. Ala ancha. Barba canosa. El [[3_personajes/principales/padre-rafa|Padre Rafa]]. El Exorcista. <mark class="hltr-purple">Hay quienes, en voz baja, lo llaman el monje negro del monje negro: nadie acierta a decir cuánto poder carga bajo el sombrero, ni si Sofía lo sabe del todo.</mark> Ella solo sabe que hace mucho que no lo veía.
+
+La cara se le abre antes que la voz.
+
+—¡Padre! Qué lindo que hayas venido. Tanto tiempo.
+
+Él se detiene a tres pasos, esa cortesía vieja de cuando ella era un manojo de huesos rapado y él, la única sotana del Faro que les hablaba a los iniciados como si fueran personas. Bajo el ala, un brillo paciente.
 
 —Hermana.
 
-La voz es una oscilación de baja frecuencia que brota de la tierra. Se detiene a tres pasos, una cortesía vieja entre ellos, de cuando Sofía era un manojo de huesos rapado y él, la única sotana del Faro que les hablaba a los iniciados como si fueran personas.
+—¿Viniste a verme? —casi ríe—. Pensé que te habías perdido en las Tuberías para siempre.
 
-—Padre.
+—Vine porque te esperaba. —La voz es baja, de tierra—. La [[3_personajes/principales/madre-superiora-maria|Custodia Madre Superiora]] llamó a reunión. Ahora.
 
-Sofía baja el talón del respaldo. El músculo interrumpido protesta; ella lo ignora.
+El calor del reencuentro se le enfría un grado. Junta los talones sin pensarlo.
 
-—Frenaste el tranvía —dice. No es un reproche: es un inventario.
+—¿A mí?
 
-—El maquinista cree que una vez le salvé el alma. —El ala del sombrero se inclina hacia el este, hacia el sol que sigue trepando—. Yo dejo que lo crea. Regalame cinco minutos.
+—A los dos. Andá. Yo te acompaño.
 
-Sofía junta los talones. La postura de parada militar le sale sola, como el rosario antes del alba.
+Entran por el túnel del este —veinte metros de hormigón, ancho como para dos camiones, vacío a esta hora— y la neblina los empuja al patio oval. Veinticuatro por once. Una cancha de tenis bajo veintisiete metros de vacío. Nueve pisos de balcones que miran hacia adentro. El amanecer, arriba, pincha la bóveda por los conductos de vidrio: un cielo de puntos que baja hasta el piso.
 
-—Monseñor Miguel precisa un servicio.
+Cruzan hasta el centro preciso del óvalo. Ni un metro más. Ni uno menos.
 
-El nombre cae entre los dos como cae un edicto: sin eco, definitivo. [[3_personajes/principales/monseñor-miguel|Monseñor Miguel]]. La cabeza de la Inquisición, el hombre al que hasta los Maestros Inquisidores le escriben con borrador. La espalda de Sofía se endereza un centímetro más.
+Arriba, en la clave —donde espera la Puerta de Piedra—, algo se mueve. <mark class="hltr-green">Baja una jaula: plataforma de hierro y malla, justita para dos, colgada de un cable de metal grueso, seguro, que casi no balancea en los veintisiete metros de caída.</mark> Primera pieza de tecnología que el Faro deja ver sin explicar. No hay chispa. No hay motor que huela a Edicto. Solo cable, polea, y peso.
 
-—Mañana aterriza en Dársena un detective —sigue el Padre—. Cordobés. Ya conoce esta ciudad; la ciudad, a él, todavía no. Ahora vuelve. Esta vez, para siempre. —Elige las palabras siguientes con el cuidado de quien manipula una reliquia—. Monseñor pretende que contemos con sus servicios cuanto antes. La curia entera va a estar en esa pista para recibirlo: cardenales cordobeses, obispos, gente que reza en dos idiomas.
+En la jaula, de pie junto al mecanismo, hay alguien un poco más grande que un niño. Catorce años, quizás. Manos en la manivela o en la traba —el detalle no se deja ver del todo—. El pibe mira a Rafa sin sorpresa, como quien cumple un turno.
 
-—¿Un detective? —Sofía parpadea—. ¿De la Guardia?
+Rafa hace un gesto mínimo: después de usted. Sofía entra. Él detrás. Ninguno de los dos se asombra. <mark class="hltr-green">Para ellos es hábito; la sorpresa es solo del lector.</mark> La malla cierra.
 
-—De los de verdad. [[3_personajes/principales/damian-diconte|Damián DiConte]]. —Rafa deja el nombre a la altura de la niebla, para que ella lo levante—. Subcomisario de Investigaciones Especiales, o lo era. Vas a escuchar cosas sobre él. Escuchalas todas y después miralo vos.
+Arriba, del otro lado de la bóveda —gente haciendo fuerza, o un mecanismo humano que no es eléctrico: en el Faro la corriente está prohibida salvo rarezas de batería y LED—, el cable tensa. La jaula empieza a subir. Lento. Seguro. Sin balanceo.
 
-—¿Y yo qué tengo que ver?
+Suben en silencio. <mark class="hltr-green">Los nueve pisos pasan una última vez bajo los pies, balcón por balcón, como cuentas de un rosario invertido.</mark> El patio se achica. La niebla se queda abajo.
 
-—Vos lo recibís. Escolta oficial de la Santa Inquisición Argentina, de la pista de aterrizaje en adelante. —El Padre deja que eso se asiente, con la misma paciencia con que la niebla se asienta sobre el pasto—. La Reverenda Madre ya dio su venia. —Una pausa del tamaño exacto de la palabra que sigue—. Trabajo de campo, Hermana.
+En la cima, la jaula se detiene a ras de la bóveda, frente al Umbral de la Torre —el pabellón donde la Madre admite visitas—. Más allá, la Custodia. La cámara última. Una sola persona en la torre, dice la regla; acá, en el umbral, caben dos.
 
-El músculo de la pantorrilla, el que había quedado en guardia desde el frenazo, se afloja solo.
+La jaula se abre.
 
-—¿Por qué yo? —La voz de inventario otra vez, plana.
+La [[3_personajes/principales/madre-superiora-maria|Madre]] espera.
 
-—Porque la Madre confía en vos más que en todo el resto del Faro junto. —El Padre Rafa la mira desde abajo del ala, y en los ojos enterrados hay un brillo paciente, casi paternal—. Y porque los jardines se custodian solos.
-
-Sofía sostiene la mirada. Recién entonces lo ve entero: las manos vacías a los costados de un cuerpo que no parece vestido para el Faro — una camisa negra sin cuello visible, un alzacuellos tan fino que podría ser una sombra. Ni sotana, ni cordón, ni la cruz de plata oxidada que llevaba hace un momento. Sofía no recuerda cuándo se la guardó. Años de entrenamiento le mantienen la cara en orden; la pregunta de esta mañana —*para qué me querés acá, Madre*— se queda quieta, bien abajo, donde nadie la audite.
-
-—¿Cuándo?
-
-—Mañana, antes del alba. Cruzás por el puente; del otro lado espera un coche de la curia. —Se acomoda el sombrero y el ala le corta la cara por la mitad—. Llevá el hábito de gala. Y el otro también.
-
-—¿Él sabe que lo esperamos?
-
-—Él sabe todo, Hermana. Por eso lo queremos.
-
-El Padre Rafa se aleja hacia el basamento del Faro con ese andar que en otro hombre sería descuido y en él es liturgia: cada movimiento pesa como algo ensayado mil veces y desechado mil veces hasta parecer casual. Llega a la rampa de hormigón que desciende hacia las entrañas del Faro —ancha como para dos camiones militares, vacía a esta hora— y la penumbra se lo traga entero, de los pies a la corona del sombrero, como si la piedra lo reconociera.
-
----
-
-El jardín, por fin, es suyo. El sol ya está entero sobre el río y la niebla empieza a rendirse por sectores, como una fiebre que baja. Sofía recupera la primera piel, las zapatillas, la rutina interrumpida. Estira el cuello hacia un lado, hacia el otro. "Mañana", piensa, y la palabra le queda tibia en la boca, como las pastillas de las cinco. Trabajo de campo.
-
-Y mientras tanto, del otro lado de la vieja dársena, una vaina de transporte neumático corre por las arterias de latón que laten bajo la ciudad, rumbo al oriente. Adentro, doblado en cuatro, un pliego de fibra de lino escrito de punta a punta en una cursiva obsesiva, inclinada, perfecta. Una carta. Viene en camino.
+<!-- merge 38b266d (main) — fuera de los hunks, la rama Cursiva ya había reemplazado en 41d1856/667f45d/d5a0b40 la segunda mitad de main: tranvía que frena en el bosque, encargo de Monseñor Miguel, Damián DiConte como escolta y la carta en cursiva por las arterias de latón. No están en este capítulo (la nota de presentación bajo el corte los da por «diferidos»); siguen en 38b266d y en cursiva-v3/f477877. -->
