@@ -38,15 +38,11 @@ ubicaciones:
 
 Suena el bip de un reloj y [[3_personajes/secundarios/sor-sofia|Sofía]] abre los ojos, alguna de estas dos cosas sucede primero.
 
-Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue.
-
-La celda es de color gris exacto, liso.
-
-Sofía se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes estilo Gaudí.
+Tantea la pared de textura plástica en la oscuridad, hasta encontrar la perilla. Un click, y dos paneles en el techo compiten por encenderse, parpadean, y al final uno lo consigue. Se sienta en la cama, recoje un colín de la mesa de luz y ordena su pelo en una muy tirante cola de caballo, mientras enfoca su mirada depredadora en las aristas curvas de la habitación, en su techo abovedado, en las pared ondulantes estilo Gaudí.
 
 «Una placenta», piensa. «Una colmena».
 
-En dos pasos —en los que aprovecha para estirar sus piernas, como una gata— llega a un lavatorio y un espejo, ambos adheridos a la pared. También hay una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos, que ni siquiera tienen valor sentimental.
+En dos pasos, en los que aprovecha para estirar sus piernas, como una gata, llega a un lavatorio y a un espejo, adheridos a la pared. También hay una cómoda y una biblioteca con cinco libros, un poptus y una veintena de adornos, que ni siquiera tienen valor sentimental.
 
 Comienza a lavarse el cuerpo con una tohalla húmeda. Toma del botiquín dos pastillas —no recuerda para qué sirven— y se las traga. El espejo la observa, desnuda y distraída, cepillándose los dientes, mientras se toca una arruga en el ojo.
 
@@ -97,64 +93,85 @@ El resplandor rojizo enfrente le trae el aroma de los tilos, la humedad del Río
 Son las seis y cuarto de la mañana cuando el frío de abril la empuja ahora por fin por la espalda, fuera del Faro y de cara al Río de la Plata. El sol es un pequeño fantasma dorado, lejano, danzando sobre su reflejo entre las nubes. Sofía encuentra el camino, y se deja guiar con la vista al frente por el chasquido de piedritas que recuerda blancas, mientras la neblina cae por el acantilado hasta el río, lamiendo las raíces de los últimos tilos a su izquierda, los más valientes, los torcidos de tanto verle la cara al abismo.
 
 ---(corte)---
-<!-- Presentación Cronista 2026-09-07 (bajo el corte): vista poética de Sofía (30+) tras el circuito matinal; bosque Isla Oriental (nombre «Vaticano» pendiente); primer tech no eléctrico del Faro = jaula a cable + operario ~14; Rafa sin sorpresa; subida en silencio a 9 pisos / Umbral Madre. DiConte/carta diferidos. -->
 
-La senda tira al sur. El cuero cordobés muerde la tierra a ritmo de letanía; la niebla se abre a su paso y se cierra detrás, como una sutura. <mark class="hltr-green">Este bosque —el de la [[2_atlas/ciudades/darsena/zona-militar-eclesiastica|Isla Oriental]], sostenido por la Iglesia, casi el único de su clase en el mundo que Sofía conoce— es su circuito de siempre: una hora, más o menos, de vuelta completa.</mark> <mark class="hltr-yellow">bosque del Vaticano — nombre mejor, después</mark> Hoy no cuenta la distancia. Solo corre.
+Los primeros diez minutos son del gemelo. Sofía lo escucha como se escucha a un perro que gruñe del otro lado de una puerta: no le abre, no lo provoca, le acorta un centímetro la zancada y sigue. A los quince minutos el perro se aburre, y el cuerpo vuelve a ser suyo.
 
-Al girar, a lo lejos, distingue los edificios de la [[2_atlas/ciudades/darsena/barrio-de-la-armada|Armada]]: orden, muelle, el Bajo Pulmón en silueta. Sigue el camino. Por suerte no los ve mucho tiempo. La senda le pide otra curva a la derecha —oeste otra vez— y ese tramo le pesa: territorio que le molesta sin que ella se digne a nombrarlo.
+Entonces empieza a contar. No los pasos, que son demasiados, sino las leyes. Así aprendió la Constitución, de memoria, rampa arriba y rampa abajo, con el aire justo para el Preámbulo en la subida y para el Prólogo en la bajada, y todavía le sale con ese ritmo: un renglón cada cuatro zancadas. *Nosotros, los representantes de las mujeres y los hombres de la Patria Restaurada…* La Ley Cero le dura todo el acantilado.
 
-De frente, con el alba a la espalda —han pasado unos minutos; no hace falta decirlo—, aparece [[2_atlas/ciudades/darsena/darsena|Ciudad Dársena]].
+A los veinte minutos el bosque se abre y aparece la Armada. Primero un alambrado y una garita; después, el orden: galpones grises en fila y un muelle que entra derecho en el agua. A esta hora los mástiles todavía no tienen bandera. En el Faro se aprende temprano a no mirar para ese lado, que es una manera muy precisa de mirarlo, y Sofía dobla a la derecha sin girar la cabeza. La Iglesia y la Armada comparten la isla, la ciudad y un mismo trono, y hace más de un siglo que ninguna de las dos se sienta del todo.
 
-Primero, al sur de la ciudad, los [[2_atlas/ciudades/darsena/barrios-del-muro|Barrios del Muro]]: lotes oscuros, humeantes, un gris de carbón que mancha hasta la neblina. Después el resto. <mark class="hltr-green">Dársena se levanta desde la bruma como si los edificios nacieran de las nubes —*Ciudad Entre Nubes*, dice la Constitución; ciudad de las nubes, piensa el cuerpo que corre— y hacia el centro, más lejos, las torres parecen casi hermosas.</mark>
+Ahora el sol le pega en la espalda. Es poco sol, un sol de abril, rojizo, colado entre las nubes, pero alcanza para sacarle una sombra que le corre adelante por la senda, larga y flaca, demasiado flaca para ser la suya. Sofía no la mira. Mira hacia donde va.
 
-Del otro lado de la vieja dársena, fina como una cicatriz de agua a nivel de calle, se ve por fin la calle San Martín: comercios, extranjeros, el hervidero cosmopolita que la isla no tolera en Los Patos. Sofía no afloja el tempo. El metrónomo no discute con el paisaje.
+Del otro lado de la vieja dársena, con el agua casi a ras de la calle, está la ciudad. La Constitución la llama *Ciudad Entre Nubes*, y a esta hora la Constitución tiene razón: la niebla del amanecer llenó primero las calles bajas, después los techos, y ahora de Dársena solo asoman las cúpulas y las Torres Hidropónicas, como si la hubieran dejado en remojo. En la orilla de enfrente, la San Martín ya abrió los ojos. Suben persianas y chirrían carros; alguien regatea a los gritos en un idioma que Sofía no sabría nombrar. El agua trae hasta la isla olor a pan y a fritura, sin que nadie lo haya pedido.
+
+Más lejos, contra el muro, están los Barrios. Desde acá son una mancha que no termina de aclarar: bloques grises, bloques negros, bloques de un brillo sucio, uno encima del otro sin pedirse permiso. Los primeros se levantaron hace casi ciento cincuenta años, con paredes de dos metros, cuando lo que había que temer bajaba del cielo en enjambres; los demás se fueron apilando encima, con lo que cada época tuvo a mano, y allá abajo, dicen, hay chicos que crecieron sin mirar para arriba. Sofía se sabe el año exacto. No se sabe una sola calle. Años detrás de la Madre, cuidándole la espalda por esta misma ciudad, y la conoce como se la conoce desde el asiento de atrás de un auto de la Curia: atrios, escalinatas, la nuca de un chofer.
+
+*Ante la Inquisición, el ciudadano calla y obedece, pues ellos ven lo que nosotros no debemos mirar.* Ley Cinco. Ellos. Sofía alarga el paso, como si el renglón viniera en subida.
+
+La senda la devuelve al bosque, hacia el norte, entre pinos que la humedad mantiene negros y tilos que ya sueltan las hojas, amarillas, pegadas a las piedritas. La Constitución se le termina y vuelve a empezar, y el tempo no se entera. En la loma larga el gemelo se acuerda de la Ley Siete antes que ella —*la mediocridad es el único pecado que el sistema no perdona*— y protesta. Sofía lo deja protestar hasta arriba.
+
+A las siete menos cinco pasa por las casas bajas del Archivo. En el patio de la última, como todas las mañanas desde que ella llegó, hay un viejo de pie, encorvado, con las manos en la espalda, mirando hacia el norte como si allá hubiera algo más que árboles. No se saludan; no se saludaron nunca. Son, quizá, los únicos en toda la isla con algo que hacer antes de las siete. De los dos, solo él sabe qué.
 
 ---
 
-El circuito cierra. El Faro vuelve a ser un bloque blanco entre pinos. Frente a la estación consentida del anillo —cien metros, ni un palmo menos del Edicto— el tranvía celeste ya vomitó su carga: turistas de cámara y abrigo de viaje, ahora sueltos en la plataforma como ganado bendecido. <mark class="hltr-green">Sofía los detesta. Los detesta con una precisión limpia, sin discurso.</mark> En un día normal se queda lejos, elongando a media distancia, espalda al peñasco, hasta que el rebaño se disuelva hacia el puente o el bosque.
+Son las siete y cuarto cuando el bosque la devuelve frente al Faro. La torre está donde la dejó, blanca, sin una sola juntura, con la cruz de la corona metida en las nubes. En la parada, a cien metros exactos —ni un palmo menos, manda el Edicto—, el tranvía celeste termina de frenar y abre las puertas.
 
-Hoy también. Estira el gemelo que protesta. Cuenta respiraciones. No mira la torre. <mark class="hltr-cyan">Tiene más de treinta. Lleva semanas —o más— esperando que la Madre diga para qué la trajo. Esta semana, al menos, el silencio se rompió: hay reunión.</mark> Cuando el último grupo se aleja y el silencio vuelve a ser del Faro —no del turismo—, arranca a pie los últimos metros de regreso.
+Bajan los turistas. Vienen todas las mañanas a esta hora, por tandas, a verle los dientes a la serpiente, y nadie decidió nunca que vinieran: el Edicto puso la parada a cien metros, el tranvía tenía que frenar en algún lado, y en Dársena cualquier cosa que se repite tres veces termina siendo tradición. Extranjeros de la San Martín con abrigos de viaje, peregrinos del interior que se persignan mal. Un chico señala la torre con el dedo hasta que la madre se lo baja. Sofía se aparta hasta la base del Faro, les da la espalda y elonga contra la pared, con la frente casi tocando la roca, hasta que el último se canse de mirar. Ella es uno de los dientes. No tiene por qué sonreír.
 
-Entonces lo ve.
+Por eso lo ve tarde, cuando el andén ya se vació y el tranvía arranca. Donde estaba la última puerta queda un hombre solo: alto, demasiado alto, de sotana negra y sombrero de ala ancha, con un brillo de plata en el pecho. Tiene la cara vuelta hacia ella, a cien metros, como si hubiera sabido de antemano contra qué pared la iba a encontrar.
 
-Alto. Demasiado alto. Sotana negra que bebe la luz. Ala ancha. Barba canosa. El [[3_personajes/principales/padre-rafa|Padre Rafa]]. El Exorcista. <mark class="hltr-purple">Hay quienes, en voz baja, lo llaman el monje negro del monje negro: nadie acierta a decir cuánto poder carga bajo el sombrero, ni si Sofía lo sabe del todo.</mark> Ella solo sabe que hace mucho que no lo veía.
+Sofía junta los talones antes de saber por qué. Algo en la cara se le afloja solo.
 
-La cara se le abre antes que la voz.
+El Padre Rafa cruza los cien metros sin apuro, con un cucurucho de papel en la mano. En el camino, los ojos se le van detrás de una turista de pollera verde un trecho más largo de lo necesario, y Sofía mira para otro lado, como se mira para otro lado en misa cuando alguien se equivoca de rezo. Él se detiene a tres pasos, que es la distancia de siempre.
 
-—¡Padre! Qué lindo que hayas venido. Tanto tiempo.
-
-Él se detiene a tres pasos, esa cortesía vieja de cuando ella era un manojo de huesos rapado y él, la única sotana del Faro que les hablaba a los iniciados como si fueran personas. Bajo el ala, un brillo paciente.
+De cerca no hay sotana. Hay una camisa negra gastada en los codos, una barba gris que se come el alzacuello y ningún brillo en el pecho. Sofía busca la cruz donde estaba. No sabría decir en qué momento dejó de estar.
 
 —Hermana.
 
-—¿Viniste a verme? —casi ríe—. Pensé que te habías perdido en las Tuberías para siempre.
+—Padre.
 
-—Vine porque te esperaba. —La voz es baja, de tierra—. La [[3_personajes/principales/madre-superiora-maria|Custodia Madre Superiora]] llamó a reunión. Ahora.
+La voz es la de siempre, baja, de sótano. Le ofrece el cucurucho: garrapiñada, tibia todavía, con el azúcar pegoteado al papel.
 
-El calor del reencuentro se le enfría un grado. Junta los talones sin pensarlo.
+—De la San Martín —dice—. Del puesto del turco.
 
-—¿A mí?
+Sofía no come azúcar. Agarra una. Después agarra otra.
 
-—A los dos. Andá. Yo te acompaño.
+—¿Viniste en el tranvía?
 
-Entran por el túnel del este —veinte metros de hormigón, ancho como para dos camiones, vacío a esta hora— y la neblina los empuja al patio oval. Veinticuatro por once. Una cancha de tenis bajo veintisiete metros de vacío. Nueve pisos de balcones que miran hacia adentro. El amanecer, arriba, pincha la bóveda por los conductos de vidrio: un cielo de puntos que baja hasta el piso.
+—Es el único que para en la puerta.
 
-Cruzan hasta el centro preciso del óvalo. Ni un metro más. Ni uno menos.
+A Sofía se le escapa una risa por la nariz, una sola. Rafa no se ríe. Levanta la vista hacia la torre, por primera vez desde que bajó.
 
-Arriba, en la clave —donde espera la Puerta de Piedra—, algo se mueve. <mark class="hltr-green">Baja una jaula: plataforma de hierro y malla, justita para dos, colgada de un cable de metal grueso, seguro, que casi no balancea en los veintisiete metros de caída.</mark> Primera pieza de tecnología que el Faro deja ver sin explicar. No hay chispa. No hay motor que huela a Edicto. Solo cable, polea, y peso.
+—Hoy te dice para qué te quiere acá.
 
-En la jaula, de pie junto al mecanismo, hay alguien un poco más grande que un niño. Catorce años, quizás. Manos en la manivela o en la traba —el detalle no se deja ver del todo—. El pibe mira a Rafa sin sorpresa, como quien cumple un turno.
+Sofía deja de masticar.
 
-Rafa hace un gesto mínimo: después de usted. Sofía entra. Él detrás. Ninguno de los dos se asombra. <mark class="hltr-green">Para ellos es hábito; la sorpresa es solo del lector.</mark> La malla cierra.
+—La Madre nos espera —sigue él—. A los dos.
 
-Arriba, del otro lado de la bóveda —gente haciendo fuerza, o un mecanismo humano que no es eléctrico: en el Faro la corriente está prohibida salvo rarezas de batería y LED—, el cable tensa. La jaula empieza a subir. Lento. Seguro. Sin balanceo.
+No le pregunta cómo sabe. Con Rafa, eso no se pregunta.
 
-Suben en silencio. <mark class="hltr-green">Los nueve pisos pasan una última vez bajo los pies, balcón por balcón, como cuentas de un rosario invertido.</mark> El patio se achica. La niebla se queda abajo.
+Entran por el túnel del este: veinte metros de hormigón, ancho como para dos camiones y vacío a esta hora. La neblina entra con ellos, a ras del piso, y llega al patio primero. Adentro ya es de día a la manera del Faro, con un disco de luz por cada balcón, decenas, que los conductos de vidrio bajan desde la superficie, y el óvalo entero parece un cielo con estrellas que se cayó adentro de un pozo.
 
-En la cima, la jaula se detiene a ras de la bóveda, frente al Umbral de la Torre —el pabellón donde la Madre admite visitas—. Más allá, la Custodia. La cámara última. Una sola persona en la torre, dice la regla; acá, en el umbral, caben dos.
+Rafa camina hasta el centro del patio, el centro exacto, y se queda ahí como quien espera el tranvía. Sofía se para a su lado.
 
-La jaula se abre.
+Arriba, en la clave de la bóveda, algo cruje. Baja una jaula: poco más que un piso de tablones con una malla de hierro alrededor, colgada de un cable grueso que se pierde en lo oscuro. Baja despacio, sin balancearse, con un ruido de dientes. Adentro, prendido a una manivela, viene un iniciado de unos catorce años con un chichón morado en la frente, la marca de la casa.
 
-La [[3_personajes/principales/madre-superiora-maria|Madre]] espera.
+La jaula toca el piso y el pibe abre la malla. A Rafa lo mira como se mira al lechero. A Sofía la mira distinto, y se endereza. Al cucurucho lo mira más que a los dos, y Rafa se lo da sin decir nada. El pibe se lo guarda adentro de la camisa como si fuera contrabando.
+
+Suben. El pibe suelta la traba, se escupe las manos y le da a la manivela, y del otro lado del cable, pegado a la pared, un contrapeso blanco empieza a bajar. Nada en la jaula hace ruido de motor. Hace ruido el trinquete, que va contando los dientes de a uno, con un clic seco, y Sofía cuenta con él, porque cuenta todo.
+
+En el Faro los pisos se cuentan desde la superficie para abajo, así que la jaula sube descontando: noveno, octavo, séptimo. Como en el Infierno de Dante, pero subiendo. En algún piso huele a mate cocido. En otro, detrás de una baranda, dos cabezas se asoman y se esconden. Hay un piso donde Sofía no mira; sabe cuál es la puerta.
+
+En uno de los del medio pierde la cuenta del trinquete: pasan por el de Marta. Sofía mira la baranda. Vacía. Mejor.
+
+Desde la jaula, la rampa es otra cosa, una cinta blanca que se enrosca sin apuro, con descansos y pendiente de paseo. Nadie diría que se comió las rodillas de tres generaciones de iniciados. «Prado», piensa, y esta vez casi le sale el nombre.
+
+A mitad de camino se cruzan con el contrapeso, que baja pegado a la pared tan despacio como ellos suben. Adentro de la roca, en algún caño de latón, algo pasa silbando hacia arriba, más rápido que todos, y se pierde.
+
+Rafa sube callado, con el sombrero en la mano. En algún piso se lo sacó; Sofía no lo vio. Se pasa la mano por la barba, una sola vez, y debajo aparece el alzacuello, blanco y entero. El pibe, que abajo lo miró como al lechero, ahora le da a la manivela con los ojos clavados en el piso.
+
+La jaula se frena con un golpe seco a ras del último descanso, en la clave de la bóveda. La Puerta de Piedra está abierta.
+
+Del otro lado, en el Umbral, vestida de blanco, con el pelo canoso suelto flotándole alrededor de la cabeza como si estuviera debajo del agua, la [[3_personajes/principales/madre-superiora-maria|Madre]] espera.
 
 <!-- merge 38b266d (main) — fuera de los hunks, la rama Cursiva ya había reemplazado en 41d1856/667f45d/d5a0b40 la segunda mitad de main: tranvía que frena en el bosque, encargo de Monseñor Miguel, Damián DiConte como escolta y la carta en cursiva por las arterias de latón. No están en este capítulo (la nota de presentación bajo el corte los da por «diferidos»); siguen en 38b266d y en cursiva-v3/f477877. -->

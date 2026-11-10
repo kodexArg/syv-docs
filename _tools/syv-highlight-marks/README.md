@@ -16,8 +16,10 @@ prose back to disk.
 - **Color** (hex, alpha = last 2 digits ignored), when present → **severity /
   action** via nearest-palette classification. This applies uniformly to any
   hex, known or unknown — not a special case.
-- **No resolvable hex** (bare `<mark>` or `class`-only) → defaults to
-  **medium severity** (`yellow` / `refactor-moderate`).
+- **No resolvable hex**, but `class="hltr-<color>"` (Highlightr) → that
+  palette colour (`hltr-red`, `hltr-purple`, …).
+- **No hex and no `hltr-*` class** (bare `<mark>`) → defaults to
+  **medium severity** (`yellow` / `light-touch`).
 - Optional **`{...}` brace** inside → the **specific instruction**, and it
   **always overrides** the color/default.
 - A **closed** mark is pending work. An **unclosed** `<mark>` = kodex is still

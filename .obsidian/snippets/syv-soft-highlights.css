@@ -1,42 +1,21 @@
 /* syv-soft-highlights.css
-   Renders every Highlightr <mark> as a coloured UNDERLINE instead of a filled
-   highlight — same hue as the original highlight, just underlined.
+   Compatibility only. Do NOT restyle Highlightr paint.
 
-   Why a snippet: Highlightr writes the colour INLINE (style="background:#RRGGBBA6"),
-   so an author !important rule is what lets us restyle marks already written in
-   the prose without touching a byte of the corpus. We drop the fill and move the
-   colour onto text-decoration-color, matched per inline hex.
+   Highlightr in this vault is:
+     highlighterStyle:  lowlight
+     highlighterMethods: css-classes
+   The plugin paints `.hltr-*` / `mark.hltr-*` and `body.highlightr-lowlight`
+   draws the marker stroke (bottom-weighted fill).
 
-   Text stays in the theme's normal tone (never the UA <mark> black).
+   An older version of this snippet forced a coloured UNDERLINE on every
+   <mark> (`background: transparent !important`). That hid the style the
+   author picked in Highlightr settings, and class-based marks (no inline
+   hex) all fell through to a yellow underline.
 
-   Tuning knobs: underline thickness and offset (below).
+   This file only keeps <mark> text on --text-normal so the UA default
+   (black on yellow) does not punch through Presentation Orange.
 */
 
-body {
-  --syv-underline-thickness: 0.06em;
-  --syv-underline-offset: 0.22em;
-}
-
-/* Shared: no fill, normal text tone, a clean underline. */
 mark {
-  color: var(--text-normal) !important;
-  background: transparent !important;
-  text-decoration-line: underline !important;
-  text-decoration-thickness: var(--syv-underline-thickness) !important;
-  text-underline-offset: var(--syv-underline-offset) !important;
-  text-decoration-skip-ink: auto !important;   /* break the line at descenders (g, j, p, q, y) */
+  color: var(--text-normal);
 }
-
-/* Per-colour: the underline takes the mark's own hue (same colour the fill had). */
-mark[style*="ffb8eb" i] { text-decoration-color: #FFB8EB53 !important; } /* Pink   */
-mark[style*="ff5582" i] { text-decoration-color: #FF558253 !important; } /* Red    */
-mark[style*="ffb86c" i] { text-decoration-color: #FFB86C53 !important; } /* Orange */
-mark[style*="fff3a3" i] { text-decoration-color: #FFF3A353 !important; } /* Yellow */
-mark[style*="bbfabb" i] { text-decoration-color: #BBFABB53 !important; } /* Green  */
-mark[style*="abf7f7" i] { text-decoration-color: #ABF7F753 !important; } /* Cyan   */
-mark[style*="adccff" i] { text-decoration-color: #ADCCFF53 !important; } /* Blue   */
-mark[style*="d2b3ff" i] { text-decoration-color: #D2B3FF53 !important; } /* Purple */
-mark[style*="cacfd9" i] { text-decoration-color: #CACFD953 !important; } /* Grey   */
-
-/* Bare <mark> with no inline colour → neutral yellow underline ("media" default). */
-mark:not([style]) { text-decoration-color: #FFF3A353 !important; }

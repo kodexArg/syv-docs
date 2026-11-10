@@ -7,6 +7,12 @@
     - chore(harness): deshabilitados `markdown-vault-mcp`/`markdown-vault-syv` y `codebase-cmp`/`codebase-memory*` en este repo
     - chore(harness): `.claude/settings.json` con `disabledMcpServers` + `disabledMcpjsonServers`; `.mcp.json` vacío; `.cursor/mcp.json` con las mismas keys en `disabled: true`
     - refactor(harness): `AGENTS.md` — corpus por filesystem; eliminado el preflight gate blocking del vault MCP
+- group: atlas-faro-catenaria-de-pie
+  priority: high
+  changes:
+    - fix(atlas): faro-de-la-sia — la colmena es catenaria de pie, no bóveda tapada; las paredes son las habitaciones
+    - feat(atlas): faro-de-la-sia — luz del patio por tubos y espejos que atraviesan el muro-celda; medidas y nota técnica
+    - fix(atlas): zona-militar-eclesiastica — deja de describir el Faro como bloque ciego con todo bajo tierra
 
 - group: narrative-cap-01-cursiva-corte
   priority: high
