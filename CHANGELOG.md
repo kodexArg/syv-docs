@@ -1,6 +1,21 @@
 # Changelog
 
 ## [Unreleased]
+- group: atlas-faro-catenaria-de-pie
+  priority: high
+  changes:
+    - fix(atlas): faro-de-la-sia — la colmena es catenaria de pie, no bóveda tapada; las paredes son las habitaciones
+    - feat(atlas): faro-de-la-sia — luz del patio por tubos y espejos que atraviesan el muro-celda; medidas y nota técnica
+    - fix(atlas): zona-militar-eclesiastica — deja de describir el Faro como bloque ciego con todo bajo tierra
+
+- group: narrative-cap-01-cursiva-corte
+  priority: high
+  changes:
+    - fix(narrativa): cap-01-cursiva.md — cerrado el corte del patio («El patio es el mejor lugar, pero»)
+    - fix(narrativa): cap-01-cursiva.md — tohalla→toalla; restaurado el par de fragmentos «Una placenta. Una colmena.»
+    - fix(narrativa): wikilink de origen [[4_diegesis/relatos/cursiva]] → [[4_diegesis/relatos/block_de_notas/cursiva]]
+    - chore(narrativa): eco de grafo en primera mención de Sofía y de la Santa Inquisición
+
 - group: highlight-marks-pass
   priority: high
   commit: 56d320d

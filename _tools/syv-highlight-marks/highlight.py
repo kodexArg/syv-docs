@@ -81,15 +81,20 @@ SEVERITY = {
     "red": 8, "orange": 7, "blue": 6, "purple": 5, "cyan": 4,
     "pink": 3, "yellow": 2, "gray": 1, "green": 0,
 }
-DEFAULT_COLOR = "yellow"  # bare/class-only <mark>, no resolvable hex → light touch
+DEFAULT_COLOR = "yellow"  # bare mark with no hex and no hltr-* class → light touch
 
 # Matches ANY closed <mark>, capturing an optional hex from `background:#…`
 # if present. Tolerant to spacing, 6- or 8-digit hex, and to marks with no
 # style at all (bare `<mark>` or `class="..."` only — group(1) is None).
 MARK_RE = re.compile(
-    r"<mark\b(?:[^>]*?background\s*:\s*#([0-9A-Fa-f]{6})(?:[0-9A-Fa-f]{2})?)?[^>]*>(.*?)</mark>",
+    r"<mark\b([^>]*)>(.*?)</mark>",
     re.DOTALL,
 )
+HEX_IN_ATTR_RE = re.compile(
+    r"background\s*:\s*#([0-9A-Fa-f]{6})(?:[0-9A-Fa-f]{2})?",
+    re.IGNORECASE,
+)
+HLTR_CLASS_RE = re.compile(r"\bhltr-([a-z]+)\b", re.IGNORECASE)
 BRACE_RE = re.compile(r"\{([^{}]*)\}")
 
 SKIP_DIRS = {".git", ".obsidian", ".claude", "_tools", "node_modules",
@@ -127,12 +132,15 @@ def scan(folder: Path, root: Path) -> list[dict]:
         except (OSError, UnicodeDecodeError):
             continue
         for m in MARK_RE.finditer(text):
-            hex6, inner = m.group(1), m.group(2)
+            attrs, inner = m.group(1), m.group(2)
+            hex_m = HEX_IN_ATTR_RE.search(attrs or "")
+            hex6 = hex_m.group(1).upper() if hex_m else None
             if hex6:
-                hex6 = hex6.upper()
                 color = classify(hex6)
             else:
-                color = DEFAULT_COLOR  # bare/class-only mark → medium default
+                cls = HLTR_CLASS_RE.search(attrs or "")
+                name = (cls.group(1).lower() if cls else None)
+                color = name if name in ACTION else DEFAULT_COLOR
             notes = [n.strip() for n in BRACE_RE.findall(inner)]
             prose = BRACE_RE.sub("", inner).strip()
             work.append(
